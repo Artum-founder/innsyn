@@ -1,7 +1,9 @@
 // Innsyn: liten HTTP-server uten avhengigheter.
-// Serverer ./public, ./data/data.json på /data.json, og oppdaterer dataene ved oppstart og hver 6. time.
+// Serverer ./public og ./data/data.json på /data.json.
+// Dataene oppdateres hver morgen av en GitHub Action (se .github/workflows/oppdater.yml).
+// Serveren henter den ferske filen fra GitHub hver time. Svarer ikke GitHub, oppdaterer den selv.
 import http from 'node:http';
-import { readFile, writeFile, mkdir, stat } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, stat, rename } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { runUpdate, DEFAULTS } from './update.mjs';
@@ -10,7 +12,8 @@ const HERE = path.dirname(fileURLToPath(import.meta.url));
 const PUBLIC = path.resolve(DEFAULTS.publicDir);
 const DATA_FILE = path.join(DEFAULTS.dataDir, 'data.json');
 const PORT = Number(process.env.PORT) || 3000;
-const SIX_HOURS = 6 * 60 * 60 * 1000;
+const HOUR = 60 * 60 * 1000;
+const DATA_URL = process.env.INNSYN_DATA_URL || 'https://raw.githubusercontent.com/Artum-founder/innsyn/main/data/data.json';
 
 const TYPES = {
   '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.mjs': 'text/javascript; charset=utf-8',
@@ -84,6 +87,36 @@ async function refresh() {
   catch (e) { console.error('[innsyn] Oppdatering feilet, beholder forrige data:', e); }
 }
 
+const localFetched = async () => { try { return JSON.parse(await readFile(DATA_FILE, 'utf8')).fetched || ''; } catch { return ''; } };
+
+// Henter data.json fra GitHub. Tar den bare i bruk hvis den ser riktig ut og ikke er eldre enn den vi har.
+async function syncRemote() {
+  try {
+    const ctl = new AbortController(); const t = setTimeout(() => ctl.abort(), 15000);
+    const r = await fetch(DATA_URL, { signal: ctl.signal, headers: { 'Cache-Control': 'no-cache' } }).finally(() => clearTimeout(t));
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    const text = await r.text(); const d = JSON.parse(text);
+    if (!d || !/^\d{4}-\d{2}-\d{2}$/.test(d.fetched || '') || !d.gov || !d.buildings || !d.contacts || !Array.isArray(d.storting && d.storting.cases) || !d.storting.cases.length) throw new Error('ugyldig innhold');
+    const mine = await localFetched();
+    if (mine && d.fetched < mine) { console.log(`[innsyn] GitHub-data (${d.fetched}) er eldre enn lokale (${mine}); beholder lokale.`); return d.fetched; }
+    await mkdir(path.dirname(DATA_FILE), { recursive: true });
+    const tmp = DATA_FILE + '.remote.tmp'; await writeFile(tmp, text); await rename(tmp, DATA_FILE);
+    console.log(`[innsyn] Hentet data fra GitHub (${d.fetched}, ${d.storting.cases.length} saker).`);
+    return d.fetched;
+  } catch (e) {
+    console.warn('[innsyn] Kunne ikke hente data fra GitHub:', e.message);
+    return null;
+  }
+}
+
+// Hver time: hent fra GitHub. Er dataene derfra eldre enn i går, oppdaterer serveren selv.
+async function tick() {
+  const got = await syncRemote();
+  const have = got || await localFetched();
+  const yesterday = new Date(Date.now() - 864e5).toISOString().slice(0, 10);
+  if (!have || have < yesterday) { console.log('[innsyn] Dataene er gamle; oppdaterer direkte fra kildene.'); await refresh(); }
+}
+
 // Første oppstart: bygg data/data.json fra delene i data/parts.
 async function ensureData() {
   if (await stat(DATA_FILE).catch(() => null)) return;
@@ -103,8 +136,8 @@ async function ensureData() {
 await ensureData();
 server.listen(PORT, () => {
   console.log(`[innsyn] Lytter på port ${PORT} (public: ${path.relative(HERE, PUBLIC) || '.'}, data: ${path.relative(HERE, DATA_FILE)})`);
-  refresh();
-  setInterval(refresh, SIX_HOURS).unref();
+  tick();
+  setInterval(tick, HOUR).unref();
 });
 
 process.on('unhandledRejection', e => console.error('[innsyn] Ubehandlet avvisning:', e));

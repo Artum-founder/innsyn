@@ -412,12 +412,71 @@ export function extractEmbeddedData(html) {
   return JSON.parse(html.slice(start, end).replace(/<\\\//g, '</'));
 }
 
+// Øyeblikksbildet i data/parts settes sammen til ett dataobjekt.
+export async function readParts(dataDir) {
+  const dir = path.join(dataDir, 'parts');
+  const read = async n => JSON.parse(await readFile(path.join(dir, n + '.json'), 'utf8'));
+  try {
+    const meta = await read('meta');
+    return { fetched: meta.fetched, gov: await read('gov'), storting: await read('storting'), buildings: await read('buildings'), contacts: await read('contacts') };
+  } catch { return null; }
+}
+
+/* ------------------------------------------------------------------ */
+/* Nytt: hva har endret seg siden forrige kjøring                     */
+/* ------------------------------------------------------------------ */
+const NYTT_DAYS = 60, NYTT_MAX = 600, FRESH_DAYS = 14;
+const daysBetween = (a, b) => (Date.parse(b) - Date.parse(a)) / 864e5;
+
+// Sammenligner forrige og ny datafil og lager en hendelse for hver endring.
+// Gamle saker og nyheter som dukker opp for første gang (fordi vi henter mer enn før)
+// regnes ikke som nytt: de må være oppdatert eller publisert de siste 14 dagene.
+export function digest(base, next, today) {
+  const ev = [];
+  const prev = new Map(((base.storting && base.storting.cases) || []).map(c => [c.id, c]));
+  for (const c of (next.storting && next.storting.cases) || []) {
+    const o = prev.get(c.id);
+    const day = c.updated && c.updated <= today ? c.updated : today;
+    if (!o) {
+      if (c.updated && daysBetween(c.updated, today) <= FRESH_DAYS) ev.push({ d: day, t: 'ny', id: c.id, title: c.title, status: c.status, committee: c.committee || '', ministry: c.ministry || '', url: c.url });
+    } else if (o.status !== c.status) {
+      ev.push({ d: day, t: c.status === 'behandlet' ? 'vedtak' : 'status', id: c.id, title: c.title, from: o.status, to: c.status, outcome: c.outcome || '', committee: c.committee || '', ministry: c.ministry || '', url: c.url });
+    } else if (c.outcome && c.outcome !== o.outcome) {
+      ev.push({ d: c.decided || day, t: 'vedtak', id: c.id, title: c.title, from: o.status, to: c.status, outcome: c.outcome, committee: c.committee || '', ministry: c.ministry || '', url: c.url });
+    }
+  }
+  const oldNews = new Map(((base.gov && base.gov.ministries) || []).map(m => [m.id, new Set((m.news || []).map(n => newsKey(n.url)))]));
+  for (const m of (next.gov && next.gov.ministries) || []) {
+    const seen = oldNews.get(m.id) || new Set();
+    for (const n of m.news || []) {
+      if (seen.has(newsKey(n.url))) continue;
+      if (!n.date || daysBetween(n.date, today) > FRESH_DAYS) continue;
+      ev.push({ d: n.date, t: 'nyhet', ministry: m.id, title: n.title, url: n.url });
+    }
+  }
+  return ev;
+}
+
+const nyttKey = e => e.t === 'nyhet' ? 'n:' + newsKey(e.url) : `${e.t}:${e.id}:${e.to || e.status || ''}`;
+export function mergeNytt(old, events, today) {
+  const out = [], seen = new Set();
+  for (const e of [...(events || []), ...(Array.isArray(old) ? old : [])]) {
+    const k = nyttKey(e);
+    if (seen.has(k) || !e.d || daysBetween(e.d, today) > NYTT_DAYS) continue;
+    seen.add(k); out.push(e);
+  }
+  out.sort((a, b) => b.d.localeCompare(a.d));
+  return out.slice(0, NYTT_MAX);
+}
+
 export async function readBaseline(dataDir, publicDir) {
   try {
     return { data: JSON.parse(await readFile(path.join(dataDir, 'data.json'), 'utf8')), from: 'data.json' };
   } catch (e) {
     if (e.code !== 'ENOENT') throw new Error('data.json kunne ikke leses: ' + e.message);
   }
+  const fromParts = await readParts(dataDir);
+  if (fromParts) return { data: fromParts, from: 'data/parts (øyeblikksbilde)' };
   const html = await readFile(path.join(publicDir, 'index.html'), 'utf8').catch(() => null);
   const data = html && extractEmbeddedData(html);
   if (!data) throw new Error('fant verken data/data.json eller innebygde data i public/index.html');
@@ -647,6 +706,11 @@ async function doRun(options) {
     log.warn(`Resultatet besto ikke kontrollen (${errs.slice(0, 5).join(', ')}); ingenting skrevet.`);
     return { written: false, reason: 'invalid', errors: errs, refreshed };
   }
+  const events = digest(base, next, today);
+  next.nytt = mergeNytt(base.nytt, events, today);
+  next.status = { ranAt: new Date(opts.now || Date.now()).toISOString(), refreshed, newEvents: events.length };
+  log.info(`Nytt siden sist: ${events.length} hendelse(r) (${['ny', 'status', 'vedtak', 'nyhet'].map(t => `${t} ${events.filter(e => e.t === t).length}`).join(', ')}).`);
+
   const text = JSON.stringify(next, null, 1) + '\n';
   if (opts.dryRun) {
     log.info(`Tørrkjøring: ville skrevet ${text.length} byte (${refreshed.join(' + ')}), baseline fra ${from}.`);

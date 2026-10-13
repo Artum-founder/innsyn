@@ -596,12 +596,12 @@ function renderBudget(){
 }
 function opt(v, t, cur){ return '<option value="' + esc(v) + '"' + (v === cur ? ' selected' : '') + '>' + esc(t) + '</option>'; }
 function syncFilters(){
-  const sessions = [...new Set(CASES.map(c => c.session))].sort().reverse();
+  const sessions = [...new Set(CASES.map(c => c.session).filter(Boolean))].sort().reverse();
   document.getElementById('fses').innerHTML = opt('all','Alle sesjoner',F.ses) + sessions.map(s => opt(s, 'Sesjon ' + s.replace('-', '–'), F.ses)).join('');
   document.getElementById('fmin').innerHTML = opt('all','Alle departementer',F.min) + G.ministries.map(m => opt(m.id, m.name, F.min)).join('');
   const coms = [...new Set(CASES.map(c => c.committee).filter(Boolean))].sort();
   document.getElementById('fcom').innerHTML = opt('all','Alle komiteer',F.com) + coms.map(c => opt(c, c, F.com)).join('');
-  const types = [...new Set(CASES.map(c => c.docGroup))];
+  const types = [...new Set(CASES.map(c => c.docGroup).filter(Boolean))];
   document.getElementById('ftype').innerHTML = opt('all','Alle typer',F.type) + types.map(t => opt(t, DOCGROUP[t] || t, F.type)).join('');
   document.getElementById('fq').value = F.q;
   const w = document.getElementById('fwatch'); w.setAttribute('aria-pressed', F.watch); w.textContent = '★ Følger (' + watch.size + ')';
@@ -681,6 +681,45 @@ document.addEventListener('click', e => {
   document.querySelectorAll('[data-watch="' + id + '"]').forEach(b => { if (b.classList.contains('star')) { b.setAttribute('aria-pressed', on); b.textContent = on ? '★' : '☆'; b.setAttribute('aria-label', on ? 'Slutt å følge' : 'Følg saken'); } else b.textContent = on ? '★ Du følger saken' : '☆ Følg saken'; });
   document.getElementById('fwatch').textContent = '★ Følger (' + watch.size + ')';
   if (F.watch) renderCases();
+});
+
+/* ===================== NYTT ===================== */
+const NYTT_TYPES = [['ny','Nye saker','Ny sak','mottatt'],['status','Ny status','Ny status','til_behandling'],['vedtak','Vedtatt','Behandlet','behandlet'],['nyhet','Nyheter','Nyhet','nyhet']];
+let nyttType = 'alle', nyttAll = false;
+function nyttEvents(){
+  const all = Array.isArray(D.nytt) ? D.nytt : [];
+  const end = D.fetched || TODAY; const start = new Date(Date.parse(end) - 6 * 864e5).toISOString().slice(0, 10);
+  return all.filter(e => e.d >= start && e.d <= end);
+}
+function renderNytt(){
+  const ev = nyttEvents();
+  const ran = D.status && D.status.ranAt ? new Date(D.status.ranAt) : null;
+  $('nyttStamp').textContent = 'Oppdateres hver morgen' + (ran ? ' · sist ' + ran.toLocaleString('nb-NO', {day:'numeric', month:'short', hour:'2-digit', minute:'2-digit', timeZone:'Europe/Oslo'}) : '');
+  const count = t => ev.filter(e => e.t === t).length;
+  $('nyttFilter').innerHTML = '<button type="button" data-nytt="alle" aria-pressed="' + (nyttType === 'alle') + '">Alle<span class="mono">' + ev.length + '</span></button>' + NYTT_TYPES.map(([t, label]) => '<button type="button" data-nytt="' + t + '" aria-pressed="' + (nyttType === t) + '"' + (count(t) ? '' : ' disabled') + '>' + label + '<span class="mono">' + count(t) + '</span></button>').join('');
+  const list = ev.filter(e => nyttType === 'alle' || e.t === nyttType);
+  if (!list.length) {
+    $('nyttList').innerHTML = '<li style="display:block;color:var(--muted)">' + (Array.isArray(D.nytt) ? 'Ingen endringer registrert de siste 7 dagene.' : 'Endringer vises her fra neste morgen, når den daglige oppdateringen har kjørt.') + '</li>';
+    $('nyttMore').hidden = true; return;
+  }
+  const shown = nyttAll ? list : list.slice(0, 8);
+  $('nyttList').innerHTML = shown.map(e => {
+    const T = NYTT_TYPES.find(x => x[0] === e.t) || NYTT_TYPES[0];
+    const m = MIN[e.ministry];
+    let sub = '';
+    if (e.t === 'status') sub = (STATUS[e.from] || e.from) + ' → ' + (STATUS[e.to] || e.to) + (e.committee ? ' · ' + e.committee : '');
+    else if (e.t === 'vedtak') sub = e.outcome || (e.committee || '');
+    else if (e.t === 'ny') sub = (STATUS[e.status] || '') + (e.committee ? ' · ' + e.committee : '');
+    else if (m) sub = m.name;
+    const link = e.t === 'nyhet' ? e.url : (e.url || ('https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=' + e.id));
+    return '<li><time>' + fmtDate(e.d) + '</time><span><span class="st ' + T[3] + '">' + T[2] + '</span></span><div><a href="' + esc(link) + '" target="_blank" rel="noopener">' + esc(e.title) + '</a>' + (sub ? '<span class="sub">' + esc(sub) + '</span>' : '')  + '</div></li>';
+  }).join('');
+  $('nyttMore').hidden = list.length <= 8;
+  $('nyttMore').textContent = nyttAll ? 'Vis færre' : 'Vis alle ' + list.length;
+}
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-nytt]'); if (b) { nyttType = b.dataset.nytt; nyttAll = false; renderNytt(); return; }
+  if (e.target.closest('#nyttMore')) { nyttAll = !nyttAll; renderNytt(); }
 });
 
 /* ===================== GUIDES ===================== */
@@ -770,7 +809,8 @@ document.addEventListener('click', e => { const d = document.querySelector('.vie
 /* ===================== SOURCES ===================== */
 (function(){
   document.getElementById('aboutProse').innerHTML =
-    '<p>Innsyn samler offentlig informasjon om regjeringen og Stortinget på ett sted. Dataene du ser nå ble hentet <b>' + fmtDate(D.fetched, true) + '</b>. Når Innsyn kjører på egen server, hentes nye saker, stemmer og nyheter automatisk flere ganger i døgnet. Sjekk alltid kilden før du bruker noe videre.</p>' +
+    '<p>Innsyn samler offentlig informasjon om regjeringen og Stortinget på ett sted. Dataene du ser nå ble hentet <b>' + fmtDate(D.fetched, true) + '</b>. På innsyn.life hentes nye saker, stemmer og nyheter automatisk hver morgen, og alt som endrer seg vises under «Nytt siste 7 dager». Sjekk alltid kilden før du bruker noe videre.</p>' +
+    '<p>Innsyn er åpen kildekode (AGPL-3.0). Koden og hele historikken over dataene ligger på <a href="https://github.com/Artum-founder/innsyn" target="_blank" rel="noopener">github.com/Artum-founder/innsyn</a>.</p>' +
     '<p>Saker, komiteer og voteringer er hentet fra Stortingets åpne data (data.stortinget.no). Statsråder, adresser og nyheter er hentet fra regjeringen.no. Setefordelingen er fra valget i 2025. Kontaktinfo og rettigheter er hentet fra departementenes og institusjonenes egne kontaktsider, Sivilombudet og Stortinget.</p>' +
     '<p>Kartet er tegnet for hånd og forenklet: strandlinje, gater og parker er omtrentlige. Byggene er plassert etter departementenes besøksadresser, og høydene er bare veiledende. Koblingene mellom departementer viser overlappende ansvarsområder og felles saker, ikke formelle samarbeidsavtaler. Hvilken komité som dekker hvilket departement er en vanlig fordeling, ikke en fast regel.</p>' +
     '<p>' + esc(G.governmentQuarter || '') + '</p>';
@@ -811,5 +851,5 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', reT
 new MutationObserver(reTheme).observe(document.documentElement, {attributes:true, attributeFilter:['data-theme']});
 if (document.fonts && document.fonts.ready) document.fonts.ready.then(() => request());
 
-renderGuides(); applyOpts(); renderDeadlines(); renderBudget(); syncFilters(); route();
+renderNytt(); renderGuides(); applyOpts(); renderDeadlines(); renderBudget(); syncFilters(); route();
 })();

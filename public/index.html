@@ -243,6 +243,23 @@ html.big .page,html.big .panel,html.big .dock{zoom:1.14}
 .srcs{margin:0;padding-left:16px;font-size:12.5px;line-height:1.6}
 .blk{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:8px 0 4px}
 
+/* Nytt */
+.nytt{display:flex;flex-direction:column;gap:10px}
+.nytt-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:4px 12px}
+.nytt-head h2{font-size:22px}
+.nytt-filter{display:flex;flex-wrap:wrap;gap:6px}
+.nytt-filter button{border:1px solid var(--line);background:none;border-radius:999px;padding:4px 11px;font-size:12.5px;font-weight:600;color:var(--muted);cursor:pointer}
+.nytt-filter button[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.nytt-filter .mono{font-weight:400;margin-left:4px}
+.nytt-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.nytt-list li{display:grid;grid-template-columns:64px 92px minmax(0,1fr);gap:4px 12px;align-items:start;padding:9px 0;border-top:1px solid var(--line);font-size:13.5px;line-height:1.4}
+.nytt-list time{font-family:var(--f-mono);font-size:12px;color:var(--muted);padding-top:2px}
+.nytt-list a{color:var(--ink);text-decoration:none;font-weight:600}
+.nytt-list a:hover{text-decoration:underline}
+.nytt-list .sub{display:block;color:var(--muted);font-size:12.5px;font-weight:400}
+.st.nyhet{color:var(--link)}
+@media (max-width:600px){.nytt-list li{grid-template-columns:auto minmax(0,1fr)}.nytt-list li > div{grid-column:1/-1}}
+
 /* Status pills */
 .st{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.05em;text-transform:uppercase;padding:2px 7px;border-radius:5px;white-space:nowrap;border:1px solid currentColor;flex:none}
 .st.mottatt{color:var(--st-recv)}.st.til_behandling{color:var(--st-comm)}.st.behandlet{color:var(--st-done)}
@@ -417,6 +434,13 @@ details.more p{margin:0 0 6px;font-size:13px;line-height:1.45}
         <div id="seatBox"></div>
       </div>
     </div>
+
+    <section class="card nytt" aria-labelledby="nyttTitle">
+      <div class="nytt-head"><h2 id="nyttTitle">Nytt siste 7 dager</h2><span class="small muted" id="nyttStamp"></span></div>
+      <div class="nytt-filter" id="nyttFilter" role="group" aria-label="Vis type"></div>
+      <ol class="nytt-list" id="nyttList"></ol>
+      <button type="button" class="btn ghost" id="nyttMore" hidden>Vis flere</button>
+    </section>
 
     <ol class="process" aria-label="Slik går en sak gjennom Stortinget">
       <li><span class="n">1</span><b>Saken kommer inn</b>Proposisjon fra regjeringen, melding, eller representantforslag fra partier.</li>

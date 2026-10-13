@@ -14,11 +14,15 @@ Liten Node-server uten avhengigheter (Node 18 eller nyere). Den viser Innsyn-sid
 
 ## Hva som skjer
 
-1. Ved oppstart, og deretter **hver 6. time**, kjører `update.mjs`:
-   - **Stortinget** (data.stortinget.no): saker for inneværende og forrige sesjon. Status, komité, emner, forslagsstillere og dato oppdateres, og nye saker legges til. Rent administrative saker blir hoppet over, for eksempel komitéendringer, statsrådsprotokoller og skriftlige spørsmål. For ferdigbehandlede saker uten resultat hentes voteringen (maks 25 per kjøring).
+1. **Hver morgen** kjører en GitHub Action (`.github/workflows/oppdater.yml`) `update.mjs`:
+   - **Stortinget** (data.stortinget.no): saker for inneværende og forrige sesjon. Status, komité, emner, forslagsstillere og dato oppdateres, og nye saker legges til. Rent administrative saker blir hoppet over. For ferdigbehandlede saker uten resultat hentes voteringen (maks 25 per kjøring).
    - **Regjeringen** (RSS fra regjeringen.no): de tre siste nyhetene for hvert departement.
-2. Resultatet lagres i `data/data.json`. Filen skrives atomisk: først til en midlertidig fil, så byttes den inn. Forrige versjon ligger i `data/data.prev.json`.
-3. Siden (`/`) får alltid de nyeste dataene satt inn. Rådataene finnes også på `/data.json`, som bufres i 5 minutter.
+   - **Nytt:** alt som er endret siden forrige kjøring (nye saker, ny status, vedtak, nyheter) legges i `nytt` i `data/data.json`. Siden viser de siste 7 dagene.
+2. Resultatet lagres i `data/data.json` i repoet, med én commit per dag. Historikken viser nøyaktig hva som endret seg og når.
+3. **Nettsiden** henter `data/data.json` fra GitHub hver time. Svarer ikke GitHub, eller er dataene eldre enn i går, oppdaterer serveren selv direkte fra kildene.
+4. Siden (`/`) får alltid de nyeste dataene satt inn. Rådataene finnes også på `/data.json`.
+
+Vil du kjøre oppdateringen med en gang: åpne **Actions** på GitHub, velg «Oppdater data» og trykk «Run workflow».
 
 ## Første kjøring
 
