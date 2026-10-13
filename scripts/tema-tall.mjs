@@ -36,6 +36,7 @@ export const STATS = [
   { id: 'kpi', tema: 'okonomi', table: '14711', label: 'Prisvekst: endring i konsumprisindeksen fra året før', unit: 'prosent', years: 11, transform: 'yoy', chart: 'bar',
     note: 'Regnet ut fra den årlige konsumprisindeksen (KPI).' },
   { id: 'lavinntekt', tema: 'okonomi', table: '10459', label: 'Andel som bor i husholdninger med vedvarende lavinntekt', unit: 'prosent', years: 10, chart: 'line',
+    note: 'Lavinntekt målt over en fireårsperiode (EU-skala, 60 prosent av medianinntekten).',
     select: { ContentsCode: /^(andel|prosent)/i, Alder: /i alt|alle|^total/i } },
   { id: 'strompris', tema: 'strom', table: '09007', label: 'Hva husholdningene betaler for strøm og nettleie, per kWh', unit: 'øre/kWh', years: 10, chart: 'line', seriesBy: 'ContentsCode',
     select: { ContentsCode: /^Kraft og nett i alt inkl\. avgifter/i },
@@ -44,22 +45,22 @@ export const STATS = [
   { id: 'psykisk', tema: 'helse', table: '14823', label: 'Voksne pasienter i psykisk helsevern, per 1 000 innbyggere', unit: 'per 1 000', years: 10, chart: 'line',
     select: { Kjonn: /begge|i alt|alle/i, InnvandrKat: /i alt|alle|hele/i } },
   { id: 'voldtekt-etterforsket', tema: 'trygghet', table: '09406', label: 'Voldtekter etterforsket av politiet', unit: 'lovbrudd', years: 10, chart: 'bar',
-    selectAny: [/^voldtekt/i], select: { ContentsCode: /^(?!.*prosent)/i },
+    selectAny: [/^[¬\s]*voldtekt\b/i], select: { ContentsCode: /^(?!.*prosent)/i },
     note: 'Etterforskede lovbrudd, ikke antall personer.' },
   { id: 'voldtekt-oppklart', tema: 'trygghet', table: '09406', label: 'Oppklaringsprosent for voldtekt', unit: 'prosent', years: 10, chart: 'line',
-    selectAny: [/^voldtekt/i], select: { ContentsCode: /oppklar/i },
+    selectAny: [/^[¬\s]*voldtekt\b/i], select: { ContentsCode: /oppklar/i },
     note: 'Andel etterforskede voldtektssaker der politiet mener saken er oppklart.' },
   { id: 'voldtekt-avgjort', tema: 'trygghet', table: '09405', label: 'Hva skjedde med voldtektssakene politiet etterforsket', unit: 'lovbrudd', years: 1, chart: 'hbar',
-    selectAny: [/^voldtekt/i], seriesByText: /avgjørelse|avgjerd/i,
+    selectAny: [/^[¬\s]*voldtekt\b/i], seriesByText: /avgjørelse|avgjerd/i, hierarchy: true,
     note: 'Siste år. Henleggelse betyr ikke nødvendigvis at ingenting har skjedd.' },
   { id: 'innvandrere', tema: 'innvandring', table: '05183', label: 'Innvandrere og norskfødte med innvandrerforeldre', unit: 'personer', years: 10, chart: 'bar',
-    select: { ContentsCode: /prosent|andel/i },
     variants: [[/prosent|andel/i, 'Innvandrere og norskfødte med innvandrerforeldre, andel av befolkningen', 'prosent'], [/./, 'Innvandrere og norskfødte med innvandrerforeldre', 'personer']] },
   { id: 'forsvarsutgifter', tema: 'forsvar', table: '14669', label: 'Offentlige utgifter til forsvar', unit: 'mrd. kr', years: 10, chart: 'bar', scale: 0.001,
-    selectAny: [/^forsvar/i], note: 'Offentlig forvaltnings utgifter til forsvar, løpende kroner.' },
+    selectAny: [/^[¬\s]*forsvar\b/i], select: { Art: /i alt|totale|samlede|sum/i }, note: 'Offentlig forvaltnings utgifter til forsvar, løpende kroner.' },
   { id: 'bekymring', tema: 'barn', table: '10673', label: 'Bekymringsmeldinger til barnevernet', unit: 'meldinger', years: 10, chart: 'bar',
     select: { ContentsCode: /bekymringsmelding/i } },
   { id: 'barnlavinntekt', tema: 'barn', table: '10459', label: 'Andel barn (0–17 år) i husholdninger med vedvarende lavinntekt', unit: 'prosent', years: 10, chart: 'line',
+    note: 'Lavinntekt målt over en fireårsperiode (EU-skala, 60 prosent av medianinntekten).',
     select: { ContentsCode: /^(andel|prosent)/i, Alder: /0-17|0–17|under 18/i } },
 ];
 
@@ -123,9 +124,12 @@ export function buildQuery(m, cfg) {
     }
     if (cfg.seriesByText && !cfg.seriesBy && cfg.seriesByText.test(v.text)) cfg.seriesBy = v.code;
     let re = cfg.select && (cfg.select[v.code] || Object.entries(cfg.select).find(([k]) => k.toLowerCase() === v.code.toLowerCase())?.[1]);
-    if (!re && cfg.selectAny) re = cfg.selectAny.find(r => texts.some(t => r.test(t))) || null;
+    const explicit = !!re;
+    if (!re && cfg.selectAny) { re = cfg.selectAny.find(r => texts.some(t => r.test(t))) || null; if (re) cfg._anyHit = true; }
     let idx = [];
     if (re) idx = texts.map((t, i) => (re.test(t) || re.test(v.values.at(i))) ? i : -1).filter(i => i >= 0);
+    // Et uttrykkelig valg som ikke treffer, er en feil. Vi gjetter aldri.
+    if (explicit && !idx.length) throw new Error(`fant ingen verdi for ${v.code} som passer ${re}. Verdiene er: ${texts.slice(0, 30).join(' | ')}`);
     if (cfg.seriesBy === v.code && !idx.length) idx = texts.map((_, i) => i);
     if (!idx.length) {
       if (v.elimination && !re) { chosen[v.code] = '(utelatt)'; continue; }
@@ -136,6 +140,7 @@ export function buildQuery(m, cfg) {
     query.push({ code: v.code, selection: { filter: 'item', values: idx.map(i => v.values.at(i)) } });
     chosen[v.code] = idx.map(i => texts.at(i)).join(' | ');
   }
+  if (cfg.selectAny && !cfg._anyHit) throw new Error(`ingen variabel har en verdi som passer ${cfg.selectAny.join(', ')}`);
   return { query, chosen };
 }
 export function parseJsonStat2(d) {
@@ -174,7 +179,12 @@ async function fetchStat(cfg0) {
   const k = cfg.scale || 1;
   if (k !== 1) for (const [, pts] of groups) for (const p of pts) p.y = Math.round(p.y * k * 10) / 10;
   const rename = n => { for (const [re, to] of cfg.rename || []) if (re.test(n)) return to; return n; };
-  let series = [...groups].map(([name, points]) => ({ name: rename(name), points }));
+  let parent = '';
+  let series = [...groups].map(([name, points]) => {
+    const child = /^\s*¬/.test(name), clean = name.replace(/^[¬\s]+/, '').trim();
+    if (!child) parent = clean;
+    return cfg.hierarchy ? { name: rename(clean), points, level: child ? 2 : (TOTAL.test(clean) ? 0 : 1), group: child ? parent : '' } : { name: rename(clean), points };
+  });
   if (cfg.transform === 'yoy') series = series.map(s => ({ name: s.name, points: s.points.slice(1).map((p, i) => ({ x: p.x, y: Math.round((p.y / s.points.at(i).y - 1) * 1000) / 10 })) }));
   return {
     id: cfg.id, tema: cfg.tema, label: cfg.label, unit: cfg.unit, chart: cfg.chart, note: cfg.note || '',
@@ -265,7 +275,8 @@ for (const [id, c] of Object.entries(CHECKS)) {
 }
 // Behold forrige verdier for det som feilet denne gangen.
 const prev = json(await readFile('data/tema-tall.json', 'utf8').catch(() => '')) || {};
-for (const s of prev.stats || []) if (!out.stats.find(x => x.id === s.id)) out.stats.push({ ...s, stale: true });
+const FORKAST = new Set(['voldtekt-etterforsket', 'voldtekt-oppklart', 'voldtekt-avgjort', 'forsvarsutgifter']); // feil utvalg i kjøringen 13.10.2026
+for (const s of prev.stats || []) if (!out.stats.find(x => x.id === s.id) && !(FORKAST.has(s.id) && prev.ranAt < '2026-10-13T16')) out.stats.push({ ...s, stale: true });
 for (const v of prev.votes || []) if (!out.votes.find(x => x.sakId === v.sakId)) out.votes.push({ ...v, stale: true });
 await mkdir('data', { recursive: true });
 await writeFile('data/tema-tall.json', JSON.stringify(out, null, 1) + '\n');
