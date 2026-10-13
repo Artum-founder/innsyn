@@ -722,6 +722,161 @@ document.addEventListener('click', e => {
   if (e.target.closest('#nyttMore')) { nyttAll = !nyttAll; renderNytt(); }
 });
 
+/* ===================== TEMA ===================== */
+const TEMA = (D.tema && Array.isArray(D.tema.tema)) ? D.tema : null;
+const TALL = TEMA && TEMA.tall ? TEMA.tall : null;
+const TID = {}; if (TEMA) TEMA.tema.forEach(t => TID[t.id] = t);
+const STATUS_ORDER = {til_behandling:0, mottatt:1, varslet:2, behandlet:3};
+function temaCases(t){
+  const m = t.match || {}; let re = null; try { re = m.words ? new RegExp(m.words, 'i') : null; } catch(e) {}
+  return CASES.filter(c => (m.committees || []).includes(c.committee) || (m.ministries || []).includes(c.ministry) || (re && re.test([c.title, c.fullTitle, (c.topics || []).join(' ')].join(' '))))
+    .sort((a, b) => (STATUS_ORDER[a.status] ?? 9) - (STATUS_ORDER[b.status] ?? 9) || (b.updated || '').localeCompare(a.updated || ''));
+}
+function actionUrl(a){
+  if (!a.check) return a.url;
+  const c = TALL && TALL.checks && TALL.checks[a.check];
+  return c && c.ok ? c.url : (a.check === 'klage-helse' || a.check === 'bekymring' ? a.url : '');
+}
+const temaStats = id => TALL ? (TALL.stats || []).filter(s => s.tema === id && s.series && s.series.length && s.series[0].points.length) : [];
+const temaVotes = id => TALL ? (TALL.votes || []).filter(v => v.tema === id && v.check !== false) : [];
+function helpFor(t){
+  if (!TEMA || !t.help) return [];
+  return t.help.map(id => { const h = TEMA.help && TEMA.help[id]; const c = TALL && TALL.checks && TALL.checks[id]; return h && c && c.ok ? Object.assign({}, h, {url: h.link || c.url || h.url}) : null; }).filter(Boolean);
+}
+const nf = (v, unit) => { if (v == null) return ''; const d = Math.abs(v) < 10 && v % 1 ? 1 : 0; return v.toLocaleString('nb-NO', {maximumFractionDigits: d, minimumFractionDigits: 0}); };
+
+const isTotal = n => /^(i alt|alle|totalt?)\b/i.test(String(n).trim());
+function hbarSVG(st){
+  const hasLevels = st.series.some(s => s.level != null);
+  const rows = [];
+  st.series.forEach(s => {
+    if (!s.points.length || isTotal(s.name) || s.level === 0) return;
+    const v = s.points[s.points.length - 1].y;
+    if (!v && s.level === 2) return;
+    if (hasLevels && s.level === 1) rows.push({head: true, name: s.name, v});
+    else rows.push({name: s.name, v});
+  });
+  const bars = rows.filter(r => !r.head), max = Math.max(...bars.map(r => r.v), 1);
+  const W = window.innerWidth < 600 ? 380 : 640, labelW = window.innerWidth < 600 ? 190 : 280, rowH = 28, headH = 30;
+  let y = 4, g = '';
+  rows.forEach(r => {
+    if (r.head) { g += '<text x="0" y="' + (y + 20) + '" font-size="13" font-weight="600" fill="var(--ink)">' + esc(r.name) + ' <tspan fill="var(--muted)" font-weight="400" font-family="IBM Plex Mono, monospace" font-size="12">' + nf(r.v) + '</tspan></text>'; y += headH; return; }
+    const w = Math.max(2, (W - labelW - 70) * r.v / max);
+    g += '<text x="' + (hasLevels ? 12 : 0) + '" y="' + (y + 17) + '" font-size="12.5" fill="var(--ink)">' + esc(r.name.length > (W < 500 ? 26 : 42) ? r.name.slice(0, W < 500 ? 25 : 41) + '…' : r.name) + '</text>';
+    g += '<rect x="' + labelW + '" y="' + (y + 5) + '" width="' + w + '" height="16" rx="2" fill="var(--data)" fill-opacity="' + (r.v === max ? 1 : .55) + '"><title>' + esc(r.name + ': ' + nf(r.v) + ' ' + st.unit) + '</title></rect>';
+    g += '<text x="' + (labelW + w + 8) + '" y="' + (y + 17) + '" font-size="12" fill="var(--muted)" font-family="IBM Plex Mono, monospace">' + nf(r.v) + '</text>';
+    y += rowH;
+  });
+  return '<svg viewBox="0 0 ' + W + ' ' + (y + 4) + '" role="img" aria-label="' + esc(st.label) + '">' + g + '</svg>';
+}
+function chartSVG(st){
+  if (st.chart === 'hbar') return hbarSVG(st);
+  const W = window.innerWidth < 600 ? 360 : 640, H = window.innerWidth < 600 ? 200 : 230, padL = 8, padR = 8, padT = 22, padB = 28, iw = W - padL - padR, ih = H - padT - padB;
+  const xs = st.series[0].points.map(p => p.x);
+  const n = xs.length; const band = iw / n;
+  const vals = st.chart === 'stack' ? xs.map((x, i) => st.series.reduce((a, s) => a + Math.max(0, (s.points[i] || {}).y || 0), 0)) : st.series.flatMap(s => s.points.map(p => p.y));
+  const max = Math.max(...vals, 0) * 1.12 || 1, min = Math.min(0, ...vals);
+  const Y = v => padT + ih - (v - min) / (max - min) * ih;
+  const xl = x => String(x).replace(/^(\d{4})$/, '$1');
+  const every = n > 8 ? (W < 500 ? 3 : 2) : 1;
+  let g = '<line x1="' + padL + '" x2="' + (W - padR) + '" y1="' + Y(0) + '" y2="' + Y(0) + '" stroke="var(--line)" stroke-width="1"/>';
+  xs.forEach((x, i) => { if ((n - 1 - i) % every === 0) g += '<text x="' + (padL + band * i + band / 2) + '" y="' + (H - 8) + '" text-anchor="middle" font-size="11.5" fill="var(--muted)" font-family="IBM Plex Mono, monospace">' + esc(xl(x)) + '</text>'; });
+  if (st.chart === 'bar') {
+    const s0 = st.series[0];
+    s0.points.forEach((p, i) => {
+      const last = i === n - 1, x = padL + band * i + band * .18, w = band * .64, y = Y(Math.max(0, p.y)), h = Math.abs(Y(p.y) - Y(0));
+      g += '<rect x="' + x + '" y="' + y + '" width="' + w + '" height="' + Math.max(1, h) + '" rx="2" fill="var(--data)" fill-opacity="' + (last ? 1 : .45) + '"><title>' + esc(p.x + ': ' + nf(p.y) + ' ' + st.unit) + '</title></rect>';
+      g += '<text x="' + (x + w / 2) + '" y="' + (p.y >= 0 ? y - 5 : Y(p.y) + 13) + '" text-anchor="middle" font-size="11" fill="' + (last ? 'var(--ink)' : 'var(--muted)') + '" font-weight="' + (last ? 600 : 400) + '">' + nf(p.y) + '</text>';
+    });
+  } else if (st.chart === 'line') {
+    const multi = st.series.length > 1;
+    st.series.forEach((s, k) => {
+      const pts = s.points.map((p, i) => [padL + band * i + band / 2, Y(p.y)]);
+      const op = k === 0 ? 1 : .55, dash = k === 0 ? '' : ' stroke-dasharray="5 4"';
+      g += '<polyline points="' + pts.map(q => q.join(',')).join(' ') + '" fill="none" stroke="var(--data)" stroke-opacity="' + op + '" stroke-width="2.25" stroke-linejoin="round"' + dash + '/>';
+      s.points.forEach((p, i) => {
+        const last = i === s.points.length - 1, first = i === 0;
+        g += '<circle cx="' + pts[i][0] + '" cy="' + pts[i][1] + '" r="' + (last ? 4.5 : 3) + '" fill="' + (last ? 'var(--data)' : 'var(--surface)') + '" fill-opacity="' + (last ? op : 1) + '" stroke="var(--data)" stroke-opacity="' + op + '" stroke-width="2"><title>' + esc(p.x + (multi ? ', ' + s.name : '') + ': ' + nf(p.y) + ' ' + st.unit) + '</title></circle>';
+        if ((first || last) && (!multi || k === 0 || last)) g += '<text x="' + pts[i][0] + '" y="' + (pts[i][1] + (multi && k > 0 ? 18 : -10)) + '" text-anchor="middle" font-size="11.5" font-weight="' + (last ? 600 : 400) + '" fill="' + (last ? 'var(--ink)' : 'var(--muted)') + '">' + nf(p.y) + '</text>';
+      });
+    });
+  } else if (st.chart === 'stack') {
+    const op = [1, .6, .3, .15];
+    xs.forEach((x, i) => {
+      let acc = 0; const bx = padL + band * i + band * .18, w = band * .64;
+      st.series.forEach((s, k) => { const v = Math.max(0, (s.points[i] || {}).y || 0); const y1 = Y(acc + v), y0 = Y(acc); g += '<rect x="' + bx + '" y="' + y1 + '" width="' + w + '" height="' + Math.max(0, y0 - y1) + '" fill="var(--data)" fill-opacity="' + op[k % 4] + '"><title>' + esc(x + ', ' + s.name + ': ' + nf(v) + ' ' + st.unit) + '</title></rect>'; acc += v; });
+      if (i === n - 1 || i === 0) g += '<text x="' + (bx + w / 2) + '" y="' + (Y(acc) - 5) + '" text-anchor="middle" font-size="11" font-weight="' + (i === n - 1 ? 600 : 400) + '" fill="' + (i === n - 1 ? 'var(--ink)' : 'var(--muted)') + '">' + nf(acc) + '</text>';
+    });
+  }
+  return '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="' + esc(st.label) + '">' + g + '</svg>';
+}
+function chartLead(st){
+  const s = st.series; const pts = s[0].points; const a = pts[0], b = pts[pts.length - 1];
+  if (st.chart === 'hbar') { const tot = s.find(x => x.level === 0 || isTotal(x.name)); const yr = b.x; return (tot ? 'I ' + yr + ' etterforsket politiet ' + nf(tot.points[tot.points.length - 1].y) + ' ' + st.unit + '. ' : 'Tall for ' + yr + '. ') + 'Fordelt etter hva politiet besluttet:'; }
+  if (s.length > 1) return s.map(x => x.name + ': ' + nf(x.points[x.points.length - 1].y) + ' ' + st.unit).join(' · ') + ' (' + b.x + ').';
+  if (st.chart === 'stack') { const tot = i => s.reduce((acc, x) => acc + ((x.points[i] || {}).y || 0), 0); return 'I ' + b.x + ' var summen ' + nf(tot(pts.length - 1)) + ' ' + st.unit + ', mot ' + nf(tot(0)) + ' i ' + a.x + '.'; }
+  return 'Siste tall (' + b.x + '): ' + nf(b.y) + ' ' + st.unit + '. I ' + a.x + ' var tallet ' + nf(a.y) + '.';
+}
+function chartHTML(st){
+  const legend = st.chart === 'stack' ? '<div class="legend">' + st.series.map((s, k) => '<span><i style="background:var(--data);opacity:' + [1, .6, .3, .15][k % 4] + '"></i>' + esc(s.name) + '</span>').join('') + '</div>'
+    : st.series.length > 1 && st.chart !== 'hbar' ? '<div class="legend">' + st.series.map((s, k) => '<span><i style="background:' + (k ? 'transparent;border-top:2px dashed var(--data);height:0;opacity:.7' : 'var(--data)') + '"></i>' + esc(s.name) + '</span>').join('') + '</div>' : '';
+  return '<figure class="chart" style="margin:0"><h3>' + esc(st.label) + '</h3><p class="lead" style="margin:0">' + esc(chartLead(st)) + '</p>' + legend + chartSVG(st) +
+    '<figcaption class="src">Kilde: <a href="' + esc(st.sourceUrl) + '" target="_blank" rel="noopener">' + esc(st.source) + ', tabell ' + esc(st.table) + '</a>' + (st.updated ? ' · oppdatert ' + fmtDate(st.updated, true) : '') + (st.note ? ' · ' + esc(st.note) : '') + (st.stale ? ' · kunne ikke hentes ved siste kjøring' : '') + '</figcaption></figure>';
+}
+const PARTY_ORDER = ['Ap','FrP','H','SV','Sp','R','MDG','KrF','V'];
+function voteHTMLTema(v){
+  const head = '<div class="vote-head"><h3>' + esc(v.title) + '</h3><span class="res">' + esc(v.result) + (v.date ? ' · ' + fmtDate(v.date, true) : '') + '</span></div>';
+  if (!Object.keys(v.parties || {}).length) return '<div class="vote">' + head + '<p style="margin:0;font-size:14px">Alle partiene stemte for. Ved enstemmige vedtak registreres ikke stemmen til hver representant.</p><div class="vote-key"><a href="' + esc(v.caseUrl) + '" target="_blank" rel="noopener">Saken på stortinget.no ↗</a></div></div>';
+  const rows = PARTY_ORDER.filter(p => v.parties[p]).map(p => {
+    const x = v.parties[p], tot = x.for + x.mot + x.borte || 1;
+    const lbl = x.for + x.mot === 0 ? 'ikke til stede' : (x.for ? x.for + ' for' : '') + (x.for && x.mot ? ' · ' : '') + (x.mot ? x.mot + ' mot' : '');
+    return partyChip(p) + '<div class="vote-bar" role="img" aria-label="' + esc(p + ': ' + lbl) + '"><span style="width:' + (x.for / tot * 100) + '%;background:var(--vote-for)"></span><span style="width:' + (x.mot / tot * 100) + '%;background:var(--vote-mot)"></span></div><span class="num">' + esc(lbl) + '</span>';
+  }).join('');
+  return '<div class="vote">' + head +
+    '<p class="small muted" style="margin:0">' + esc(/i sin helhet/i.test(v.voteTema || '') ? 'Votering: loven i sin helhet' : 'Avgjørende votering') + (v.ref ? ' · ' + esc(v.ref) : '') + '</p>' +
+    '<div class="vote-rows">' + rows + '</div>' +
+    '<div class="vote-key"><span><i style="background:var(--vote-for)"></i>For</span><span><i style="background:var(--vote-mot)"></i>Mot</span><span><i style="background:var(--vote-borte)"></i>Ikke til stede</span><a href="' + esc(v.caseUrl) + '" target="_blank" rel="noopener">Saken på stortinget.no ↗</a></div></div>';
+}
+function renderTemaOverview(){
+  const root = $('temaRoot');
+  if (!TEMA) { root.innerHTML = '<div><span class="eyebrow">Tema</span><h1 style="font-size:clamp(34px,5vw,54px);margin-top:4px">Tema</h1><p class="muted">Temasidene lastes inn fra innsyn.life.</p></div>'; return; }
+  root.innerHTML = '<div><span class="eyebrow">Tema</span><h1 style="font-size:clamp(34px,5vw,54px);line-height:1;margin-top:4px">Sju tema som berører mange</h1><p class="muted" style="max-width:62ch;margin:10px 0 0">Alle tema har samme oppbygging: hva loven sier, hva tallene viser, hvordan partiene stemte, hvilke saker som er oppe nå, og hva du kan gjøre.</p></div>' +
+    '<div class="tema-grid">' + TEMA.tema.map(t => {
+      const open = temaCases(t).filter(c => c.status !== 'behandlet');
+      const dl = open.map(c => deadlineOf(c)).filter(d => d && d.iso >= TODAY).sort((a, b) => a.iso.localeCompare(b.iso))[0];
+      return '<button type="button" class="tema-card" data-tema="' + t.id + '"><span class="nr">' + t.nr + '</span><h2>' + esc(t.title) + '</h2><p>' + esc(t.teaser || (t.kort.match(/^.*?[a-zæøå)]\.(?=\s+[A-ZÆØÅ]|$)/) || [t.kort])[0]) + '</p><span class="chips"><span class="chip"><span class="mono">' + open.length + '</span> saker nå</span>' + (dl ? '<span class="chip" style="background:var(--accent-soft);color:var(--accent)">Frist ' + fmtDate(dl.iso) + '</span>' : '') + '</span></button>';
+    }).join('') + '</div>';
+}
+function renderTemaPage(id){
+  const t = TID[id]; const root = $('temaRoot');
+  if (!t) return renderTemaOverview();
+  const stats = temaStats(id), votes = temaVotes(id), help = helpFor(t);
+  const cases = temaCases(t), open = cases.filter(c => c.status !== 'behandlet').slice(0, 6);
+  const dls = cases.map(c => ({c, d: deadlineOf(c)})).filter(x => x.d && x.d.iso >= TODAY);
+  const sec = (n, sid, title, body) => '<section class="tsec" id="t-' + sid + '"><h2><span class="n">' + n + '</span>' + title + '</h2>' + body + '</section>';
+  let h = '<div class="tema-page"><button type="button" class="tema-back" data-tema="">← Alle tema</button>';
+  h += '<div class="tema-head"><span class="eyebrow">Tema ' + t.nr + ' av ' + TEMA.tema.length + '</span><h1>' + esc(t.title) + '</h1></div>';
+  h += '<nav class="tema-jump" aria-label="Hopp til">' + [['kort','Kort fortalt'],['loven','Loven'],['tall','Tall'],['stemte','Slik stemte partiene'],['saker','Saker nå'],['sifra','Si fra']].map(([k, l]) => '<a href="#tema-' + id + '" data-jump="t-' + k + '">' + l + '</a>').join('') + '</nav>';
+  h += sec(1, 'kort', 'Kort fortalt', '<p class="kort">' + esc(t.kort) + '</p>');
+  if (help.length) h += '<aside class="helpbox" aria-label="Trenger du hjelp?"><h2>Trenger du hjelp?</h2><ul class="helplist">' + help.map(x => '<li><span class="nm">' + esc(x.name) + '</span><a class="ph" href="tel:' + x.phone.replace(/\s/g, '') + '">' + esc(x.phone) + '</a><span class="wh">' + esc(x.when) + '</span><a class="small" href="' + esc(x.url) + '" target="_blank" rel="noopener">Les mer ↗</a></li>').join('') + '</ul><p class="small muted" style="margin:0">Numrene sjekkes automatisk mot tjenestenes egne nettsider hver uke.</p></aside>';
+  h += sec(2, 'loven', 'Hva sier loven', '<ul class="lawlist">' + t.law.map(l => '<li><span>' + esc(l.text) + '</span><a href="' + esc(l.url) + '" target="_blank" rel="noopener">' + esc(l.ref) + ' ↗</a></li>').join('') + '</ul>');
+  h += sec(3, 'tall', 'Omfang i tall', stats.length ? stats.map(chartHTML).join('') : '<p class="empty-note">Tallene for dette temaet hentes inn automatisk. De vises her når kilden er bekreftet.</p>');
+  h += sec(4, 'stemte', 'Slik stemte partiene', votes.length ? '<p class="small muted" style="margin:0">Fra Stortingets egne voteringsdata. Viser hvordan representantene stemte, ikke hva partiene mener.</p>' + votes.map(voteHTMLTema).join('') : '<p class="empty-note">Voteringer i saker om dette temaet vises her når de er hentet.</p>');
+  h += sec(5, 'saker', 'Saker og frister nå', (dls.length ? '<div class="deadlines">' + dls.map(x => '<div class="deadline"><span class="when mono">' + (x.d.iso === TODAY ? 'I dag' : fmtDate(x.d.iso)) + '<small>' + (x.d.kl ? 'kl. ' + esc(x.d.kl) : '') + '</small></span><span><a href="' + esc(x.c.url) + '" target="_blank" rel="noopener">' + esc(x.c.title) + '</a><br><span class="small muted">Frist for skriftlige innspill</span></span></div>').join('') + '</div>' : '') +
+    (open.length ? '<div class="mini-cases">' + open.map(caseRow).join('') + '</div>' : '<p class="empty-note">Ingen åpne saker i Stortinget om dette akkurat nå.</p>') +
+    '<button type="button" class="btn ghost" data-tema-saker="' + id + '">Se alle saker om ' + esc(t.title.toLowerCase()) + ' →</button>');
+  h += sec(6, 'sifra', 'Si fra', '<div class="acts">' + t.actions.map(a => '<div class="act"><b>' + esc(a.t) + '</b><span>' + esc(a.d) + '</span><span class="links">' + (actionUrl(a) ? '<a href="' + esc(actionUrl(a)) + '" target="_blank" rel="noopener">Gå dit ↗</a>' : '') + (a.guide ? '<button type="button" data-guide="' + a.guide + '">Slik gjør du det →</button>' : '') + '</span></div>').join('') + '</div>' +
+    '<p class="small muted" style="margin:0">Du kan alltid skrive til en stortingsrepresentant, en komité eller et departement, også når det ikke er en åpen sak.</p>');
+  h += '</div>';
+  root.innerHTML = h;
+}
+function renderTema(id){ if (id) renderTemaPage(id); else renderTemaOverview(); }
+document.addEventListener('click', e => {
+  const t = e.target.closest('[data-tema]'); if (t) { go(t.dataset.tema ? 'tema-' + t.dataset.tema : 'tema'); return; }
+  const j = e.target.closest('[data-jump]'); if (j) { e.preventDefault(); const el = document.getElementById(j.dataset.jump); if (el) el.scrollIntoView({behavior: reduce ? 'auto' : 'smooth', block: 'start'}); return; }
+  const ts = e.target.closest('[data-tema-saker]'); if (ts) { const tt = TID[ts.dataset.temaSaker]; F.q = ''; F.ses = 'all'; F.min = 'all'; F.type = 'all'; F.com = (tt.committees && tt.committees[0]) || 'all'; syncFilters(); go('saker'); window.scrollTo(0, $('filters').offsetTop - 70); }
+});
+
 /* ===================== GUIDES ===================== */
 const GUIDES = [
  {id:'innspill', title:'Send innspill til en stortingskomité', when:'Når en sak har «Frist for innspill».', time:'15–30 min', need:'En kort tekst om hva du mener', url:'https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/', go:'Se høringer på stortinget.no', basis:'',
@@ -827,9 +982,11 @@ function go(view){
 }
 function route(){
   const h = location.hash.slice(1) || 'kart';
-  const VIEWS = ['kart','saker','sifra','hvorfor','kilder'];
+  const VIEWS = ['kart','saker','tema','sifra','hvorfor','kilder'];
   const isGuide = GUIDES.some(g => g.id === h);
-  const view = isGuide ? 'sifra' : (VIEWS.includes(h) ? h : 'kart');
+  const temaId = h.startsWith('tema-') ? h.slice(5) : (h === 'tema' ? '' : null);
+  const view = isGuide ? 'sifra' : (temaId !== null ? 'tema' : (VIEWS.includes(h) ? h : 'kart'));
+  if (view === 'tema') renderTema(temaId);
   VIEWS.forEach(v => document.getElementById('view-' + v).hidden = v !== view);
   if (isGuide) setTimeout(() => { const el = document.getElementById('guide-' + h); if (el) { el.open = true; el.scrollIntoView({block:'start'}); } }, 0);
   document.querySelectorAll('.nav a').forEach(a => a.setAttribute('aria-current', a.dataset.view === view ? 'page' : 'false'));

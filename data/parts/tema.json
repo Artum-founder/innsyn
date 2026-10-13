@@ -27,10 +27,9 @@
      "Finanskomiteen"
     ],
     "ministries": [
-     "fin",
-     "kdd"
+     "fin"
     ],
-    "words": "budsjett|skatt|avgift|dagligvare|pris|inntekt|lavinntekt"
+    "words": "\\b(statsbudsjett|nasjonalbudsjett|skatt|avgift|dagligvare|lavinntekt|prisvekst)"
    },
    "ministries": [
     "fin",
@@ -96,7 +95,7 @@
     "ministries": [
      "hod"
     ],
-    "words": "helse|pasient|sykehus|fastlege|psykisk|legemiddel"
+    "words": "\\b(helse|pasient|sykehus|fastlege|psykisk|legemiddel)"
    },
    "ministries": [
     "hod"
@@ -156,14 +155,9 @@
     }
    ],
    "match": {
-    "committees": [
-     "Energi- og miljøkomiteen"
-    ],
-    "ministries": [
-     "ed",
-     "kld"
-    ],
-    "words": "strøm|kraft|energi|nett|sol|vind|datasenter"
+    "committees": [],
+    "ministries": [],
+    "words": "\\b(strøm|kraft|energi|nettleie|solkraft|solenergi|solcelle|vindkraft|havvind|datasent)"
    },
    "ministries": [
     "ed",
@@ -223,13 +217,11 @@
     }
    ],
    "match": {
-    "committees": [
-     "Familie- og kulturkomiteen"
-    ],
+    "committees": [],
     "ministries": [
      "bfd"
     ],
-    "words": "barn|barnevern|familie|foreldre|barnetrygd|barnehage"
+    "words": "\\b(barn|barnevern|familie|foreldre|barnetrygd|barnehage)"
    },
    "ministries": [
     "bfd",
@@ -269,6 +261,7 @@
    "id": "trygghet",
    "nr": 5,
    "title": "Trygghet og seksualisert vold",
+   "teaser": "Voldtekt er definert ut fra samtykke, og tallene viser hvor mange saker som når hvert steg i rettssystemet.",
    "kort": "Siden 1. juli 2025 er voldtekt definert ut fra samtykke: sex med noen som ikke ved ord eller handling har vist at de vil, er voldtekt. For å dømme noen må retten være sikker utover rimelig tvil, og en frifinnelse betyr ikke at ingenting har skjedd. Mange saker blir aldri anmeldt, og tallene under viser hvor mange som når hvert steg i rettssystemet.",
    "law": [
     {
@@ -288,13 +281,9 @@
     }
    ],
    "match": {
-    "committees": [
-     "Justiskomiteen"
-    ],
-    "ministries": [
-     "jd"
-    ],
-    "words": "vold|voldtekt|seksuell|overgrep|politi|menneskehandel|straff"
+    "committees": [],
+    "ministries": [],
+    "words": "\\b(vold|voldtekt|seksuell|overgrep|menneskehandel|sexkjøp|prostitu|samtykke til seksuell)"
    },
    "ministries": [
     "jd",
@@ -357,11 +346,8 @@
    ],
    "match": {
     "committees": [],
-    "ministries": [
-     "jd",
-     "aid"
-    ],
-    "words": "utlending|asyl|familiegjenforening|integrering|statsborger|flyktning|innvandr"
+    "ministries": [],
+    "words": "\\b(utlending|asyl|familiegjenforening|integrering|statsborger|flyktning|innvandr)"
    },
    "ministries": [
     "jd",
@@ -417,14 +403,11 @@
     }
    ],
    "match": {
-    "committees": [
-     "Utenriks- og forsvarskomiteen"
-    ],
+    "committees": [],
     "ministries": [
-     "fd",
-     "ud"
+     "fd"
     ],
-    "words": "forsvar|beredskap|nato|eksport|sikkerhet"
+    "words": "\\b(forsvar|beredskap|nato|militær|verneplikt|totalforsvar)"
    },
    "ministries": [
     "fd",

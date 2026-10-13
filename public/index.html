@@ -20,6 +20,7 @@
   --map-street:#FFFFFF; --map-shore:#58809F; --map-haze:#E3E8ED; --map-label:#4A5966;
   --b-min:#2E5476; --b-min-top:#6D93B4; --b-inst:#776545; --b-inst-top:#B59D74; --b-link:#9C2330;
   --st-recv:#5C6E82; --st-comm:#AD6F12; --st-done:#2C7A55;
+  --data:#2B5A87; --vote-for:#2C7A55; --vote-mot:#B23A44; --vote-borte:#C9D1D8;
   --f-display:'Gloock', 'Georgia', 'Times New Roman', serif;
   --f-body:'Public Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --f-mono:'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
@@ -32,6 +33,7 @@
   --map-street:#9EC2E6; --map-shore:#5D8DB8; --map-haze:#0B1219; --map-label:#8EA1B3;
   --b-min:#21405B; --b-min-top:#73A6D4; --b-inst:#463A27; --b-inst-top:#CDAB72; --b-link:#E2666F;
   --st-recv:#8B9DB1; --st-comm:#E3A94C; --st-done:#5DBB8C;
+  --data:#8FB9E3; --vote-for:#5DBB8C; --vote-mot:#E2666F; --vote-borte:#2A3642;
   color-scheme:dark;
 }}
 :root[data-theme="dark"]{
@@ -41,6 +43,7 @@
   --map-street:#9EC2E6; --map-shore:#5D8DB8; --map-haze:#0B1219; --map-label:#8EA1B3;
   --b-min:#21405B; --b-min-top:#73A6D4; --b-inst:#463A27; --b-inst-top:#CDAB72; --b-link:#E2666F;
   --st-recv:#8B9DB1; --st-comm:#E3A94C; --st-done:#5DBB8C;
+  --data:#8FB9E3; --vote-for:#5DBB8C; --vote-mot:#E2666F; --vote-borte:#2A3642;
   color-scheme:dark;
 }
 *,*::before,*::after{box-sizing:border-box}
@@ -243,6 +246,54 @@ html.big .page,html.big .panel,html.big .dock{zoom:1.14}
 .srcs{margin:0;padding-left:16px;font-size:12.5px;line-height:1.6}
 .blk{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:8px 0 4px}
 
+/* Tema */
+.tema-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
+.tema-card{display:flex;flex-direction:column;gap:8px;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px;cursor:pointer;color:var(--ink)}
+.tema-card:hover{border-color:var(--ink)}
+.tema-card .nr{font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+.tema-card h2{font-size:22px;line-height:1.15}
+.tema-card p{margin:0;font-size:13.5px;color:var(--muted);line-height:1.45}
+.tema-card .chips{margin-top:auto}
+.tema-page{display:flex;flex-direction:column;gap:26px;max-width:860px}
+.tema-back{border:0;background:none;color:var(--link);font-weight:600;font-size:13.5px;cursor:pointer;padding:0;width:fit-content}
+.tema-head h1{font-size:clamp(34px,5vw,52px);line-height:1.02;margin-top:4px}
+.tema-jump{display:flex;flex-wrap:wrap;gap:6px}
+.tema-jump a{font-size:12.5px;font-weight:600;color:var(--muted);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 10px}
+.tema-jump a:hover{color:var(--ink);border-color:var(--ink)}
+.tsec{display:flex;flex-direction:column;gap:10px;scroll-margin-top:calc(var(--header-h) + 16px)}
+.tsec > h2{font-size:24px;display:flex;gap:10px;align-items:baseline}
+.tsec > h2 .n{font-family:var(--f-mono);font-size:13px;color:var(--muted)}
+.kort{font-size:17px;line-height:1.6;max-width:62ch;margin:0}
+.lawlist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.lawlist li{display:flex;flex-direction:column;gap:4px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-radius:12px;font-size:14.5px;line-height:1.5}
+.lawlist a{font-family:var(--f-mono);font-size:12px;text-decoration:none}
+.chart{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px;display:flex;flex-direction:column;gap:6px}
+.chart h3{font-family:var(--f-body);font-weight:650;font-size:15px;line-height:1.35}
+.chart .lead{font-size:13.5px;color:var(--ink)}
+.chart svg{width:100%;height:auto;display:block;overflow:visible}
+.chart .src{font-size:12px;color:var(--muted)}
+.chart .src a{color:var(--muted)}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12.5px}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.vote{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px;display:flex;flex-direction:column;gap:10px}
+.vote-head{display:flex;flex-wrap:wrap;justify-content:space-between;gap:4px 12px;align-items:baseline}
+.vote-head h3{font-family:var(--f-body);font-weight:650;font-size:15px;line-height:1.35}
+.vote-head .res{font-family:var(--f-mono);font-size:12.5px;white-space:nowrap}
+.vote-rows{display:grid;grid-template-columns:44px minmax(0,1fr) auto;gap:6px 10px;align-items:center;font-size:12.5px}
+.vote-bar{display:flex;height:12px;border-radius:3px;overflow:hidden;background:var(--vote-borte)}
+.vote-bar span{display:block;height:100%}
+.vote-rows .num{font-family:var(--f-mono);color:var(--muted);white-space:nowrap;font-size:12px}
+.vote-key{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--muted)}
+.vote-key i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.helpbox{border:1px solid var(--line);border-left:4px solid var(--st-done);background:var(--surface);border-radius:12px;padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.helpbox h2{font-size:20px}
+.helplist{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
+.helplist li{display:flex;flex-direction:column;gap:2px;padding:10px 12px;border-radius:10px;background:var(--surface-2)}
+.helplist .ph{font-family:var(--f-mono);font-size:17px;font-weight:500;color:var(--ink);text-decoration:none}
+.helplist .nm{font-weight:600;font-size:13.5px}
+.helplist .wh{font-size:12.5px;color:var(--muted)}
+.empty-note{font-size:13.5px;color:var(--muted)}
+
 /* Nytt */
 .nytt{display:flex;flex-direction:column;gap:10px}
 .nytt-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:4px 12px}
@@ -366,6 +417,7 @@ details.more p{margin:0 0 6px;font-size:13px;line-height:1.45}
   <nav class="nav" aria-label="Sider">
     <a href="#kart" data-view="kart">Kart</a>
     <a href="#saker" data-view="saker">Saker</a>
+    <a href="#tema" data-view="tema">Tema</a>
     <a href="#sifra" data-view="sifra">Si fra</a>
     <a href="#hvorfor" data-view="hvorfor">Hvorfor</a>
     <a href="#kilder" data-view="kilder">Kilder</a>
@@ -475,6 +527,10 @@ details.more p{margin:0 0 6px;font-size:13px;line-height:1.45}
 
     <div class="pipeline" id="pipeline"></div>
   </div>
+</section>
+
+<section id="view-tema" hidden>
+  <div class="page" id="temaRoot"></div>
 </section>
 
 <section id="view-sifra" hidden>

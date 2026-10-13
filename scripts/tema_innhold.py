@@ -13,7 +13,7 @@ tema = [
    dict(text='Den som ikke kan forsørge seg selv, har rett til økonomisk stønad fra NAV-kontoret.', ref='sosialtjenesteloven § 18', url=L+'2009-12-18-131/§18'),
    dict(text='Budsjettet legges fram i oktober. Stortinget vedtar rammene i november og hele budsjettet før jul.', ref='Statsbudsjettet 2027 på stortinget.no', url='https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200434'),
   ],
-  match=dict(committees=['Finanskomiteen'], ministries=['fin','kdd'], words='budsjett|skatt|avgift|dagligvare|pris|inntekt|lavinntekt'),
+  match=dict(committees=['Finanskomiteen'], ministries=['fin'], words=r'\b(statsbudsjett|nasjonalbudsjett|skatt|avgift|dagligvare|lavinntekt|prisvekst)'),
   ministries=['fin','kdd'], committees=['Finanskomiteen'],
   actions=[
    dict(t='Følg budsjetthøringene i Stortinget', d='Komiteene holder åpne høringer om budsjettet 14.–23. oktober.', url='https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/', guide='mote'),
@@ -28,7 +28,7 @@ tema = [
    dict(text='Du kan klage. Klagen går først til den som ga helsehjelpen, og deretter til Statsforvalteren.', ref='pasient- og brukerrettighetsloven §§ 7-1 og 7-2', url=L+'1999-07-02-63/§7-2'),
    dict(text='Pasient- og brukerombudet gir gratis råd og hjelp, og kan ta saken din videre.', ref='pasient- og brukerrettighetsloven kapittel 8', url=L+'1999-07-02-63/KAPITTEL_8'),
   ],
-  match=dict(committees=['Helse- og omsorgskomiteen'], ministries=['hod'], words='helse|pasient|sykehus|fastlege|psykisk|legemiddel'),
+  match=dict(committees=['Helse- og omsorgskomiteen'], ministries=['hod'], words=r'\b(helse|pasient|sykehus|fastlege|psykisk|legemiddel)'),
   ministries=['hod'], committees=['Helse- og omsorgskomiteen'],
   actions=[
    dict(t='Klag på helsehjelpen du har fått', d='Først til behandlingsstedet, så til Statsforvalteren.', url='https://www.pasientogbrukerombudet.no/', guide='', check='klage-helse'),
@@ -42,7 +42,7 @@ tema = [
    dict(text='Nettleien fastsettes av nettselskapene innenfor rammer fra Reguleringsmyndigheten for energi (RME) i NVE.', ref='energiloven', url='https://www.nve.no/reguleringsmyndigheten/'),
    dict(text='Husholdninger kan få strømstøtte etter egne regler som Stortinget har vedtatt.', ref='strømstønadsloven', url='https://lovdata.no/sok?q=str%C3%B8mst%C3%B8nadsloven'),
   ],
-  match=dict(committees=['Energi- og miljøkomiteen'], ministries=['ed','kld'], words='strøm|kraft|energi|nett|sol|vind|datasenter'),
+  match=dict(committees=[], ministries=[], words=r'\b(strøm|kraft|energi|nettleie|solkraft|solenergi|solcelle|vindkraft|havvind|datasent)'),
   ministries=['ed','kld'], committees=['Energi- og miljøkomiteen'],
   actions=[
    dict(t='Send innspill til energi- og miljøkomiteen', d='Komiteen tar imot innspill når den behandler saker om strøm.', url='https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/', guide='innspill'),
@@ -57,21 +57,21 @@ tema = [
    dict(text='Ansatte i blant annet skole, barnehage og helse har plikt til å melde fra til barnevernet ved alvorlig bekymring.', ref='barnevernsloven § 13-2', url=L+'2021-06-18-97/§13-2'),
    dict(text='FNs barnekonvensjon gjelder som norsk lov.', ref='menneskerettsloven', url=L+'1999-05-21-30'),
   ],
-  match=dict(committees=['Familie- og kulturkomiteen'], ministries=['bfd'], words='barn|barnevern|familie|foreldre|barnetrygd|barnehage'),
+  match=dict(committees=[], ministries=['bfd'], words=r'\b(barn|barnevern|familie|foreldre|barnetrygd|barnehage)'),
   ministries=['bfd','kd'], committees=['Familie- og kulturkomiteen'],
   actions=[
    dict(t='Meld fra hvis du er bekymret for et barn', d='Alle kan sende bekymringsmelding til barnevernet, også anonymt.', url='https://www.bufdir.no/barnevern/', guide='', check='bekymring'),
    dict(t='Kontakt Barneombudet', d='Barneombudet tar opp saker som gjelder mange barn.', url='https://www.barneombudet.no/', guide=''),
    dict(t='Skriv til familie- og kulturkomiteen', d='Komiteen behandler saker om barnevern og familie.', url=STO+'Familie--og-kulturkomiteen/', guide='representant', check='komiteer'),
   ], help=['alarmtelefonen','politi']),
- dict(id='trygghet', nr=5, title='Trygghet og seksualisert vold',
+ dict(id='trygghet', nr=5, title='Trygghet og seksualisert vold', teaser='Voldtekt er definert ut fra samtykke, og tallene viser hvor mange saker som når hvert steg i rettssystemet.',
   kort='Siden 1. juli 2025 er voldtekt definert ut fra samtykke: sex med noen som ikke ved ord eller handling har vist at de vil, er voldtekt. For å dømme noen må retten være sikker utover rimelig tvil, og en frifinnelse betyr ikke at ingenting har skjedd. Mange saker blir aldri anmeldt, og tallene under viser hvor mange som når hvert steg i rettssystemet.',
   law=[
    dict(text='Sex med en person som ikke ved ord eller handling har gitt uttrykk for at hun eller han vil, er voldtekt. Grovere former kan gi opptil ti års fengsel.', ref='straffeloven § 291 (fra 1. juli 2025)', url=L+'2005-05-20-28/§291'),
    dict(text='Den som er utsatt for voldtekt, har rett til bistandsadvokat, betalt av staten.', ref='straffeprosessloven § 107 a', url=L+'1981-05-22-25/§107a'),
    dict(text='Alle har rett til å bli ansett som uskyldige til skyld er bevist etter loven.', ref='Grunnloven § 96', url=L+'1814-05-17/§96'),
   ],
-  match=dict(committees=['Justiskomiteen'], ministries=['jd'], words='vold|voldtekt|seksuell|overgrep|politi|menneskehandel|straff'),
+  match=dict(committees=[], ministries=[], words=r'\b(vold|voldtekt|seksuell|overgrep|menneskehandel|sexkjøp|prostitu|samtykke til seksuell)'),
   ministries=['jd','hod','bfd','kd'], committees=['Justiskomiteen'],
   actions=[
    dict(t='Skriv til justiskomiteen', d='Komiteen behandler saker om straff, politi og vern mot vold.', url=STO+'Justiskomiteen/', guide='representant', check='komiteer'),
@@ -85,7 +85,7 @@ tema = [
    dict(text='Nyankomne flyktninger har rett og plikt til introduksjonsprogram og opplæring i norsk.', ref='integreringsloven', url=L+'2020-11-06-127'),
    dict(text='Statsborgerloven har kravene for å bli norsk statsborger.', ref='statsborgerloven', url=L+'2005-06-10-51'),
   ],
-  match=dict(committees=[], ministries=['jd','aid'], words='utlending|asyl|familiegjenforening|integrering|statsborger|flyktning|innvandr'),
+  match=dict(committees=[], ministries=[], words=r'\b(utlending|asyl|familiegjenforening|integrering|statsborger|flyktning|innvandr)'),
   ministries=['jd','aid','kdd'], committees=['Kommunal- og forvaltningskomiteen'],
   actions=[
    dict(t='Send innspill om familiegjenforening', d='Fristen for skriftlige innspill er 26. oktober kl. 12.', url='https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200370', guide='innspill'),
@@ -99,7 +99,7 @@ tema = [
    dict(text='Stortinget bevilger pengene forsvaret får.', ref='Grunnloven § 75', url=L+'1814-05-17/§75'),
    dict(text='Avtaler med andre land som er særlig viktige, krever Stortingets samtykke.', ref='Grunnloven § 26', url=L+'1814-05-17/§26'),
   ],
-  match=dict(committees=['Utenriks- og forsvarskomiteen'], ministries=['fd','ud'], words='forsvar|beredskap|nato|eksport|sikkerhet'),
+  match=dict(committees=[], ministries=['fd'], words=r'\b(forsvar|beredskap|nato|militær|verneplikt|totalforsvar)'),
   ministries=['fd','ud','jd'], committees=['Utenriks- og forsvarskomiteen'],
   actions=[
    dict(t='Følg budsjetthøringen i utenriks- og forsvarskomiteen', d='Åpen høring 15. og 16. oktober.', url='https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/', guide='mote'),
