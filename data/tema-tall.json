@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-13T15:07:08.283Z",
+ "ranAt": "2026-10-13T15:12:07.200Z",
  "stats": [
   {
    "id": "kpi",
@@ -83,7 +83,7 @@
    "updated": "2026-02-03",
    "chosen": {
     "Alder": "Alle aldre",
-    "ContentsCode": "Antall personer med vedvarende lavinntekt (EU-skala, 60 prosent av forbruksjustert medianinntekt)",
+    "ContentsCode": "Andel personer med vedvarende lavinntekt, (EU-skala, 60 prosent av forbruksjustert medianinntekt)",
     "Tid": "tid: 2015–2024"
    },
    "series": [
@@ -92,43 +92,43 @@
      "points": [
       {
        "x": "2015",
-       "y": 282600
+       "y": 6
       },
       {
        "x": "2016",
-       "y": 292900
+       "y": 6.2
       },
       {
        "x": "2017",
-       "y": 305100
+       "y": 6.4
       },
       {
        "x": "2018",
-       "y": 318100
+       "y": 6.6
       },
       {
        "x": "2019",
-       "y": 334200
+       "y": 6.8
       },
       {
        "x": "2020",
-       "y": 346300
+       "y": 7
       },
       {
        "x": "2021",
-       "y": 341000
+       "y": 6.9
       },
       {
        "x": "2022",
-       "y": 328200
+       "y": 6.6
       },
       {
        "x": "2023",
-       "y": 317300
+       "y": 6.3
       },
       {
        "x": "2024",
-       "y": 321700
+       "y": 6.4
       }
      ]
     }
@@ -137,247 +137,22 @@
   {
    "id": "strompris",
    "tema": "strom",
-   "label": "Hva husholdningene betaler for strøm, per kWh",
+   "label": "Hva husholdningene betaler for strøm og nettleie, per kWh",
    "unit": "øre/kWh",
-   "chart": "stack",
-   "note": "Kraftpris, nettleie og avgifter, gjennomsnitt for landet.",
+   "chart": "line",
+   "note": "Kraftpris og nettleie med avgifter, gjennomsnitt for landet.",
    "source": "Statistisk sentralbyrå (SSB)",
    "table": "09007",
    "tableTitle": "09007: Kraftpris, nettleie og avgifter for husholdninger, etter statistikkvariabel og år",
    "sourceUrl": "https://www.ssb.no/statbank/table/09007/",
    "updated": "2026-02-16",
    "chosen": {
-    "ContentsCode": "Kraftpris ekskl. avgifter (øre/kWh) | Kraftpris inkl. mva (øre/kWh) | Nettleie, ekskl. avgifter | Nettleie inkl. avgifter (øre/kWh) | Kraft og nett i alt ekskl. avgifter (øre/kWh) | Kraft og nett i alt inkl. avgifter (øre/kWh) | Kraft og nett i alt inkl. avgifter fratrukket støtte fra myndighetene (øre/kWh) | Forbruksavgift på elektrisk kraft (øre/kWh) | Merverdiavgift (prosent) | Støtte fra myndighetene (øre/kWh) | ¬Strømstøtteordningen (øre/kWh) | ¬Norgespris (øre/kWh)",
+    "ContentsCode": "Kraft og nett i alt inkl. avgifter (øre/kWh) | Kraft og nett i alt inkl. avgifter fratrukket støtte fra myndighetene (øre/kWh)",
     "Tid": "tid: 2016–2025"
    },
    "series": [
     {
-     "name": "Kraftpris ekskl. avgifter (øre/kWh)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 31.6
-      },
-      {
-       "x": "2017",
-       "y": 34.4
-      },
-      {
-       "x": "2018",
-       "y": 48.6
-      },
-      {
-       "x": "2019",
-       "y": 48.7
-      },
-      {
-       "x": "2020",
-       "y": 20.7
-      },
-      {
-       "x": "2021",
-       "y": 71.7
-      },
-      {
-       "x": "2022",
-       "y": 149.6
-      },
-      {
-       "x": "2023",
-       "y": 86
-      },
-      {
-       "x": "2024",
-       "y": 59.9
-      },
-      {
-       "x": "2025",
-       "y": 66.2
-      }
-     ]
-    },
-    {
-     "name": "Kraftpris inkl. mva (øre/kWh)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 38.5
-      },
-      {
-       "x": "2017",
-       "y": 41.9
-      },
-      {
-       "x": "2018",
-       "y": 59.3
-      },
-      {
-       "x": "2019",
-       "y": 59.5
-      },
-      {
-       "x": "2020",
-       "y": 25.2
-      },
-      {
-       "x": "2021",
-       "y": 87.6
-      },
-      {
-       "x": "2022",
-       "y": 182.6
-      },
-      {
-       "x": "2023",
-       "y": 104.9
-      },
-      {
-       "x": "2024",
-       "y": 73.1
-      },
-      {
-       "x": "2025",
-       "y": 80.7
-      }
-     ]
-    },
-    {
-     "name": "Nettleie, ekskl. avgifter",
-     "points": [
-      {
-       "x": "2016",
-       "y": 27.2
-      },
-      {
-       "x": "2017",
-       "y": 27.9
-      },
-      {
-       "x": "2018",
-       "y": 28.7
-      },
-      {
-       "x": "2019",
-       "y": 30
-      },
-      {
-       "x": "2020",
-       "y": 28.6
-      },
-      {
-       "x": "2021",
-       "y": 27.3
-      },
-      {
-       "x": "2022",
-       "y": 29.2
-      },
-      {
-       "x": "2023",
-       "y": 31.4
-      },
-      {
-       "x": "2024",
-       "y": 36
-      },
-      {
-       "x": "2025",
-       "y": 36.3
-      }
-     ]
-    },
-    {
-     "name": "Nettleie inkl. avgifter (øre/kWh)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 53.4
-      },
-      {
-       "x": "2017",
-       "y": 54.6
-      },
-      {
-       "x": "2018",
-       "y": 55.6
-      },
-      {
-       "x": "2019",
-       "y": 56.4
-      },
-      {
-       "x": "2020",
-       "y": 55.1
-      },
-      {
-       "x": "2021",
-       "y": 54.4
-      },
-      {
-       "x": "2022",
-       "y": 52.7
-      },
-      {
-       "x": "2023",
-       "y": 55.9
-      },
-      {
-       "x": "2024",
-       "y": 61.8
-      },
-      {
-       "x": "2025",
-       "y": 61
-      }
-     ]
-    },
-    {
-     "name": "Kraft og nett i alt ekskl. avgifter (øre/kWh)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 58.8
-      },
-      {
-       "x": "2017",
-       "y": 62.3
-      },
-      {
-       "x": "2018",
-       "y": 77.3
-      },
-      {
-       "x": "2019",
-       "y": 78.7
-      },
-      {
-       "x": "2020",
-       "y": 49.2
-      },
-      {
-       "x": "2021",
-       "y": 99.1
-      },
-      {
-       "x": "2022",
-       "y": 178.8
-      },
-      {
-       "x": "2023",
-       "y": 117.4
-      },
-      {
-       "x": "2024",
-       "y": 95.9
-      },
-      {
-       "x": "2025",
-       "y": 102.5
-      }
-     ]
-    },
-    {
-     "name": "Kraft og nett i alt inkl. avgifter (øre/kWh)",
+     "name": "Før støtte",
      "points": [
       {
        "x": "2016",
@@ -422,7 +197,7 @@
      ]
     },
     {
-     "name": "Kraft og nett i alt inkl. avgifter fratrukket støtte fra myndighetene (øre/kWh)",
+     "name": "Etter strømstøtte og Norgespris",
      "points": [
       {
        "x": "2016",
@@ -463,231 +238,6 @@
       {
        "x": "2025",
        "y": 125.1
-      }
-     ]
-    },
-    {
-     "name": "Forbruksavgift på elektrisk kraft (øre/kWh)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 16
-      },
-      {
-       "x": "2017",
-       "y": 16.3
-      },
-      {
-       "x": "2018",
-       "y": 16.6
-      },
-      {
-       "x": "2019",
-       "y": 15.8
-      },
-      {
-       "x": "2020",
-       "y": 16.1
-      },
-      {
-       "x": "2021",
-       "y": 16.7
-      },
-      {
-       "x": "2022",
-       "y": 13.3
-      },
-      {
-       "x": "2023",
-       "y": 13.7
-      },
-      {
-       "x": "2024",
-       "y": 14
-      },
-      {
-       "x": "2025",
-       "y": 13.2
-      }
-     ]
-    },
-    {
-     "name": "Merverdiavgift (prosent)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 25
-      },
-      {
-       "x": "2017",
-       "y": 25
-      },
-      {
-       "x": "2018",
-       "y": 25
-      },
-      {
-       "x": "2019",
-       "y": 25
-      },
-      {
-       "x": "2020",
-       "y": 25
-      },
-      {
-       "x": "2021",
-       "y": 25
-      },
-      {
-       "x": "2022",
-       "y": 25
-      },
-      {
-       "x": "2023",
-       "y": 25
-      },
-      {
-       "x": "2024",
-       "y": 25
-      },
-      {
-       "x": "2025",
-       "y": 25
-      }
-     ]
-    },
-    {
-     "name": "Støtte fra myndighetene (øre/kWh)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 0
-      },
-      {
-       "x": "2017",
-       "y": 0
-      },
-      {
-       "x": "2018",
-       "y": 0
-      },
-      {
-       "x": "2019",
-       "y": 0
-      },
-      {
-       "x": "2020",
-       "y": 0
-      },
-      {
-       "x": "2021",
-       "y": 6.1
-      },
-      {
-       "x": "2022",
-       "y": 91.4
-      },
-      {
-       "x": "2023",
-       "y": 24.3
-      },
-      {
-       "x": "2024",
-       "y": 7.4
-      },
-      {
-       "x": "2025",
-       "y": 16.5
-      }
-     ]
-    },
-    {
-     "name": "¬Strømstøtteordningen (øre/kWh)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 0
-      },
-      {
-       "x": "2017",
-       "y": 0
-      },
-      {
-       "x": "2018",
-       "y": 0
-      },
-      {
-       "x": "2019",
-       "y": 0
-      },
-      {
-       "x": "2020",
-       "y": 0
-      },
-      {
-       "x": "2021",
-       "y": 6.1
-      },
-      {
-       "x": "2022",
-       "y": 91.4
-      },
-      {
-       "x": "2023",
-       "y": 24.3
-      },
-      {
-       "x": "2024",
-       "y": 7.4
-      },
-      {
-       "x": "2025",
-       "y": 10.8
-      }
-     ]
-    },
-    {
-     "name": "¬Norgespris (øre/kWh)",
-     "points": [
-      {
-       "x": "2016",
-       "y": 0
-      },
-      {
-       "x": "2017",
-       "y": 0
-      },
-      {
-       "x": "2018",
-       "y": 0
-      },
-      {
-       "x": "2019",
-       "y": 0
-      },
-      {
-       "x": "2020",
-       "y": 0
-      },
-      {
-       "x": "2021",
-       "y": 0
-      },
-      {
-       "x": "2022",
-       "y": 0
-      },
-      {
-       "x": "2023",
-       "y": 0
-      },
-      {
-       "x": "2024",
-       "y": 0
-      },
-      {
-       "x": "2025",
-       "y": 16.4
       }
      ]
     }
@@ -754,6 +304,398 @@
       {
        "x": "2025",
        "y": 44
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "voldtekt-etterforsket",
+   "tema": "trygghet",
+   "label": "Voldtekter etterforsket av politiet",
+   "unit": "lovbrudd",
+   "chart": "bar",
+   "note": "Etterforskede lovbrudd, ikke antall personer.",
+   "source": "Statistisk sentralbyrå (SSB)",
+   "table": "09406",
+   "tableTitle": "09406: Lovbrudd etterforsket, etter lovbruddstype, statistikkvariabel og år",
+   "sourceUrl": "https://www.ssb.no/statbank/table/09406/",
+   "updated": "2025-07-10",
+   "chosen": {
+    "LovbruddKrim": "(utelatt)",
+    "ContentsCode": "Lovbrudd etterforsket",
+    "Tid": "tid: 2015–2024"
+   },
+   "series": [
+    {
+     "name": "Voldtekter etterforsket av politiet",
+     "points": [
+      {
+       "x": "2015",
+       "y": 329164
+      },
+      {
+       "x": "2016",
+       "y": 319403
+      },
+      {
+       "x": "2017",
+       "y": 288837
+      },
+      {
+       "x": "2018",
+       "y": 287647
+      },
+      {
+       "x": "2019",
+       "y": 288124
+      },
+      {
+       "x": "2020",
+       "y": 297488
+      },
+      {
+       "x": "2021",
+       "y": 271510
+      },
+      {
+       "x": "2022",
+       "y": 279738
+      },
+      {
+       "x": "2023",
+       "y": 298200
+      },
+      {
+       "x": "2024",
+       "y": 303195
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "voldtekt-oppklart",
+   "tema": "trygghet",
+   "label": "Oppklaringsprosent for voldtekt",
+   "unit": "prosent",
+   "chart": "line",
+   "note": "Andel etterforskede voldtektssaker der politiet mener saken er oppklart.",
+   "source": "Statistisk sentralbyrå (SSB)",
+   "table": "09406",
+   "tableTitle": "09406: Lovbrudd etterforsket, etter lovbruddstype, statistikkvariabel og år",
+   "sourceUrl": "https://www.ssb.no/statbank/table/09406/",
+   "updated": "2025-07-10",
+   "chosen": {
+    "LovbruddKrim": "(utelatt)",
+    "ContentsCode": "Lovbrudd etterforsket. Oppklaringsprosent",
+    "Tid": "tid: 2015–2024"
+   },
+   "series": [
+    {
+     "name": "Oppklaringsprosent for voldtekt",
+     "points": [
+      {
+       "x": "2015",
+       "y": 51
+      },
+      {
+       "x": "2016",
+       "y": 52
+      },
+      {
+       "x": "2017",
+       "y": 51
+      },
+      {
+       "x": "2018",
+       "y": 49
+      },
+      {
+       "x": "2019",
+       "y": 49
+      },
+      {
+       "x": "2020",
+       "y": 48
+      },
+      {
+       "x": "2021",
+       "y": 49
+      },
+      {
+       "x": "2022",
+       "y": 43
+      },
+      {
+       "x": "2023",
+       "y": 40
+      },
+      {
+       "x": "2024",
+       "y": 38
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "voldtekt-avgjort",
+   "tema": "trygghet",
+   "label": "Hva skjedde med voldtektssakene politiet etterforsket",
+   "unit": "lovbrudd",
+   "chart": "hbar",
+   "note": "Siste år. Henleggelse betyr ikke nødvendigvis at ingenting har skjedd.",
+   "source": "Statistisk sentralbyrå (SSB)",
+   "table": "09405",
+   "tableTitle": "09405: Lovbrudd etterforsket, etter lovbruddstype, politiets avgjørelse, statistikkvariabel og år",
+   "sourceUrl": "https://www.ssb.no/statbank/table/09405/",
+   "updated": "2025-07-10",
+   "chosen": {
+    "LovbruddKrim": "(utelatt)",
+    "PolitiAvgjorelse": "Alle avgjørelser | Uoppklarte lovbrudd | ¬ Henlagt, manglende opplysning om gjerningsperson | ¬ Henlagt, manglende bevis | ¬ Henlagt, manglende saksbehandlingskapasitet | ¬ Andre uoppklarte | Oppklarte lovbrudd | ¬ Henlagt, siktede ikke strafferettslig ansvarlig | ¬ Overført til konfliktråd | ¬ Forelegg | ¬ Tiltale | ¬ Påtaleunnlatelse og andre oppklarte",
+    "ContentsCode": "Lovbrudd etterforsket",
+    "Tid": "tid: 2024–2024"
+   },
+   "series": [
+    {
+     "name": "Alle avgjørelser",
+     "points": [
+      {
+       "x": "2024",
+       "y": 303195
+      }
+     ]
+    },
+    {
+     "name": "Uoppklarte lovbrudd",
+     "points": [
+      {
+       "x": "2024",
+       "y": 187988
+      }
+     ]
+    },
+    {
+     "name": "¬ Henlagt, manglende opplysning om gjerningsperson",
+     "points": [
+      {
+       "x": "2024",
+       "y": 113412
+      }
+     ]
+    },
+    {
+     "name": "¬ Henlagt, manglende bevis",
+     "points": [
+      {
+       "x": "2024",
+       "y": 43924
+      }
+     ]
+    },
+    {
+     "name": "¬ Henlagt, manglende saksbehandlingskapasitet",
+     "points": [
+      {
+       "x": "2024",
+       "y": 29319
+      }
+     ]
+    },
+    {
+     "name": "¬ Andre uoppklarte",
+     "points": [
+      {
+       "x": "2024",
+       "y": 1333
+      }
+     ]
+    },
+    {
+     "name": "Oppklarte lovbrudd",
+     "points": [
+      {
+       "x": "2024",
+       "y": 115207
+      }
+     ]
+    },
+    {
+     "name": "¬ Henlagt, siktede ikke strafferettslig ansvarlig",
+     "points": [
+      {
+       "x": "2024",
+       "y": 9919
+      }
+     ]
+    },
+    {
+     "name": "¬ Overført til konfliktråd",
+     "points": [
+      {
+       "x": "2024",
+       "y": 1477
+      }
+     ]
+    },
+    {
+     "name": "¬ Forelegg",
+     "points": [
+      {
+       "x": "2024",
+       "y": 40847
+      }
+     ]
+    },
+    {
+     "name": "¬ Tiltale",
+     "points": [
+      {
+       "x": "2024",
+       "y": 43566
+      }
+     ]
+    },
+    {
+     "name": "¬ Påtaleunnlatelse og andre oppklarte",
+     "points": [
+      {
+       "x": "2024",
+       "y": 19398
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "innvandrere",
+   "tema": "innvandring",
+   "label": "Innvandrere og norskfødte med innvandrerforeldre",
+   "unit": "personer",
+   "chart": "bar",
+   "note": "",
+   "source": "Statistisk sentralbyrå (SSB)",
+   "table": "05183",
+   "tableTitle": "05183: Innvandrere og norskfødte med innvandrerforeldre, etter kjønn, landbakgrunn, statistikkvariabel og år",
+   "sourceUrl": "https://www.ssb.no/statbank/table/05183/",
+   "updated": "2026-03-05",
+   "chosen": {
+    "Kjonn": "(utelatt)",
+    "Landbakgrunn": "(utelatt)",
+    "ContentsCode": "Innvandrere og norskfødte med innvandrerforeldre",
+    "Tid": "tid: 2017–2026"
+   },
+   "series": [
+    {
+     "name": "Innvandrere og norskfødte med innvandrerforeldre",
+     "points": [
+      {
+       "x": "2017",
+       "y": 883751
+      },
+      {
+       "x": "2018",
+       "y": 916625
+      },
+      {
+       "x": "2019",
+       "y": 944403
+      },
+      {
+       "x": "2020",
+       "y": 979253
+      },
+      {
+       "x": "2021",
+       "y": 997943
+      },
+      {
+       "x": "2022",
+       "y": 1025175
+      },
+      {
+       "x": "2023",
+       "y": 1091038
+      },
+      {
+       "x": "2024",
+       "y": 1152541
+      },
+      {
+       "x": "2025",
+       "y": 1195349
+      },
+      {
+       "x": "2026",
+       "y": 1225628
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "forsvarsutgifter",
+   "tema": "forsvar",
+   "label": "Offentlige utgifter til forsvar",
+   "unit": "mrd. kr",
+   "chart": "bar",
+   "note": "Offentlig forvaltnings utgifter til forsvar, løpende kroner.",
+   "source": "Statistisk sentralbyrå (SSB)",
+   "table": "14669",
+   "tableTitle": "14669: Offentlig forvaltnings utgifter (mill. kr), etter sektor, art, formål, statistikkvariabel og år",
+   "sourceUrl": "https://www.ssb.no/statbank/table/14669/",
+   "updated": "2026-06-08",
+   "chosen": {
+    "Sektor": "(utelatt)",
+    "Art": "Lønnskostnader",
+    "Formaal": "Forsvar",
+    "ContentsCode": "Beløp",
+    "Tid": "tid: 2016–2025"
+   },
+   "series": [
+    {
+     "name": "Offentlige utgifter til forsvar",
+     "points": [
+      {
+       "x": "2016",
+       "y": 18.9
+      },
+      {
+       "x": "2017",
+       "y": 19.5
+      },
+      {
+       "x": "2018",
+       "y": 20.6
+      },
+      {
+       "x": "2019",
+       "y": 21.2
+      },
+      {
+       "x": "2020",
+       "y": 22.1
+      },
+      {
+       "x": "2021",
+       "y": 23.8
+      },
+      {
+       "x": "2022",
+       "y": 25.5
+      },
+      {
+       "x": "2023",
+       "y": 28.5
+      },
+      {
+       "x": "2024",
+       "y": 30.5
+      },
+      {
+       "x": "2025",
+       "y": 33.3
       }
      ]
     }
@@ -841,7 +783,7 @@
    "updated": "2026-02-03",
    "chosen": {
     "Alder": "0-17 år",
-    "ContentsCode": "Antall personer med vedvarende lavinntekt (EU-skala, 60 prosent av forbruksjustert medianinntekt)",
+    "ContentsCode": "Andel personer med vedvarende lavinntekt, (EU-skala, 60 prosent av forbruksjustert medianinntekt)",
     "Tid": "tid: 2015–2024"
    },
    "series": [
@@ -850,43 +792,43 @@
      "points": [
       {
        "x": "2015",
-       "y": 59700
+       "y": 6.6
       },
       {
        "x": "2016",
-       "y": 62600
+       "y": 6.9
       },
       {
        "x": "2017",
-       "y": 65900
+       "y": 7.2
       },
       {
        "x": "2018",
-       "y": 69400
+       "y": 7.6
       },
       {
        "x": "2019",
-       "y": 73100
+       "y": 8
       },
       {
        "x": "2020",
-       "y": 76500
+       "y": 8.3
       },
       {
        "x": "2021",
-       "y": 73100
+       "y": 8
       },
       {
        "x": "2022",
-       "y": 68100
+       "y": 7.5
       },
       {
        "x": "2023",
-       "y": 62800
+       "y": 7
       },
       {
        "x": "2024",
-       "y": 59800
+       "y": 6.7
       }
      ]
     }
@@ -1420,28 +1362,19 @@
   },
   "klage-helse": {
    "id": "klage-helse",
-   "ok": false,
-   "url": null,
+   "ok": true,
+   "url": "https://www.helsenorge.no/klage-og-erstatning",
    "tried": [
     {
-     "url": "https://www.helsenorge.no/rettigheter/klage-pa-helsetjenester/",
+     "url": "https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp-og-tjenester/",
      "status": 404,
      "found": []
     },
     {
-     "url": "https://www.helsenorge.no/rettigheter/klage/",
-     "status": 404,
-     "found": []
-    },
-    {
-     "url": "https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp",
-     "status": 404,
-     "found": []
-    },
-    {
-     "url": "https://www.statsforvalteren.no/tema/helse/klage-pa-helse--og-omsorgstjenester/",
-     "status": 404,
+     "url": "https://www.helsenorge.no/rettigheter/klage-og-erstatning/",
+     "status": 200,
      "found": [
+      "klage",
       "statsforvalter"
      ]
     }
@@ -1543,39 +1476,59 @@
     }
    ]
   },
-  "komiteer": {
-   "id": "komiteer",
-   "ok": false,
-   "url": null,
+  "repr-epost": {
+   "id": "repr-epost",
+   "ok": true,
+   "url": "https://www.stortinget.no/no/Stottemeny/kontakt/representanter-og-partigrupper/Representantenes-e-postadresser/",
    "tried": [
     {
-     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/",
-     "status": 404,
-     "found": []
+     "url": "https://www.stortinget.no/no/Stottemeny/kontakt/representanter-og-partigrupper/Representantenes-e-postadresser/",
+     "status": 200,
+     "found": [
+      "stortinget.no"
+     ]
+    }
+   ]
+  },
+  "komiteer": {
+   "id": "komiteer",
+   "ok": true,
+   "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/",
+   "tried": [
+    {
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/",
+     "status": 200,
+     "found": [
+      "komite"
+     ]
     }
    ]
   },
   "kom-finans": {
    "id": "kom-finans",
-   "ok": false,
-   "url": null,
+   "ok": true,
+   "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Finanskomiteen/",
    "tried": [
     {
-     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Finanskomiteen/",
-     "status": 404,
-     "found": []
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Finanskomiteen/",
+     "status": 200,
+     "found": [
+      "finanskomiteen"
+     ]
     }
    ]
   },
   "kom-justis": {
    "id": "kom-justis",
-   "ok": false,
-   "url": null,
+   "ok": true,
+   "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Justiskomiteen/",
    "tried": [
     {
-     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Justiskomiteen/",
-     "status": 404,
-     "found": []
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Justiskomiteen/",
+     "status": 200,
+     "found": [
+      "justiskomiteen"
+     ]
     }
    ]
   },
