@@ -1,0 +1,39 @@
+# Henter tall (SSB), voteringer (Stortinget) og sjekker hjelpetelefoner for Tema-sidene.
+# Kjører hver mandag morgen, og kan kjøres for hånd. Resultatet lagres i data/tema-tall.json
+# og settes inn i data/data.json.
+name: Oppdater tema
+
+on:
+  schedule:
+    - cron: '47 5 * * 1'   # mandager ca. kl. 07.47 sommertid
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oppdater-data
+  cancel-in-progress: false
+
+jobs:
+  tema:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Hent tall, voteringer og sjekk lenker
+        run: node scripts/tema-tall.mjs
+      - name: Oppdater data.json
+        run: node update.mjs
+      - name: Lagre endringer
+        run: |
+          git config user.name "innsyn-oppdatering"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/tema-tall.json data/data.json data/parts/tema.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Tema $(date -u +%F)"
+          git pull --rebase
+          git push

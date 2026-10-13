@@ -125,6 +125,8 @@ async function ensureData() {
   try {
     const meta = await read('meta');
     const data = { fetched: meta.fetched, gov: await read('gov'), storting: await read('storting'), buildings: await read('buildings'), contacts: await read('contacts') };
+    const tema = await read('tema').catch(() => null);
+    if (tema) data.tema = { ...tema, tall: JSON.parse(await readFile(path.join(path.dirname(DATA_FILE), 'tema-tall.json'), 'utf8').catch(() => 'null')) };
     await mkdir(path.dirname(DATA_FILE), { recursive: true });
     await writeFile(DATA_FILE, JSON.stringify(data));
     console.log('[innsyn] Bygde data/data.json fra data/parts');

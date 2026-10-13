@@ -469,6 +469,15 @@ export function mergeNytt(old, events, today) {
   return out.slice(0, NYTT_MAX);
 }
 
+// Tema: tekstene ligger i data/parts/tema.json, tall og voteringer i data/tema-tall.json (oppdateres ukentlig).
+export async function readTema(dataDir) {
+  const r = async f => { try { return JSON.parse(await readFile(path.join(dataDir, f), 'utf8')); } catch { return null; } };
+  const content = await r('parts/tema.json');
+  if (!content) return null;
+  const tall = await r('tema-tall.json');
+  return { ...content, tall: tall || null };
+}
+
 export async function readBaseline(dataDir, publicDir) {
   try {
     return { data: JSON.parse(await readFile(path.join(dataDir, 'data.json'), 'utf8')), from: 'data.json' };
@@ -706,6 +715,8 @@ async function doRun(options) {
     log.warn(`Resultatet besto ikke kontrollen (${errs.slice(0, 5).join(', ')}); ingenting skrevet.`);
     return { written: false, reason: 'invalid', errors: errs, refreshed };
   }
+  const tema = await readTema(opts.dataDir);
+  if (tema) next.tema = tema;
   const events = digest(base, next, today);
   next.nytt = mergeNytt(base.nytt, events, today);
   next.status = { ranAt: new Date(opts.now || Date.now()).toISOString(), refreshed, newEvents: events.length };

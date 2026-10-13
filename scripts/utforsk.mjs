@@ -20,23 +20,30 @@ const json = s => { try { return JSON.parse(s); } catch { return null; } };
 
 /* ---------------- 1. SSB ---------------- */
 const SSB_QUERIES = {
-  okonomi: ['konsumprisindeks', 'vedvarende lavinntekt', 'inntekt husholdninger lavinntekt'],
-  helse: ['fastlege', 'psykisk helsevern', 'spesialisthelsetjenesten pasienter'],
-  strom: ['elektrisitetspriser', 'nettleie', 'elektrisitet produksjon forbruk'],
-  barn: ['barnevern tiltak', 'barnevern meldinger', 'barn vedvarende lavinntekt'],
-  trygghet: ['anmeldte lovbrudd', 'straffereaksjoner', 'etterforskede lovbrudd'],
-  innvandring: ['innvandrere befolkning', 'sysselsatte innvandrere', 'bosatte flyktninger'],
-  forsvar: ['utgifter etter formål', 'offentlig forvaltning utgifter forsvar', 'forsvar'],
+  trygghet: ['voldtekt', 'anmeldte lovbrudd', 'straffereaksjoner', 'etterforskede lovbrudd'],
+  innvandring: ['innvandrere og norskfødte', 'sysselsatte innvandrere', 'bosetting flyktninger'],
+  forsvar: ['COFOG', 'utgifter offentlig forvaltning formål', 'forsvar utgifter'],
+  helse: ['ventetid', 'legeårsverk fastlege'],
 };
+// SSB tillater om lag 30 kall i minuttet.
+let lastSsb = 0;
+async function ssbGet(url) {
+  for (let i = 0; i < 4; i++) {
+    const wait = lastSsb + 2600 - Date.now(); if (wait > 0) await sleep(wait);
+    lastSsb = Date.now();
+    const r = await get(url);
+    if (r.status !== 429) return r;
+    await sleep(20000 * (i + 1));
+  }
+  return { ok: false, status: 429, text: '' };
+}
 async function ssbSearch(q) {
   const tries = [
     ['v2', `https://data.ssb.no/api/pxwebapi/v2/tables?lang=no&pageSize=8&query=${encodeURIComponent(q)}`],
-    ['v2-beta', `https://data.ssb.no/api/pxwebapi/v2-beta/tables?lang=no&pageSize=8&query=${encodeURIComponent(q)}`],
-    ['v0', `https://data.ssb.no/api/v0/no/table/?query=${encodeURIComponent(q)}`],
   ];
   const attempts = [];
   for (const [api, url] of tries) {
-    const r = await get(url); await sleep(300);
+    const r = await ssbGet(url);
     attempts.push({ api, status: r.status, error: r.error });
     const d = r.ok && json(r.text);
     if (!d) continue;
@@ -47,7 +54,7 @@ async function ssbSearch(q) {
   return { api: null, hits: [], attempts };
 }
 async function ssbMeta(id) {
-  const r = await get(`https://data.ssb.no/api/v0/no/table/${id}`); await sleep(300);
+  const r = await ssbGet(`https://data.ssb.no/api/v0/no/table/${id}`);
   const d = r.ok && json(r.text);
   if (!d || !Array.isArray(d.variables)) return { id, status: r.status, error: r.error || 'ingen metadata' };
   return {
@@ -175,7 +182,9 @@ for (const [tema, qs] of Object.entries(SSB_QUERIES)) {
   }
   console.log(`SSB ${tema}: ${out.ssb[tema].reduce((n, x) => n + x.hits.length, 0)} treff`);
 }
-const cases = await stortingCases();
+out.chosenMeta = [];
+for (const id of ['14711', '10459', '09007', '14823', '10673']) out.chosenMeta.push(await ssbMeta(id));
+const cases = [];
 console.log(`Stortinget: ${cases.length} saker lest fra ${SESSIONS.join(', ')}`);
 for (const [tema, re] of Object.entries(VOTE_MATCH)) {
   const hits = cases.filter(c => re.test(c.title) && (c.status === 1 || c.status === 'behandlet')).sort((a, b) => b.updated.localeCompare(a.updated)).slice(0, 6);
@@ -183,7 +192,7 @@ for (const [tema, re] of Object.entries(VOTE_MATCH)) {
   for (const c of hits) out.votes[tema].push({ ...c, votes: await votesFor(c.id) });
   console.log(`Stemmer ${tema}: ${hits.length} saker`);
 }
-for (const c of CHECKS) out.checks.push(await check(c));
+
 console.log(`Lenker: ${out.checks.filter(c => c.status === 200).length}/${out.checks.length} svarte 200`);
 await mkdir('data', { recursive: true });
 await writeFile('data/utforsk.json', JSON.stringify(out, null, 1) + '\n');

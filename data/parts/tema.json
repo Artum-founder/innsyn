@@ -1,0 +1,508 @@
+{
+ "tema": [
+  {
+   "id": "okonomi",
+   "nr": 1,
+   "title": "Økonomi og hverdag",
+   "kort": "Stortinget bestemmer hvor mye staten skal bruke, og hvilke skatter og avgifter vi skal betale. Regjeringen legger fram forslag til statsbudsjett hver høst, og Stortinget vedtar det før jul. Budsjettet påvirker alt fra skatt og priser til barnetrygd og kommunenes økonomi.",
+   "law": [
+    {
+     "text": "Stortinget vedtar skatter og avgifter, og bestemmer hva staten skal bruke penger på.",
+     "ref": "Grunnloven § 75",
+     "url": "https://lovdata.no/lov/1814-05-17/§75"
+    },
+    {
+     "text": "Den som ikke kan forsørge seg selv, har rett til økonomisk stønad fra NAV-kontoret.",
+     "ref": "sosialtjenesteloven § 18",
+     "url": "https://lovdata.no/lov/2009-12-18-131/§18"
+    },
+    {
+     "text": "Budsjettet legges fram i oktober. Stortinget vedtar rammene i november og hele budsjettet før jul.",
+     "ref": "Stortingets budsjettbehandling",
+     "url": "https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Budsjettbehandlingen/"
+    }
+   ],
+   "match": {
+    "committees": [
+     "Finanskomiteen"
+    ],
+    "ministries": [
+     "fin",
+     "kdd"
+    ],
+    "words": "budsjett|skatt|avgift|dagligvare|pris|inntekt|lavinntekt"
+   },
+   "ministries": [
+    "fin",
+    "kdd"
+   ],
+   "committees": [
+    "Finanskomiteen"
+   ],
+   "actions": [
+    {
+     "t": "Følg budsjetthøringene i Stortinget",
+     "d": "Komiteene holder åpne høringer om budsjettet 14.–23. oktober.",
+     "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+     "guide": "mote"
+    },
+    {
+     "t": "Skriv til finanskomiteen",
+     "d": "Si hva du mener om skatter, avgifter og budsjettet.",
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Finanskomiteen/",
+     "guide": "representant"
+    },
+    {
+     "t": "Svar på høringer fra regjeringen",
+     "d": "Alle kan svare på forslag til nye lover og regler.",
+     "url": "https://www.regjeringen.no/no/dokument/hoyringar/id1763/",
+     "guide": "horing"
+    }
+   ],
+   "help": []
+  },
+  {
+   "id": "helse",
+   "nr": 2,
+   "title": "Helse og psykisk helse",
+   "kort": "Du har rett til nødvendig helsehjelp, både fra kommunen og fra sykehusene. Får du ikke hjelp innen fristen du har fått, skal Helfo skaffe deg behandling et annet sted. Er du misfornøyd, kan du klage, og pasient- og brukerombudet hjelper deg gratis.",
+   "law": [
+    {
+     "text": "Du har rett til nødvendig helsehjelp fra kommunen der du er.",
+     "ref": "pasient- og brukerrettighetsloven § 2-1 a",
+     "url": "https://lovdata.no/lov/1999-07-02-63/§2-1a"
+    },
+    {
+     "text": "Du har rett til nødvendig helsehjelp fra spesialisthelsetjenesten innen en frist. Brytes fristen, skal Helfo finne et annet behandlingssted.",
+     "ref": "pasient- og brukerrettighetsloven § 2-1 b",
+     "url": "https://lovdata.no/lov/1999-07-02-63/§2-1b"
+    },
+    {
+     "text": "Du kan klage. Klagen går først til den som ga helsehjelpen, og deretter til Statsforvalteren.",
+     "ref": "pasient- og brukerrettighetsloven §§ 7-1 og 7-2",
+     "url": "https://lovdata.no/lov/1999-07-02-63/§7-2"
+    },
+    {
+     "text": "Pasient- og brukerombudet gir gratis råd og hjelp, og kan ta saken din videre.",
+     "ref": "pasient- og brukerrettighetsloven kapittel 8",
+     "url": "https://lovdata.no/lov/1999-07-02-63/KAPITTEL_8"
+    }
+   ],
+   "match": {
+    "committees": [
+     "Helse- og omsorgskomiteen"
+    ],
+    "ministries": [
+     "hod"
+    ],
+    "words": "helse|pasient|sykehus|fastlege|psykisk|legemiddel"
+   },
+   "ministries": [
+    "hod"
+   ],
+   "committees": [
+    "Helse- og omsorgskomiteen"
+   ],
+   "actions": [
+    {
+     "t": "Klag på helsehjelpen du har fått",
+     "d": "Først til behandlingsstedet, så til Statsforvalteren.",
+     "url": "https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp/",
+     "guide": ""
+    },
+    {
+     "t": "Få hjelp av pasient- og brukerombudet",
+     "d": "Gratis, og du kan være anonym.",
+     "url": "https://www.helsenorge.no/pasient-og-brukerombudet/",
+     "guide": ""
+    },
+    {
+     "t": "Skriv til helse- og omsorgskomiteen",
+     "d": "Si hva du mener om helsetilbudet der du bor.",
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Helse--og-omsorgskomiteen/",
+     "guide": "representant"
+    }
+   ],
+   "help": [
+    "nodnummer",
+    "legevakt",
+    "mentalhelse",
+    "kirkens-sos"
+   ]
+  },
+  {
+   "id": "strom",
+   "nr": 3,
+   "title": "Strøm og energi",
+   "kort": "Strømprisen avhenger av hvor i landet du bor, fordi Norge er delt i fem prisområder. I tillegg til strømmen betaler du nettleie og avgifter, som myndighetene fastsetter rammene for. Stortinget bestemmer støtteordninger og regler for kraft, nett og utbygging.",
+   "law": [
+    {
+     "text": "Den som vil bygge eller drive kraftanlegg og strømnett, må ha konsesjon (tillatelse) fra staten.",
+     "ref": "energiloven",
+     "url": "https://lovdata.no/lov/1990-06-29-50"
+    },
+    {
+     "text": "Nettleien fastsettes av nettselskapene innenfor rammer fra Reguleringsmyndigheten for energi (RME) i NVE.",
+     "ref": "energiloven",
+     "url": "https://www.nve.no/reguleringsmyndigheten/"
+    },
+    {
+     "text": "Husholdninger kan få strømstøtte etter egne regler som Stortinget har vedtatt.",
+     "ref": "strømstønadsloven",
+     "url": "https://lovdata.no/sok?q=str%C3%B8mst%C3%B8nadsloven"
+    }
+   ],
+   "match": {
+    "committees": [
+     "Energi- og miljøkomiteen"
+    ],
+    "ministries": [
+     "ed",
+     "kld"
+    ],
+    "words": "strøm|kraft|energi|nett|sol|vind|datasenter"
+   },
+   "ministries": [
+    "ed",
+    "kld"
+   ],
+   "committees": [
+    "Energi- og miljøkomiteen"
+   ],
+   "actions": [
+    {
+     "t": "Send innspill til energi- og miljøkomiteen",
+     "d": "Komiteen tar imot innspill når den behandler saker om strøm.",
+     "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+     "guide": "innspill"
+    },
+    {
+     "t": "Svar på høringer fra Energidepartementet",
+     "d": "Forslag om strøm, nett og kraft sendes ofte på høring.",
+     "url": "https://www.regjeringen.no/no/dokument/hoyringar/id1763/",
+     "guide": "horing"
+    },
+    {
+     "t": "Skriv til energi- og miljøkomiteen",
+     "d": "Si hva du mener om strømpris og nettleie.",
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Energi--og-miljokomiteen/",
+     "guide": "representant"
+    }
+   ],
+   "help": []
+  },
+  {
+   "id": "barn",
+   "nr": 4,
+   "title": "Barn, familie og barnevern",
+   "kort": "Barnets beste skal være et grunnleggende hensyn i alle saker som gjelder barn. Kommunen har ansvar for barnevernet, og alle kan si fra hvis de er bekymret for et barn. Barneombudet passer på at barns rettigheter blir fulgt.",
+   "law": [
+    {
+     "text": "Barnets beste skal være et grunnleggende hensyn i alle handlinger og avgjørelser som berører barn.",
+     "ref": "Grunnloven § 104",
+     "url": "https://lovdata.no/lov/1814-05-17/§104"
+    },
+    {
+     "text": "Barnevernsloven fra 2021 gir barn rett til hjelp og beskyttelse, og til å bli hørt.",
+     "ref": "barnevernsloven",
+     "url": "https://lovdata.no/lov/2021-06-18-97"
+    },
+    {
+     "text": "Ansatte i blant annet skole, barnehage og helse har plikt til å melde fra til barnevernet ved alvorlig bekymring.",
+     "ref": "barnevernsloven § 13-2",
+     "url": "https://lovdata.no/lov/2021-06-18-97/§13-2"
+    },
+    {
+     "text": "FNs barnekonvensjon gjelder som norsk lov.",
+     "ref": "menneskerettsloven",
+     "url": "https://lovdata.no/lov/1999-05-21-30"
+    }
+   ],
+   "match": {
+    "committees": [
+     "Familie- og kulturkomiteen"
+    ],
+    "ministries": [
+     "bfd"
+    ],
+    "words": "barn|barnevern|familie|foreldre|barnetrygd|barnehage"
+   },
+   "ministries": [
+    "bfd",
+    "kd"
+   ],
+   "committees": [
+    "Familie- og kulturkomiteen"
+   ],
+   "actions": [
+    {
+     "t": "Meld fra hvis du er bekymret for et barn",
+     "d": "Alle kan sende bekymringsmelding til barnevernet, også anonymt.",
+     "url": "https://www.bufdir.no/barnevern/meld-bekymring/",
+     "guide": ""
+    },
+    {
+     "t": "Kontakt Barneombudet",
+     "d": "Barneombudet tar opp saker som gjelder mange barn.",
+     "url": "https://www.barneombudet.no/",
+     "guide": ""
+    },
+    {
+     "t": "Skriv til familie- og kulturkomiteen",
+     "d": "Komiteen behandler saker om barnevern og familie.",
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Familie--og-kulturkomiteen/",
+     "guide": "representant"
+    }
+   ],
+   "help": [
+    "alarmtelefonen",
+    "politi"
+   ]
+  },
+  {
+   "id": "trygghet",
+   "nr": 5,
+   "title": "Trygghet og seksualisert vold",
+   "kort": "Siden 1. juli 2025 er voldtekt definert ut fra samtykke: sex med noen som ikke ved ord eller handling har vist at de vil, er voldtekt. For å dømme noen må retten være sikker utover rimelig tvil, og en frifinnelse betyr ikke at ingenting har skjedd. Mange saker blir aldri anmeldt, og tallene under viser hvor mange som når hvert steg i rettssystemet.",
+   "law": [
+    {
+     "text": "Sex med en person som ikke ved ord eller handling har gitt uttrykk for at hun eller han vil, er voldtekt. Grovere former kan gi opptil ti års fengsel.",
+     "ref": "straffeloven § 291 (fra 1. juli 2025)",
+     "url": "https://lovdata.no/lov/2005-05-20-28/§291"
+    },
+    {
+     "text": "Den som er utsatt for voldtekt, har rett til bistandsadvokat, betalt av staten.",
+     "ref": "straffeprosessloven § 107 a",
+     "url": "https://lovdata.no/lov/1981-05-22-25/§107a"
+    },
+    {
+     "text": "Alle har rett til å bli ansett som uskyldige til skyld er bevist etter loven.",
+     "ref": "Grunnloven § 96",
+     "url": "https://lovdata.no/lov/1814-05-17/§96"
+    }
+   ],
+   "match": {
+    "committees": [
+     "Justiskomiteen"
+    ],
+    "ministries": [
+     "jd"
+    ],
+    "words": "vold|voldtekt|seksuell|overgrep|politi|menneskehandel|straff"
+   },
+   "ministries": [
+    "jd",
+    "hod",
+    "bfd",
+    "kd"
+   ],
+   "committees": [
+    "Justiskomiteen"
+   ],
+   "actions": [
+    {
+     "t": "Skriv til justiskomiteen",
+     "d": "Komiteen behandler saker om straff, politi og vern mot vold.",
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Justiskomiteen/",
+     "guide": "representant"
+    },
+    {
+     "t": "Skriv til justisministeren",
+     "d": "Send e-post til postmottak@jd.dep.no. Brevet blir journalført.",
+     "url": "https://www.regjeringen.no/no/dep/jd/kontakt/id471/",
+     "guide": ""
+    },
+    {
+     "t": "Følg budsjetthøringen i justiskomiteen",
+     "d": "Åpen høring om justisbudsjettet 21. og 23. oktober.",
+     "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+     "guide": "mote"
+    }
+   ],
+   "help": [
+    "politi",
+    "overgrepsmottak",
+    "smiso",
+    "dixi"
+   ]
+  },
+  {
+   "id": "innvandring",
+   "nr": 6,
+   "title": "Innvandring og integrering",
+   "kort": "Utlendingsloven bestemmer hvem som kan få bo i Norge, for eksempel som flyktning, for å jobbe eller gjennom familiegjenforening. Kommunene bosetter flyktninger etter avtale med staten, og nyankomne flyktninger har rett og plikt til introduksjonsprogram. Stortinget behandler nå et forslag om familiegjenforening med barn.",
+   "law": [
+    {
+     "text": "Utlendingsloven har reglene for asyl, arbeidsinnvandring og familiegjenforening.",
+     "ref": "utlendingsloven",
+     "url": "https://lovdata.no/lov/2008-05-15-35"
+    },
+    {
+     "text": "Nyankomne flyktninger har rett og plikt til introduksjonsprogram og opplæring i norsk.",
+     "ref": "integreringsloven",
+     "url": "https://lovdata.no/lov/2020-11-06-127"
+    },
+    {
+     "text": "Statsborgerloven har kravene for å bli norsk statsborger.",
+     "ref": "statsborgerloven",
+     "url": "https://lovdata.no/lov/2005-06-10-51"
+    }
+   ],
+   "match": {
+    "committees": [],
+    "ministries": [
+     "jd",
+     "aid"
+    ],
+    "words": "utlending|asyl|familiegjenforening|integrering|statsborger|flyktning|innvandr"
+   },
+   "ministries": [
+    "jd",
+    "aid",
+    "kdd"
+   ],
+   "committees": [
+    "Kommunal- og forvaltningskomiteen"
+   ],
+   "actions": [
+    {
+     "t": "Send innspill om familiegjenforening",
+     "d": "Fristen for skriftlige innspill er 26. oktober kl. 12.",
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200370",
+     "guide": "innspill"
+    },
+    {
+     "t": "Skriv til kommunal- og forvaltningskomiteen",
+     "d": "Komiteen behandler saker om innvandring og integrering.",
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Kommunal--og-forvaltningskomiteen/",
+     "guide": "representant"
+    },
+    {
+     "t": "Be om innsyn i dokumentene",
+     "d": "Se hva departementene har skrevet i saken.",
+     "url": "https://einnsyn.no",
+     "guide": "innsyn"
+    }
+   ],
+   "help": []
+  },
+  {
+   "id": "forsvar",
+   "nr": 7,
+   "title": "Forsvar og beredskap",
+   "kort": "Forsvaret er under folkevalgt kontroll: Stortinget bevilger pengene og vedtar langtidsplanene, og regjeringen styrer. Kongen har formelt høyeste befaling, men beslutningene tas av regjeringen. Stortinget behandler nå blant annet eksporten av forsvarsmateriell i 2025.",
+   "law": [
+    {
+     "text": "Kongen har høyeste befaling over forsvaret. I praksis utøves den av regjeringen.",
+     "ref": "Grunnloven § 25",
+     "url": "https://lovdata.no/lov/1814-05-17/§25"
+    },
+    {
+     "text": "Stortinget bevilger pengene forsvaret får.",
+     "ref": "Grunnloven § 75",
+     "url": "https://lovdata.no/lov/1814-05-17/§75"
+    },
+    {
+     "text": "Avtaler med andre land som er særlig viktige, krever Stortingets samtykke.",
+     "ref": "Grunnloven § 26",
+     "url": "https://lovdata.no/lov/1814-05-17/§26"
+    }
+   ],
+   "match": {
+    "committees": [
+     "Utenriks- og forsvarskomiteen"
+    ],
+    "ministries": [
+     "fd",
+     "ud"
+    ],
+    "words": "forsvar|beredskap|nato|eksport|sikkerhet"
+   },
+   "ministries": [
+    "fd",
+    "ud",
+    "jd"
+   ],
+   "committees": [
+    "Utenriks- og forsvarskomiteen"
+   ],
+   "actions": [
+    {
+     "t": "Følg budsjetthøringen i utenriks- og forsvarskomiteen",
+     "d": "Åpen høring 15. og 16. oktober.",
+     "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+     "guide": "mote"
+    },
+    {
+     "t": "Skriv til utenriks- og forsvarskomiteen",
+     "d": "Si hva du mener om forsvar og beredskap.",
+     "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Utenriks--og-forsvarskomiteen/",
+     "guide": "representant"
+    },
+    {
+     "t": "Les eksportmeldingen og si din mening",
+     "d": "Meld. St. 12 viser hva Norge eksporterte av forsvarsmateriell i 2025.",
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200374",
+     "guide": ""
+    }
+   ],
+   "help": []
+  }
+ ],
+ "help": {
+  "nodnummer": {
+   "name": "Akutt fare for liv og helse",
+   "phone": "113",
+   "url": "https://www.helsenorge.no/forstehjelp/nodnummer/",
+   "when": "Ring ambulanse ved akutt sykdom eller skade."
+  },
+  "legevakt": {
+   "name": "Legevakt",
+   "phone": "116 117",
+   "url": "https://www.helsenorge.no/legevakt/",
+   "when": "Når du trenger lege raskt, men det ikke er livstruende."
+  },
+  "mentalhelse": {
+   "name": "Mental Helse hjelpetelefon",
+   "phone": "116 123",
+   "url": "https://mentalhelse.no/fa-hjelp/hjelpetelefonen",
+   "when": "Noen å snakke med, døgnet rundt."
+  },
+  "kirkens-sos": {
+   "name": "Kirkens SOS",
+   "phone": "22 40 00 40",
+   "url": "https://www.kirkens-sos.no/",
+   "when": "Krisetelefon døgnet rundt."
+  },
+  "alarmtelefonen": {
+   "name": "Alarmtelefonen for barn og unge",
+   "phone": "116 111",
+   "url": "https://www.116111.no/",
+   "when": "Gratis for barn og unge som opplever vold, overgrep eller omsorgssvikt."
+  },
+  "politi": {
+   "name": "Politiet",
+   "phone": "112",
+   "url": "https://www.politiet.no/kontakt-politiet/",
+   "when": "Ring 112 ved fare. Ellers 02800."
+  },
+  "overgrepsmottak": {
+   "name": "Overgrepsmottak",
+   "phone": "116 117",
+   "url": "https://dinutvei.no/overgrepsmottak",
+   "when": "Gratis hjelp etter voldtekt eller overgrep. Du kan komme uten å anmelde."
+  },
+  "smiso": {
+   "name": "Hjelpetelefonen for seksuelt misbrukte",
+   "phone": "800 57 000",
+   "url": "https://www.smiso.no/",
+   "when": "Gratis og anonymt."
+  },
+  "dixi": {
+   "name": "DIXI Ressurssenter",
+   "phone": "22 44 40 50",
+   "url": "https://www.dixi.no/",
+   "when": "For deg som er utsatt for voldtekt, og pårørende."
+  }
+ }
+}
