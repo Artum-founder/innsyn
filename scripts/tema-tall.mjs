@@ -36,15 +36,31 @@ export const STATS = [
   { id: 'kpi', tema: 'okonomi', table: '14711', label: 'Prisvekst: endring i konsumprisindeksen fra året før', unit: 'prosent', years: 11, transform: 'yoy', chart: 'bar',
     note: 'Regnet ut fra den årlige konsumprisindeksen (KPI).' },
   { id: 'lavinntekt', tema: 'okonomi', table: '10459', label: 'Andel som bor i husholdninger med vedvarende lavinntekt', unit: 'prosent', years: 10, chart: 'line',
-    select: { ContentsCode: /prosent|andel/i, Alder: /i alt|alle|^total/i } },
-  { id: 'strompris', tema: 'strom', table: '09007', label: 'Hva husholdningene betaler for strøm, per kWh', unit: 'øre/kWh', years: 10, chart: 'stack', seriesBy: 'ContentsCode',
-    note: 'Kraftpris, nettleie og avgifter, gjennomsnitt for landet.' },
+    select: { ContentsCode: /^(andel|prosent)/i, Alder: /i alt|alle|^total/i } },
+  { id: 'strompris', tema: 'strom', table: '09007', label: 'Hva husholdningene betaler for strøm og nettleie, per kWh', unit: 'øre/kWh', years: 10, chart: 'line', seriesBy: 'ContentsCode',
+    select: { ContentsCode: /^Kraft og nett i alt inkl\. avgifter/i },
+    rename: [[/fratrukket|støtte/i, 'Etter strømstøtte og Norgespris'], [/inkl\. avgifter/i, 'Før støtte']],
+    note: 'Kraftpris og nettleie med avgifter, gjennomsnitt for landet.' },
   { id: 'psykisk', tema: 'helse', table: '14823', label: 'Voksne pasienter i psykisk helsevern, per 1 000 innbyggere', unit: 'per 1 000', years: 10, chart: 'line',
     select: { Kjonn: /begge|i alt|alle/i, InnvandrKat: /i alt|alle|hele/i } },
+  { id: 'voldtekt-etterforsket', tema: 'trygghet', table: '09406', label: 'Voldtekter etterforsket av politiet', unit: 'lovbrudd', years: 10, chart: 'bar',
+    selectAny: [/^voldtekt/i], select: { ContentsCode: /^(?!.*prosent)/i },
+    note: 'Etterforskede lovbrudd, ikke antall personer.' },
+  { id: 'voldtekt-oppklart', tema: 'trygghet', table: '09406', label: 'Oppklaringsprosent for voldtekt', unit: 'prosent', years: 10, chart: 'line',
+    selectAny: [/^voldtekt/i], select: { ContentsCode: /oppklar/i },
+    note: 'Andel etterforskede voldtektssaker der politiet mener saken er oppklart.' },
+  { id: 'voldtekt-avgjort', tema: 'trygghet', table: '09405', label: 'Hva skjedde med voldtektssakene politiet etterforsket', unit: 'lovbrudd', years: 1, chart: 'hbar',
+    selectAny: [/^voldtekt/i], seriesByText: /avgjørelse|avgjerd/i,
+    note: 'Siste år. Henleggelse betyr ikke nødvendigvis at ingenting har skjedd.' },
+  { id: 'innvandrere', tema: 'innvandring', table: '05183', label: 'Innvandrere og norskfødte med innvandrerforeldre', unit: 'personer', years: 10, chart: 'bar',
+    select: { ContentsCode: /prosent|andel/i },
+    variants: [[/prosent|andel/i, 'Innvandrere og norskfødte med innvandrerforeldre, andel av befolkningen', 'prosent'], [/./, 'Innvandrere og norskfødte med innvandrerforeldre', 'personer']] },
+  { id: 'forsvarsutgifter', tema: 'forsvar', table: '14669', label: 'Offentlige utgifter til forsvar', unit: 'mrd. kr', years: 10, chart: 'bar', scale: 0.001,
+    selectAny: [/^forsvar/i], note: 'Offentlig forvaltnings utgifter til forsvar, løpende kroner.' },
   { id: 'bekymring', tema: 'barn', table: '10673', label: 'Bekymringsmeldinger til barnevernet', unit: 'meldinger', years: 10, chart: 'bar',
     select: { ContentsCode: /bekymringsmelding/i } },
   { id: 'barnlavinntekt', tema: 'barn', table: '10459', label: 'Andel barn (0–17 år) i husholdninger med vedvarende lavinntekt', unit: 'prosent', years: 10, chart: 'line',
-    select: { ContentsCode: /prosent|andel/i, Alder: /0-17|0–17|under 18/i } },
+    select: { ContentsCode: /^(andel|prosent)/i, Alder: /0-17|0–17|under 18/i } },
 ];
 
 export const VOTES = [
@@ -71,15 +87,16 @@ export const CHECKS = {
   smiso: { urls: ['https://smiso.no/'], want: ['800 57 000'] },
   dixi: { urls: ['https://www.dixi.no/'], want: ['22 44 40 50'] },
   // lenker i «Hva kan du gjøre»
-  'klage-helse': { urls: ['https://www.helsenorge.no/rettigheter/klage-pa-helsetjenester/', 'https://www.helsenorge.no/rettigheter/klage/', 'https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp', 'https://www.statsforvalteren.no/tema/helse/klage-pa-helse--og-omsorgstjenester/'], want: ['klage', 'statsforvalter'] },
+  'klage-helse': { urls: ['https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp-og-tjenester/', 'https://www.helsenorge.no/rettigheter/klage-og-erstatning/', 'https://www.helsetilsynet.no/klage-og-tilsyn/', 'https://www.helsenorge.no/rettigheter/klage-pa-helsetjenester/', 'https://www.helsenorge.no/rettigheter/klage/', 'https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp', 'https://www.statsforvalteren.no/tema/helse/klage-pa-helse--og-omsorgstjenester/'], want: ['klage', 'statsforvalter'] },
   fristbrudd: { urls: ['https://www.helsenorge.no/rettigheter/fristbrudd/', 'https://www.helsenorge.no/rettigheter/ventetid-og-fristbrudd/', 'https://www.helfo.no/fristbrudd'], want: ['fristbrudd', 'helfo'] },
   pasientombud: { urls: ['https://www.pasientogbrukerombudet.no/'], want: ['ombud'] },
   bekymring: { urls: ['https://www.bufdir.no/barnevern/bekymringsmelding/', 'https://www.bufdir.no/barnevern/meld-fra-til-barnevernet/', 'https://www.bufdir.no/barnevern/hva-skjer-nar-du-melder-fra/', 'https://www.bufdir.no/barnevern/'], want: ['bekymring'] },
   barneombudet: { urls: ['https://www.barneombudet.no/'], want: ['barneombudet'] },
   horinger: { urls: ['https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/'], want: ['høring'] },
-  komiteer: { urls: ['https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/'], want: ['komite'] },
-  'kom-finans': { urls: ['https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Finanskomiteen/'], want: ['finanskomiteen'] },
-  'kom-justis': { urls: ['https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Justiskomiteen/'], want: ['justiskomiteen'] },
+  'repr-epost': { urls: ['https://www.stortinget.no/no/Stottemeny/kontakt/representanter-og-partigrupper/Representantenes-e-postadresser/', 'https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/'], want: ['stortinget.no'] },
+  komiteer: { urls: ['https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/', 'https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/'], want: ['komite'] },
+  'kom-finans': { urls: ['https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Finanskomiteen/', 'https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Komite/?kid=FINANS', 'https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Finanskomiteen/'], want: ['finanskomiteen'] },
+  'kom-justis': { urls: ['https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Justiskomiteen/', 'https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Komite/?kid=JUSTIS', 'https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Justiskomiteen/'], want: ['justiskomiteen'] },
   einnsyn: { urls: ['https://einnsyn.no/'], want: ['innsyn'] },
   budsjettbehandling: { urls: ['https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Budsjettbehandlingen/', 'https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Budsjett/'], want: ['budsjett'] },
 };
@@ -95,7 +112,7 @@ async function meta(table) {
   if (!d || !Array.isArray(d.variables)) throw new Error(`metadata ${table}: HTTP ${r.status}`);
   metaCache.set(table, d); return d;
 }
-const TOTAL = /^(i alt|alle|begge kjønn|hele landet|total|totalt|0 i alt)/i;
+const TOTAL = /(^|\s)(i alt|alle|totalt?)(\s|$)|^begge kjønn|^hele landet/i;
 export function buildQuery(m, cfg) {
   const query = [], chosen = {};
   for (const v of m.variables) {
@@ -104,7 +121,9 @@ export function buildQuery(m, cfg) {
       const vals = v.values.slice(-(cfg.years + (cfg.transform === 'yoy' ? 1 : 0)));
       query.push({ code: v.code, selection: { filter: 'item', values: vals } }); chosen[v.code] = 'tid: ' + vals[0] + '–' + vals.at(-1); continue;
     }
-    const re = cfg.select && (cfg.select[v.code] || Object.entries(cfg.select).find(([k]) => k.toLowerCase() === v.code.toLowerCase())?.[1]);
+    if (cfg.seriesByText && !cfg.seriesBy && cfg.seriesByText.test(v.text)) cfg.seriesBy = v.code;
+    let re = cfg.select && (cfg.select[v.code] || Object.entries(cfg.select).find(([k]) => k.toLowerCase() === v.code.toLowerCase())?.[1]);
+    if (!re && cfg.selectAny) re = cfg.selectAny.find(r => texts.some(t => r.test(t))) || null;
     let idx = [];
     if (re) idx = texts.map((t, i) => (re.test(t) || re.test(v.values.at(i))) ? i : -1).filter(i => i >= 0);
     if (cfg.seriesBy === v.code && !idx.length) idx = texts.map((_, i) => i);
@@ -134,7 +153,8 @@ export function parseJsonStat2(d) {
   return { rows, dims };
 }
 const tidLabel = s => String(s).replace(/^(\d{4})K(\d)$/, '$1 K$2').replace(/^(\d{4})M(\d{2})$/, '$1-$2');
-async function fetchStat(cfg) {
+async function fetchStat(cfg0) {
+  let cfg = { ...cfg0 };
   const m = await meta(cfg.table);
   const { query, chosen } = buildQuery(m, cfg);
   const r = await ssb(V0 + cfg.table, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ query, response: { format: 'json-stat2' } }) });
@@ -149,7 +169,12 @@ async function fetchStat(cfg) {
     if (!groups.has(name)) groups.set(name, []);
     if (row.value !== null && row.value !== undefined) groups.get(name).push({ x: tidLabel(row['_' + timeVar]), y: row.value });
   }
-  let series = [...groups].map(([name, points]) => ({ name, points }));
+  const chosenText = Object.values(chosen).join(' ');
+  for (const [re, label, unit] of cfg.variants || []) if (re.test(chosenText)) { cfg = { ...cfg, label, unit }; break; }
+  const k = cfg.scale || 1;
+  if (k !== 1) for (const [, pts] of groups) for (const p of pts) p.y = Math.round(p.y * k * 10) / 10;
+  const rename = n => { for (const [re, to] of cfg.rename || []) if (re.test(n)) return to; return n; };
+  let series = [...groups].map(([name, points]) => ({ name: rename(name), points }));
   if (cfg.transform === 'yoy') series = series.map(s => ({ name: s.name, points: s.points.slice(1).map((p, i) => ({ x: p.x, y: Math.round((p.y / s.points.at(i).y - 1) * 1000) / 10 })) }));
   return {
     id: cfg.id, tema: cfg.tema, label: cfg.label, unit: cfg.unit, chart: cfg.chart, note: cfg.note || '',

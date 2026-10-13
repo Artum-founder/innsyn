@@ -18,8 +18,8 @@
     },
     {
      "text": "Budsjettet legges fram i oktober. Stortinget vedtar rammene i november og hele budsjettet før jul.",
-     "ref": "Stortingets budsjettbehandling",
-     "url": "https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Budsjettbehandlingen/"
+     "ref": "Statsbudsjettet 2027 på stortinget.no",
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200434"
     }
    ],
    "match": {
@@ -50,7 +50,8 @@
      "t": "Skriv til finanskomiteen",
      "d": "Si hva du mener om skatter, avgifter og budsjettet.",
      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Finanskomiteen/",
-     "guide": "representant"
+     "guide": "representant",
+     "check": "komiteer"
     },
     {
      "t": "Svar på høringer fra regjeringen",
@@ -107,8 +108,9 @@
     {
      "t": "Klag på helsehjelpen du har fått",
      "d": "Først til behandlingsstedet, så til Statsforvalteren.",
-     "url": "https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp/",
-     "guide": ""
+     "url": "https://www.pasientogbrukerombudet.no/",
+     "guide": "",
+     "check": "klage-helse"
     },
     {
      "t": "Få hjelp av pasient- og brukerombudet",
@@ -120,7 +122,8 @@
      "t": "Skriv til helse- og omsorgskomiteen",
      "d": "Si hva du mener om helsetilbudet der du bor.",
      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Helse--og-omsorgskomiteen/",
-     "guide": "representant"
+     "guide": "representant",
+     "check": "komiteer"
     }
    ],
    "help": [
@@ -186,7 +189,8 @@
      "t": "Skriv til energi- og miljøkomiteen",
      "d": "Si hva du mener om strømpris og nettleie.",
      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Energi--og-miljokomiteen/",
-     "guide": "representant"
+     "guide": "representant",
+     "check": "komiteer"
     }
    ],
    "help": []
@@ -238,8 +242,9 @@
     {
      "t": "Meld fra hvis du er bekymret for et barn",
      "d": "Alle kan sende bekymringsmelding til barnevernet, også anonymt.",
-     "url": "https://www.bufdir.no/barnevern/meld-bekymring/",
-     "guide": ""
+     "url": "https://www.bufdir.no/barnevern/",
+     "guide": "",
+     "check": "bekymring"
     },
     {
      "t": "Kontakt Barneombudet",
@@ -251,7 +256,8 @@
      "t": "Skriv til familie- og kulturkomiteen",
      "d": "Komiteen behandler saker om barnevern og familie.",
      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Familie--og-kulturkomiteen/",
-     "guide": "representant"
+     "guide": "representant",
+     "check": "komiteer"
     }
    ],
    "help": [
@@ -304,7 +310,8 @@
      "t": "Skriv til justiskomiteen",
      "d": "Komiteen behandler saker om straff, politi og vern mot vold.",
      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Justiskomiteen/",
-     "guide": "representant"
+     "guide": "representant",
+     "check": "komiteer"
     },
     {
      "t": "Skriv til justisministeren",
@@ -375,7 +382,8 @@
      "t": "Skriv til kommunal- og forvaltningskomiteen",
      "d": "Komiteen behandler saker om innvandring og integrering.",
      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Kommunal--og-forvaltningskomiteen/",
-     "guide": "representant"
+     "guide": "representant",
+     "check": "komiteer"
     },
     {
      "t": "Be om innsyn i dokumentene",
@@ -437,7 +445,8 @@
      "t": "Skriv til utenriks- og forsvarskomiteen",
      "d": "Si hva du mener om forsvar og beredskap.",
      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Utenriks--og-forsvarskomiteen/",
-     "guide": "representant"
+     "guide": "representant",
+     "check": "komiteer"
     },
     {
      "t": "Les eksportmeldingen og si din mening",
@@ -489,7 +498,8 @@
   "overgrepsmottak": {
    "name": "Overgrepsmottak",
    "phone": "116 117",
-   "url": "https://dinutvei.no/overgrepsmottak",
+   "url": "https://dinutvei.no/",
+   "link": "https://dinutvei.no/",
    "when": "Gratis hjelp etter voldtekt eller overgrep. Du kan komme uten å anmelde."
   },
   "smiso": {

@@ -11,13 +11,13 @@ tema = [
   law=[
    dict(text='Stortinget vedtar skatter og avgifter, og bestemmer hva staten skal bruke penger på.', ref='Grunnloven § 75', url=L+'1814-05-17/§75'),
    dict(text='Den som ikke kan forsørge seg selv, har rett til økonomisk stønad fra NAV-kontoret.', ref='sosialtjenesteloven § 18', url=L+'2009-12-18-131/§18'),
-   dict(text='Budsjettet legges fram i oktober. Stortinget vedtar rammene i november og hele budsjettet før jul.', ref='Stortingets budsjettbehandling', url='https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Budsjettbehandlingen/'),
+   dict(text='Budsjettet legges fram i oktober. Stortinget vedtar rammene i november og hele budsjettet før jul.', ref='Statsbudsjettet 2027 på stortinget.no', url='https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200434'),
   ],
   match=dict(committees=['Finanskomiteen'], ministries=['fin','kdd'], words='budsjett|skatt|avgift|dagligvare|pris|inntekt|lavinntekt'),
   ministries=['fin','kdd'], committees=['Finanskomiteen'],
   actions=[
    dict(t='Følg budsjetthøringene i Stortinget', d='Komiteene holder åpne høringer om budsjettet 14.–23. oktober.', url='https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/', guide='mote'),
-   dict(t='Skriv til finanskomiteen', d='Si hva du mener om skatter, avgifter og budsjettet.', url=STO+'Finanskomiteen/', guide='representant'),
+   dict(t='Skriv til finanskomiteen', d='Si hva du mener om skatter, avgifter og budsjettet.', url=STO+'Finanskomiteen/', guide='representant', check='komiteer'),
    dict(t='Svar på høringer fra regjeringen', d='Alle kan svare på forslag til nye lover og regler.', url='https://www.regjeringen.no/no/dokument/hoyringar/id1763/', guide='horing'),
   ], help=[]),
  dict(id='helse', nr=2, title='Helse og psykisk helse',
@@ -31,9 +31,9 @@ tema = [
   match=dict(committees=['Helse- og omsorgskomiteen'], ministries=['hod'], words='helse|pasient|sykehus|fastlege|psykisk|legemiddel'),
   ministries=['hod'], committees=['Helse- og omsorgskomiteen'],
   actions=[
-   dict(t='Klag på helsehjelpen du har fått', d='Først til behandlingsstedet, så til Statsforvalteren.', url='https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp/', guide=''),
+   dict(t='Klag på helsehjelpen du har fått', d='Først til behandlingsstedet, så til Statsforvalteren.', url='https://www.pasientogbrukerombudet.no/', guide='', check='klage-helse'),
    dict(t='Få hjelp av pasient- og brukerombudet', d='Gratis, og du kan være anonym.', url='https://www.helsenorge.no/pasient-og-brukerombudet/', guide=''),
-   dict(t='Skriv til helse- og omsorgskomiteen', d='Si hva du mener om helsetilbudet der du bor.', url=STO+'Helse--og-omsorgskomiteen/', guide='representant'),
+   dict(t='Skriv til helse- og omsorgskomiteen', d='Si hva du mener om helsetilbudet der du bor.', url=STO+'Helse--og-omsorgskomiteen/', guide='representant', check='komiteer'),
   ], help=['nodnummer','legevakt','mentalhelse','kirkens-sos']),
  dict(id='strom', nr=3, title='Strøm og energi',
   kort='Strømprisen avhenger av hvor i landet du bor, fordi Norge er delt i fem prisområder. I tillegg til strømmen betaler du nettleie og avgifter, som myndighetene fastsetter rammene for. Stortinget bestemmer støtteordninger og regler for kraft, nett og utbygging.',
@@ -47,7 +47,7 @@ tema = [
   actions=[
    dict(t='Send innspill til energi- og miljøkomiteen', d='Komiteen tar imot innspill når den behandler saker om strøm.', url='https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/', guide='innspill'),
    dict(t='Svar på høringer fra Energidepartementet', d='Forslag om strøm, nett og kraft sendes ofte på høring.', url='https://www.regjeringen.no/no/dokument/hoyringar/id1763/', guide='horing'),
-   dict(t='Skriv til energi- og miljøkomiteen', d='Si hva du mener om strømpris og nettleie.', url=STO+'Energi--og-miljokomiteen/', guide='representant'),
+   dict(t='Skriv til energi- og miljøkomiteen', d='Si hva du mener om strømpris og nettleie.', url=STO+'Energi--og-miljokomiteen/', guide='representant', check='komiteer'),
   ], help=[]),
  dict(id='barn', nr=4, title='Barn, familie og barnevern',
   kort='Barnets beste skal være et grunnleggende hensyn i alle saker som gjelder barn. Kommunen har ansvar for barnevernet, og alle kan si fra hvis de er bekymret for et barn. Barneombudet passer på at barns rettigheter blir fulgt.',
@@ -60,9 +60,9 @@ tema = [
   match=dict(committees=['Familie- og kulturkomiteen'], ministries=['bfd'], words='barn|barnevern|familie|foreldre|barnetrygd|barnehage'),
   ministries=['bfd','kd'], committees=['Familie- og kulturkomiteen'],
   actions=[
-   dict(t='Meld fra hvis du er bekymret for et barn', d='Alle kan sende bekymringsmelding til barnevernet, også anonymt.', url='https://www.bufdir.no/barnevern/meld-bekymring/', guide=''),
+   dict(t='Meld fra hvis du er bekymret for et barn', d='Alle kan sende bekymringsmelding til barnevernet, også anonymt.', url='https://www.bufdir.no/barnevern/', guide='', check='bekymring'),
    dict(t='Kontakt Barneombudet', d='Barneombudet tar opp saker som gjelder mange barn.', url='https://www.barneombudet.no/', guide=''),
-   dict(t='Skriv til familie- og kulturkomiteen', d='Komiteen behandler saker om barnevern og familie.', url=STO+'Familie--og-kulturkomiteen/', guide='representant'),
+   dict(t='Skriv til familie- og kulturkomiteen', d='Komiteen behandler saker om barnevern og familie.', url=STO+'Familie--og-kulturkomiteen/', guide='representant', check='komiteer'),
   ], help=['alarmtelefonen','politi']),
  dict(id='trygghet', nr=5, title='Trygghet og seksualisert vold',
   kort='Siden 1. juli 2025 er voldtekt definert ut fra samtykke: sex med noen som ikke ved ord eller handling har vist at de vil, er voldtekt. For å dømme noen må retten være sikker utover rimelig tvil, og en frifinnelse betyr ikke at ingenting har skjedd. Mange saker blir aldri anmeldt, og tallene under viser hvor mange som når hvert steg i rettssystemet.',
@@ -74,7 +74,7 @@ tema = [
   match=dict(committees=['Justiskomiteen'], ministries=['jd'], words='vold|voldtekt|seksuell|overgrep|politi|menneskehandel|straff'),
   ministries=['jd','hod','bfd','kd'], committees=['Justiskomiteen'],
   actions=[
-   dict(t='Skriv til justiskomiteen', d='Komiteen behandler saker om straff, politi og vern mot vold.', url=STO+'Justiskomiteen/', guide='representant'),
+   dict(t='Skriv til justiskomiteen', d='Komiteen behandler saker om straff, politi og vern mot vold.', url=STO+'Justiskomiteen/', guide='representant', check='komiteer'),
    dict(t='Skriv til justisministeren', d='Send e-post til postmottak@jd.dep.no. Brevet blir journalført.', url='https://www.regjeringen.no/no/dep/jd/kontakt/id471/', guide=''),
    dict(t='Følg budsjetthøringen i justiskomiteen', d='Åpen høring om justisbudsjettet 21. og 23. oktober.', url='https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/', guide='mote'),
   ], help=['politi','overgrepsmottak','smiso','dixi']),
@@ -89,7 +89,7 @@ tema = [
   ministries=['jd','aid','kdd'], committees=['Kommunal- og forvaltningskomiteen'],
   actions=[
    dict(t='Send innspill om familiegjenforening', d='Fristen for skriftlige innspill er 26. oktober kl. 12.', url='https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200370', guide='innspill'),
-   dict(t='Skriv til kommunal- og forvaltningskomiteen', d='Komiteen behandler saker om innvandring og integrering.', url=STO+'Kommunal--og-forvaltningskomiteen/', guide='representant'),
+   dict(t='Skriv til kommunal- og forvaltningskomiteen', d='Komiteen behandler saker om innvandring og integrering.', url=STO+'Kommunal--og-forvaltningskomiteen/', guide='representant', check='komiteer'),
    dict(t='Be om innsyn i dokumentene', d='Se hva departementene har skrevet i saken.', url='https://einnsyn.no', guide='innsyn'),
   ], help=[]),
  dict(id='forsvar', nr=7, title='Forsvar og beredskap',
@@ -103,7 +103,7 @@ tema = [
   ministries=['fd','ud','jd'], committees=['Utenriks- og forsvarskomiteen'],
   actions=[
    dict(t='Følg budsjetthøringen i utenriks- og forsvarskomiteen', d='Åpen høring 15. og 16. oktober.', url='https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/', guide='mote'),
-   dict(t='Skriv til utenriks- og forsvarskomiteen', d='Si hva du mener om forsvar og beredskap.', url=STO+'Utenriks--og-forsvarskomiteen/', guide='representant'),
+   dict(t='Skriv til utenriks- og forsvarskomiteen', d='Si hva du mener om forsvar og beredskap.', url=STO+'Utenriks--og-forsvarskomiteen/', guide='representant', check='komiteer'),
    dict(t='Les eksportmeldingen og si din mening', d='Meld. St. 12 viser hva Norge eksporterte av forsvarsmateriell i 2025.', url='https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200374', guide=''),
   ], help=[]),
 ]
@@ -116,7 +116,7 @@ help = {
  'kirkens-sos': dict(name='Kirkens SOS', phone='22 40 00 40', url='https://www.kirkens-sos.no/', when='Krisetelefon døgnet rundt.'),
  'alarmtelefonen': dict(name='Alarmtelefonen for barn og unge', phone='116 111', url='https://www.116111.no/', when='Gratis for barn og unge som opplever vold, overgrep eller omsorgssvikt.'),
  'politi': dict(name='Politiet', phone='112', url='https://www.politiet.no/kontakt-politiet/', when='Ring 112 ved fare. Ellers 02800.'),
- 'overgrepsmottak': dict(name='Overgrepsmottak', phone='116 117', url='https://dinutvei.no/overgrepsmottak', when='Gratis hjelp etter voldtekt eller overgrep. Du kan komme uten å anmelde.'),
+ 'overgrepsmottak': dict(name='Overgrepsmottak', phone='116 117', url='https://dinutvei.no/', link='https://dinutvei.no/', when='Gratis hjelp etter voldtekt eller overgrep. Du kan komme uten å anmelde.'),
  'smiso': dict(name='Hjelpetelefonen for seksuelt misbrukte', phone='800 57 000', url='https://www.smiso.no/', when='Gratis og anonymt.'),
  'dixi': dict(name='DIXI Ressurssenter', phone='22 44 40 50', url='https://www.dixi.no/', when='For deg som er utsatt for voldtekt, og pårørende.'),
 }
