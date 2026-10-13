@@ -6033,12 +6033,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-13T15:14:19.434Z",
+  "ranAt": "2026-10-13T15:18:13.182Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 1
+  "newEvents": 0
  },
  "tema": {
   "tema": [
@@ -6558,7 +6558,7 @@
    }
   },
   "tall": {
-   "ranAt": "2026-10-13T15:12:07.200Z",
+   "ranAt": "2026-10-13T15:16:18.478Z",
    "stats": [
     {
      "id": "kpi",
@@ -6634,7 +6634,7 @@
      "label": "Andel som bor i husholdninger med vedvarende lavinntekt",
      "unit": "prosent",
      "chart": "line",
-     "note": "",
+     "note": "Lavinntekt målt over en fireårsperiode (EU-skala, 60 prosent av medianinntekten).",
      "source": "Statistisk sentralbyrå (SSB)",
      "table": "10459",
      "tableTitle": "10459: Utviklingen i vedvarende lavinntekt. Fireårsperiode. Personer, etter alder, statistikkvariabel og år",
@@ -6881,7 +6881,7 @@
      "sourceUrl": "https://www.ssb.no/statbank/table/09406/",
      "updated": "2025-07-10",
      "chosen": {
-      "LovbruddKrim": "(utelatt)",
+      "LovbruddKrim": "¬¬ Voldtekt, i alt",
       "ContentsCode": "Lovbrudd etterforsket",
       "Tid": "tid: 2015–2024"
      },
@@ -6891,43 +6891,43 @@
        "points": [
         {
          "x": "2015",
-         "y": 329164
+         "y": 1392
         },
         {
          "x": "2016",
-         "y": 319403
+         "y": 1578
         },
         {
          "x": "2017",
-         "y": 288837
+         "y": 1798
         },
         {
          "x": "2018",
-         "y": 287647
+         "y": 1926
         },
         {
          "x": "2019",
-         "y": 288124
+         "y": 1957
         },
         {
          "x": "2020",
-         "y": 297488
+         "y": 2063
         },
         {
          "x": "2021",
-         "y": 271510
+         "y": 2281
         },
         {
          "x": "2022",
-         "y": 279738
+         "y": 2127
         },
         {
          "x": "2023",
-         "y": 298200
+         "y": 1929
         },
         {
          "x": "2024",
-         "y": 303195
+         "y": 1699
         }
        ]
       }
@@ -6946,7 +6946,7 @@
      "sourceUrl": "https://www.ssb.no/statbank/table/09406/",
      "updated": "2025-07-10",
      "chosen": {
-      "LovbruddKrim": "(utelatt)",
+      "LovbruddKrim": "¬¬ Voldtekt, i alt",
       "ContentsCode": "Lovbrudd etterforsket. Oppklaringsprosent",
       "Tid": "tid: 2015–2024"
      },
@@ -6956,43 +6956,43 @@
        "points": [
         {
          "x": "2015",
-         "y": 51
+         "y": 34
         },
         {
          "x": "2016",
-         "y": 52
+         "y": 34
         },
         {
          "x": "2017",
-         "y": 51
+         "y": 37
         },
         {
          "x": "2018",
-         "y": 49
+         "y": 33
         },
         {
          "x": "2019",
-         "y": 49
+         "y": 32
         },
         {
          "x": "2020",
-         "y": 48
+         "y": 33
         },
         {
          "x": "2021",
-         "y": 49
+         "y": 41
         },
         {
          "x": "2022",
-         "y": 43
+         "y": 39
         },
         {
          "x": "2023",
-         "y": 40
+         "y": 33
         },
         {
          "x": "2024",
-         "y": 38
+         "y": 31
         }
        ]
       }
@@ -7011,7 +7011,7 @@
      "sourceUrl": "https://www.ssb.no/statbank/table/09405/",
      "updated": "2025-07-10",
      "chosen": {
-      "LovbruddKrim": "(utelatt)",
+      "LovbruddKrim": "¬¬ Voldtekt, i alt",
       "PolitiAvgjorelse": "Alle avgjørelser | Uoppklarte lovbrudd | ¬ Henlagt, manglende opplysning om gjerningsperson | ¬ Henlagt, manglende bevis | ¬ Henlagt, manglende saksbehandlingskapasitet | ¬ Andre uoppklarte | Oppklarte lovbrudd | ¬ Henlagt, siktede ikke strafferettslig ansvarlig | ¬ Overført til konfliktråd | ¬ Forelegg | ¬ Tiltale | ¬ Påtaleunnlatelse og andre oppklarte",
       "ContentsCode": "Lovbrudd etterforsket",
       "Tid": "tid: 2024–2024"
@@ -7022,108 +7022,132 @@
        "points": [
         {
          "x": "2024",
-         "y": 303195
+         "y": 1699
         }
-       ]
+       ],
+       "level": 0,
+       "group": ""
       },
       {
        "name": "Uoppklarte lovbrudd",
        "points": [
         {
          "x": "2024",
-         "y": 187988
+         "y": 1166
         }
-       ]
+       ],
+       "level": 1,
+       "group": ""
       },
       {
-       "name": "¬ Henlagt, manglende opplysning om gjerningsperson",
+       "name": "Henlagt, manglende opplysning om gjerningsperson",
        "points": [
         {
          "x": "2024",
-         "y": 113412
+         "y": 102
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Uoppklarte lovbrudd"
       },
       {
-       "name": "¬ Henlagt, manglende bevis",
+       "name": "Henlagt, manglende bevis",
        "points": [
         {
          "x": "2024",
-         "y": 43924
+         "y": 1047
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Uoppklarte lovbrudd"
       },
       {
-       "name": "¬ Henlagt, manglende saksbehandlingskapasitet",
+       "name": "Henlagt, manglende saksbehandlingskapasitet",
        "points": [
         {
          "x": "2024",
-         "y": 29319
+         "y": 0
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Uoppklarte lovbrudd"
       },
       {
-       "name": "¬ Andre uoppklarte",
+       "name": "Andre uoppklarte",
        "points": [
         {
          "x": "2024",
-         "y": 1333
+         "y": 17
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Uoppklarte lovbrudd"
       },
       {
        "name": "Oppklarte lovbrudd",
        "points": [
         {
          "x": "2024",
-         "y": 115207
+         "y": 533
         }
-       ]
+       ],
+       "level": 1,
+       "group": ""
       },
       {
-       "name": "¬ Henlagt, siktede ikke strafferettslig ansvarlig",
+       "name": "Henlagt, siktede ikke strafferettslig ansvarlig",
        "points": [
         {
          "x": "2024",
-         "y": 9919
+         "y": 130
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Oppklarte lovbrudd"
       },
       {
-       "name": "¬ Overført til konfliktråd",
+       "name": "Overført til konfliktråd",
        "points": [
         {
          "x": "2024",
-         "y": 1477
+         "y": 0
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Oppklarte lovbrudd"
       },
       {
-       "name": "¬ Forelegg",
+       "name": "Forelegg",
        "points": [
         {
          "x": "2024",
-         "y": 40847
+         "y": 0
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Oppklarte lovbrudd"
       },
       {
-       "name": "¬ Tiltale",
+       "name": "Tiltale",
        "points": [
         {
          "x": "2024",
-         "y": 43566
+         "y": 342
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Oppklarte lovbrudd"
       },
       {
-       "name": "¬ Påtaleunnlatelse og andre oppklarte",
+       "name": "Påtaleunnlatelse og andre oppklarte",
        "points": [
         {
          "x": "2024",
-         "y": 19398
+         "y": 61
         }
-       ]
+       ],
+       "level": 2,
+       "group": "Oppklarte lovbrudd"
       }
      ]
     },
@@ -7207,7 +7231,7 @@
      "updated": "2026-06-08",
      "chosen": {
       "Sektor": "(utelatt)",
-      "Art": "Lønnskostnader",
+      "Art": "Totale utgifter (B+D)",
       "Formaal": "Forsvar",
       "ContentsCode": "Beløp",
       "Tid": "tid: 2016–2025"
@@ -7218,43 +7242,43 @@
        "points": [
         {
          "x": "2016",
-         "y": 18.9
+         "y": 49
         },
         {
          "x": "2017",
-         "y": 19.5
+         "y": 56.1
         },
         {
          "x": "2018",
-         "y": 20.6
+         "y": 60.8
         },
         {
          "x": "2019",
-         "y": 21.2
+         "y": 67.7
         },
         {
          "x": "2020",
-         "y": 22.1
+         "y": 69.4
         },
         {
          "x": "2021",
-         "y": 23.8
+         "y": 72.5
         },
         {
          "x": "2022",
-         "y": 25.5
+         "y": 80.9
         },
         {
          "x": "2023",
-         "y": 28.5
+         "y": 91.2
         },
         {
          "x": "2024",
-         "y": 30.5
+         "y": 114.9
         },
         {
          "x": "2025",
-         "y": 33.3
+         "y": 171.8
         }
        ]
       }
@@ -7334,7 +7358,7 @@
      "label": "Andel barn (0–17 år) i husholdninger med vedvarende lavinntekt",
      "unit": "prosent",
      "chart": "line",
-     "note": "",
+     "note": "Lavinntekt målt over en fireårsperiode (EU-skala, 60 prosent av medianinntekten).",
      "source": "Statistisk sentralbyrå (SSB)",
      "table": "10459",
      "tableTitle": "10459: Utviklingen i vedvarende lavinntekt. Fireårsperiode. Personer, etter alder, statistikkvariabel og år",
