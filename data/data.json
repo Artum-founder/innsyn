@@ -283,9 +283,9 @@
       "url": "https://www.regjeringen.no/no/aktuelt/utvalet-som-skal-vurdere-det-etiske-rammeverket-for-statens-pensjonsfond-utland-legg-fram-sin-rapport/id3176808/"
      },
      {
-      "title": "Statsbudsjettet 2027: Regjeringen vil gjøre det enklere å få vite hvem som eier aksjer",
+      "title": "Statsbudsjettet 2027: Foreslår milliardkutt i inntektsskatten – største på over 20 år",
       "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-gjore-det-enklere-a-fa-vite-hvem-som-eier-aksjer/id3174661/"
+      "url": "https://www.regjeringen.no/no/aktuelt/foreslar-milliardkutt-i-inntektsskatten-storste-pa-over-20-ar/id3174677/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fin/id216/",
@@ -513,14 +513,14 @@
     ],
     "news": [
      {
-      "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
-     },
-     {
       "title": "Statsbudsjettet 2027: Nye verkemiddel for frivillige kommunesamanslåingar",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/nye-verkemiddel-for-frivillige-kommunesamanslaingar/id3173707/"
+     },
+     {
+      "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
+      "date": "2026-10-07",
+      "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
      },
      {
       "title": "Statsbudsjettet 2027: 447 millionar meir i frie inntekter til Finnmark neste år",
@@ -5795,6 +5795,13 @@
   },
   {
    "d": "2026-10-07",
+   "t": "nyhet",
+   "ministry": "fin",
+   "title": "Statsbudsjettet 2027: Foreslår milliardkutt i inntektsskatten – største på over 20 år",
+   "url": "https://www.regjeringen.no/no/aktuelt/foreslar-milliardkutt-i-inntektsskatten-storste-pa-over-20-ar/id3174677/"
+  },
+  {
+   "d": "2026-10-07",
    "t": "status",
    "id": "200434",
    "title": "Statsbudsjettet 2027",
@@ -6026,11 +6033,2134 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-13T14:39:10.316Z",
+  "ranAt": "2026-10-13T15:08:35.739Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 42
+  "newEvents": 1
+ },
+ "tema": {
+  "tema": [
+   {
+    "id": "okonomi",
+    "nr": 1,
+    "title": "Økonomi og hverdag",
+    "kort": "Stortinget bestemmer hvor mye staten skal bruke, og hvilke skatter og avgifter vi skal betale. Regjeringen legger fram forslag til statsbudsjett hver høst, og Stortinget vedtar det før jul. Budsjettet påvirker alt fra skatt og priser til barnetrygd og kommunenes økonomi.",
+    "law": [
+     {
+      "text": "Stortinget vedtar skatter og avgifter, og bestemmer hva staten skal bruke penger på.",
+      "ref": "Grunnloven § 75",
+      "url": "https://lovdata.no/lov/1814-05-17/§75"
+     },
+     {
+      "text": "Den som ikke kan forsørge seg selv, har rett til økonomisk stønad fra NAV-kontoret.",
+      "ref": "sosialtjenesteloven § 18",
+      "url": "https://lovdata.no/lov/2009-12-18-131/§18"
+     },
+     {
+      "text": "Budsjettet legges fram i oktober. Stortinget vedtar rammene i november og hele budsjettet før jul.",
+      "ref": "Stortingets budsjettbehandling",
+      "url": "https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Budsjettbehandlingen/"
+     }
+    ],
+    "match": {
+     "committees": [
+      "Finanskomiteen"
+     ],
+     "ministries": [
+      "fin",
+      "kdd"
+     ],
+     "words": "budsjett|skatt|avgift|dagligvare|pris|inntekt|lavinntekt"
+    },
+    "ministries": [
+     "fin",
+     "kdd"
+    ],
+    "committees": [
+     "Finanskomiteen"
+    ],
+    "actions": [
+     {
+      "t": "Følg budsjetthøringene i Stortinget",
+      "d": "Komiteene holder åpne høringer om budsjettet 14.–23. oktober.",
+      "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+      "guide": "mote"
+     },
+     {
+      "t": "Skriv til finanskomiteen",
+      "d": "Si hva du mener om skatter, avgifter og budsjettet.",
+      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Finanskomiteen/",
+      "guide": "representant"
+     },
+     {
+      "t": "Svar på høringer fra regjeringen",
+      "d": "Alle kan svare på forslag til nye lover og regler.",
+      "url": "https://www.regjeringen.no/no/dokument/hoyringar/id1763/",
+      "guide": "horing"
+     }
+    ],
+    "help": []
+   },
+   {
+    "id": "helse",
+    "nr": 2,
+    "title": "Helse og psykisk helse",
+    "kort": "Du har rett til nødvendig helsehjelp, både fra kommunen og fra sykehusene. Får du ikke hjelp innen fristen du har fått, skal Helfo skaffe deg behandling et annet sted. Er du misfornøyd, kan du klage, og pasient- og brukerombudet hjelper deg gratis.",
+    "law": [
+     {
+      "text": "Du har rett til nødvendig helsehjelp fra kommunen der du er.",
+      "ref": "pasient- og brukerrettighetsloven § 2-1 a",
+      "url": "https://lovdata.no/lov/1999-07-02-63/§2-1a"
+     },
+     {
+      "text": "Du har rett til nødvendig helsehjelp fra spesialisthelsetjenesten innen en frist. Brytes fristen, skal Helfo finne et annet behandlingssted.",
+      "ref": "pasient- og brukerrettighetsloven § 2-1 b",
+      "url": "https://lovdata.no/lov/1999-07-02-63/§2-1b"
+     },
+     {
+      "text": "Du kan klage. Klagen går først til den som ga helsehjelpen, og deretter til Statsforvalteren.",
+      "ref": "pasient- og brukerrettighetsloven §§ 7-1 og 7-2",
+      "url": "https://lovdata.no/lov/1999-07-02-63/§7-2"
+     },
+     {
+      "text": "Pasient- og brukerombudet gir gratis råd og hjelp, og kan ta saken din videre.",
+      "ref": "pasient- og brukerrettighetsloven kapittel 8",
+      "url": "https://lovdata.no/lov/1999-07-02-63/KAPITTEL_8"
+     }
+    ],
+    "match": {
+     "committees": [
+      "Helse- og omsorgskomiteen"
+     ],
+     "ministries": [
+      "hod"
+     ],
+     "words": "helse|pasient|sykehus|fastlege|psykisk|legemiddel"
+    },
+    "ministries": [
+     "hod"
+    ],
+    "committees": [
+     "Helse- og omsorgskomiteen"
+    ],
+    "actions": [
+     {
+      "t": "Klag på helsehjelpen du har fått",
+      "d": "Først til behandlingsstedet, så til Statsforvalteren.",
+      "url": "https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp/",
+      "guide": ""
+     },
+     {
+      "t": "Få hjelp av pasient- og brukerombudet",
+      "d": "Gratis, og du kan være anonym.",
+      "url": "https://www.helsenorge.no/pasient-og-brukerombudet/",
+      "guide": ""
+     },
+     {
+      "t": "Skriv til helse- og omsorgskomiteen",
+      "d": "Si hva du mener om helsetilbudet der du bor.",
+      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Helse--og-omsorgskomiteen/",
+      "guide": "representant"
+     }
+    ],
+    "help": [
+     "nodnummer",
+     "legevakt",
+     "mentalhelse",
+     "kirkens-sos"
+    ]
+   },
+   {
+    "id": "strom",
+    "nr": 3,
+    "title": "Strøm og energi",
+    "kort": "Strømprisen avhenger av hvor i landet du bor, fordi Norge er delt i fem prisområder. I tillegg til strømmen betaler du nettleie og avgifter, som myndighetene fastsetter rammene for. Stortinget bestemmer støtteordninger og regler for kraft, nett og utbygging.",
+    "law": [
+     {
+      "text": "Den som vil bygge eller drive kraftanlegg og strømnett, må ha konsesjon (tillatelse) fra staten.",
+      "ref": "energiloven",
+      "url": "https://lovdata.no/lov/1990-06-29-50"
+     },
+     {
+      "text": "Nettleien fastsettes av nettselskapene innenfor rammer fra Reguleringsmyndigheten for energi (RME) i NVE.",
+      "ref": "energiloven",
+      "url": "https://www.nve.no/reguleringsmyndigheten/"
+     },
+     {
+      "text": "Husholdninger kan få strømstøtte etter egne regler som Stortinget har vedtatt.",
+      "ref": "strømstønadsloven",
+      "url": "https://lovdata.no/sok?q=str%C3%B8mst%C3%B8nadsloven"
+     }
+    ],
+    "match": {
+     "committees": [
+      "Energi- og miljøkomiteen"
+     ],
+     "ministries": [
+      "ed",
+      "kld"
+     ],
+     "words": "strøm|kraft|energi|nett|sol|vind|datasenter"
+    },
+    "ministries": [
+     "ed",
+     "kld"
+    ],
+    "committees": [
+     "Energi- og miljøkomiteen"
+    ],
+    "actions": [
+     {
+      "t": "Send innspill til energi- og miljøkomiteen",
+      "d": "Komiteen tar imot innspill når den behandler saker om strøm.",
+      "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+      "guide": "innspill"
+     },
+     {
+      "t": "Svar på høringer fra Energidepartementet",
+      "d": "Forslag om strøm, nett og kraft sendes ofte på høring.",
+      "url": "https://www.regjeringen.no/no/dokument/hoyringar/id1763/",
+      "guide": "horing"
+     },
+     {
+      "t": "Skriv til energi- og miljøkomiteen",
+      "d": "Si hva du mener om strømpris og nettleie.",
+      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Energi--og-miljokomiteen/",
+      "guide": "representant"
+     }
+    ],
+    "help": []
+   },
+   {
+    "id": "barn",
+    "nr": 4,
+    "title": "Barn, familie og barnevern",
+    "kort": "Barnets beste skal være et grunnleggende hensyn i alle saker som gjelder barn. Kommunen har ansvar for barnevernet, og alle kan si fra hvis de er bekymret for et barn. Barneombudet passer på at barns rettigheter blir fulgt.",
+    "law": [
+     {
+      "text": "Barnets beste skal være et grunnleggende hensyn i alle handlinger og avgjørelser som berører barn.",
+      "ref": "Grunnloven § 104",
+      "url": "https://lovdata.no/lov/1814-05-17/§104"
+     },
+     {
+      "text": "Barnevernsloven fra 2021 gir barn rett til hjelp og beskyttelse, og til å bli hørt.",
+      "ref": "barnevernsloven",
+      "url": "https://lovdata.no/lov/2021-06-18-97"
+     },
+     {
+      "text": "Ansatte i blant annet skole, barnehage og helse har plikt til å melde fra til barnevernet ved alvorlig bekymring.",
+      "ref": "barnevernsloven § 13-2",
+      "url": "https://lovdata.no/lov/2021-06-18-97/§13-2"
+     },
+     {
+      "text": "FNs barnekonvensjon gjelder som norsk lov.",
+      "ref": "menneskerettsloven",
+      "url": "https://lovdata.no/lov/1999-05-21-30"
+     }
+    ],
+    "match": {
+     "committees": [
+      "Familie- og kulturkomiteen"
+     ],
+     "ministries": [
+      "bfd"
+     ],
+     "words": "barn|barnevern|familie|foreldre|barnetrygd|barnehage"
+    },
+    "ministries": [
+     "bfd",
+     "kd"
+    ],
+    "committees": [
+     "Familie- og kulturkomiteen"
+    ],
+    "actions": [
+     {
+      "t": "Meld fra hvis du er bekymret for et barn",
+      "d": "Alle kan sende bekymringsmelding til barnevernet, også anonymt.",
+      "url": "https://www.bufdir.no/barnevern/meld-bekymring/",
+      "guide": ""
+     },
+     {
+      "t": "Kontakt Barneombudet",
+      "d": "Barneombudet tar opp saker som gjelder mange barn.",
+      "url": "https://www.barneombudet.no/",
+      "guide": ""
+     },
+     {
+      "t": "Skriv til familie- og kulturkomiteen",
+      "d": "Komiteen behandler saker om barnevern og familie.",
+      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Familie--og-kulturkomiteen/",
+      "guide": "representant"
+     }
+    ],
+    "help": [
+     "alarmtelefonen",
+     "politi"
+    ]
+   },
+   {
+    "id": "trygghet",
+    "nr": 5,
+    "title": "Trygghet og seksualisert vold",
+    "kort": "Siden 1. juli 2025 er voldtekt definert ut fra samtykke: sex med noen som ikke ved ord eller handling har vist at de vil, er voldtekt. For å dømme noen må retten være sikker utover rimelig tvil, og en frifinnelse betyr ikke at ingenting har skjedd. Mange saker blir aldri anmeldt, og tallene under viser hvor mange som når hvert steg i rettssystemet.",
+    "law": [
+     {
+      "text": "Sex med en person som ikke ved ord eller handling har gitt uttrykk for at hun eller han vil, er voldtekt. Grovere former kan gi opptil ti års fengsel.",
+      "ref": "straffeloven § 291 (fra 1. juli 2025)",
+      "url": "https://lovdata.no/lov/2005-05-20-28/§291"
+     },
+     {
+      "text": "Den som er utsatt for voldtekt, har rett til bistandsadvokat, betalt av staten.",
+      "ref": "straffeprosessloven § 107 a",
+      "url": "https://lovdata.no/lov/1981-05-22-25/§107a"
+     },
+     {
+      "text": "Alle har rett til å bli ansett som uskyldige til skyld er bevist etter loven.",
+      "ref": "Grunnloven § 96",
+      "url": "https://lovdata.no/lov/1814-05-17/§96"
+     }
+    ],
+    "match": {
+     "committees": [
+      "Justiskomiteen"
+     ],
+     "ministries": [
+      "jd"
+     ],
+     "words": "vold|voldtekt|seksuell|overgrep|politi|menneskehandel|straff"
+    },
+    "ministries": [
+     "jd",
+     "hod",
+     "bfd",
+     "kd"
+    ],
+    "committees": [
+     "Justiskomiteen"
+    ],
+    "actions": [
+     {
+      "t": "Skriv til justiskomiteen",
+      "d": "Komiteen behandler saker om straff, politi og vern mot vold.",
+      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Justiskomiteen/",
+      "guide": "representant"
+     },
+     {
+      "t": "Skriv til justisministeren",
+      "d": "Send e-post til postmottak@jd.dep.no. Brevet blir journalført.",
+      "url": "https://www.regjeringen.no/no/dep/jd/kontakt/id471/",
+      "guide": ""
+     },
+     {
+      "t": "Følg budsjetthøringen i justiskomiteen",
+      "d": "Åpen høring om justisbudsjettet 21. og 23. oktober.",
+      "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+      "guide": "mote"
+     }
+    ],
+    "help": [
+     "politi",
+     "overgrepsmottak",
+     "smiso",
+     "dixi"
+    ]
+   },
+   {
+    "id": "innvandring",
+    "nr": 6,
+    "title": "Innvandring og integrering",
+    "kort": "Utlendingsloven bestemmer hvem som kan få bo i Norge, for eksempel som flyktning, for å jobbe eller gjennom familiegjenforening. Kommunene bosetter flyktninger etter avtale med staten, og nyankomne flyktninger har rett og plikt til introduksjonsprogram. Stortinget behandler nå et forslag om familiegjenforening med barn.",
+    "law": [
+     {
+      "text": "Utlendingsloven har reglene for asyl, arbeidsinnvandring og familiegjenforening.",
+      "ref": "utlendingsloven",
+      "url": "https://lovdata.no/lov/2008-05-15-35"
+     },
+     {
+      "text": "Nyankomne flyktninger har rett og plikt til introduksjonsprogram og opplæring i norsk.",
+      "ref": "integreringsloven",
+      "url": "https://lovdata.no/lov/2020-11-06-127"
+     },
+     {
+      "text": "Statsborgerloven har kravene for å bli norsk statsborger.",
+      "ref": "statsborgerloven",
+      "url": "https://lovdata.no/lov/2005-06-10-51"
+     }
+    ],
+    "match": {
+     "committees": [],
+     "ministries": [
+      "jd",
+      "aid"
+     ],
+     "words": "utlending|asyl|familiegjenforening|integrering|statsborger|flyktning|innvandr"
+    },
+    "ministries": [
+     "jd",
+     "aid",
+     "kdd"
+    ],
+    "committees": [
+     "Kommunal- og forvaltningskomiteen"
+    ],
+    "actions": [
+     {
+      "t": "Send innspill om familiegjenforening",
+      "d": "Fristen for skriftlige innspill er 26. oktober kl. 12.",
+      "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200370",
+      "guide": "innspill"
+     },
+     {
+      "t": "Skriv til kommunal- og forvaltningskomiteen",
+      "d": "Komiteen behandler saker om innvandring og integrering.",
+      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Kommunal--og-forvaltningskomiteen/",
+      "guide": "representant"
+     },
+     {
+      "t": "Be om innsyn i dokumentene",
+      "d": "Se hva departementene har skrevet i saken.",
+      "url": "https://einnsyn.no",
+      "guide": "innsyn"
+     }
+    ],
+    "help": []
+   },
+   {
+    "id": "forsvar",
+    "nr": 7,
+    "title": "Forsvar og beredskap",
+    "kort": "Forsvaret er under folkevalgt kontroll: Stortinget bevilger pengene og vedtar langtidsplanene, og regjeringen styrer. Kongen har formelt høyeste befaling, men beslutningene tas av regjeringen. Stortinget behandler nå blant annet eksporten av forsvarsmateriell i 2025.",
+    "law": [
+     {
+      "text": "Kongen har høyeste befaling over forsvaret. I praksis utøves den av regjeringen.",
+      "ref": "Grunnloven § 25",
+      "url": "https://lovdata.no/lov/1814-05-17/§25"
+     },
+     {
+      "text": "Stortinget bevilger pengene forsvaret får.",
+      "ref": "Grunnloven § 75",
+      "url": "https://lovdata.no/lov/1814-05-17/§75"
+     },
+     {
+      "text": "Avtaler med andre land som er særlig viktige, krever Stortingets samtykke.",
+      "ref": "Grunnloven § 26",
+      "url": "https://lovdata.no/lov/1814-05-17/§26"
+     }
+    ],
+    "match": {
+     "committees": [
+      "Utenriks- og forsvarskomiteen"
+     ],
+     "ministries": [
+      "fd",
+      "ud"
+     ],
+     "words": "forsvar|beredskap|nato|eksport|sikkerhet"
+    },
+    "ministries": [
+     "fd",
+     "ud",
+     "jd"
+    ],
+    "committees": [
+     "Utenriks- og forsvarskomiteen"
+    ],
+    "actions": [
+     {
+      "t": "Følg budsjetthøringen i utenriks- og forsvarskomiteen",
+      "d": "Åpen høring 15. og 16. oktober.",
+      "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+      "guide": "mote"
+     },
+     {
+      "t": "Skriv til utenriks- og forsvarskomiteen",
+      "d": "Si hva du mener om forsvar og beredskap.",
+      "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Utenriks--og-forsvarskomiteen/",
+      "guide": "representant"
+     },
+     {
+      "t": "Les eksportmeldingen og si din mening",
+      "d": "Meld. St. 12 viser hva Norge eksporterte av forsvarsmateriell i 2025.",
+      "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200374",
+      "guide": ""
+     }
+    ],
+    "help": []
+   }
+  ],
+  "help": {
+   "nodnummer": {
+    "name": "Akutt fare for liv og helse",
+    "phone": "113",
+    "url": "https://www.helsenorge.no/forstehjelp/nodnummer/",
+    "when": "Ring ambulanse ved akutt sykdom eller skade."
+   },
+   "legevakt": {
+    "name": "Legevakt",
+    "phone": "116 117",
+    "url": "https://www.helsenorge.no/legevakt/",
+    "when": "Når du trenger lege raskt, men det ikke er livstruende."
+   },
+   "mentalhelse": {
+    "name": "Mental Helse hjelpetelefon",
+    "phone": "116 123",
+    "url": "https://mentalhelse.no/fa-hjelp/hjelpetelefonen",
+    "when": "Noen å snakke med, døgnet rundt."
+   },
+   "kirkens-sos": {
+    "name": "Kirkens SOS",
+    "phone": "22 40 00 40",
+    "url": "https://www.kirkens-sos.no/",
+    "when": "Krisetelefon døgnet rundt."
+   },
+   "alarmtelefonen": {
+    "name": "Alarmtelefonen for barn og unge",
+    "phone": "116 111",
+    "url": "https://www.116111.no/",
+    "when": "Gratis for barn og unge som opplever vold, overgrep eller omsorgssvikt."
+   },
+   "politi": {
+    "name": "Politiet",
+    "phone": "112",
+    "url": "https://www.politiet.no/kontakt-politiet/",
+    "when": "Ring 112 ved fare. Ellers 02800."
+   },
+   "overgrepsmottak": {
+    "name": "Overgrepsmottak",
+    "phone": "116 117",
+    "url": "https://dinutvei.no/overgrepsmottak",
+    "when": "Gratis hjelp etter voldtekt eller overgrep. Du kan komme uten å anmelde."
+   },
+   "smiso": {
+    "name": "Hjelpetelefonen for seksuelt misbrukte",
+    "phone": "800 57 000",
+    "url": "https://www.smiso.no/",
+    "when": "Gratis og anonymt."
+   },
+   "dixi": {
+    "name": "DIXI Ressurssenter",
+    "phone": "22 44 40 50",
+    "url": "https://www.dixi.no/",
+    "when": "For deg som er utsatt for voldtekt, og pårørende."
+   }
+  },
+  "tall": {
+   "ranAt": "2026-10-13T15:07:08.283Z",
+   "stats": [
+    {
+     "id": "kpi",
+     "tema": "okonomi",
+     "label": "Prisvekst: endring i konsumprisindeksen fra året før",
+     "unit": "prosent",
+     "chart": "bar",
+     "note": "Regnet ut fra den årlige konsumprisindeksen (KPI).",
+     "source": "Statistisk sentralbyrå (SSB)",
+     "table": "14711",
+     "tableTitle": "14711: Konsumprisindeks (2025=100), etter statistikkvariabel og år",
+     "sourceUrl": "https://www.ssb.no/statbank/table/14711/",
+     "updated": "2026-02-06",
+     "chosen": {
+      "ContentsCode": "Konsumprisindeks",
+      "Tid": "tid: 2014–2025"
+     },
+     "series": [
+      {
+       "name": "Prisvekst: endring i konsumprisindeksen fra året før",
+       "points": [
+        {
+         "x": "2015",
+         "y": 2.1
+        },
+        {
+         "x": "2016",
+         "y": 3.6
+        },
+        {
+         "x": "2017",
+         "y": 1.9
+        },
+        {
+         "x": "2018",
+         "y": 2.7
+        },
+        {
+         "x": "2019",
+         "y": 2.2
+        },
+        {
+         "x": "2020",
+         "y": 1.4
+        },
+        {
+         "x": "2021",
+         "y": 3.4
+        },
+        {
+         "x": "2022",
+         "y": 5.8
+        },
+        {
+         "x": "2023",
+         "y": 5.5
+        },
+        {
+         "x": "2024",
+         "y": 3.2
+        },
+        {
+         "x": "2025",
+         "y": 3
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "lavinntekt",
+     "tema": "okonomi",
+     "label": "Andel som bor i husholdninger med vedvarende lavinntekt",
+     "unit": "prosent",
+     "chart": "line",
+     "note": "",
+     "source": "Statistisk sentralbyrå (SSB)",
+     "table": "10459",
+     "tableTitle": "10459: Utviklingen i vedvarende lavinntekt. Fireårsperiode. Personer, etter alder, statistikkvariabel og år",
+     "sourceUrl": "https://www.ssb.no/statbank/table/10459/",
+     "updated": "2026-02-03",
+     "chosen": {
+      "Alder": "Alle aldre",
+      "ContentsCode": "Antall personer med vedvarende lavinntekt (EU-skala, 60 prosent av forbruksjustert medianinntekt)",
+      "Tid": "tid: 2015–2024"
+     },
+     "series": [
+      {
+       "name": "Andel som bor i husholdninger med vedvarende lavinntekt",
+       "points": [
+        {
+         "x": "2015",
+         "y": 282600
+        },
+        {
+         "x": "2016",
+         "y": 292900
+        },
+        {
+         "x": "2017",
+         "y": 305100
+        },
+        {
+         "x": "2018",
+         "y": 318100
+        },
+        {
+         "x": "2019",
+         "y": 334200
+        },
+        {
+         "x": "2020",
+         "y": 346300
+        },
+        {
+         "x": "2021",
+         "y": 341000
+        },
+        {
+         "x": "2022",
+         "y": 328200
+        },
+        {
+         "x": "2023",
+         "y": 317300
+        },
+        {
+         "x": "2024",
+         "y": 321700
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "strompris",
+     "tema": "strom",
+     "label": "Hva husholdningene betaler for strøm, per kWh",
+     "unit": "øre/kWh",
+     "chart": "stack",
+     "note": "Kraftpris, nettleie og avgifter, gjennomsnitt for landet.",
+     "source": "Statistisk sentralbyrå (SSB)",
+     "table": "09007",
+     "tableTitle": "09007: Kraftpris, nettleie og avgifter for husholdninger, etter statistikkvariabel og år",
+     "sourceUrl": "https://www.ssb.no/statbank/table/09007/",
+     "updated": "2026-02-16",
+     "chosen": {
+      "ContentsCode": "Kraftpris ekskl. avgifter (øre/kWh) | Kraftpris inkl. mva (øre/kWh) | Nettleie, ekskl. avgifter | Nettleie inkl. avgifter (øre/kWh) | Kraft og nett i alt ekskl. avgifter (øre/kWh) | Kraft og nett i alt inkl. avgifter (øre/kWh) | Kraft og nett i alt inkl. avgifter fratrukket støtte fra myndighetene (øre/kWh) | Forbruksavgift på elektrisk kraft (øre/kWh) | Merverdiavgift (prosent) | Støtte fra myndighetene (øre/kWh) | ¬Strømstøtteordningen (øre/kWh) | ¬Norgespris (øre/kWh)",
+      "Tid": "tid: 2016–2025"
+     },
+     "series": [
+      {
+       "name": "Kraftpris ekskl. avgifter (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 31.6
+        },
+        {
+         "x": "2017",
+         "y": 34.4
+        },
+        {
+         "x": "2018",
+         "y": 48.6
+        },
+        {
+         "x": "2019",
+         "y": 48.7
+        },
+        {
+         "x": "2020",
+         "y": 20.7
+        },
+        {
+         "x": "2021",
+         "y": 71.7
+        },
+        {
+         "x": "2022",
+         "y": 149.6
+        },
+        {
+         "x": "2023",
+         "y": 86
+        },
+        {
+         "x": "2024",
+         "y": 59.9
+        },
+        {
+         "x": "2025",
+         "y": 66.2
+        }
+       ]
+      },
+      {
+       "name": "Kraftpris inkl. mva (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 38.5
+        },
+        {
+         "x": "2017",
+         "y": 41.9
+        },
+        {
+         "x": "2018",
+         "y": 59.3
+        },
+        {
+         "x": "2019",
+         "y": 59.5
+        },
+        {
+         "x": "2020",
+         "y": 25.2
+        },
+        {
+         "x": "2021",
+         "y": 87.6
+        },
+        {
+         "x": "2022",
+         "y": 182.6
+        },
+        {
+         "x": "2023",
+         "y": 104.9
+        },
+        {
+         "x": "2024",
+         "y": 73.1
+        },
+        {
+         "x": "2025",
+         "y": 80.7
+        }
+       ]
+      },
+      {
+       "name": "Nettleie, ekskl. avgifter",
+       "points": [
+        {
+         "x": "2016",
+         "y": 27.2
+        },
+        {
+         "x": "2017",
+         "y": 27.9
+        },
+        {
+         "x": "2018",
+         "y": 28.7
+        },
+        {
+         "x": "2019",
+         "y": 30
+        },
+        {
+         "x": "2020",
+         "y": 28.6
+        },
+        {
+         "x": "2021",
+         "y": 27.3
+        },
+        {
+         "x": "2022",
+         "y": 29.2
+        },
+        {
+         "x": "2023",
+         "y": 31.4
+        },
+        {
+         "x": "2024",
+         "y": 36
+        },
+        {
+         "x": "2025",
+         "y": 36.3
+        }
+       ]
+      },
+      {
+       "name": "Nettleie inkl. avgifter (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 53.4
+        },
+        {
+         "x": "2017",
+         "y": 54.6
+        },
+        {
+         "x": "2018",
+         "y": 55.6
+        },
+        {
+         "x": "2019",
+         "y": 56.4
+        },
+        {
+         "x": "2020",
+         "y": 55.1
+        },
+        {
+         "x": "2021",
+         "y": 54.4
+        },
+        {
+         "x": "2022",
+         "y": 52.7
+        },
+        {
+         "x": "2023",
+         "y": 55.9
+        },
+        {
+         "x": "2024",
+         "y": 61.8
+        },
+        {
+         "x": "2025",
+         "y": 61
+        }
+       ]
+      },
+      {
+       "name": "Kraft og nett i alt ekskl. avgifter (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 58.8
+        },
+        {
+         "x": "2017",
+         "y": 62.3
+        },
+        {
+         "x": "2018",
+         "y": 77.3
+        },
+        {
+         "x": "2019",
+         "y": 78.7
+        },
+        {
+         "x": "2020",
+         "y": 49.2
+        },
+        {
+         "x": "2021",
+         "y": 99.1
+        },
+        {
+         "x": "2022",
+         "y": 178.8
+        },
+        {
+         "x": "2023",
+         "y": 117.4
+        },
+        {
+         "x": "2024",
+         "y": 95.9
+        },
+        {
+         "x": "2025",
+         "y": 102.5
+        }
+       ]
+      },
+      {
+       "name": "Kraft og nett i alt inkl. avgifter (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 91.8
+        },
+        {
+         "x": "2017",
+         "y": 96.5
+        },
+        {
+         "x": "2018",
+         "y": 114.9
+        },
+        {
+         "x": "2019",
+         "y": 115.9
+        },
+        {
+         "x": "2020",
+         "y": 80.3
+        },
+        {
+         "x": "2021",
+         "y": 142
+        },
+        {
+         "x": "2022",
+         "y": 235.3
+        },
+        {
+         "x": "2023",
+         "y": 160.7
+        },
+        {
+         "x": "2024",
+         "y": 134.9
+        },
+        {
+         "x": "2025",
+         "y": 141.7
+        }
+       ]
+      },
+      {
+       "name": "Kraft og nett i alt inkl. avgifter fratrukket støtte fra myndighetene (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 91.8
+        },
+        {
+         "x": "2017",
+         "y": 96.5
+        },
+        {
+         "x": "2018",
+         "y": 114.9
+        },
+        {
+         "x": "2019",
+         "y": 115.9
+        },
+        {
+         "x": "2020",
+         "y": 80.3
+        },
+        {
+         "x": "2021",
+         "y": 135.9
+        },
+        {
+         "x": "2022",
+         "y": 143.9
+        },
+        {
+         "x": "2023",
+         "y": 136.5
+        },
+        {
+         "x": "2024",
+         "y": 127.5
+        },
+        {
+         "x": "2025",
+         "y": 125.1
+        }
+       ]
+      },
+      {
+       "name": "Forbruksavgift på elektrisk kraft (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 16
+        },
+        {
+         "x": "2017",
+         "y": 16.3
+        },
+        {
+         "x": "2018",
+         "y": 16.6
+        },
+        {
+         "x": "2019",
+         "y": 15.8
+        },
+        {
+         "x": "2020",
+         "y": 16.1
+        },
+        {
+         "x": "2021",
+         "y": 16.7
+        },
+        {
+         "x": "2022",
+         "y": 13.3
+        },
+        {
+         "x": "2023",
+         "y": 13.7
+        },
+        {
+         "x": "2024",
+         "y": 14
+        },
+        {
+         "x": "2025",
+         "y": 13.2
+        }
+       ]
+      },
+      {
+       "name": "Merverdiavgift (prosent)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 25
+        },
+        {
+         "x": "2017",
+         "y": 25
+        },
+        {
+         "x": "2018",
+         "y": 25
+        },
+        {
+         "x": "2019",
+         "y": 25
+        },
+        {
+         "x": "2020",
+         "y": 25
+        },
+        {
+         "x": "2021",
+         "y": 25
+        },
+        {
+         "x": "2022",
+         "y": 25
+        },
+        {
+         "x": "2023",
+         "y": 25
+        },
+        {
+         "x": "2024",
+         "y": 25
+        },
+        {
+         "x": "2025",
+         "y": 25
+        }
+       ]
+      },
+      {
+       "name": "Støtte fra myndighetene (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 0
+        },
+        {
+         "x": "2017",
+         "y": 0
+        },
+        {
+         "x": "2018",
+         "y": 0
+        },
+        {
+         "x": "2019",
+         "y": 0
+        },
+        {
+         "x": "2020",
+         "y": 0
+        },
+        {
+         "x": "2021",
+         "y": 6.1
+        },
+        {
+         "x": "2022",
+         "y": 91.4
+        },
+        {
+         "x": "2023",
+         "y": 24.3
+        },
+        {
+         "x": "2024",
+         "y": 7.4
+        },
+        {
+         "x": "2025",
+         "y": 16.5
+        }
+       ]
+      },
+      {
+       "name": "¬Strømstøtteordningen (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 0
+        },
+        {
+         "x": "2017",
+         "y": 0
+        },
+        {
+         "x": "2018",
+         "y": 0
+        },
+        {
+         "x": "2019",
+         "y": 0
+        },
+        {
+         "x": "2020",
+         "y": 0
+        },
+        {
+         "x": "2021",
+         "y": 6.1
+        },
+        {
+         "x": "2022",
+         "y": 91.4
+        },
+        {
+         "x": "2023",
+         "y": 24.3
+        },
+        {
+         "x": "2024",
+         "y": 7.4
+        },
+        {
+         "x": "2025",
+         "y": 10.8
+        }
+       ]
+      },
+      {
+       "name": "¬Norgespris (øre/kWh)",
+       "points": [
+        {
+         "x": "2016",
+         "y": 0
+        },
+        {
+         "x": "2017",
+         "y": 0
+        },
+        {
+         "x": "2018",
+         "y": 0
+        },
+        {
+         "x": "2019",
+         "y": 0
+        },
+        {
+         "x": "2020",
+         "y": 0
+        },
+        {
+         "x": "2021",
+         "y": 0
+        },
+        {
+         "x": "2022",
+         "y": 0
+        },
+        {
+         "x": "2023",
+         "y": 0
+        },
+        {
+         "x": "2024",
+         "y": 0
+        },
+        {
+         "x": "2025",
+         "y": 16.4
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "psykisk",
+     "tema": "helse",
+     "label": "Voksne pasienter i psykisk helsevern, per 1 000 innbyggere",
+     "unit": "per 1 000",
+     "chart": "line",
+     "note": "",
+     "source": "Statistisk sentralbyrå (SSB)",
+     "table": "14823",
+     "tableTitle": "14823: Pasienter per 1 000 innbyggere i psykisk helsevern for voksne, etter kjønn, innvandringskategori, statistikkvariabel og år",
+     "sourceUrl": "https://www.ssb.no/statbank/table/14823/",
+     "updated": "2026-06-22",
+     "chosen": {
+      "Kjonn": "Begge kjønn",
+      "InnvandrKat": "I alt",
+      "ContentsCode": "Pasienter per 1 000 innbyggere",
+      "Tid": "tid: 2016–2025"
+     },
+     "series": [
+      {
+       "name": "Voksne pasienter i psykisk helsevern, per 1 000 innbyggere",
+       "points": [
+        {
+         "x": "2016",
+         "y": 46
+        },
+        {
+         "x": "2017",
+         "y": 46
+        },
+        {
+         "x": "2018",
+         "y": 46
+        },
+        {
+         "x": "2019",
+         "y": 46
+        },
+        {
+         "x": "2020",
+         "y": 46
+        },
+        {
+         "x": "2021",
+         "y": 47
+        },
+        {
+         "x": "2022",
+         "y": 48
+        },
+        {
+         "x": "2023",
+         "y": 47
+        },
+        {
+         "x": "2024",
+         "y": 45
+        },
+        {
+         "x": "2025",
+         "y": 44
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "bekymring",
+     "tema": "barn",
+     "label": "Bekymringsmeldinger til barnevernet",
+     "unit": "meldinger",
+     "chart": "bar",
+     "note": "",
+     "source": "Statistisk sentralbyrå (SSB)",
+     "table": "10673",
+     "tableTitle": "10673: Bekymringsmeldingar til barnevernet, etter region, konklusjon, alder, kjønn, statistikkvariabel og år",
+     "sourceUrl": "https://www.ssb.no/statbank/table/10673/",
+     "updated": "2026-06-03",
+     "chosen": {
+      "Region": "(utelatt)",
+      "Konklusjon": "(utelatt)",
+      "Alder": "(utelatt)",
+      "Kjonn": "(utelatt)",
+      "ContentsCode": "Bekymringsmeldingar i løpet av året",
+      "Tid": "tid: 2016–2025"
+     },
+     "series": [
+      {
+       "name": "Bekymringsmeldinger til barnevernet",
+       "points": [
+        {
+         "x": "2016",
+         "y": 58254
+        },
+        {
+         "x": "2017",
+         "y": 58580
+        },
+        {
+         "x": "2018",
+         "y": 57013
+        },
+        {
+         "x": "2019",
+         "y": 57988
+        },
+        {
+         "x": "2020",
+         "y": 56802
+        },
+        {
+         "x": "2021",
+         "y": 53468
+        },
+        {
+         "x": "2022",
+         "y": 49778
+        },
+        {
+         "x": "2023",
+         "y": 52413
+        },
+        {
+         "x": "2024",
+         "y": 53287
+        },
+        {
+         "x": "2025",
+         "y": 53861
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "barnlavinntekt",
+     "tema": "barn",
+     "label": "Andel barn (0–17 år) i husholdninger med vedvarende lavinntekt",
+     "unit": "prosent",
+     "chart": "line",
+     "note": "",
+     "source": "Statistisk sentralbyrå (SSB)",
+     "table": "10459",
+     "tableTitle": "10459: Utviklingen i vedvarende lavinntekt. Fireårsperiode. Personer, etter alder, statistikkvariabel og år",
+     "sourceUrl": "https://www.ssb.no/statbank/table/10459/",
+     "updated": "2026-02-03",
+     "chosen": {
+      "Alder": "0-17 år",
+      "ContentsCode": "Antall personer med vedvarende lavinntekt (EU-skala, 60 prosent av forbruksjustert medianinntekt)",
+      "Tid": "tid: 2015–2024"
+     },
+     "series": [
+      {
+       "name": "Andel barn (0–17 år) i husholdninger med vedvarende lavinntekt",
+       "points": [
+        {
+         "x": "2015",
+         "y": 59700
+        },
+        {
+         "x": "2016",
+         "y": 62600
+        },
+        {
+         "x": "2017",
+         "y": 65900
+        },
+        {
+         "x": "2018",
+         "y": 69400
+        },
+        {
+         "x": "2019",
+         "y": 73100
+        },
+        {
+         "x": "2020",
+         "y": 76500
+        },
+        {
+         "x": "2021",
+         "y": 73100
+        },
+        {
+         "x": "2022",
+         "y": 68100
+        },
+        {
+         "x": "2023",
+         "y": 62800
+        },
+        {
+         "x": "2024",
+         "y": 59800
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "votes": [
+    {
+     "tema": "okonomi",
+     "sakId": "200314",
+     "title": "Revidert nasjonalbudsjett 2026",
+     "fullTitle": "Revidert nasjonalbudsjett 2026",
+     "ref": "Meld. St. 2 (2025-2026), Innst. 450 S (2025-2026)",
+     "date": "2026-06-19",
+     "voteTema": "Stor bokstav A samtlige romertall Stor bokstav B samtlige romertall Stor bokstav C romertall I-XXVIII",
+     "result": "Vedtatt 52–49",
+     "for": 52,
+     "mot": 49,
+     "parties": {
+      "Ap": {
+       "for": 32,
+       "mot": 0,
+       "borte": 21
+      },
+      "FrP": {
+       "for": 0,
+       "mot": 29,
+       "borte": 18
+      },
+      "V": {
+       "for": 0,
+       "mot": 2,
+       "borte": 1
+      },
+      "H": {
+       "for": 0,
+       "mot": 14,
+       "borte": 10
+      },
+      "KrF": {
+       "for": 0,
+       "mot": 4,
+       "borte": 3
+      },
+      "R": {
+       "for": 5,
+       "mot": 0,
+       "borte": 4
+      },
+      "MDG": {
+       "for": 5,
+       "mot": 0,
+       "borte": 3
+      },
+      "Sp": {
+       "for": 5,
+       "mot": 0,
+       "borte": 4
+      },
+      "SV": {
+       "for": 5,
+       "mot": 0,
+       "borte": 4
+      }
+     },
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=200314&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200314"
+    },
+    {
+     "tema": "helse",
+     "sakId": "200231",
+     "title": "Endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)",
+     "fullTitle": "Endringar i pasient- og brukerrettighetsloven mv. (rett til å ha med andre personar når det blir gitt helse- og omsorgstenester)",
+     "ref": "Prop. 53 L (2025-2026), Innst. 344 L (2025-2026), Lovvedtak 65 (2025-2026)",
+     "date": "2026-06-04",
+     "voteTema": "Lovens overskrift og loven i sin helhet.",
+     "result": "Enstemmig vedtatt",
+     "for": 0,
+     "mot": 0,
+     "parties": {},
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=200231&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200231"
+    },
+    {
+     "tema": "helse",
+     "sakId": "200228",
+     "title": "Endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860)",
+     "fullTitle": "Endringer i apotekloven, legemiddelloven og lov om medisinsk utstyr (gjennomføring av forordning (EU) 2022/123, (EU) 2022/2370 og (EU) 2022/2371 om styrket samarbeid ved alvorlige grensekryssende helsetrusler i Europa og forordning (EU) 2024/1860) og samtykke til godkjenning av EØS-komiteens beslutning nr. 167/2024, 180/2024, 181/2024 og 172/2025 om innlemmelse i EØS-avtalen av forordningene",
+     "ref": "Prop. 77 LS (2025-2026), Innst. 347 L (2025-2026), Lovvedtak 66 (2025-2026)",
+     "date": "2026-06-04",
+     "voteTema": "Lovens overskrift og loven i sin helhet.",
+     "result": "Vedtatt 86–15",
+     "for": 86,
+     "mot": 15,
+     "parties": {
+      "Ap": {
+       "for": 32,
+       "mot": 0,
+       "borte": 21
+      },
+      "FrP": {
+       "for": 29,
+       "mot": 0,
+       "borte": 18
+      },
+      "V": {
+       "for": 2,
+       "mot": 0,
+       "borte": 1
+      },
+      "H": {
+       "for": 14,
+       "mot": 0,
+       "borte": 10
+      },
+      "KrF": {
+       "for": 4,
+       "mot": 0,
+       "borte": 3
+      },
+      "R": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      },
+      "MDG": {
+       "for": 5,
+       "mot": 0,
+       "borte": 3
+      },
+      "Sp": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      },
+      "SV": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      }
+     },
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=200228&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200228"
+    },
+    {
+     "tema": "strom",
+     "sakId": "200126",
+     "title": "Endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)",
+     "fullTitle": "Endringer i energiloven mv. (prioritert tilknytning til strømnettet av hensyn til nasjonale sikkerhetsinteresser)",
+     "ref": "Prop. 49 L (2025-2026), Innst. 383 L (2025-2026), Lovvedtak 82 (2025-2026)",
+     "date": "2026-06-09",
+     "voteTema": "Lovens overskrift og loven i sin helhet.",
+     "result": "Enstemmig vedtatt",
+     "for": 0,
+     "mot": 0,
+     "parties": {},
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=200126&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200126"
+    },
+    {
+     "tema": "barn",
+     "sakId": "200236",
+     "title": "Endringer i barnevernsloven (bedre beskyttelse av barn på institusjon)",
+     "fullTitle": "Endringer i barnevernsloven (bedre beskyttelse av barn på institusjon)",
+     "ref": "Prop. 86 L (2025-2026), Innst. 362 L (2025-2026), Lovvedtak 86 (2025-2026)",
+     "date": "2026-06-11",
+     "voteTema": "Lovens overskrift og loven i sin helhet.",
+     "result": "Vedtatt 89–10",
+     "for": 89,
+     "mot": 10,
+     "parties": {
+      "Ap": {
+       "for": 31,
+       "mot": 0,
+       "borte": 22
+      },
+      "FrP": {
+       "for": 29,
+       "mot": 0,
+       "borte": 18
+      },
+      "V": {
+       "for": 2,
+       "mot": 0,
+       "borte": 1
+      },
+      "H": {
+       "for": 13,
+       "mot": 0,
+       "borte": 11
+      },
+      "KrF": {
+       "for": 4,
+       "mot": 0,
+       "borte": 3
+      },
+      "R": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      },
+      "MDG": {
+       "for": 5,
+       "mot": 0,
+       "borte": 3
+      },
+      "Sp": {
+       "for": 5,
+       "mot": 0,
+       "borte": 4
+      },
+      "SV": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      }
+     },
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=200236&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200236"
+    },
+    {
+     "tema": "trygghet",
+     "sakId": "103135",
+     "title": "Endringer i straffeloven (samtykke til seksuell omgang m.m.)",
+     "fullTitle": "Endringer i straffeloven (samtykke til seksuell omgang m.m.)",
+     "ref": "Prop. 132 L (2024-2025), Innst. 451 L (2024-2025), Lovvedtak 112 (2024-2025)",
+     "date": "2025-06-06",
+     "voteTema": "Lovens overskrift og loven i sin helhet.",
+     "result": "Enstemmig vedtatt",
+     "for": 0,
+     "mot": 0,
+     "parties": {},
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=103135&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=103135"
+    },
+    {
+     "tema": "innvandring",
+     "sakId": "200268",
+     "title": "Endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)",
+     "fullTitle": "Endringer i utlendingsloven (saksbehandlingsregler for kollektiv beskyttelse)",
+     "ref": "Prop. 65 L (2025-2026), Innst. 311 L (2025-2026), Lovvedtak 53 (2025-2026)",
+     "date": "2026-06-01",
+     "voteTema": "Lovens overskrift og loven i sin helhet.",
+     "result": "Vedtatt 79–21",
+     "for": 79,
+     "mot": 21,
+     "parties": {
+      "Ap": {
+       "for": 32,
+       "mot": 0,
+       "borte": 21
+      },
+      "FrP": {
+       "for": 29,
+       "mot": 0,
+       "borte": 18
+      },
+      "V": {
+       "for": 0,
+       "mot": 2,
+       "borte": 1
+      },
+      "H": {
+       "for": 13,
+       "mot": 0,
+       "borte": 11
+      },
+      "KrF": {
+       "for": 0,
+       "mot": 4,
+       "borte": 3
+      },
+      "R": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      },
+      "MDG": {
+       "for": 0,
+       "mot": 5,
+       "borte": 3
+      },
+      "Sp": {
+       "for": 5,
+       "mot": 0,
+       "borte": 4
+      },
+      "SV": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      }
+     },
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=200268&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200268"
+    },
+    {
+     "tema": "innvandring",
+     "sakId": "107721",
+     "title": "Endringer i utlendingsloven (gjennomføring av Eurodac-forordningen, forordning om asyl- og migrasjonshåndtering og kriseforordningen i norsk rett)",
+     "fullTitle": "Endringer i utlendingsloven (gjennomføring av Eurodac-forordningen, forordning om asyl- og migrasjonshåndtering og kriseforordningen i norsk rett) og samtykke til godtakelse av deler av forordning (EU) 2024/1358 (Eurodac-forordningen), forordning (EU) 2024/1351 (forordning om asyl- og migrasjonshåndtering) og forordning (EU) 2024/1359 (kriseforordningen) (videreutvikling av Dublin-regelverket)",
+     "ref": "Prop. 37 LS (2025-2026), Innst. 391 L (2025-2026), Lovvedtak 58 (2025-2026)",
+     "date": "2026-06-03",
+     "voteTema": "Lovens overskrift og loven i sin helhet.",
+     "result": "Vedtatt 88–10",
+     "for": 88,
+     "mot": 10,
+     "parties": {
+      "Ap": {
+       "for": 32,
+       "mot": 0,
+       "borte": 21
+      },
+      "FrP": {
+       "for": 27,
+       "mot": 0,
+       "borte": 20
+      },
+      "V": {
+       "for": 2,
+       "mot": 0,
+       "borte": 1
+      },
+      "H": {
+       "for": 14,
+       "mot": 0,
+       "borte": 10
+      },
+      "KrF": {
+       "for": 4,
+       "mot": 0,
+       "borte": 3
+      },
+      "R": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      },
+      "MDG": {
+       "for": 4,
+       "mot": 0,
+       "borte": 4
+      },
+      "Sp": {
+       "for": 5,
+       "mot": 0,
+       "borte": 4
+      },
+      "SV": {
+       "for": 0,
+       "mot": 5,
+       "borte": 4
+      }
+     },
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=107721&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107721"
+    },
+    {
+     "tema": "forsvar",
+     "sakId": "200254",
+     "title": "Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren",
+     "fullTitle": "Forsvarsløftet - Økte rammer og prioriteringer i Langtidsplanen for forsvarssektoren",
+     "ref": "Prop. 68 S (2025-2026), Innst. 440 S (2025-2026)",
+     "date": "2026-06-12",
+     "voteTema": "romertallene I - XXVII.",
+     "result": "Enstemmig vedtatt",
+     "for": 0,
+     "mot": 0,
+     "parties": {},
+     "check": true,
+     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/Voteringsoversikt/?p=200254&dnid=1",
+     "caseUrl": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200254"
+    }
+   ],
+   "checks": {
+    "nodnummer": {
+     "id": "nodnummer",
+     "ok": true,
+     "url": "https://www.helsenorge.no/hjelpetilbud-i-kommunene/legevakt",
+     "tried": [
+      {
+       "url": "https://www.helsenorge.no/hjelpetilbud-i-kommunene/legevakt",
+       "status": 200,
+       "found": [
+        "113"
+       ]
+      }
+     ]
+    },
+    "legevakt": {
+     "id": "legevakt",
+     "ok": true,
+     "url": "https://www.helsenorge.no/hjelpetilbud-i-kommunene/legevakt",
+     "tried": [
+      {
+       "url": "https://www.helsenorge.no/hjelpetilbud-i-kommunene/legevakt",
+       "status": 200,
+       "found": [
+        "116 117"
+       ]
+      }
+     ]
+    },
+    "mentalhelse": {
+     "id": "mentalhelse",
+     "ok": true,
+     "url": "https://mentalhelse.no/fa-hjelp/hjelpetelefonen/",
+     "tried": [
+      {
+       "url": "https://mentalhelse.no/fa-hjelp/hjelpetelefonen/",
+       "status": 200,
+       "found": [
+        "116 123"
+       ]
+      }
+     ]
+    },
+    "kirkens-sos": {
+     "id": "kirkens-sos",
+     "ok": true,
+     "url": "https://www.kirkens-sos.no/",
+     "tried": [
+      {
+       "url": "https://www.kirkens-sos.no/",
+       "status": 200,
+       "found": [
+        "22 40 00 40"
+       ]
+      }
+     ]
+    },
+    "alarmtelefonen": {
+     "id": "alarmtelefonen",
+     "ok": true,
+     "url": "https://www.116111.no/",
+     "tried": [
+      {
+       "url": "https://www.116111.no/",
+       "status": 200,
+       "found": [
+        "116 111"
+       ]
+      }
+     ]
+    },
+    "politi": {
+     "id": "politi",
+     "ok": true,
+     "url": "https://www.politiet.no/kontakt-politiet",
+     "tried": [
+      {
+       "url": "https://www.politiet.no/kontakt-politiet",
+       "status": 200,
+       "found": [
+        "112",
+        "02800"
+       ]
+      }
+     ]
+    },
+    "overgrepsmottak": {
+     "id": "overgrepsmottak",
+     "ok": true,
+     "url": "https://dinutvei.no/hjelpetilbud/overgrepsmottak-alesund/",
+     "tried": [
+      {
+       "url": "https://www.helsenorge.no/hjelpetilbud-i-kommunene/overgrepsmottak",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.helsenorge.no/overgrep/overgrepsmottak",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.helsenorge.no/vold-og-overgrep/overgrepsmottak",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.nkvts.no/overgrepsmottak/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://dinutvei.no/hjelpetilbud/overgrepsmottak",
+       "status": 200,
+       "found": [
+        "overgrepsmottak",
+        "116 117"
+       ]
+      }
+     ]
+    },
+    "smiso": {
+     "id": "smiso",
+     "ok": true,
+     "url": "https://smiso.no/",
+     "tried": [
+      {
+       "url": "https://smiso.no/",
+       "status": 200,
+       "found": [
+        "800 57 000"
+       ]
+      }
+     ]
+    },
+    "dixi": {
+     "id": "dixi",
+     "ok": true,
+     "url": "https://www.dixi.no/",
+     "tried": [
+      {
+       "url": "https://www.dixi.no/",
+       "status": 200,
+       "found": [
+        "22 44 40 50"
+       ]
+      }
+     ]
+    },
+    "klage-helse": {
+     "id": "klage-helse",
+     "ok": false,
+     "url": null,
+     "tried": [
+      {
+       "url": "https://www.helsenorge.no/rettigheter/klage-pa-helsetjenester/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.helsenorge.no/rettigheter/klage/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.helsenorge.no/rettigheter/klage-pa-helsehjelp",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.statsforvalteren.no/tema/helse/klage-pa-helse--og-omsorgstjenester/",
+       "status": 404,
+       "found": [
+        "statsforvalter"
+       ]
+      }
+     ]
+    },
+    "fristbrudd": {
+     "id": "fristbrudd",
+     "ok": true,
+     "url": "https://www.helfo.no/fristbrudd",
+     "tried": [
+      {
+       "url": "https://www.helsenorge.no/rettigheter/fristbrudd/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.helsenorge.no/rettigheter/ventetid-og-fristbrudd/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.helfo.no/fristbrudd",
+       "status": 200,
+       "found": [
+        "fristbrudd",
+        "helfo"
+       ]
+      }
+     ]
+    },
+    "pasientombud": {
+     "id": "pasientombud",
+     "ok": true,
+     "url": "https://www.pasientogbrukerombudet.no/",
+     "tried": [
+      {
+       "url": "https://www.pasientogbrukerombudet.no/",
+       "status": 200,
+       "found": [
+        "ombud"
+       ]
+      }
+     ]
+    },
+    "bekymring": {
+     "id": "bekymring",
+     "ok": true,
+     "url": "https://www.bufdir.no/barnevern/",
+     "tried": [
+      {
+       "url": "https://www.bufdir.no/barnevern/bekymringsmelding/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.bufdir.no/barnevern/meld-fra-til-barnevernet/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.bufdir.no/barnevern/hva-skjer-nar-du-melder-fra/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.bufdir.no/barnevern/",
+       "status": 200,
+       "found": [
+        "bekymring"
+       ]
+      }
+     ]
+    },
+    "barneombudet": {
+     "id": "barneombudet",
+     "ok": true,
+     "url": "https://www.barneombudet.no/",
+     "tried": [
+      {
+       "url": "https://www.barneombudet.no/",
+       "status": 200,
+       "found": [
+        "barneombudet"
+       ]
+      }
+     ]
+    },
+    "horinger": {
+     "id": "horinger",
+     "ok": true,
+     "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+     "tried": [
+      {
+       "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/",
+       "status": 200,
+       "found": [
+        "høring"
+       ]
+      }
+     ]
+    },
+    "komiteer": {
+     "id": "komiteer",
+     "ok": false,
+     "url": null,
+     "tried": [
+      {
+       "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/",
+       "status": 404,
+       "found": []
+      }
+     ]
+    },
+    "kom-finans": {
+     "id": "kom-finans",
+     "ok": false,
+     "url": null,
+     "tried": [
+      {
+       "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Finanskomiteen/",
+       "status": 404,
+       "found": []
+      }
+     ]
+    },
+    "kom-justis": {
+     "id": "kom-justis",
+     "ok": false,
+     "url": null,
+     "tried": [
+      {
+       "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Komiteene/Stortingets-komiteer/Justiskomiteen/",
+       "status": 404,
+       "found": []
+      }
+     ]
+    },
+    "einnsyn": {
+     "id": "einnsyn",
+     "ok": true,
+     "url": "https://einnsyn.no/",
+     "tried": [
+      {
+       "url": "https://einnsyn.no/",
+       "status": 200,
+       "found": [
+        "innsyn"
+       ]
+      }
+     ]
+    },
+    "budsjettbehandling": {
+     "id": "budsjettbehandling",
+     "ok": false,
+     "url": null,
+     "tried": [
+      {
+       "url": "https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Budsjettbehandlingen/",
+       "status": 404,
+       "found": []
+      },
+      {
+       "url": "https://www.stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Budsjett/",
+       "status": 404,
+       "found": []
+      }
+     ]
+    }
+   },
+   "errors": []
+  }
  }
 }
