@@ -1,0 +1,474 @@
+{
+ "fetched": "2026-10-13",
+ "contacts": {
+  "smk": {
+   "visit": "Einar Gerhardsens plass 2, 0179 Oslo",
+   "post": "Postboks 8001 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@smk.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/smk/kontakt/id883/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord. SMK er underlagt arkivregelverket og offentleglova."
+  },
+  "aid": {
+   "visit": "Akersgata 64, 0180 Oslo",
+   "post": "Postboks 8019 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@aid.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/aid/kontakt/id173/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord. Pressevakt 916 73 519."
+  },
+  "bfd": {
+   "visit": "Akersgata 59, 0180 Oslo",
+   "post": "Postboks 8036 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@bfd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/bfd/kontakt_BLD/id306/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord."
+  },
+  "dfd": {
+   "visit": "Einar Gerhardsens plass 1, 0180 Oslo",
+   "post": "Postboks 8004 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@dfd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/dfd/kontakt-digitaliserings-og-forvaltningsdepartementet/id3013879/",
+   "hours": "15.09.–15.05.: 08.00–15.45; 15.05.–15.09.: 08.00–15.00",
+   "note": "Departementenes felles sentralbord."
+  },
+  "ed": {
+   "visit": "Akersgata 59, Oslo",
+   "post": "Postboks 8148 Dep, 0033 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@ed.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/ed/kontakt/id758/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord. Pressetelefon 415 73 500. Bunnteksten på regjeringen.no viser fortsatt gammel adresse postmottak@oed.dep.no; kontaktsiden oppgir postmottak@ed.dep.no."
+  },
+  "fin": {
+   "visit": "Akersgata 40, 0180 Oslo",
+   "post": "Postboks 8008 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@fin.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/fin/kontakt/id270411/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord. Departementet foretrekker henvendelser per brev eller e-post. Spørsmål om skatt, folkeregister og mva. går til Skatteetaten."
+  },
+  "fd": {
+   "visit": "Glacisgata 1 og Myntgata 1, Oslo",
+   "post": "Postboks 8126 Dep, 0032 Oslo",
+   "phone": "23 09 80 00",
+   "email": "postmottak@fd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/fd/kontakt/id388/",
+   "hours": "",
+   "note": "Eget sentralbord (ikke 22 24 90 90). Pressevakt 994 06 011. Innsynskrav via eInnsyn eller postmottak; oppgi navn og postadresse hvis du vil ha skriftlig svar."
+  },
+  "hod": {
+   "visit": "Teatergata 9, Oslo",
+   "post": "Postboks 8011 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@hod.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/hod/kontakt-helse-og-omsorgsdepartementet/id429/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord. Pressehenvendelser: info@hod.dep.no."
+  },
+  "jd": {
+   "visit": "Einar Gerhardsens plass 1, 0179 Oslo",
+   "post": "Postboks 8005 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@jd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/jd/kontakt/id471/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord."
+  },
+  "kld": {
+   "visit": "Einar Gerhardsens plass 1, 0179 Oslo",
+   "post": "Postboks 8013 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@kld.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/kld/kontakt/id676/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord."
+  },
+  "kdd": {
+   "visit": "Akersgata 59, Oslo",
+   "post": "Postboks 8112 Dep, 0032 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@kdd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/kdd/kontakt/id512/",
+   "hours": "15.09.–15.05.: 08.00–15.45; 15.05.–15.09.: 08.00–15.00",
+   "note": "Departementenes felles sentralbord."
+  },
+  "kud": {
+   "visit": "Einar Gerhardsens plass 2 (D-blokka), 0180 Oslo – publikumsinngang via A-blokka, Einar Gerhardsens plass 1",
+   "post": "Postboks 8030 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@kud.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/kud/kontakt/id553/",
+   "hours": "15. sep–14. mai: 08.00–15.45; 15. mai–14. sep: 08.00–15.00",
+   "note": "Departementenes felles sentralbord. Pressevakt 90 23 10 93."
+  },
+  "kd": {
+   "visit": "Kirkegata 18, Oslo",
+   "post": "Postboks 8119 Dep, 0032 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@kd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/kd/kontakt/id594/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord. Presse: 22 24 77 07, kdinfo@kd.dep.no."
+  },
+  "lmd": {
+   "visit": "Teatergata 9 (R6), Oslo",
+   "post": "Postboks 8007 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@lmd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/lmd/kontakt/id635/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord. Sentralarkivet 22 24 91 99, pressevakt 22 24 91 40. Prøver å svare samme dag."
+  },
+  "nfd": {
+   "visit": "Einar Gerhardsens plass 1, 0180 Oslo",
+   "post": "Postboks 8090 Dep, 0032 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@nfd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/nfd/kontakt/id717/",
+   "hours": "",
+   "note": "Departementenes felles sentralbord. Presse: media@nfd.dep.no, 902 51 303."
+  },
+  "sd": {
+   "visit": "Akersgata 59 (R5), Oslo",
+   "post": "Postboks 8010 Dep, 0030 Oslo",
+   "phone": "22 24 90 90",
+   "email": "postmottak@sd.dep.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/sd/kontakt/id799/",
+   "hours": "15. mai–14. sep: 08.00–15.00; 15. sep–14. mai: 08.00–15.45",
+   "note": "Departementenes felles sentralbord. Pressevakt 919 14 777."
+  },
+  "ud": {
+   "visit": "Einar Gerhardsens plass 2, 0179 Oslo – publikumsinngang via A-blokken, Einar Gerhardsens plass 1",
+   "post": "Postboks 8114 Dep, 0032 Oslo",
+   "phone": "23 95 00 00",
+   "email": "post@mfa.no",
+   "contactUrl": "https://www.regjeringen.no/no/dep/ud/kontakt/id841/",
+   "hours": "",
+   "note": "Eget sentralbord, også for akutthjelp utenfor arbeidstid. E-post er post@mfa.no (ikke postmottak@ud.dep.no). Pressevakt 23 95 00 02."
+  },
+  "storting": {
+   "visit": "Karl Johans gate 22, 0026 Oslo",
+   "post": "Stortinget, Postboks 1700 Sentrum, 0026 Oslo",
+   "phone": "23 31 30 50",
+   "email": "postmottak@stortinget.no",
+   "contactUrl": "https://stortinget.no/no/Stottemeny/kontakt",
+   "hours": "Sentralbord man–fre 08.00–15.30. Seksjon for besøk og formidling man–fre 09–11 (tlf. 23 31 31 80). Stortingsarkivet man–fre 09–15.",
+   "note": "Publikumsinngang til tilhørerlosjen fra Karl Johans gate. Ingen påmelding til tilhørerlosjen; inngangen åpner noen minutter før møtet. Sikkerhetskontroll, yttertøy og sekker i låst garderobe, ingen mat/drikke. Møter normalt tir–tor kl. 10. Vare-/postlevering: Rådhusgata 35, 0158 Oslo. Henvendelser er som hovedregel offentlige og journalføres. Gate-besøksadresse er ikke oppgitt på kontaktsidene."
+  },
+  "slottet": {
+   "visit": "Slottsplassen 1, Oslo",
+   "post": "Det kongelige hoff, Det kongelige slott, Postboks 1 Vika, 0010 Oslo",
+   "phone": "22 04 87 00",
+   "email": "post@slottet.no",
+   "contactUrl": "https://www.kongehuset.no/det-kongelige-hoff/kontakt-oss",
+   "hours": "",
+   "note": "Telefontid ikke oppgitt. Slottet er åpent for omvisning åtte uker hver sommer (2026: 20. juni–16. aug; åpner igjen juni 2027), daglig 10–17, billetter via Ticketmaster."
+  },
+  "hoyesterett": {
+   "visit": "Høyesteretts plass 1, Oslo",
+   "post": "Postboks 8016 Dep, 0030 Oslo",
+   "phone": "22 03 59 00",
+   "email": "post@hoyesterett.no",
+   "contactUrl": "https://www.domstol.no/no/hoyesterett/kontakt/",
+   "hours": "Sentralbord 08.00–15.45 (08.00–15.00 15. mai–15. sep)",
+   "note": "Adressene står ikke på kontaktsiden (JS-side); de er hentet fra Høyesteretts eget brevhode i en avgjørelse fra 2023 på domstol.no. Presse: presse@hoyesterett.no, 22 03 59 80. De fleste saker går for åpne dører uten påmelding."
+  },
+  "statsministerboligen": {
+   "visit": "",
+   "post": "",
+   "phone": "",
+   "email": "",
+   "contactUrl": "https://www.regjeringen.no/no/dep/smk/kontakt/id883/",
+   "hours": "",
+   "note": "Statsministerboligen har ingen offentlig kontakt eller publikumsadgang. Post og henvendelser går til Statsministerens kontor: Postboks 8001 Dep, 0030 Oslo, postmottak@smk.dep.no, tlf. 22 24 90 90."
+  },
+  "riksrevisjonen": {
+   "visit": "Storgata 16, Oslo",
+   "post": "Postboks 6835 St. Olavs plass, 0130 Oslo",
+   "phone": "22 24 10 00",
+   "email": "postmottak@riksrevisjonen.no",
+   "contactUrl": "https://www.riksrevisjonen.no/kontakt-oss/",
+   "hours": "",
+   "note": "Åpningstider ikke oppgitt. Har også kontorer i Bergen, Bodø, Hamar, Kristiansand, Tromsø og Trondheim. Tips: egen tipskanal (anonymt mulig)."
+  },
+  "sivilombudet": {
+   "visit": "Akersgata 8, Oslo",
+   "post": "Postboks 3 Sentrum, 0101 Oslo",
+   "phone": "22 82 85 00",
+   "email": "postmottak@sivilombudet.no",
+   "contactUrl": "https://www.sivilombudet.no/kontakt/",
+   "hours": "Sentralbord hverdager 09.30–14.30",
+   "note": "Klageskjema: https://sivilombudet.digiforms.no/tjeneste/klage (med innlogging: https://sivilombudet.digiforms.no/minside)."
+  },
+  "radhus": {
+   "visit": "Rådhuset, 0037 Oslo – publikumsinngang til bystyresalen fra Borggården",
+   "post": "Bystyrets sekretariat, Rådhuset, 0037 Oslo",
+   "phone": "21 80 21 80",
+   "email": "",
+   "contactUrl": "https://www.oslo.kommune.no/etater-foretak-og-ombud/bystyrets-sekretariat/",
+   "hours": "Rådhuset: man–lør 09.00–16.00, stengt søndager (og enkelte arrangementsdager, f.eks. 15. og 23. okt. 2026). Sikkerhetskontroll for alle.",
+   "note": "Bystyrets sekretariat oppgir ingen postmottak-e-post; skriftlige innspill sendes via eDialog https://svarut.ks.no/edialog/mottaker/976819853 eller per post. Pressevakt: kommunikasjon@oslobystyre.no / 91 24 66 31. Rådhusets forvaltningstjeneste (bygget): postmottak@rft.oslo.kommune.no. 21 80 21 80 er Oslo kommunes kontaktsenter. Gruppeomvisning: omvisninger@rft.oslo.kommune.no, 23 46 18 06 (betalt, fra 2 509 kr per gruppe)."
+  }
+ },
+ "rights": {
+  "departement": [
+   {
+    "text": "Du har rett til innsyn i departementets saksdokumenter, journaler og registre, med mindre noe er unntatt ved lov.",
+    "basis": "offentleglova § 3",
+    "url": "https://einnsyn.no"
+   },
+   {
+    "text": "Departementene fører postjournal som du kan søke i og bestille dokumenter fra på eInnsyn.",
+    "basis": "offentleglova § 10",
+    "url": "https://einnsyn.no"
+   },
+   {
+    "text": "Du kan be om innsyn anonymt og uten å begrunne hvorfor.",
+    "basis": "offentleglova § 28",
+    "url": "https://einnsyn.no"
+   },
+   {
+    "text": "Innsynskrav skal avgjøres uten ugrunnet opphold (normalt 1–3 arbeidsdager); får du ikke svar innen fem arbeidsdager, regnes det som avslag du kan klage på. Klagefristen er tre uker.",
+    "basis": "offentleglova §§ 29 og 32",
+    "url": "https://www.sivilombudet.no/wp-content/uploads/2026/05/Innsynsguiden-2026.pdf"
+   },
+   {
+    "text": "Alle kan sende høringssvar til offentlige høringer om nye lover og forskrifter.",
+    "basis": "",
+    "url": "https://www.regjeringen.no/no/dokument/hoyringar/id1763/"
+   },
+   {
+    "text": "Departementet har plikt til å veilede deg innenfor sitt saksområde.",
+    "basis": "forvaltningsloven § 11",
+    "url": "https://www.regjeringen.no/no/dep/"
+   },
+   {
+    "text": "Mener du forvaltningen har gjort urett mot deg, kan du klage gratis til Sivilombudet (ikke på vedtak fattet av Kongen i statsråd).",
+    "basis": "sivilombudsloven §§ 4 og 7",
+    "url": "https://sivilombudet.digiforms.no/tjeneste/klage"
+   }
+  ],
+  "storting": [
+   {
+    "text": "Stortingets møter holdes for åpne dører, med mindre et flertall vedtar noe annet.",
+    "basis": "Grunnloven § 84",
+    "url": "https://www.stortinget.no/no/Hva-skjer-pa-Stortinget/"
+   },
+   {
+    "text": "Du kan følge møtene fra tilhørerlosjen uten påmelding: gå inn fra Karl Johans gate, regn med sikkerhetskontroll.",
+    "basis": "Adgangsreglement for Stortinget",
+    "url": "https://stortinget.no/no/Stortinget-og-demokratiet/oversikt-over-omvisninger/publikumsgalleriet/"
+   },
+   {
+    "text": "Komitéhøringer er som regel åpne og kan følges uten påmelding; organisasjoner kan søke om å delta og sende skriftlige innspill (maks to sider, offentlige).",
+    "basis": "",
+    "url": "https://stortinget.no/no/Hva-skjer-pa-Stortinget/Horing/"
+   },
+   {
+    "text": "Du kan skrive direkte til stortingsrepresentantene (oftest fornavn.etternavn@stortinget.no).",
+    "basis": "",
+    "url": "https://www.stortinget.no/no/Stottemeny/kontakt/representanter-og-partigrupper/Representantenes-e-postadresser/"
+   },
+   {
+    "text": "Du har rett til innsyn i Stortingets dokumenter og i Stortingets administrasjon; postjournalen ligger på eInnsyn og krav besvares normalt innen tre virkedager.",
+    "basis": "Regler om rett til innsyn i Stortingets dokumenter (offentleglova gjelder ikke direkte for Stortinget)",
+    "url": "https://stortinget.no/no/Stortinget-og-demokratiet/Administrasjonen/postjournal-og-innsyn/"
+   },
+   {
+    "text": "Du trenger ikke tillatelse for å demonstrere på offentlig sted, men må melde fra til politiet i god tid på forhånd.",
+    "basis": "politiloven § 11",
+    "url": "https://www.politiet.no/kontakt-politiet/"
+   }
+  ],
+  "slottet": [
+   {
+    "text": "Slottsparken er åpen for alle hele året.",
+    "basis": "",
+    "url": "https://www.kongehuset.no/besok-og-kulturtilbud"
+   },
+   {
+    "text": "Slottet er åpent for omvisning åtte uker hver sommer (daglig 10–17); billetter selges via Ticketmaster, noen få i døra. Neste sesong: juni 2027.",
+    "basis": "",
+    "url": "https://www.kongehuset.no/besok-og-kulturtilbud/omvisning-pa-slottet"
+   },
+   {
+    "text": "Dronningparken er åpen for publikum i sommersesongen (2027: 18. mai–1. oktober).",
+    "basis": "",
+    "url": "https://www.kongehuset.no/besok-og-kulturtilbud/besok-dronningparken"
+   },
+   {
+    "text": "Kongen i statsråd møtes normalt fredag kl. 11 på Slottet; møtet er ikke åpent, men vedtakene publiseres som kongelige resolusjoner.",
+    "basis": "",
+    "url": "https://www.regjeringen.no/no/dokument/kongelig-resolusjon/id2076044/"
+   }
+  ],
+  "hoyesterett": [
+   {
+    "text": "Rettsmøtene er som hovedregel offentlige.",
+    "basis": "domstolloven § 124",
+    "url": "https://www.domstol.no/no/hoyesterett/"
+   },
+   {
+    "text": "Du kan møte opp og følge de fleste saker uten påmelding.",
+    "basis": "",
+    "url": "https://www.domstol.no/no/hoyesterett/kontakt/"
+   },
+   {
+    "text": "Høyesterett kan strømme rettsmøter direkte på egen nettside, særlig storkammer-, plenums- og saker av bred offentlig interesse.",
+    "basis": "domstolloven (hjemmel fra 2022)",
+    "url": "https://www.domstol.no/no/hoyesterett/"
+   },
+   {
+    "text": "Høyesteretts avgjørelser publiseres, og du kan få dem tilsendt på e-post.",
+    "basis": "",
+    "url": "https://www.domstol.no/no/hoyesterett/avgjorelser/"
+   }
+  ],
+  "riksrevisjonen": [
+   {
+    "text": "Du kan tipse om korrupsjon, underslag, brudd på anskaffelsesregler eller misbruk av tilskudd i staten, også anonymt.",
+    "basis": "",
+    "url": "https://rr.usecompose.com/cng/Riksrevisjonen/Tipskanalen"
+   },
+   {
+    "text": "Riksrevisjonens rapporter er offentlige og legges fram for Stortinget.",
+    "basis": "",
+    "url": "https://www.riksrevisjonen.no/rapporter/"
+   },
+   {
+    "text": "Du kan også sende tips per e-post eller brev til postmottak.",
+    "basis": "",
+    "url": "https://www.riksrevisjonen.no/kontakt-oss/tips-oss"
+   }
+  ],
+  "sivilombudet": [
+   {
+    "text": "Alle som mener seg utsatt for urett fra offentlig forvaltning kan klage – og det er gratis.",
+    "basis": "sivilombudsloven § 7",
+    "url": "https://sivilombudet.digiforms.no/tjeneste/klage"
+   },
+   {
+    "text": "Klagefristen er ett år fra forvaltningens endelige avgjørelse.",
+    "basis": "sivilombudsloven § 9",
+    "url": "https://www.sivilombudet.no/"
+   },
+   {
+    "text": "Du må først ha brukt alle klagemuligheter i forvaltningen før du klager til ombudet.",
+    "basis": "sivilombudsloven § 8",
+    "url": "https://www.sivilombudet.no/"
+   },
+   {
+    "text": "Ombudet behandler ikke Stortingets vedtak, saker avgjort i statsråd eller domstolenes virksomhet.",
+    "basis": "sivilombudsloven § 4",
+    "url": "https://www.sivilombudet.no/klage/dette-kan-du-ikke-klage-pa/"
+   }
+  ],
+  "radhus": [
+   {
+    "text": "Bystyremøtene er åpne: gå inn fra Borggården til publikumsgalleriet, eller følg direkte med tegnspråktolk.",
+    "basis": "kommuneloven § 11-5",
+    "url": "https://www.oslo.kommune.no/politikk/bystyret/moter-i-bystyret/"
+   },
+   {
+    "text": "Med 300 underskrifter fra Oslo-innbyggere kan du kreve at bystyret behandler et innbyggerforslag innen seks måneder.",
+    "basis": "kommuneloven § 12-1",
+    "url": "https://minsak.no/"
+   },
+   {
+    "text": "Du kan søke i kommunens postjournaler og be om innsyn på eInnsyn; avslag kan påklages innen tre uker.",
+    "basis": "offentleglova §§ 3 og 32",
+    "url": "https://einnsyn.no/"
+   },
+   {
+    "text": "Du kan be om innspillsmøte med en bystyrekomité eller sende skriftlige innspill via eDialog.",
+    "basis": "",
+    "url": "https://www.oslo.kommune.no/politikk/bystyret/slik-kan-du-pavirke-politisk/"
+   },
+   {
+    "text": "Rådhuset er åpent for alle man–lør 09–16 (sikkerhetskontroll, stengt søndag).",
+    "basis": "",
+    "url": "https://www.oslo.kommune.no/radhuset/radhusets-apningstider/"
+   }
+  ],
+  "statsministerboligen": [
+   {
+    "text": "Statsministerboligen har ingen publikumsadgang eller egen kontakt.",
+    "basis": "",
+    "url": "https://www.regjeringen.no/no/dep/smk/kontakt/id883/"
+   },
+   {
+    "text": "Skriv til Statsministerens kontor: postmottak@smk.dep.no eller Postboks 8001 Dep, 0030 Oslo.",
+    "basis": "",
+    "url": "https://www.regjeringen.no/no/dep/smk/kontakt/id883/"
+   },
+   {
+    "text": "Du kan be om innsyn i SMKs dokumenter via eInnsyn.",
+    "basis": "offentleglova § 3",
+    "url": "https://einnsyn.no"
+   }
+  ]
+ },
+ "sources": [
+  "https://www.regjeringen.no/no/dep/smk/kontakt/id883/",
+  "https://www.regjeringen.no/no/dep/aid/kontakt/id173/",
+  "https://www.regjeringen.no/no/dep/bfd/kontakt_BLD/id306/",
+  "https://www.regjeringen.no/no/dep/dfd/kontakt-digitaliserings-og-forvaltningsdepartementet/id3013879/",
+  "https://www.regjeringen.no/no/dep/ed/kontakt/id758/",
+  "https://www.regjeringen.no/no/dep/fin/kontakt/id270411/",
+  "https://www.regjeringen.no/no/dep/fin/id216/",
+  "https://www.regjeringen.no/no/dep/fd/kontakt/id388/",
+  "https://www.regjeringen.no/no/dep/hod/kontakt-helse-og-omsorgsdepartementet/id429/",
+  "https://www.regjeringen.no/no/dep/jd/kontakt/id471/",
+  "https://www.regjeringen.no/no/dep/kld/kontakt/id676/",
+  "https://www.regjeringen.no/no/dep/kdd/kontakt/id512/",
+  "https://www.regjeringen.no/no/dep/kud/kontakt/id553/",
+  "https://www.regjeringen.no/no/dep/kd/kontakt/id594/",
+  "https://www.regjeringen.no/no/dep/lmd/kontakt/id635/",
+  "https://www.regjeringen.no/no/dep/nfd/kontakt/id717/",
+  "https://www.regjeringen.no/no/dep/sd/kontakt/id799/",
+  "https://www.regjeringen.no/no/dep/ud/kontakt/id841/",
+  "https://stortinget.no/no/Stottemeny/kontakt",
+  "https://stortinget.no/no/Stortinget-og-demokratiet/oversikt-over-omvisninger/publikumsgalleriet/",
+  "https://stortinget.no/no/Stottemeny/kontakt/Adgangsreglement-for-Stortinget/",
+  "https://stortinget.no/no/Stortinget-og-demokratiet/Arbeidet/Horinger/",
+  "https://stortinget.no/no/Stortinget-og-demokratiet/Administrasjonen/postjournal-og-innsyn/",
+  "https://www.stortinget.no/no/Stottemeny/kontakt/representanter-og-partigrupper/Representantenes-e-postadresser/",
+  "https://www.stortinget.no/no/Saker-og-publikasjoner/Publikasjoner/Innstillinger/Stortinget/2019-2020/inns-201920-165s/?m=3",
+  "https://stortinget.no/no/Saker-og-publikasjoner/Vedtak/Beslutninger/Lovvedtak/2020-2021/vedtak-202021-106/",
+  "https://www.kongehuset.no/det-kongelige-hoff/kontakt-oss",
+  "https://www.kongehuset.no/besok-og-kulturtilbud/omvisning-pa-slottet",
+  "https://www.royalcourt.no/the-royal-court/contact-us",
+  "https://www.domstol.no/no/hoyesterett/kontakt/",
+  "https://www.domstol.no/en/supremecourt/contact/",
+  "https://www.domstol.no/globalassets/upload/hret/avgjorelser/2023/juli/foreleggelse-for-efta-domstolen.pdf",
+  "https://www.domstol.no/globalassets/upload/hret/arsmelding/arsmeldingen-2023.pdf",
+  "https://www.riksrevisjonen.no/kontakt-oss/",
+  "https://www.riksrevisjonen.no/kontakt-oss/tips-oss",
+  "https://www.sivilombudet.no/kontakt/",
+  "https://sivilombudet.no/?p=24",
+  "https://www.sivilombudet.no/wp-content/uploads/2026/05/Innsynsguiden-2026.pdf",
+  "https://www.sivilombudet.no/wp-content/uploads/2026/02/Veiledningsplikt_Muntlig-skriftlig-eller-digitalt_UU.pdf",
+  "https://www.oslo.kommune.no/etater-foretak-og-ombud/bystyrets-sekretariat/",
+  "https://www.oslo.kommune.no/politikk/bystyret/moter-i-bystyret/",
+  "https://www.oslo.kommune.no/politikk/bystyret/slik-kan-du-pavirke-politisk/",
+  "https://www.oslo.kommune.no/innsyn/innsyn-etter-offentleglova/",
+  "https://www.oslo.kommune.no/radhuset/radhusets-apningstider/",
+  "https://www.oslo.kommune.no/radhuset/omvisninger-i-oslo-radhus/",
+  "https://www.oslo.kommune.no/etater-foretak-og-ombud/radhusets-forvaltningstjeneste/",
+  "https://www.regjeringen.no/no/dokumenter/-12-1-sporsmal-om-innbyggerforslag-underskrift-som-tilhorer-avdod-person/id2965488/",
+  "https://www.regjeringen.no/no/om-regjeringa/slik-blir-norge-styrt/regjeringen-i-arbeid-2/id2001100/",
+  "https://www.regjeringen.no/no/dokument/hoyringar/id1763/",
+  "https://snl.no/offentleglova",
+  "https://snl.no/offentlighetsprinsippet",
+  "https://snl.no/demonstrasjon",
+  "https://www.stortinget.no/no/Saker-og-publikasjoner/Sporsmal/Skriftlige-sporsmal-og-svar/Skriftlig-sporsmal/?qnid=79175"
+ ]
+}

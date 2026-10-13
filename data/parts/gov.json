@@ -1,0 +1,903 @@
+{
+ "fetched": "2026-10-13",
+ "primeMinister": "Jonas Gahr Støre (Ap)",
+ "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
+ "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
+ "ministries": [
+  {
+   "id": "smk",
+   "name": "Statsministerens kontor",
+   "nameEn": "Office of the Prime Minister",
+   "abbr": "SMK",
+   "ministers": [
+    {
+     "name": "Jonas Gahr Støre",
+     "title": "statsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Einar Gerhardsens plass 2, 0179 Oslo",
+   "building": "D-blokka, nytt regjeringskvartal (innflyttet 2026)",
+   "inNewQuarter": true,
+   "areas": [
+    "regjeringens samordning",
+    "statsråd",
+    "konstitusjonelle saker",
+    "kongehuset"
+   ],
+   "related": [
+    "fin",
+    "ud",
+    "dfd"
+   ],
+   "news": [
+    {
+     "title": "Støre møter Polens statsminister og president",
+     "date": "2026-10-11",
+     "url": "https://www.regjeringen.no/no/aktuelt/store-moter-polens-statsminister-og-president/id3176925/"
+    },
+    {
+     "title": "Statsministerens program veke 42",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-42/id3176914/"
+    },
+    {
+     "title": "Statsministeren gratulerer Navi Pillay med Nobels fredspris",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/statsministeren-gratulerer-navi-pillay-med-nobels-fredspris/id3176851/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/smk/id875/",
+   "lat": 59.9155,
+   "lng": 10.7471
+  },
+  {
+   "id": "aid",
+   "name": "Arbeids- og inkluderingsdepartementet",
+   "nameEn": "Ministry of Labour and Social Inclusion",
+   "abbr": "AID",
+   "ministers": [
+    {
+     "name": "Kjersti Stenseng",
+     "title": "arbeids- og inkluderingsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Akersgata 64, 0180 Oslo",
+   "building": "Akersgata 64 (utenfor de nye blokkene)",
+   "inNewQuarter": false,
+   "areas": [
+    "arbeidsliv",
+    "NAV og trygd",
+    "pensjon",
+    "integrering",
+    "arbeidsmiljø"
+   ],
+   "related": [
+    "dfd",
+    "kd",
+    "fin"
+   ],
+   "news": [
+    {
+     "title": "Mer inkludering og mer KI i staten",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/mer-inkludering-og-mer-ki-i-staten/id3176847/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Regjeringa styrkjer innsatsen for å få innvandrarkvinner i jobb",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-styrkjer-innsatsen-for-a-fa-innvandrarkvinner-i-jobb/id3175665/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: 290 millionar ekstra for å få fleire i jobb",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/290-millionar-ekstra-for-a-fa-fleire-i-jobb/id3175605/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/aid/id165/",
+   "lat": 59.9172,
+   "lng": 10.7448
+  },
+  {
+   "id": "bfd",
+   "name": "Barne- og familiedepartementet",
+   "nameEn": "Ministry of Children and Families",
+   "abbr": "BFD",
+   "ministers": [
+    {
+     "name": "Lene Vågslid",
+     "title": "barne- og familieminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Akersgata 59, 0180 Oslo",
+   "building": "R5, Akersgata 59 (utenfor de nye blokkene)",
+   "inNewQuarter": false,
+   "areas": [
+    "barnevern",
+    "familie",
+    "forbruker",
+    "tros- og livssyn"
+   ],
+   "related": [
+    "nfd",
+    "hod",
+    "kd"
+   ],
+   "news": [
+    {
+     "title": "Invitasjon: 50 år med ansvarlig næringsliv – jubileumsmarkering av OECDs retningslinjer",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/50-ar-med-ansvarlig-naringsliv-jubileumsmarkering-av-oecds-retningslinjer/id3176869/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Aukar løyva til kulturhistorisk verdifulle kyrkjebygg",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/aukar-loyva-til-kulturhistorisk-verdifulle-kyrkjebygg/id3173498/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Aukar løyva til institusjonsbarnevernet",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/aukar-loyva-til-institusjonsbarnevernet/id3173499/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/bfd/id298/",
+   "lat": 59.9156,
+   "lng": 10.7442
+  },
+  {
+   "id": "dfd",
+   "name": "Digitaliserings- og forvaltningsdepartementet",
+   "nameEn": "Ministry of Digitalisation and Public Governance",
+   "abbr": "DFD",
+   "ministers": [
+    {
+     "name": "Torgeir Micaelsen",
+     "title": "digitaliserings- og forvaltningsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Einar Gerhardsens plass 1, 0180 Oslo",
+   "building": "Høyblokka (delvis A-blokka), nytt regjeringskvartal",
+   "inNewQuarter": true,
+   "areas": [
+    "digitalisering",
+    "kunstig intelligens",
+    "statlig forvaltning",
+    "offentlige innkjøp",
+    "personvern"
+   ],
+   "related": [
+    "aid",
+    "kdd",
+    "nfd"
+   ],
+   "news": [
+    {
+     "title": "Mer inkludering og mer KI i staten",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/mer-inkludering-og-mer-ki-i-staten/id3176847/"
+    },
+    {
+     "title": "Milliarder å spare på samordning av offentlige innkjøp",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/milliarder-a-spare-pa-samordning-av-offentlige-innkjop/id3176817/"
+    },
+    {
+     "title": "Presseinvitasjon: Innspillsmøte om kunstig intelligens",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-innspillsmote-om-kunstig-intelligens/id3176803/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
+   "lat": 59.9159,
+   "lng": 10.7459
+  },
+  {
+   "id": "ed",
+   "name": "Energidepartementet",
+   "nameEn": "Ministry of Energy",
+   "abbr": "ED",
+   "ministers": [
+    {
+     "name": "Terje Aasland",
+     "title": "energiminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Akersgata 59, 0033 Oslo",
+   "building": "R5, Akersgata 59 (utenfor de nye blokkene)",
+   "inNewQuarter": false,
+   "areas": [
+    "olje og gass",
+    "kraft og nett",
+    "havvind",
+    "fjernvarme",
+    "CO2-håndtering"
+   ],
+   "related": [
+    "kld",
+    "nfd",
+    "fin"
+   ],
+   "news": [
+    {
+     "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 42",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-42/id3176854/"
+    },
+    {
+     "title": "Foreslår endringar i prisreguleringa av fjernvarme",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/foreslar-endringar-i-prisreguleringa-av-fjernvarme/id3176711/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Høg produksjon og store inntekter frå petroleumsverksemda",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/hog-produksjon-og-store-inntekter-fra-petroleumsverksemda/id3174256/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/ed/id750/",
+   "lat": 59.9156,
+   "lng": 10.7442
+  },
+  {
+   "id": "fin",
+   "name": "Finansdepartementet",
+   "nameEn": "Ministry of Finance",
+   "abbr": "FIN",
+   "ministers": [
+    {
+     "name": "Jens Stoltenberg",
+     "title": "finansminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Akersgata 40, 0180 Oslo",
+   "building": "Akersgata 40 (eget bygg ved regjeringskvartalet, ikke i de nye blokkene)",
+   "inNewQuarter": false,
+   "areas": [
+    "statsbudsjett",
+    "skatt og avgift",
+    "Statens pensjonsfond",
+    "finansmarked",
+    "økonomisk politikk"
+   ],
+   "related": [
+    "smk",
+    "nfd",
+    "ed"
+   ],
+   "news": [
+    {
+     "title": "Presseinvitasjon: Utvalet som skal vurdere det etiske rammeverket for Statens pensjonsfond utland legg fram sin rapport",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/utvalet-som-skal-vurdere-det-etiske-rammeverket-for-statens-pensjonsfond-utland-legg-fram-sin-rapport/id3176808/"
+    },
+    {
+     "title": "Først og fremst er dette et budsjett for å skape trygghet i en utrygg tid",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/forst-og-fremst-er-dette-et-budsjett-for-a-skape-trygghet-i-en-utrygg-tid/id3176801/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Finanstalen",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/finanstalen2/id3176576/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/fin/id216/",
+   "lat": 59.9151,
+   "lng": 10.7442
+  },
+  {
+   "id": "fd",
+   "name": "Forsvarsdepartementet",
+   "nameEn": "Ministry of Defence",
+   "abbr": "FD",
+   "ministers": [
+    {
+     "name": "Tore O. Sandvik",
+     "title": "forsvarsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Glacisgata 1, 0150 Oslo",
+   "building": "Akershus festning-området (eget bygg, utenfor regjeringskvartalet)",
+   "inNewQuarter": false,
+   "areas": [
+    "forsvar",
+    "sikkerhetspolitikk",
+    "NATO",
+    "forsvarsindustri",
+    "beredskap"
+   ],
+   "related": [
+    "ud",
+    "jd",
+    "nfd"
+   ],
+   "news": [
+    {
+     "title": "Forsvarets internasjonale innsats 2026-2027",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/forsvarets-internasjonale-innsats-2026-2027/id3176618/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Øker produksjonskapasiteten i norsk forsvarsindustri",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/oker-produksjonskapasiteten-i-norsk-forsvarsindustri/id3174290/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Regjeringa løfter Nord-Noreg gjennom satsing på Forsvaret, beredskap og infrastruktur.",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-lofter-nord-noreg-gjennom-satsing-pa-forsvaret-beredskap-og-infrastruktur/id3173713/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/fd/id380/",
+   "lat": 59.9061,
+   "lng": 10.7429
+  },
+  {
+   "id": "hod",
+   "name": "Helse- og omsorgsdepartementet",
+   "nameEn": "Ministry of Health and Care Services",
+   "abbr": "HOD",
+   "ministers": [
+    {
+     "name": "Jan Christian Vestre",
+     "title": "helse- og omsorgsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Teatergata 9, Oslo",
+   "building": "R6, Teatergata 9 (utenfor de nye blokkene)",
+   "inNewQuarter": false,
+   "areas": [
+    "sykehus",
+    "folkehelse",
+    "eldreomsorg",
+    "legemidler",
+    "psykisk helse"
+   ],
+   "related": [
+    "kdd",
+    "aid",
+    "bfd"
+   ],
+   "news": [
+    {
+     "title": "Regjeringen vil sikre en god luftambulansetjeneste",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-sikre-en-god-luftambulansetjeneste/id3176676/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Et budsjett som skaper trygghet for helsa",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/et-budsjett-som-skaper-trygghet-for-helsa/id3176421/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Legger til rette for nye, ambisiøse ventetidsmål for sykehusene",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/legger-til-rette-for-nye-ambisiose-ventetidsmal-for-sykehusene/id3174121/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/hod/id421/",
+   "lat": 59.9163,
+   "lng": 10.7428
+  },
+  {
+   "id": "jd",
+   "name": "Justis- og beredskapsdepartementet",
+   "nameEn": "Ministry of Justice and Public Security",
+   "abbr": "JD",
+   "ministers": [
+    {
+     "name": "Astri Aas-Hansen",
+     "title": "justis- og beredskapsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Einar Gerhardsens plass 1, 0179 Oslo",
+   "building": "Høyblokka, nytt regjeringskvartal",
+   "inNewQuarter": true,
+   "areas": [
+    "politi",
+    "domstoler",
+    "kriminalomsorg",
+    "innvandring og asyl",
+    "samfunnssikkerhet"
+   ],
+   "related": [
+    "fd",
+    "aid",
+    "dfd"
+   ],
+   "news": [
+    {
+     "title": "Regjeringen foreslår å utvide varigheten for ordningen med midlertidig kollektiv beskyttelse",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-a-utvide-varigheten-for-ordningen-med-midlertidig-kollektiv-beskyttelse/id3176866/"
+    },
+    {
+     "title": "Opening of the Norwegian National Counter-Drone Centre of Excellence",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/whats-new/apning-og-markering-av-nasjonalt-kompetansesenter-for-ulovlig-droneflyging-8.-oktober-2026/id3176899/"
+    },
+    {
+     "title": "Åpnet nasjonalt kompetansesenter mot ulovlig droneflyging",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/apnet-nasjonalt-kompetansesenter-mot-ulovlig-droneflyging/id3176870/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/jd/id463/",
+   "lat": 59.9159,
+   "lng": 10.7459
+  },
+  {
+   "id": "kld",
+   "name": "Klima- og miljødepartementet",
+   "nameEn": "Ministry of Climate and Environment",
+   "abbr": "KLD",
+   "ministers": [
+    {
+     "name": "Sigrun Aasland",
+     "title": "klima- og miljøminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Einar Gerhardsens plass 1, 0179 Oslo",
+   "building": "A-blokka, nytt regjeringskvartal",
+   "inNewQuarter": true,
+   "areas": [
+    "klima",
+    "naturmangfold",
+    "forurensning",
+    "kulturminner",
+    "villrein og vassdrag"
+   ],
+   "related": [
+    "ed",
+    "lmd",
+    "nfd"
+   ],
+   "news": [
+    {
+     "title": "Regjeringa set i gong arbeidet med tiltaksplanane for Reinheimen-Breheimen, Sølnkletten og Forollhogna villreinområde",
+     "date": "2026-10-12",
+     "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-set-i-gong-arbeidet-med-tiltaksplanane-for-reinheimen-breheimen-solnkletten-og-forollhogna-villreinomrade/id3177094/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Vil kjøpe flere klimakvoter",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/vil-kjope-flere-klimakvoter/id3176626/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Forsterka innsats mot pukkellaks",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/forsterka-innsats-mot-pukkellaks/id3176624/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/kld/id668/",
+   "lat": 59.9159,
+   "lng": 10.7459
+  },
+  {
+   "id": "kdd",
+   "name": "Kommunal- og distriktsdepartementet",
+   "nameEn": "Ministry of Local Government and Regional Development",
+   "abbr": "KDD",
+   "ministers": [
+    {
+     "name": "Bjørnar Selnes Skjæran",
+     "title": "kommunal- og distriktsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Akersgata 59, 0032 Oslo",
+   "building": "R5, Akersgata 59 (utenfor de nye blokkene)",
+   "inNewQuarter": false,
+   "areas": [
+    "kommuneøkonomi",
+    "distriktspolitikk",
+    "plan og bygg",
+    "bolig",
+    "valg og samepolitikk"
+   ],
+   "related": [
+    "fin",
+    "dfd",
+    "kld"
+   ],
+   "news": [
+    {
+     "title": "Statsbudsjettet 2027: Nye verkemiddel for frivillige kommunesamanslåingar",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/nye-verkemiddel-for-frivillige-kommunesamanslaingar/id3173707/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: 447 millionar meir i frie inntekter til Finnmark neste år",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/447-millionar-meir-i-frie-inntekter-til-finnmark-neste-ar/id3173681/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/kdd/id504/",
+   "lat": 59.9156,
+   "lng": 10.7442
+  },
+  {
+   "id": "kud",
+   "name": "Kultur- og likestillingsdepartementet",
+   "nameEn": "Ministry of Culture and Equality",
+   "abbr": "KUD",
+   "ministers": [
+    {
+     "name": "Lubna Jaffery",
+     "title": "kultur- og likestillingsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Einar Gerhardsens plass 2, 0179 Oslo (publikumsinngang via A-blokka, Einar Gerhardsens plass 1)",
+   "building": "D-blokka, nytt regjeringskvartal",
+   "inNewQuarter": true,
+   "areas": [
+    "kultur og kunst",
+    "medier",
+    "idrett",
+    "likestilling",
+    "frivillighet",
+    "pengespill"
+   ],
+   "related": [
+    "bfd",
+    "kd",
+    "nfd"
+   ],
+   "news": [
+    {
+     "title": "Vurderer strengere regulering av lootbokser i dataspill",
+     "date": "2026-10-12",
+     "url": "https://www.regjeringen.no/no/aktuelt/vurderer-strengere-regulering-av-lootbokser-i-dataspill/id3177013/"
+    },
+    {
+     "title": "Dronning Sonja til åpningen av Munch–Picasso i Málaga",
+     "date": "2026-10-12",
+     "url": "https://www.regjeringen.no/no/aktuelt/dronning-sonja-til-apningen-av-munchpicasso-i-malaga/id3176946/"
+    },
+    {
+     "title": "Innspill til kvotefordelingen av kunstnerstipendmidlene for 2027",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/innspill-til-kvotefordelingen-av-kunstnerstipendmidlene-for-2027/id3176876/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/kud/id545/",
+   "lat": 59.9155,
+   "lng": 10.7471
+  },
+  {
+   "id": "kd",
+   "name": "Kunnskapsdepartementet",
+   "nameEn": "Ministry of Education and Research",
+   "abbr": "KD",
+   "ministers": [
+    {
+     "name": "Kari Nessa Nordtun",
+     "title": "kunnskapsminister",
+     "party": "Ap"
+    },
+    {
+     "name": "Eileen Fugelsnes",
+     "title": "forsknings- og høyere utdanningsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Kirkegata 18, Oslo",
+   "building": "Kirkegata 18, Kvadraturen (utenfor regjeringskvartalet)",
+   "inNewQuarter": false,
+   "areas": [
+    "barnehage",
+    "skole",
+    "høyere utdanning",
+    "forskning",
+    "fagskole"
+   ],
+   "related": [
+    "aid",
+    "bfd",
+    "kdd"
+   ],
+   "news": [
+    {
+     "title": "Statsbudsjettet 2027: 20,9 millioner til digital opplæring i fengsel",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/digital-opplaring-i-fengsel/id3174289/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Regjeringa vidarefører den historiske låge maksprisen i barnehage",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-vidareforer-den-historiske-lage-maksprisen-i-barnehage/id3174270/"
+    },
+    {
+     "title": "Vil lovfeste krav om smågruppeundervisning for de yngste",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/vil-lovfeste-krav-om-smagruppeundervisning-for-de-yngste/id3176523/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/kd/id586/",
+   "lat": 59.9102,
+   "lng": 10.7439
+  },
+  {
+   "id": "lmd",
+   "name": "Landbruks- og matdepartementet",
+   "nameEn": "Ministry of Agriculture and Food",
+   "abbr": "LMD",
+   "ministers": [
+    {
+     "name": "Nils Kristen Sandtrøen",
+     "title": "landbruks- og matminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Teatergata 9, Oslo",
+   "building": "R6, Teatergata 9 (utenfor de nye blokkene)",
+   "inNewQuarter": false,
+   "areas": [
+    "landbruk",
+    "matproduksjon",
+    "mattrygghet",
+    "skogbruk",
+    "reindrift"
+   ],
+   "related": [
+    "nfd",
+    "kld",
+    "kdd"
+   ],
+   "news": [
+    {
+     "title": "Auka sjølvforsyning på potet",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/auka-sjolvforsyning-pa-potet/id3176853/"
+    },
+    {
+     "title": "Presseinvitasjon: Landbruks- og matministeren til Svalbard",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/landbruks-og-matministeren-til-svalbard/id3176649/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Regjeringen styrker norsk matproduksjon",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-norsk-matproduksjon/id3173404/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
+   "lat": 59.9163,
+   "lng": 10.7428
+  },
+  {
+   "id": "nfd",
+   "name": "Nærings- og fiskeridepartementet",
+   "nameEn": "Ministry of Trade, Industry and Fisheries",
+   "abbr": "NFD",
+   "ministers": [
+    {
+     "name": "Cecilie Myrseth",
+     "title": "næringsminister",
+     "party": "Ap"
+    },
+    {
+     "name": "Marianne Sivertsen Næss",
+     "title": "fiskeri- og havminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Einar Gerhardsens plass 1, 0180 Oslo",
+   "building": "A-blokka, nytt regjeringskvartal",
+   "inNewQuarter": true,
+   "areas": [
+    "næringsliv",
+    "handel",
+    "fiskeri og havbruk",
+    "sjøfart",
+    "statlig eierskap"
+   ],
+   "related": [
+    "bfd",
+    "kld",
+    "ed"
+   ],
+   "news": [
+    {
+     "title": "Invitasjon: 50 år med ansvarlig næringsliv – jubileumsmarkering av OECDs retningslinjer",
+     "date": "2026-10-09",
+     "url": "https://www.regjeringen.no/no/aktuelt/50-ar-med-ansvarlig-naringsliv-jubileumsmarkering-av-oecds-retningslinjer/id3176869/"
+    },
+    {
+     "title": "Oppretter ny tilskuddsordning for fiskere i Oslofjorden",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/oppretter-ny-tilskuddsordning-for-fiskere-i-oslofjorden/id3176782/"
+    },
+    {
+     "title": "Revidert forskrift om norsk lønn på skip på høring",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/revidert-forskrift-om-norsk-lonn-pa-skip-pa-horing/id3176701/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
+   "lat": 59.9159,
+   "lng": 10.7459
+  },
+  {
+   "id": "sd",
+   "name": "Samferdselsdepartementet",
+   "nameEn": "Ministry of Transport",
+   "abbr": "SD",
+   "ministers": [
+    {
+     "name": "Kamzy Gunaratnam",
+     "title": "samferdselsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Akersgata 59, Oslo",
+   "building": "R5, Akersgata 59 (utenfor de nye blokkene)",
+   "inNewQuarter": false,
+   "areas": [
+    "veg",
+    "jernbane",
+    "luftfart",
+    "bompenger",
+    "ekom og nettdekning"
+   ],
+   "related": [
+    "kdd",
+    "kld",
+    "dfd"
+   ],
+   "news": [
+    {
+     "title": "Statsbudsjettet 2027: Betre nettdekning på jernbana",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/nettdekning-i-tunnel/id3175562/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Rv 13 Ryfast: Framleis statleg bidrag til reduserte bompengar, men slutt på ekstra tilskot",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/rv-13-ryfast-framleis-statleg-bidrag-til-reduserte-bompengar-men-slutt-pa-ekstra-tilskot/id3175560/"
+    },
+    {
+     "title": "Statsbudsjettet 2027: Foreslår å starte opp E39 Smiene–Harestad",
+     "date": "2026-10-07",
+     "url": "https://www.regjeringen.no/no/aktuelt/foreslar-a-starte-opp-e39-smieneharestad/id3175551/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/sd/id791/",
+   "lat": 59.9156,
+   "lng": 10.7442
+  },
+  {
+   "id": "ud",
+   "name": "Utenriksdepartementet",
+   "nameEn": "Ministry of Foreign Affairs",
+   "abbr": "UD",
+   "ministers": [
+    {
+     "name": "Espen Barth Eide",
+     "title": "utenriksminister",
+     "party": "Ap"
+    },
+    {
+     "name": "Åsmund Aukrust",
+     "title": "utviklingsminister",
+     "party": "Ap"
+    }
+   ],
+   "address": "Einar Gerhardsens plass 2, 0179 Oslo (publikumsinngang via A-blokka, Einar Gerhardsens plass 1)",
+   "building": "D-blokka, nytt regjeringskvartal",
+   "inNewQuarter": true,
+   "areas": [
+    "utenrikspolitikk",
+    "bistand og utvikling",
+    "EØS og Europa",
+    "konsulære tjenester",
+    "nordområdene"
+   ],
+   "related": [
+    "smk",
+    "fd",
+    "nfd"
+   ],
+   "news": [
+    {
+     "title": "Utenriksdepartementet oppjusterer reiseadvarselen for Saudi-Arabia",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/utenriksdepartementet-oppjusterer-reiseadvarselen-for-saudi-arabia/id3176812/"
+    },
+    {
+     "title": "Nye ambassadørar frå Vietnam, Pakistan, Austerrike og Frankrike",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/nye-ambassadorar-fra-vietnam-pakistan-austerrike-og-frankrike/id3176797/"
+    },
+    {
+     "title": "Utviklingsministeren er dypt bekymret for den humanitære situasjonen i Sudan",
+     "date": "2026-10-08",
+     "url": "https://www.regjeringen.no/no/aktuelt/utviklingsministeren-er-dypt-bekymret-for-den-humanitare-situasjonen-i-sudan/id3176587/"
+    }
+   ],
+   "url": "https://www.regjeringen.no/no/dep/ud/id833/",
+   "lat": 59.9155,
+   "lng": 10.7471
+  }
+ ],
+ "institutions": [
+  {
+   "id": "storting",
+   "name": "Stortinget",
+   "role": "Nasjonalforsamlingen: vedtar lover og statsbudsjett, kontrollerer regjeringen (169 representanter)",
+   "address": "Karl Johans gate 22, 0026 Oslo",
+   "lat": 59.9132,
+   "lng": 10.7403,
+   "url": "https://www.stortinget.no/"
+  },
+  {
+   "id": "slottet",
+   "name": "Det kongelige slott",
+   "role": "Kongens residens; statsråd (Kongen i statsråd) holdes her, normalt fredager",
+   "address": "Slottsplassen 1, 0010 Oslo",
+   "lat": 59.9171,
+   "lng": 10.7277,
+   "url": "https://www.kongehuset.no/"
+  },
+  {
+   "id": "hoyesterett",
+   "name": "Høyesterett",
+   "role": "Norges øverste domstol",
+   "address": "Høyesteretts plass 1, 0180 Oslo",
+   "lat": 59.9146,
+   "lng": 10.7445,
+   "url": "https://www.domstol.no/hoyesterett/"
+  },
+  {
+   "id": "statsministerboligen",
+   "name": "Statsministerboligen",
+   "role": "Statsministerens offisielle bolig og representasjonsbolig",
+   "address": "Inkognitogata 18, 0256 Oslo",
+   "lat": 59.9181,
+   "lng": 10.7226,
+   "url": ""
+  },
+  {
+   "id": "riksrevisjonen",
+   "name": "Riksrevisjonen",
+   "role": "Stortingets kontrollorgan som reviderer statens regnskap og forvaltning",
+   "address": "Storgata 16, 0184 Oslo",
+   "lat": 59.9136,
+   "lng": 10.7508,
+   "url": "https://www.riksrevisjonen.no/"
+  },
+  {
+   "id": "radhus",
+   "name": "Oslo rådhus",
+   "role": "Sete for Oslo bystyre og byrådet (byrådsleder Eirik Lae Solberg, H; byråd av Høyre og Venstre)",
+   "address": "Rådhusplassen 1, 0037 Oslo",
+   "lat": 59.9117,
+   "lng": 10.7335,
+   "url": "https://www.oslo.kommune.no/politikk/"
+  },
+  {
+   "id": "sivilombudet",
+   "name": "Sivilombudet",
+   "role": "Stortingets ombud som behandler klager på offentlig forvaltning",
+   "address": "Akersgata 8, Oslo",
+   "lat": 59.9118,
+   "lng": 10.7401,
+   "url": "https://www.sivilombudet.no/"
+  }
+ ]
+}

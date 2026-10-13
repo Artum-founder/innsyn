@@ -1,0 +1,241 @@
+[
+ {
+  "id": "hoyblokka",
+  "name": "Høyblokka",
+  "sub": "Regjeringskvartalet · Einar Gerhardsens plass 1",
+  "lat": 59.9159,
+  "lng": 10.7459,
+  "h": 68,
+  "w": 22,
+  "d": 56,
+  "kind": "min",
+  "occ": [
+   "jd",
+   "dfd"
+  ]
+ },
+ {
+  "id": "ablokka",
+  "name": "A-blokka",
+  "sub": "Regjeringskvartalet · mot Akersgata",
+  "lat": 59.91635,
+  "lng": 10.74475,
+  "h": 42,
+  "w": 34,
+  "d": 30,
+  "kind": "min",
+  "occ": [
+   "nfd",
+   "kld"
+  ]
+ },
+ {
+  "id": "dblokka",
+  "name": "D-blokka",
+  "sub": "Regjeringskvartalet · Einar Gerhardsens plass 2",
+  "lat": 59.9154,
+  "lng": 10.7474,
+  "h": 56,
+  "w": 30,
+  "d": 40,
+  "kind": "min",
+  "occ": [
+   "smk",
+   "ud",
+   "kud"
+  ]
+ },
+ {
+  "id": "r5",
+  "name": "R5",
+  "sub": "Akersgata 59",
+  "lat": 59.91565,
+  "lng": 10.7439,
+  "h": 30,
+  "w": 28,
+  "d": 28,
+  "kind": "min",
+  "occ": [
+   "sd",
+   "ed",
+   "kdd",
+   "bfd"
+  ]
+ },
+ {
+  "id": "r6",
+  "name": "R6",
+  "sub": "Teatergata 9",
+  "lat": 59.91655,
+  "lng": 10.7424,
+  "h": 28,
+  "w": 26,
+  "d": 24,
+  "kind": "min",
+  "occ": [
+   "hod",
+   "lmd"
+  ]
+ },
+ {
+  "id": "akersgata40",
+  "name": "Akersgata 40",
+  "sub": "Finansdepartementets bygg",
+  "lat": 59.9151,
+  "lng": 10.7444,
+  "h": 26,
+  "w": 26,
+  "d": 30,
+  "kind": "min",
+  "occ": [
+   "fin"
+  ]
+ },
+ {
+  "id": "akersgata64",
+  "name": "Akersgata 64",
+  "sub": "Ved Grubbegata",
+  "lat": 59.9174,
+  "lng": 10.7448,
+  "h": 24,
+  "w": 26,
+  "d": 22,
+  "kind": "min",
+  "occ": [
+   "aid"
+  ]
+ },
+ {
+  "id": "glacisgata",
+  "name": "Glacisgata 1",
+  "sub": "Ved Akershus festning",
+  "lat": 59.9061,
+  "lng": 10.7429,
+  "h": 20,
+  "w": 34,
+  "d": 26,
+  "kind": "min",
+  "occ": [
+   "fd"
+  ]
+ },
+ {
+  "id": "kirkegata18",
+  "name": "Kirkegata 18",
+  "sub": "Kvadraturen",
+  "lat": 59.9102,
+  "lng": 10.7439,
+  "h": 22,
+  "w": 26,
+  "d": 26,
+  "kind": "min",
+  "occ": [
+   "kd"
+  ]
+ },
+ {
+  "id": "stortinget",
+  "name": "Stortinget",
+  "sub": "Karl Johans gate 22",
+  "lat": 59.9132,
+  "lng": 10.7403,
+  "h": 26,
+  "w": 56,
+  "d": 40,
+  "kind": "storting",
+  "occ": [
+   "storting"
+  ],
+  "label": "Stortinget"
+ },
+ {
+  "id": "slottet",
+  "name": "Det kongelige slott",
+  "sub": "Slottsplassen 1",
+  "lat": 59.9171,
+  "lng": 10.7277,
+  "h": 24,
+  "w": 96,
+  "d": 30,
+  "kind": "inst",
+  "occ": [
+   "slottet"
+  ],
+  "label": "Slottet"
+ },
+ {
+  "id": "hoyesterett",
+  "name": "Høyesterett",
+  "sub": "Høyesteretts plass 1",
+  "lat": 59.91445,
+  "lng": 10.7451,
+  "h": 22,
+  "w": 30,
+  "d": 26,
+  "kind": "inst",
+  "occ": [
+   "hoyesterett"
+  ],
+  "label": "Høyesterett"
+ },
+ {
+  "id": "statsministerboligen",
+  "name": "Statsministerboligen",
+  "sub": "Inkognitogata 18",
+  "lat": 59.9181,
+  "lng": 10.7226,
+  "h": 14,
+  "w": 30,
+  "d": 24,
+  "kind": "inst",
+  "occ": [
+   "statsministerboligen"
+  ],
+  "label": "Statsministerboligen"
+ },
+ {
+  "id": "riksrevisjonen",
+  "name": "Riksrevisjonen",
+  "sub": "Storgata 16",
+  "lat": 59.9136,
+  "lng": 10.7508,
+  "h": 24,
+  "w": 30,
+  "d": 26,
+  "kind": "inst",
+  "occ": [
+   "riksrevisjonen"
+  ],
+  "label": "Riksrevisjonen"
+ },
+ {
+  "id": "radhus",
+  "name": "Oslo rådhus",
+  "sub": "Rådhusplassen 1",
+  "lat": 59.9117,
+  "lng": 10.7335,
+  "h": 64,
+  "w": 60,
+  "d": 46,
+  "kind": "inst",
+  "occ": [
+   "radhus"
+  ],
+  "label": "Rådhuset"
+ },
+ {
+  "id": "sivilombudet",
+  "name": "Sivilombudet",
+  "sub": "Akersgata 8",
+  "lat": 59.9116,
+  "lng": 10.7404,
+  "h": 18,
+  "w": 22,
+  "d": 20,
+  "kind": "inst",
+  "occ": [
+   "sivilombudet"
+  ],
+  "label": "Sivilombudet"
+ }
+]
