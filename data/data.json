@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-13",
+ "fetched": "2026-10-14",
  "gov": {
-  "fetched": "2026-10-13",
+  "fetched": "2026-10-14",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Vurderer å forlenge nettselskapenes mulighet til å begrense størrelsen på energileddet",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/a-forlenge-nettselskapenes-mulighet-til-a-begrense-storrelsen-pa-energileddet/id3177363/"
+     },
+     {
       "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 42",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-42/id3176854/"
@@ -233,11 +238,6 @@
       "title": "Foreslår endringar i prisreguleringa av fjernvarme",
       "date": "2026-10-08",
       "url": "https://www.regjeringen.no/no/aktuelt/foreslar-endringar-i-prisreguleringa-av-fjernvarme/id3176711/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Høg produksjon og store inntekter frå petroleumsverksemda",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/hog-produksjon-og-store-inntekter-fra-petroleumsverksemda/id3174256/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -369,6 +369,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen inngår ny kostholdsavtale med matbransjen",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-inngar-ny-kostholdsavtale-med-matbransjen/id3177342/"
+     },
+     {
       "title": "Overlevering av rapport om samiske spesialisthelsetenester",
       "date": "2026-10-12",
       "url": "https://www.regjeringen.no/no/aktuelt/overlevering-samiske-spesialisthelsetenester/id3176867/"
@@ -377,11 +382,6 @@
       "title": "Regjeringen vil sikre en god luftambulansetjeneste",
       "date": "2026-10-08",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-sikre-en-god-luftambulansetjeneste/id3176676/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Et budsjett som skaper trygghet for helsa",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/et-budsjett-som-skaper-trygghet-for-helsa/id3176421/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Kraftig nedgang i fravær etter nye fraværsregler i videregående",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/kraftig-nedgang-i-fravar-etter-nye-fravarsregler-i-videregaende/id3177304/"
+     },
+     {
       "title": "Statsbudsjettet 2027: 20,9 millioner til digital opplæring i fengsel",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/digital-opplaring-i-fengsel/id3174289/"
@@ -623,11 +628,6 @@
       "title": "Statsbudsjettet 2027: Regjeringa vidarefører den historiske låge maksprisen i barnehage",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-vidareforer-den-historiske-lage-maksprisen-i-barnehage/id3174270/"
-     },
-     {
-      "title": "Vil lovfeste krav om smågruppeundervisning for de yngste",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/vil-lovfeste-krav-om-smagruppeundervisning-for-de-yngste/id3176523/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Fylkesnytt frå Møre og Romsdal 2/2026",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-more-og-romsdal-22026/id3176769/"
+     },
+     {
       "title": "Presseinvitasjon: Ny hovedrapport om klimautslipp fra jordbruket legges frem",
       "date": "2026-10-13",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-hovedrapport-om-klimautslipp-fra-jordbruket-legges-frem/id3177286/"
@@ -671,11 +676,6 @@
       "title": "Auka sjølvforsyning på potet",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/auka-sjolvforsyning-pa-potet/id3176853/"
-     },
-     {
-      "title": "Presseinvitasjon: Landbruks- og matministeren til Svalbard",
-      "date": "2026-10-08",
-      "url": "https://www.regjeringen.no/no/aktuelt/landbruks-og-matministeren-til-svalbard/id3176649/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Norge og Verdensbanken styrker arbeidet mot korrupsjon",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-og-verdensbanken-styrker-arbeidet-mot-korrupsjon/id3177348/"
+     },
+     {
       "title": "Aukrust i Tokyo: – Japan er en viktig samarbeidspartner for Norge",
       "date": "2026-10-13",
       "url": "https://www.regjeringen.no/no/aktuelt/aukrust-i-tokyo-japan-er-en-viktig-samarbeidspartner-for-norge/id3177108/"
@@ -825,11 +830,6 @@
       "title": "Joint Statement from Foreign Ministers regarding RAF Fairford and Iran State Threats",
       "date": "2026-10-12",
       "url": "https://www.regjeringen.no/no/aktuelt/joint-statement-from-foreign-ministers-regarding-raf-fairford-and-iran-state-threats/id3177099/"
-     },
-     {
-      "title": "Uttalelse fra utenriksminister Espen Barth Eide: Uheldig at valgene i Palestina utsettes",
-      "date": "2026-10-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/uttalelse-fra-utenriksminister-espen-barth-eide-uheldig-at-valgene-i-palestina-utsettes/id3177054/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-13",
+  "fetched": "2026-10-14",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -1127,7 +1127,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Høring i finanskomiteen 14.–15.10.2026. Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
@@ -1148,7 +1148,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Behandles sammen med statsbudsjettet i Innst. 2 S (2026–2027). Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
@@ -1160,7 +1160,7 @@
     "title": "Skatter og avgifter 2027",
     "fullTitle": "Skatter og avgifter 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "lovsak",
     "docGroup": "proposisjon",
     "committee": "Finanskomiteen",
@@ -1170,7 +1170,7 @@
      "Skatter",
      "Avgifter"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Finanskomiteens innstilling Innst. 3 S (2026–2027). Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
@@ -1182,7 +1182,7 @@
     "title": "Skatter og avgifter 2027 (statsbudsjett)",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "lovsak",
     "docGroup": "proposisjon",
     "committee": "Finanskomiteen",
@@ -1196,7 +1196,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
-    "reference": "Prop. 1 LS (2026–2027)",
+    "reference": "Prop. 1 LS (2026–2027); Innst. 5 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200451"
    },
    {
@@ -1226,7 +1226,7 @@
     "title": "Skatte- og avgiftsinntekter 2027",
     "fullTitle": "Skatte- og avgiftsinntekter 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Finanskomiteen",
@@ -1240,7 +1240,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 3 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200435"
    },
    {
@@ -1248,7 +1248,7 @@
     "title": "Finansadministrasjon, utbytte og Statens pensjonsfond utland",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Finanskomiteen",
@@ -1261,7 +1261,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 5 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200436"
    },
    {
@@ -1269,7 +1269,7 @@
     "title": "Statsbudsjettet 2027 – Justiskomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Justiskomiteen",
@@ -1282,7 +1282,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i justiskomiteen 21. og 23.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 6 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200437"
    },
    {
@@ -1290,7 +1290,7 @@
     "title": "Statsbudsjettet 2027 – Utenriks- og forsvarskomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Utenriks- og forsvarskomiteen",
@@ -1303,7 +1303,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i utenriks- og forsvarskomiteen 15. og 16.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 7 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200438"
    },
    {
@@ -1311,7 +1311,7 @@
     "title": "Statsbudsjettet 2027 – Næringskomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Næringskomiteen",
@@ -1324,7 +1324,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i næringskomiteen 21. og 22.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 8 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200439"
    },
    {
@@ -1332,7 +1332,7 @@
     "title": "Statsbudsjettet 2027 – Energi- og miljøkomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Energi- og miljøkomiteen",
@@ -1345,7 +1345,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i energi- og miljøkomiteen 16. og 20.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 9 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200440"
    },
    {
@@ -1353,7 +1353,7 @@
     "title": "Statsbudsjettet 2027 – Kontroll- og konstitusjonskomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Kontroll- og konstitusjonskomiteen",
@@ -1366,7 +1366,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Ingen budsjetthøring i denne komiteen. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 10 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200441"
    },
    {
@@ -1374,7 +1374,7 @@
     "title": "Statsbudsjettet 2027 – Helse- og omsorgskomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Helse- og omsorgskomiteen",
@@ -1387,7 +1387,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i helse- og omsorgskomiteen 21. og 22.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 11 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200442"
    },
    {
@@ -1395,7 +1395,7 @@
     "title": "Statsbudsjettet 2027 – Utdannings- og forskningskomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Utdannings- og forskningskomiteen",
@@ -1408,7 +1408,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i utdannings- og forskningskomiteen 19. og 20.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 12 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200443"
    },
    {
@@ -1416,7 +1416,7 @@
     "title": "Statsbudsjettet 2027 – Samferdselskomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Samferdselskomiteen",
@@ -1429,7 +1429,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i samferdselskomiteen 19. og 23.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 13 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200444"
    },
    {
@@ -1437,7 +1437,7 @@
     "title": "Statsbudsjettet 2027 – Familie- og kulturkomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Familie- og kulturkomiteen",
@@ -1450,7 +1450,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i familie- og kulturkomiteen 19., 22. og 23.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 14 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200445"
    },
    {
@@ -1458,7 +1458,7 @@
     "title": "Statsbudsjettet 2027 – Arbeids- og sosialkomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Arbeids- og sosialkomiteen",
@@ -1471,7 +1471,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i arbeids- og sosialkomiteen 14. og 15.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 15 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200446"
    },
    {
@@ -1479,7 +1479,7 @@
     "title": "Statsbudsjettet 2027 – Kommunal- og forvaltningskomiteen",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
     "committee": "Kommunal- og forvaltningskomiteen",
@@ -1492,7 +1492,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i kommunal- og forvaltningskomiteen 16. og 20.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 16 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200447"
    },
    {
@@ -1500,10 +1500,10 @@
     "title": "Svalbardbudsjettet 2027",
     "fullTitle": "Statsbudsjett 2027",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "budsjett",
     "docGroup": "proposisjon",
-    "committee": "",
+    "committee": "Utenriks- og forsvarskomiteen",
     "ministry": "jd",
     "proposer": "",
     "topics": [
@@ -1514,7 +1514,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
-    "reference": "Prop. 1 S (2026–2027)",
+    "reference": "Prop. 1 S (2026–2027); Innst. 17 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200453"
    },
    {
@@ -1564,14 +1564,14 @@
     "title": "Anmodnings- og utredningsvedtak 2025–2026",
     "fullTitle": "Anmodnings- og utredningsvedtak  i stortingssesjonen 2025–2026",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "melding",
-    "committee": "",
+    "committee": "Kontroll- og konstitusjonskomiteen",
     "ministry": "smk",
     "proposer": "",
     "topics": [],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Sendes til komité.",
@@ -1884,20 +1884,20 @@
     "title": "Forby jakt på ekorn",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Une Bastholm, Ingrid Liland og Lars Lønberg Henriksen om å forby jakt på ekorn",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Une Bastholm, Ingrid Liland, Lars Lønberg Henriksen)",
     "topics": [
      "Jakt",
      "Dyrevelferd"
     ],
-    "updated": "2026-10-06",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:10 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200429"
    },
@@ -1906,20 +1906,20 @@
     "title": "Skatt på ekstraordinære overskudd i olje og gass",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Oda Indgaard og Ingrid Liland om å skattelegge ekstraordinære overskudd i olje- og gasselskaper",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Finanskomiteen",
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Oda Indgaard, Ingrid Liland)",
     "topics": [
      "Skatter",
      "Petroleum"
     ],
-    "updated": "2026-10-06",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:11 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200430"
    },
@@ -1928,20 +1928,20 @@
     "title": "Forby reklame for fossil energi",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Ingrid Liland, Siren Julianne Jensen og Oda Indgaard om å forby reklame for fossil energi",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Ingrid Liland, Siren Julianne Jensen, Oda Indgaard)",
     "topics": [
      "Klima",
      "Reklame"
     ],
-    "updated": "2026-10-06",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:12 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200431"
    },
@@ -1950,19 +1950,19 @@
     "title": "Stemmerett ved kommune- og fylkestingsvalg",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Per-Willy Amundsen om stemmerett ved kommune- og fylkestingsvalg",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "lovsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Kontroll- og konstitusjonskomiteen",
     "ministry": "",
     "proposer": "FrP (Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen, Per-Willy Amundsen)",
     "topics": [
      "Valg"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:13 L (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200456"
    },
@@ -1971,19 +1971,19 @@
     "title": "Tiltak mot tvangsekteskap og kjønnslemlestelse",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Liv Gustavsen om tiltak for å motarbeide tvangsekteskap og kjønnslemlestelser",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Justiskomiteen",
     "ministry": "",
     "proposer": "FrP (Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen, Liv Gustavsen)",
     "topics": [
      "Integrering"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:14 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200454"
    },
@@ -1992,20 +1992,20 @@
     "title": "Kommunal vetorett mot asylmottak",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen og Dagfinn Henrik Olsen om å gi kommunene reell vetorett ved etablering av asylmottak",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Kommunal- og forvaltningskomiteen",
     "ministry": "",
     "proposer": "FrP (Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen, Dagfinn Henrik Olsen)",
     "topics": [
      "Innvandring",
      "Kommuner"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:15 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200455"
    },
@@ -4937,6 +4937,63 @@
     "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 12:41 (2023–2024)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=100055"
+   },
+   {
+    "id": "200463",
+    "title": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
+    "fullTitle": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "redegjorelse",
+    "committee": "",
+    "ministry": "ud",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-10-14",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200463"
+   },
+   {
+    "id": "200464",
+    "title": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
+    "fullTitle": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "redegjorelse",
+    "committee": "",
+    "ministry": "kud",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-10-14",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200464"
+   },
+   {
+    "id": "200465",
+    "title": "Styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hilde Grande, Martin Virkesdal Jonsterhaug og Hans Andreas Limi om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "FrP (Hilde Grande, Hans Andreas Limi, Martin Virkesdal Jonsterhaug, Tom Staahle)",
+    "topics": [],
+    "updated": "2026-10-14",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:18 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200465"
    }
   ]
  },
@@ -5657,6 +5714,167 @@
  },
  "nytt": [
   {
+   "d": "2026-10-14",
+   "t": "ny",
+   "id": "200463",
+   "title": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "ud",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200463"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "ny",
+   "id": "200464",
+   "title": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "kud",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200464"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "ny",
+   "id": "200465",
+   "title": "Styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200465"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Vurderer å forlenge nettselskapenes mulighet til å begrense størrelsen på energileddet",
+   "url": "https://www.regjeringen.no/no/aktuelt/a-forlenge-nettselskapenes-mulighet-til-a-begrense-storrelsen-pa-energileddet/id3177363/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Regjeringen inngår ny kostholdsavtale med matbransjen",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-inngar-ny-kostholdsavtale-med-matbransjen/id3177342/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "kd",
+   "title": "Kraftig nedgang i fravær etter nye fraværsregler i videregående",
+   "url": "https://www.regjeringen.no/no/aktuelt/kraftig-nedgang-i-fravar-etter-nye-fravarsregler-i-videregaende/id3177304/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Fylkesnytt frå Møre og Romsdal 2/2026",
+   "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-more-og-romsdal-22026/id3176769/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Norge og Verdensbanken styrker arbeidet mot korrupsjon",
+   "url": "https://www.regjeringen.no/no/aktuelt/norge-og-verdensbanken-styrker-arbeidet-mot-korrupsjon/id3177348/"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200450",
+   "title": "Skatter og avgifter 2027",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Finanskomiteen",
+   "ministry": "fin",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200450"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200448",
+   "title": "Anmodnings- og utredningsvedtak 2025–2026",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kontroll- og konstitusjonskomiteen",
+   "ministry": "smk",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200448"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200429",
+   "title": "Forby jakt på ekorn",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Energi- og miljøkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200429"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200430",
+   "title": "Skatt på ekstraordinære overskudd i olje og gass",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Finanskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200430"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200431",
+   "title": "Forby reklame for fossil energi",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Energi- og miljøkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200431"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200456",
+   "title": "Stemmerett ved kommune- og fylkestingsvalg",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kontroll- og konstitusjonskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200456"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200454",
+   "title": "Tiltak mot tvangsekteskap og kjønnslemlestelse",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Justiskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200454"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200455",
+   "title": "Kommunal vetorett mot asylmottak",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kommunal- og forvaltningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200455"
+  },
+  {
    "d": "2026-10-13",
    "t": "ny",
    "id": "200461",
@@ -5792,6 +6010,186 @@
    "ministry": "ud",
    "title": "Uttalelse fra utenriksminister Espen Barth Eide: Uheldig at valgene i Palestina utsettes",
    "url": "https://www.regjeringen.no/no/aktuelt/uttalelse-fra-utenriksminister-espen-barth-eide-uheldig-at-valgene-i-palestina-utsettes/id3177054/"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200451",
+   "title": "Skatter og avgifter 2027 (statsbudsjett)",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Finanskomiteen",
+   "ministry": "fin",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200451"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200435",
+   "title": "Skatte- og avgiftsinntekter 2027",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Finanskomiteen",
+   "ministry": "fin",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200435"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200436",
+   "title": "Finansadministrasjon, utbytte og Statens pensjonsfond utland",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Finanskomiteen",
+   "ministry": "fin",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200436"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200437",
+   "title": "Statsbudsjettet 2027 – Justiskomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Justiskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200437"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200438",
+   "title": "Statsbudsjettet 2027 – Utenriks- og forsvarskomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Utenriks- og forsvarskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200438"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200439",
+   "title": "Statsbudsjettet 2027 – Næringskomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Næringskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200439"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200440",
+   "title": "Statsbudsjettet 2027 – Energi- og miljøkomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Energi- og miljøkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200440"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200441",
+   "title": "Statsbudsjettet 2027 – Kontroll- og konstitusjonskomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kontroll- og konstitusjonskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200441"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200442",
+   "title": "Statsbudsjettet 2027 – Helse- og omsorgskomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Helse- og omsorgskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200442"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200443",
+   "title": "Statsbudsjettet 2027 – Utdannings- og forskningskomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Utdannings- og forskningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200443"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200444",
+   "title": "Statsbudsjettet 2027 – Samferdselskomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Samferdselskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200444"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200445",
+   "title": "Statsbudsjettet 2027 – Familie- og kulturkomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Familie- og kulturkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200445"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200446",
+   "title": "Statsbudsjettet 2027 – Arbeids- og sosialkomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Arbeids- og sosialkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200446"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200447",
+   "title": "Statsbudsjettet 2027 – Kommunal- og forvaltningskomiteen",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kommunal- og forvaltningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200447"
+  },
+  {
+   "d": "2026-10-07",
+   "t": "status",
+   "id": "200453",
+   "title": "Svalbardbudsjettet 2027",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Utenriks- og forsvarskomiteen",
+   "ministry": "jd",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200453"
   },
   {
    "d": "2026-10-07",
@@ -6033,12 +6431,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-13T15:23:23.365Z",
+  "ranAt": "2026-10-14T09:34:24.078Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 1
+  "newEvents": 31
  },
  "tema": {
   "tema": [
