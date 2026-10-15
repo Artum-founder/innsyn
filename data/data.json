@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-14",
+ "fetched": "2026-10-15",
  "gov": {
-  "fetched": "2026-10-14",
+  "fetched": "2026-10-15",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -273,6 +273,11 @@
     ],
     "news": [
      {
+      "title": "Finansministeren mottok etikkutvalgets utredning om Statens pensjonsfond utland",
+      "date": "2026-10-15",
+      "url": "https://www.regjeringen.no/no/aktuelt/finansministeren-mottok-etikkutvalgets-utredning-om-statens-pensjonsfond-utland/id3177352/"
+     },
+     {
       "title": "Møte med Ukrainas ambassadør til Noreg, Oleksiy Petrovytj Gavrysh",
       "date": "2026-10-12",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-ambassadoren-til-ukraina-i-noreg-oleksiy-petrovytj-gavrysh/id3176992/"
@@ -281,11 +286,6 @@
       "title": "Presseinvitasjon: Utvalet som skal vurdere det etiske rammeverket for Statens pensjonsfond utland legg fram sin rapport",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/utvalet-som-skal-vurdere-det-etiske-rammeverket-for-statens-pensjonsfond-utland-legg-fram-sin-rapport/id3176808/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Foreslår milliardkutt i inntektsskatten – største på over 20 år",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/foreslar-milliardkutt-i-inntektsskatten-storste-pa-over-20-ar/id3174677/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fin/id216/",
@@ -321,6 +321,11 @@
     ],
     "news": [
      {
+      "title": "Forsvarsministeren besøkte Camp Jomsborg: – Det er en brutal virkelighet",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/forsvarsministeren-besokte-camp-jomsborg-det-er-en-brutal-virkelighet/id3177365/"
+     },
+     {
       "title": "Forsvarets internasjonale innsats 2026-2027",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/forsvarets-internasjonale-innsats-2026-2027/id3176618/"
@@ -329,11 +334,6 @@
       "title": "Statsbudsjettet 2027: Øker produksjonskapasiteten i norsk forsvarsindustri",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/oker-produksjonskapasiteten-i-norsk-forsvarsindustri/id3174290/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Regjeringa løfter Nord-Noreg gjennom satsing på Forsvaret, beredskap og infrastruktur.",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-lofter-nord-noreg-gjennom-satsing-pa-forsvaret-beredskap-og-infrastruktur/id3173713/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -513,14 +513,14 @@
     ],
     "news": [
      {
-      "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
-     },
-     {
       "title": "Statsbudsjettet 2027: Nye verkemiddel for frivillige kommunesamanslåingar",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/nye-verkemiddel-for-frivillige-kommunesamanslaingar/id3173707/"
+     },
+     {
+      "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
+      "date": "2026-10-07",
+      "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
      },
      {
       "title": "Statsbudsjettet 2027: 447 millionar meir i frie inntekter til Finnmark neste år",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Ukraina lagrar frø i Svalbard globale frøkvelv for første gong sidan krigsutbrotet",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/ukraina-lagrar-fro-i-svalbard-globale-frokvelv-for-forste-gong-sidan-krigsutbrotet/id3177597/"
+     },
+     {
       "title": "Fylkesnytt frå Møre og Romsdal 2/2026",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-more-og-romsdal-22026/id3176769/"
@@ -671,11 +676,6 @@
       "title": "Presseinvitasjon: Ny hovedrapport om klimautslipp fra jordbruket legges frem",
       "date": "2026-10-13",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-hovedrapport-om-klimautslipp-fra-jordbruket-legges-frem/id3177286/"
-     },
-     {
-      "title": "Auka sjølvforsyning på potet",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/auka-sjolvforsyning-pa-potet/id3176853/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,19 +716,19 @@
     ],
     "news": [
      {
-      "title": "Kvoten for nordøstarktisk sei for 2027 er fastsatt",
-      "date": "2026-10-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/kvoten-for-nordostarktisk-sei-for-2027-er-fastsatt/id3177181/"
+      "title": "Næringsministeren besøkte London for å styrke samarbeidet med Storbritannia",
+      "date": "2026-10-15",
+      "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-besokte-london-for-a-styrke-samarbeidet-med-storbritannia/id3177678/"
      },
      {
-      "title": "Presseinvitasjon: Næringsministeren til London for å styrke norsk-britisk næringssamarbeid",
-      "date": "2026-10-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-til-london-for-a-styrke-norsk-britisk-naringssamarbeid/id3176951/"
+      "title": "Presseinvitasjon: Fiskeri- og havministeren til Brussel 19. og 20. oktober",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-til-brussel-19.-og-20.-oktober/id3177673/"
      },
      {
-      "title": "Invitasjon: 50 år med ansvarlig næringsliv – jubileumsmarkering av OECDs retningslinjer",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/50-ar-med-ansvarlig-naringsliv-jubileumsmarkering-av-oecds-retningslinjer/id3176869/"
+      "title": "Nå blir det krav om elektronisk sporing på alle fiskebåter",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/na-blir-det-krav-om-elektronisk-sporing-pa-alle-fiskebater/id3177495/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,19 +817,19 @@
     ],
     "news": [
      {
-      "title": "Norge og Verdensbanken styrker arbeidet mot korrupsjon",
+      "title": "Norge gir 750 millioner kroner til gjenoppbygging og tjenester til befolkningen i Ukraina",
       "date": "2026-10-14",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-og-verdensbanken-styrker-arbeidet-mot-korrupsjon/id3177348/"
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-gir-750-millioner-kroner-til-gjenoppbygging-og-tjenester-til-befolkningen-i-ukraina/id3177355/"
      },
      {
-      "title": "Aukrust i Tokyo: – Japan er en viktig samarbeidspartner for Norge",
-      "date": "2026-10-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/aukrust-i-tokyo-japan-er-en-viktig-samarbeidspartner-for-norge/id3177108/"
+      "title": "Norge bidrar til livsviktig hjelp i glemte kriser",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-bidrar-til-livsviktig-hjelp-i-glemte-kriser/id3177589/"
      },
      {
-      "title": "Joint Statement from Foreign Ministers regarding RAF Fairford and Iran State Threats",
-      "date": "2026-10-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/joint-statement-from-foreign-ministers-regarding-raf-fairford-and-iran-state-threats/id3177099/"
+      "title": "Nytt syriafond for gjenoppbygging: – Tar eierskap til egen fremtid, sier Aukrust",
+      "date": "2026-10-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/nytt-syriafond-for-gjenoppbygging-tar-eierskap-til-egen-fremtid-sier-aukrust/id3177362/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-14",
+  "fetched": "2026-10-15",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -1137,7 +1137,7 @@
    {
     "id": "200449",
     "title": "Nasjonalbudsjettet 2027",
-    "fullTitle": "Nasjonalbudsjettet 2027",
+    "fullTitle": "Finansinnstillingen - nasjonalbudsjettet og statsbudsjettet 2027",
     "session": "2026-2027",
     "status": "til_behandling",
     "type": "budsjett",
@@ -1278,7 +1278,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i justiskomiteen 21. og 23.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1299,7 +1299,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i utenriks- og forsvarskomiteen 15. og 16.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1320,7 +1320,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i næringskomiteen 21. og 22.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1341,7 +1341,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i energi- og miljøkomiteen 16. og 20.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1362,7 +1362,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Ingen budsjetthøring i denne komiteen. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1383,7 +1383,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i helse- og omsorgskomiteen 21. og 22.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1404,7 +1404,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i utdannings- og forskningskomiteen 19. og 20.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1425,7 +1425,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i samferdselskomiteen 19. og 23.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1446,7 +1446,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i familie- og kulturkomiteen 19., 22. og 23.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1467,7 +1467,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i arbeids- og sosialkomiteen 14. og 15.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1488,7 +1488,7 @@
     "topics": [
      "Statsbudsjettet"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøring i kommunal- og forvaltningskomiteen 16. og 20.10.2026. Fagkomiteens budsjettinnstilling avgis etter rammevedtaket (dato ikke publisert).",
@@ -1510,7 +1510,7 @@
      "Statsbudsjettet",
      "Svalbard"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
@@ -1626,7 +1626,7 @@
     "title": "Statsministerens redegjørelse om skolepolitikk",
     "fullTitle": "Redegjørelse av statsministeren om regjeringens skolepolitikk og tiltak for å snu utviklingen i skoleresultater",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "redegjorelse",
     "committee": "",
@@ -4943,7 +4943,7 @@
     "title": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
     "fullTitle": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "redegjorelse",
     "committee": "",
@@ -4953,7 +4953,7 @@
     "updated": "2026-10-14",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200463"
    },
@@ -4962,7 +4962,7 @@
     "title": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
     "fullTitle": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "redegjorelse",
     "committee": "",
@@ -4972,7 +4972,7 @@
     "updated": "2026-10-14",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200464"
    },
@@ -4994,6 +4994,44 @@
     "nextStep": "Venter på å bli referert og sendt til komité.",
     "reference": "Dokument 8:18 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200465"
+   },
+   {
+    "id": "200468",
+    "title": "Avskaffe urimelige representantytelser",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen, Seher Aydar og Mímir Kristjánsson om å avskaffe urimelige representantytelser",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "R (Hege Bae Nyholt, Marie Sneve Martinussen, Mímir Kristjánsson, Seher Aydar)",
+    "topics": [],
+    "updated": "2026-10-15",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:20 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200468"
+   },
+   {
+    "id": "200466",
+    "title": "Stanse opptrappingsplanen for CO2-avgiften",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO2-avgiften",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "Sp (Geir Inge Lien, Maren Grøthe, Trygve Slagsvold Vedum)",
+    "topics": [],
+    "updated": "2026-10-14",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:19 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200466"
    }
   ]
  },
@@ -5714,6 +5752,113 @@
  },
  "nytt": [
   {
+   "d": "2026-10-15",
+   "t": "ny",
+   "id": "200468",
+   "title": "Avskaffe urimelige representantytelser",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200468"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "nyhet",
+   "ministry": "fin",
+   "title": "Finansministeren mottok etikkutvalgets utredning om Statens pensjonsfond utland",
+   "url": "https://www.regjeringen.no/no/aktuelt/finansministeren-mottok-etikkutvalgets-utredning-om-statens-pensjonsfond-utland/id3177352/"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Næringsministeren besøkte London for å styrke samarbeidet med Storbritannia",
+   "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-besokte-london-for-a-styrke-samarbeidet-med-storbritannia/id3177678/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "status",
+   "id": "200463",
+   "title": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "",
+   "ministry": "ud",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200463"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "status",
+   "id": "200464",
+   "title": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "",
+   "ministry": "kud",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200464"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "ny",
+   "id": "200466",
+   "title": "Stanse opptrappingsplanen for CO2-avgiften",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200466"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Forsvarsministeren besøkte Camp Jomsborg: – Det er en brutal virkelighet",
+   "url": "https://www.regjeringen.no/no/aktuelt/forsvarsministeren-besokte-camp-jomsborg-det-er-en-brutal-virkelighet/id3177365/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Ukraina lagrar frø i Svalbard globale frøkvelv for første gong sidan krigsutbrotet",
+   "url": "https://www.regjeringen.no/no/aktuelt/ukraina-lagrar-fro-i-svalbard-globale-frokvelv-for-forste-gong-sidan-krigsutbrotet/id3177597/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Presseinvitasjon: Fiskeri- og havministeren til Brussel 19. og 20. oktober",
+   "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-til-brussel-19.-og-20.-oktober/id3177673/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Nå blir det krav om elektronisk sporing på alle fiskebåter",
+   "url": "https://www.regjeringen.no/no/aktuelt/na-blir-det-krav-om-elektronisk-sporing-pa-alle-fiskebater/id3177495/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Norge gir 750 millioner kroner til gjenoppbygging og tjenester til befolkningen i Ukraina",
+   "url": "https://www.regjeringen.no/no/aktuelt/norge-gir-750-millioner-kroner-til-gjenoppbygging-og-tjenester-til-befolkningen-i-ukraina/id3177355/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Norge bidrar til livsviktig hjelp i glemte kriser",
+   "url": "https://www.regjeringen.no/no/aktuelt/norge-bidrar-til-livsviktig-hjelp-i-glemte-kriser/id3177589/"
+  },
+  {
+   "d": "2026-10-14",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Nytt syriafond for gjenoppbygging: – Tar eierskap til egen fremtid, sier Aukrust",
+   "url": "https://www.regjeringen.no/no/aktuelt/nytt-syriafond-for-gjenoppbygging-tar-eierskap-til-egen-fremtid-sier-aukrust/id3177362/"
+  },
+  {
    "d": "2026-10-14",
    "t": "ny",
    "id": "200463",
@@ -6010,6 +6155,18 @@
    "ministry": "ud",
    "title": "Uttalelse fra utenriksminister Espen Barth Eide: Uheldig at valgene i Palestina utsettes",
    "url": "https://www.regjeringen.no/no/aktuelt/uttalelse-fra-utenriksminister-espen-barth-eide-uheldig-at-valgene-i-palestina-utsettes/id3177054/"
+  },
+  {
+   "d": "2026-10-08",
+   "t": "status",
+   "id": "200457",
+   "title": "Statsministerens redegjørelse om skolepolitikk",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "",
+   "ministry": "smk",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200457"
   },
   {
    "d": "2026-10-07",
@@ -6431,12 +6588,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-14T09:34:24.078Z",
+  "ranAt": "2026-10-15T09:11:59.629Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 31
+  "newEvents": 14
  },
  "tema": {
   "tema": [
