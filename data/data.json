@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-15",
+ "fetched": "2026-10-16",
  "gov": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -273,6 +273,11 @@
     ],
     "news": [
      {
+      "title": "Foreslår forenklinger i regler om eiendomsmegling",
+      "date": "2026-10-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/foreslar-forenklinger-i-regler-om-eiendomsmegling/id3178281/"
+     },
+     {
       "title": "Finansministeren mottok etikkutvalgets utredning om Statens pensjonsfond utland",
       "date": "2026-10-15",
       "url": "https://www.regjeringen.no/no/aktuelt/finansministeren-mottok-etikkutvalgets-utredning-om-statens-pensjonsfond-utland/id3177352/"
@@ -281,11 +286,6 @@
       "title": "Møte med Ukrainas ambassadør til Noreg, Oleksiy Petrovytj Gavrysh",
       "date": "2026-10-12",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-ambassadoren-til-ukraina-i-noreg-oleksiy-petrovytj-gavrysh/id3176992/"
-     },
-     {
-      "title": "Presseinvitasjon: Utvalet som skal vurdere det etiske rammeverket for Statens pensjonsfond utland legg fram sin rapport",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/utvalet-som-skal-vurdere-det-etiske-rammeverket-for-statens-pensjonsfond-utland-legg-fram-sin-rapport/id3176808/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fin/id216/",
@@ -369,6 +369,11 @@
     ],
     "news": [
      {
+      "title": "Påmelding til presentasjon av Helsereformutvalet si utgreiing",
+      "date": "2026-10-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/pamelding-til-presentasjon-av-helsereformutvalet-si-utgreiing2/id3178280/"
+     },
+     {
       "title": "Regjeringen inngår ny kostholdsavtale med matbransjen",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-inngar-ny-kostholdsavtale-med-matbransjen/id3177342/"
@@ -377,11 +382,6 @@
       "title": "Overlevering av rapport om samiske spesialisthelsetenester",
       "date": "2026-10-12",
       "url": "https://www.regjeringen.no/no/aktuelt/overlevering-samiske-spesialisthelsetenester/id3176867/"
-     },
-     {
-      "title": "Regjeringen vil sikre en god luftambulansetjeneste",
-      "date": "2026-10-08",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-sikre-en-god-luftambulansetjeneste/id3176676/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -465,6 +465,11 @@
     ],
     "news": [
      {
+      "title": "Intensjonsavtalen om klima mellom staten og jordbruket: Reduserer klimautslipp og på god vei til å nå målet",
+      "date": "2026-10-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/reduserer-klimautslipp-og-pa-god-vei-til-a-na-malet/id3178106/"
+     },
+     {
       "title": "Ny tiltaksplan skal betre forholda for villreinen i Setesdal",
       "date": "2026-10-13",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-tiltaksplan-skal-betre-forholda-for-villreinen-i-setesdal/id3177173/"
@@ -473,11 +478,6 @@
       "title": "Presseinvitasjon: Ny hovedrapport om klimautslipp fra jordbruket legges frem",
       "date": "2026-10-13",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-hovedrapport-om-klimautslipp-fra-jordbruket-legges-frem/id3177286/"
-     },
-     {
-      "title": "Regjeringa set i gong arbeidet med tiltaksplanane for Reinheimen-Breheimen, Sølnkletten og Forollhogna villreinområde",
-      "date": "2026-10-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-set-i-gong-arbeidet-med-tiltaksplanane-for-reinheimen-breheimen-solnkletten-og-forollhogna-villreinomrade/id3177094/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -513,9 +513,9 @@
     ],
     "news": [
      {
-      "title": "Statsbudsjettet 2027: Nye verkemiddel for frivillige kommunesamanslåingar",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/nye-verkemiddel-for-frivillige-kommunesamanslaingar/id3173707/"
+      "title": "Kommunal- og distriktsdepartementet opphever Statsforvalterens vedtak om Viken Park",
+      "date": "2026-10-15",
+      "url": "https://www.regjeringen.no/no/aktuelt/kommunal-og-distriktsdepartementet-opphever-statsforvalterens-vedtak-om-viken-park/id3177704/"
      },
      {
       "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
@@ -523,9 +523,9 @@
       "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
      },
      {
-      "title": "Statsbudsjettet 2027: 447 millionar meir i frie inntekter til Finnmark neste år",
+      "title": "Statsbudsjettet 2027: Nye verkemiddel for frivillige kommunesamanslåingar",
       "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/447-millionar-meir-i-frie-inntekter-til-finnmark-neste-ar/id3173681/"
+      "url": "https://www.regjeringen.no/no/aktuelt/nye-verkemiddel-for-frivillige-kommunesamanslaingar/id3173707/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kdd/id504/",
@@ -562,6 +562,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Kultur- og likestillingsdepartementet og Fritt Ord inviterer til frokostmøte og debatt om sosiale medier",
+      "date": "2026-10-15",
+      "url": "https://www.regjeringen.no/no/aktuelt/kultur-og-likestillingsdepartementet-og-fritt-ord-inviterer-til-frokostmote-og-debatt-om-sosiale-medier/id3177684/"
+     },
+     {
       "title": "Volda er årets nynorskkommune",
       "date": "2026-10-13",
       "url": "https://www.regjeringen.no/no/aktuelt/volda-er-arets-nynorskkommune/id3177185/"
@@ -570,11 +575,6 @@
       "title": "Ny komité for Den internasjonale Ibsenprisen",
       "date": "2026-10-13",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-komite-for-den-internasjonale-ibsenprisen/id3177053/"
-     },
-     {
-      "title": "Vurderer strengere regulering av lootbokser i dataspill",
-      "date": "2026-10-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/vurderer-strengere-regulering-av-lootbokser-i-dataspill/id3177013/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kud/id545/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Hvordan får vi flere barn og unge til å velge realfag og teknologi? Statsrådene ber om råd i Stavanger",
+      "date": "2026-10-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-hvordan-far-vi-flere-barn-og-unge-til-a-velge-realfag-og-teknologi-statsradene-ber-om-rad-i-stavanger/id3178100/"
+     },
+     {
       "title": "Kraftig nedgang i fravær etter nye fraværsregler i videregående",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/kraftig-nedgang-i-fravar-etter-nye-fravarsregler-i-videregaende/id3177304/"
@@ -623,11 +628,6 @@
       "title": "Statsbudsjettet 2027: 20,9 millioner til digital opplæring i fengsel",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/digital-opplaring-i-fengsel/id3174289/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Regjeringa vidarefører den historiske låge maksprisen i barnehage",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-vidareforer-den-historiske-lage-maksprisen-i-barnehage/id3174270/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Intensjonsavtalen om klima mellom staten og jordbruket: Reduserer klimautslipp og på god vei til å nå målet",
+      "date": "2026-10-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/reduserer-klimautslipp-og-pa-god-vei-til-a-na-malet/id3178106/"
+     },
+     {
       "title": "Ukraina lagrar frø i Svalbard globale frøkvelv for første gong sidan krigsutbrotet",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/ukraina-lagrar-fro-i-svalbard-globale-frokvelv-for-forste-gong-sidan-krigsutbrotet/id3177597/"
@@ -671,11 +676,6 @@
       "title": "Fylkesnytt frå Møre og Romsdal 2/2026",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-more-og-romsdal-22026/id3176769/"
-     },
-     {
-      "title": "Presseinvitasjon: Ny hovedrapport om klimautslipp fra jordbruket legges frem",
-      "date": "2026-10-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-hovedrapport-om-klimautslipp-fra-jordbruket-legges-frem/id3177286/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Kyststatane einige om totalkvotar for kolmule og norsk vårgytande sild",
+      "date": "2026-10-15",
+      "url": "https://www.regjeringen.no/no/aktuelt/kyststatane-einige-om-totalkvotar-for-kolmule-og-norsk-vargytande-sild/id3178097/"
+     },
+     {
       "title": "Næringsministeren besøkte London for å styrke samarbeidet med Storbritannia",
       "date": "2026-10-15",
       "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-besokte-london-for-a-styrke-samarbeidet-med-storbritannia/id3177678/"
@@ -724,11 +729,6 @@
       "title": "Presseinvitasjon: Fiskeri- og havministeren til Brussel 19. og 20. oktober",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-til-brussel-19.-og-20.-oktober/id3177673/"
-     },
-     {
-      "title": "Nå blir det krav om elektronisk sporing på alle fiskebåter",
-      "date": "2026-10-14",
-      "url": "https://www.regjeringen.no/no/aktuelt/na-blir-det-krav-om-elektronisk-sporing-pa-alle-fiskebater/id3177495/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-15",
+  "fetched": "2026-10-16",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -1204,7 +1204,7 @@
     "title": "Skatter og avgifter 2027 – lovsaker",
     "fullTitle": "Skatter og avgifter 2027 – lovsaker",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "lovsak",
     "docGroup": "proposisjon",
     "committee": "Finanskomiteen",
@@ -1214,7 +1214,7 @@
      "Skatter",
      "Avgifter"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
     "nextStep": "Finanskomiteens lovinnstilling Innst. 4 L (2026–2027). Budsjetthøringer i komiteene 14.–23.10.2026. Finanskomiteens innstilling (Innst. 2 S) og rammevedtak, deretter fagkomiteenes budsjettinnstillinger og endelige vedtak senere i høst (datoer ikke publisert ennå; normalt rammevedtak i slutten av november og siste budsjettvedtak i desember).",
@@ -1650,13 +1650,13 @@
     "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "redegjorelse",
-    "committee": "",
+    "committee": "Familie- og kulturkomiteen",
     "ministry": "bfd",
     "proposer": "",
     "topics": [
      "Barnevern"
     ],
-    "updated": "2026-10-07",
+    "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
     "nextStep": "Debatt i Stortinget (dato ikke oppgitt).",
@@ -1840,20 +1840,20 @@
     "title": "Midlertidig forbud mot KI-briller",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Kirsti Bergstø og Mirell Høyer-Berntsen om et midlertidig forbud mot KI-briller og andre former for kroppsbåret teknologi som muliggjør skjult overvåkning av andre",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Kommunal- og forvaltningskomiteen",
     "ministry": "",
     "proposer": "SV (Kirsti Bergstø, Mirell Høyer-Berntsen)",
     "topics": [
      "Personvern",
      "Teknologi"
     ],
-    "updated": "2026-10-05",
+    "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:8 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200426"
    },
@@ -2625,17 +2625,17 @@
     "title": "Forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Hans Edvard Askjer, Ida Lindtveit Røse, Jonas Andersen Sayed og Jorunn Gleditsch Lossius om forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Justiskomiteen",
     "ministry": "",
     "proposer": "KrF (Hans Edvard Askjer, Ida Lindtveit Røse, Jorunn Gleditsch Lossius, Jonas Andersen Sayed)",
     "topics": [],
-    "updated": "2026-10-13",
+    "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:16 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200461"
    },
@@ -2644,17 +2644,17 @@
     "title": "Lovliggjøre og legge til rette for pluggbare solceller og batterier",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Frøya Skjold Sjursæther, Marius Langballe Dalin, Siren Julianne Jensen, Oda Indgaard, Ingrid Liland og Lars Lønberg Henriksen om å lovliggjøre og legge til rette for pluggbare solceller og batterier",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Ingrid Liland, Lars Lønberg Henriksen, Marius Langballe Dalin, Oda Indgaard, Siren Julianne Jensen)",
     "topics": [],
-    "updated": "2026-10-13",
+    "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:17 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200462"
    },
@@ -4981,17 +4981,17 @@
     "title": "Styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hilde Grande, Martin Virkesdal Jonsterhaug og Hans Andreas Limi om å styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Finanskomiteen",
     "ministry": "",
     "proposer": "FrP (Hilde Grande, Hans Andreas Limi, Martin Virkesdal Jonsterhaug, Tom Staahle)",
     "topics": [],
-    "updated": "2026-10-14",
+    "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:18 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200465"
    },
@@ -5019,19 +5019,57 @@
     "title": "Stanse opptrappingsplanen for CO2-avgiften",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Trygve Slagsvold Vedum, Maren Grøthe og Geir Inge Lien om å stanse opptrappingsplanen for CO2-avgiften",
     "session": "2026-2027",
+    "status": "til_behandling",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "Energi- og miljøkomiteen",
+    "ministry": "",
+    "proposer": "Sp (Geir Inge Lien, Maren Grøthe, Trygve Slagsvold Vedum)",
+    "topics": [],
+    "updated": "2026-10-15",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Til behandling i komiteen.",
+    "reference": "Dokument 8:19 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200466"
+   },
+   {
+    "id": "200471",
+    "title": "Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd",
+    "fullTitle": "Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd",
+    "session": "2026-2027",
+    "status": "til_behandling",
+    "type": "alminneligsak",
+    "docGroup": "innstillingssaker",
+    "committee": "Valgkomiteen",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-10-16",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Til behandling i komiteen.",
+    "reference": "",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200471"
+   },
+   {
+    "id": "200469",
+    "title": "Et trygt og sikkert institusjonsbarnevern",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Tage Pettersen og Mahmoud Farahmand om et trygt og sikkert institusjonsbarnevern",
+    "session": "2026-2027",
     "status": "mottatt",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
     "committee": "",
     "ministry": "",
-    "proposer": "Sp (Geir Inge Lien, Maren Grøthe, Trygve Slagsvold Vedum)",
+    "proposer": "H (Haagen Poppe, Mahmoud Farahmand, Tage Pettersen, Tone Wilhelmsen Trøen)",
     "topics": [],
-    "updated": "2026-10-14",
+    "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
     "nextStep": "Venter på å bli referert og sendt til komité.",
-    "reference": "Dokument 8:19 S (2026–2027)",
-    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200466"
+    "reference": "Dokument 8:21 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200469"
    }
   ]
  },
@@ -5752,6 +5790,135 @@
  },
  "nytt": [
   {
+   "d": "2026-10-16",
+   "t": "ny",
+   "id": "200471",
+   "title": "Innstilling fra valgkomiteen om valg av medlemmer og varamedlemmer til Nordisk råd",
+   "status": "til_behandling",
+   "committee": "Valgkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200471"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "nyhet",
+   "ministry": "fin",
+   "title": "Foreslår forenklinger i regler om eiendomsmegling",
+   "url": "https://www.regjeringen.no/no/aktuelt/foreslar-forenklinger-i-regler-om-eiendomsmegling/id3178281/"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Påmelding til presentasjon av Helsereformutvalet si utgreiing",
+   "url": "https://www.regjeringen.no/no/aktuelt/pamelding-til-presentasjon-av-helsereformutvalet-si-utgreiing2/id3178280/"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Intensjonsavtalen om klima mellom staten og jordbruket: Reduserer klimautslipp og på god vei til å nå målet",
+   "url": "https://www.regjeringen.no/no/aktuelt/reduserer-klimautslipp-og-pa-god-vei-til-a-na-malet/id3178106/"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "nyhet",
+   "ministry": "kd",
+   "title": "Presseinvitasjon: Hvordan får vi flere barn og unge til å velge realfag og teknologi? Statsrådene ber om råd i Stavanger",
+   "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-hvordan-far-vi-flere-barn-og-unge-til-a-velge-realfag-og-teknologi-statsradene-ber-om-rad-i-stavanger/id3178100/"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "status",
+   "id": "200426",
+   "title": "Midlertidig forbud mot KI-briller",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kommunal- og forvaltningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200426"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "status",
+   "id": "200461",
+   "title": "Forsterket innsats mot menneskehandel, sexkjøp og ufrivillig prostitusjon",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Justiskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200461"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "status",
+   "id": "200462",
+   "title": "Lovliggjøre og legge til rette for pluggbare solceller og batterier",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Energi- og miljøkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200462"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "status",
+   "id": "200465",
+   "title": "Styrke den finansielle robustheten til Statens pensjonsfond utland, gjennom å vurdere økt diversifisering og alternative reserveaktiva",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Finanskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200465"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "status",
+   "id": "200466",
+   "title": "Stanse opptrappingsplanen for CO2-avgiften",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Energi- og miljøkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200466"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "ny",
+   "id": "200469",
+   "title": "Et trygt og sikkert institusjonsbarnevern",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200469"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "nyhet",
+   "ministry": "kdd",
+   "title": "Kommunal- og distriktsdepartementet opphever Statsforvalterens vedtak om Viken Park",
+   "url": "https://www.regjeringen.no/no/aktuelt/kommunal-og-distriktsdepartementet-opphever-statsforvalterens-vedtak-om-viken-park/id3177704/"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "nyhet",
+   "ministry": "kud",
+   "title": "Presseinvitasjon: Kultur- og likestillingsdepartementet og Fritt Ord inviterer til frokostmøte og debatt om sosiale medier",
+   "url": "https://www.regjeringen.no/no/aktuelt/kultur-og-likestillingsdepartementet-og-fritt-ord-inviterer-til-frokostmote-og-debatt-om-sosiale-medier/id3177684/"
+  },
+  {
+   "d": "2026-10-15",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Kyststatane einige om totalkvotar for kolmule og norsk vårgytande sild",
+   "url": "https://www.regjeringen.no/no/aktuelt/kyststatane-einige-om-totalkvotar-for-kolmule-og-norsk-vargytande-sild/id3178097/"
+  },
+  {
    "d": "2026-10-15",
    "t": "ny",
    "id": "200468",
@@ -5922,6 +6089,18 @@
    "ministry": "ud",
    "title": "Norge og Verdensbanken styrker arbeidet mot korrupsjon",
    "url": "https://www.regjeringen.no/no/aktuelt/norge-og-verdensbanken-styrker-arbeidet-mot-korrupsjon/id3177348/"
+  },
+  {
+   "d": "2026-10-13",
+   "t": "status",
+   "id": "200452",
+   "title": "Skatter og avgifter 2027 – lovsaker",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Finanskomiteen",
+   "ministry": "fin",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200452"
   },
   {
    "d": "2026-10-13",
@@ -6588,12 +6767,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-15T09:11:59.629Z",
+  "ranAt": "2026-10-16T09:05:00.549Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 14
+  "newEvents": 16
  },
  "tema": {
   "tema": [
