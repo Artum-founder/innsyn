@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-17",
+ "fetched": "2026-10-18",
  "gov": {
-  "fetched": "2026-10-17",
+  "fetched": "2026-10-18",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -273,6 +273,11 @@
     ],
     "news": [
      {
+      "title": "Forslag om pliktig tilslutning til godkjent klagenemd i finanssektoren på høring",
+      "date": "2026-10-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/forslag-om-pliktig-tilslutning-til-godkjent-klagenemd-i-finanssektoren-pa-horing/id3178402/"
+     },
+     {
       "title": "Høyring: Utkast til teknisk revisjon av forskriftene til petroleumsskattelova",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/utkast-til-teknisk-revisjon-av-forskriftene-til-petroleumsskattelova/id3177715/"
@@ -281,11 +286,6 @@
       "title": "Teknisk revisjon av petroleumsskattelovgjevinga",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/teknisk-revisjon-av-petroleumsskattelovgjevinga/id3177364/"
-     },
-     {
-      "title": "Foreslår forenklinger i regler om eiendomsmegling",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/foreslar-forenklinger-i-regler-om-eiendomsmegling/id3178281/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fin/id216/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen utarbeider ny nasjonal strategi mot voldelig ekstremisme og terror",
+      "date": "2026-10-18",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-pa-ny-nasjonal-strategi-mot-voldelig-ekstremisme-og-terror/id3178432/"
+     },
+     {
       "title": "Regjeringen foreslår å utvide varigheten for ordningen med midlertidig kollektiv beskyttelse",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-a-utvide-varigheten-for-ordningen-med-midlertidig-kollektiv-beskyttelse/id3176866/"
@@ -425,11 +430,6 @@
       "title": "Åpnet nasjonalt kompetansesenter mot ulovlig droneflyging",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/apnet-nasjonalt-kompetansesenter-mot-ulovlig-droneflyging/id3176870/"
-     },
-     {
-      "title": "Opening of the Norwegian National Counter-Drone Centre of Excellence",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/whats-new/apning-og-markering-av-nasjonalt-kompetansesenter-for-ulovlig-droneflyging-8.-oktober-2026/id3176899/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Undertegnet frihandelsavtale med Vietnam – åpner nye muligheter for norske bedrifter",
+      "date": "2026-10-18",
+      "url": "https://www.regjeringen.no/no/aktuelt/undertegnet-frihandelsavtale-med-vietnam-apner-nye-muligheter-for-norske-bedrifter/id3178346/"
+     },
+     {
       "title": "Verdensbankens årsmøte: Jobber, kriser og Ukraina på dagsordenen",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/verdensbankens-arsmote-jobber-kriser-og-ukraina-pa-dagsordenen/id3178401/"
@@ -825,11 +830,6 @@
       "title": "Norge gir 750 millioner kroner til gjenoppbygging og tjenester til befolkningen i Ukraina",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/norge-gir-750-millioner-kroner-til-gjenoppbygging-og-tjenester-til-befolkningen-i-ukraina/id3177355/"
-     },
-     {
-      "title": "Norge bidrar til livsviktig hjelp i glemte kriser",
-      "date": "2026-10-14",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-bidrar-til-livsviktig-hjelp-i-glemte-kriser/id3177589/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-17",
+  "fetched": "2026-10-18",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -5847,6 +5847,20 @@
  },
  "nytt": [
   {
+   "d": "2026-10-18",
+   "t": "nyhet",
+   "ministry": "jd",
+   "title": "Regjeringen utarbeider ny nasjonal strategi mot voldelig ekstremisme og terror",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-pa-ny-nasjonal-strategi-mot-voldelig-ekstremisme-og-terror/id3178432/"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Undertegnet frihandelsavtale med Vietnam – åpner nye muligheter for norske bedrifter",
+   "url": "https://www.regjeringen.no/no/aktuelt/undertegnet-frihandelsavtale-med-vietnam-apner-nye-muligheter-for-norske-bedrifter/id3178346/"
+  },
+  {
    "d": "2026-10-17",
    "t": "ny",
    "id": "200475",
@@ -5855,6 +5869,13 @@
    "committee": "",
    "ministry": "ud",
    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200475"
+  },
+  {
+   "d": "2026-10-16",
+   "t": "nyhet",
+   "ministry": "fin",
+   "title": "Forslag om pliktig tilslutning til godkjent klagenemd i finanssektoren på høring",
+   "url": "https://www.regjeringen.no/no/aktuelt/forslag-om-pliktig-tilslutning-til-godkjent-klagenemd-i-finanssektoren-pa-horing/id3178402/"
   },
   {
    "d": "2026-10-16",
@@ -6938,12 +6959,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-17T08:37:44.955Z",
+  "ranAt": "2026-10-18T08:53:55.465Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 15
+  "newEvents": 3
  },
  "tema": {
   "tema": [
