@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Ny rapport: Lønnsomt å styre strømbruken i store bygninger",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-lonnsomt-a-styre-strombruken-i-store-bygninger/id3178851/"
+     },
+     {
       "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 43",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-43/id3178421/"
@@ -233,11 +238,6 @@
       "title": "Vurderer å forlenge nettselskapenes mulighet til å begrense størrelsen på energileddet",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/a-forlenge-nettselskapenes-mulighet-til-a-begrense-storrelsen-pa-energileddet/id3177363/"
-     },
-     {
-      "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 42",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-42/id3176854/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -369,6 +369,11 @@
     ],
     "news": [
      {
+      "title": "Tannhelsereform på høring: En fornyet og forsterket tannhelsetjeneste",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/en-fornyet-og-forsterket-tannhelsetjeneste/id3178972/"
+     },
+     {
       "title": "Rapport om samiske spesialisthelsetjenester overlevert regjeringen",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/rapport-om-samiske-spesialisthelsetjenester-overlevert-regjeringen/id3178276/"
@@ -377,11 +382,6 @@
       "title": "Påmelding til presentasjon av Helsereformutvalet si utgreiing",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/pamelding-til-presentasjon-av-helsereformutvalet-si-utgreiing/id3178280/"
-     },
-     {
-      "title": "Påmelding til presentasjon av Helsereformutvalet si utgreiing",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/pamelding-til-presentasjon-av-helsereformutvalet-si-utgreiing2/id3178280/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -2007,8 +2007,9 @@
     "ministry": "",
     "proposer": "FrP (Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen, Dagfinn Henrik Olsen)",
     "topics": [
-     "Innvandring",
-     "Kommuner"
+     "Innvandrere",
+     "Kommunenes økonomi",
+     "Lokalforvaltning"
     ],
     "updated": "2026-10-13",
     "decided": "",
@@ -2639,7 +2640,10 @@
     "committee": "Justiskomiteen",
     "ministry": "",
     "proposer": "KrF (Hans Edvard Askjer, Ida Lindtveit Røse, Jorunn Gleditsch Lossius, Jonas Andersen Sayed)",
-    "topics": [],
+    "topics": [
+     "Strafferett",
+     "Politi og påtalemyndighet"
+    ],
     "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
@@ -5873,6 +5877,20 @@
   {
    "d": "2026-10-19",
    "t": "nyhet",
+   "ministry": "ed",
+   "title": "Ny rapport: Lønnsomt å styre strømbruken i store bygninger",
+   "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-lonnsomt-a-styre-strombruken-i-store-bygninger/id3178851/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Tannhelsereform på høring: En fornyet og forsterket tannhelsetjeneste",
+   "url": "https://www.regjeringen.no/no/aktuelt/en-fornyet-og-forsterket-tannhelsetjeneste/id3178972/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "nyhet",
    "ministry": "bfd",
    "title": "Målrettar aldersgrensa mot skadelege plattformer",
    "url": "https://www.regjeringen.no/no/aktuelt/malrettar-aldersgrensa-mot-skadelege-plattformer/id3178283/"
@@ -7004,12 +7022,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-19T09:59:15.429Z",
+  "ranAt": "2026-10-19T11:17:54.036Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 4
+  "newEvents": 2
  },
  "tema": {
   "tema": [
@@ -7512,7 +7530,7 @@
    }
   },
   "tall": {
-   "ranAt": "2026-10-13T15:21:28.958Z",
+   "ranAt": "2026-10-19T11:15:53.344Z",
    "stats": [
     {
      "id": "kpi",
