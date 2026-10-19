@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-18",
+ "fetched": "2026-10-19",
  "gov": {
-  "fetched": "2026-10-18",
+  "fetched": "2026-10-19",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -129,6 +129,11 @@
     ],
     "news": [
      {
+      "title": "Målrettar aldersgrensa mot skadelege plattformer",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/malrettar-aldersgrensa-mot-skadelege-plattformer/id3178283/"
+     },
+     {
       "title": "Vurderer strengere regulering av lootbokser i dataspill",
       "date": "2026-10-12",
       "url": "https://www.regjeringen.no/no/aktuelt/vurderer-strengere-regulering-av-lootbokser-i-dataspill/id3177013/"
@@ -137,11 +142,6 @@
       "title": "Invitasjon: 50 år med ansvarlig næringsliv – jubileumsmarkering av OECDs retningslinjer",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/50-ar-med-ansvarlig-naringsliv-jubileumsmarkering-av-oecds-retningslinjer/id3176869/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Aukar løyva til kulturhistorisk verdifulle kyrkjebygg",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/aukar-loyva-til-kulturhistorisk-verdifulle-kyrkjebygg/id3173498/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/bfd/id298/",
@@ -177,6 +177,11 @@
     ],
     "news": [
      {
+      "title": "Målrettar aldersgrensa mot skadelege plattformer",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/malrettar-aldersgrensa-mot-skadelege-plattformer/id3178283/"
+     },
+     {
       "title": "Klagenemnda for elektronisk kommunikasjon er utnemnt",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/klagenemnda-for-elektronisk-kommunikasjon-er-utnemnt/id3178124/"
@@ -185,11 +190,6 @@
       "title": "Klarspråksprisene: Her er årets vinnere",
       "date": "2026-10-13",
       "url": "https://www.regjeringen.no/no/aktuelt/klarspraksprisene-her-er-arets-vinnere/id3177300/"
-     },
-     {
-      "title": "Gi dine innspill til «European Critical Communication System» (EUCCS)",
-      "date": "2026-10-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/gi-dine-innspill-til-european-critical-communication-system-euccs/id3177106/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -518,14 +518,14 @@
       "url": "https://www.regjeringen.no/no/aktuelt/kommunal-og-distriktsdepartementet-opphever-statsforvalterens-vedtak-om-viken-park/id3177704/"
      },
      {
-      "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
-     },
-     {
       "title": "Statsbudsjettet 2027: Nye verkemiddel for frivillige kommunesamanslåingar",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/nye-verkemiddel-for-frivillige-kommunesamanslaingar/id3173707/"
+     },
+     {
+      "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
+      "date": "2026-10-07",
+      "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kdd/id504/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Kenya og Nigeria vil samarbeide med Norge om fiskerikriminalitet",
+      "date": "2026-10-18",
+      "url": "https://www.regjeringen.no/no/aktuelt/kenya-og-nigeria-vil-samarbeide-med-norge-om-fiskerikriminalitet/id3178455/"
+     },
+     {
       "title": "Næringsministeren til Kina",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-til-kina/id3178425/"
@@ -724,11 +729,6 @@
       "title": "Kyststatane einige om totalkvotar for kolmule og norsk vårgytande sild",
       "date": "2026-10-15",
       "url": "https://www.regjeringen.no/no/aktuelt/kyststatane-einige-om-totalkvotar-for-kolmule-og-norsk-vargytande-sild/id3178097/"
-     },
-     {
-      "title": "Næringsministeren besøkte London for å styrke samarbeidet med Storbritannia",
-      "date": "2026-10-15",
-      "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-besokte-london-for-a-styrke-samarbeidet-med-storbritannia/id3177678/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 43",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-43/id3178460/"
+     },
+     {
       "title": "Undertegnet frihandelsavtale med Vietnam – åpner nye muligheter for norske bedrifter",
       "date": "2026-10-18",
       "url": "https://www.regjeringen.no/no/aktuelt/undertegnet-frihandelsavtale-med-vietnam-apner-nye-muligheter-for-norske-bedrifter/id3178346/"
@@ -825,11 +830,6 @@
       "title": "Verdensbankens årsmøte: Jobber, kriser og Ukraina på dagsordenen",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/verdensbankens-arsmote-jobber-kriser-og-ukraina-pa-dagsordenen/id3178401/"
-     },
-     {
-      "title": "Norge gir 750 millioner kroner til gjenoppbygging og tjenester til befolkningen i Ukraina",
-      "date": "2026-10-14",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-gir-750-millioner-kroner-til-gjenoppbygging-og-tjenester-til-befolkningen-i-ukraina/id3177355/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-18",
+  "fetched": "2026-10-19",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -1611,8 +1611,8 @@
     "ministry": "smk",
     "proposer": "",
     "topics": [
-     "Kongen",
-     "Stortinget"
+     "Regjeringen",
+     "Kongen"
     ],
     "updated": "2026-10-02",
     "decided": "",
@@ -1633,7 +1633,9 @@
     "ministry": "smk",
     "proposer": "",
     "topics": [
-     "Skole"
+     "Skoler",
+     "Barn",
+     "Ungdommer"
     ],
     "updated": "2026-10-08",
     "decided": "",
@@ -1697,8 +1699,8 @@
     "ministry": "",
     "proposer": "FrP (Hans Andreas Limi, Tom Staahle, Martin Virkesdal Jonsterhaug, Hilde Grande, Bengt Rune Strifeldt, Sylvi Listhaug)",
     "topics": [
-     "Avgifter",
-     "Fiskeri"
+     "Fangst",
+     "Avgifter"
     ],
     "updated": "2026-10-06",
     "decided": "",
@@ -1719,7 +1721,8 @@
     "ministry": "",
     "proposer": "KrF (Joel Ystebø, Jonas Andersen Sayed, Jørgen H. Kristiansen)",
     "topics": [
-     "Skole"
+     "Videregående skoler",
+     "Grunnskole"
     ],
     "updated": "2026-10-06",
     "decided": "",
@@ -1740,8 +1743,8 @@
     "ministry": "",
     "proposer": "FrP (Alf Erik Andersen m.fl., 10 representanter)",
     "topics": [
-     "Samferdsel",
-     "Bompenger"
+     "Vegtrafikk",
+     "Avgifter"
     ],
     "updated": "2026-10-06",
     "decided": "",
@@ -1762,7 +1765,8 @@
     "ministry": "",
     "proposer": "KrF (Hans Edvard Askjer, Ida Lindtveit Røse, Jørgen H. Kristiansen)",
     "topics": [
-     "Toll"
+     "Toll",
+     "Rusmidler"
     ],
     "updated": "2026-10-06",
     "decided": "",
@@ -1804,8 +1808,10 @@
     "ministry": "",
     "proposer": "R (Marie Sneve Martinussen, Bjørnar Moxnes, Geir Jørgensen, Terje Kollbotn)",
     "topics": [
-     "Energi",
-     "Datasentre"
+     "Elektrisitet",
+     "Næringsliv",
+     "Kommunikasjonsteknologi",
+     "Samfunnssikkerhet"
     ],
     "updated": "2026-10-06",
     "decided": "",
@@ -1826,7 +1832,7 @@
     "ministry": "",
     "proposer": "FrP (Jon Engen-Helgheim, Finn Krokeide, Stian Storbukås, Mats Henriksen, Anette Carnarius Elseth)",
     "topics": [
-     "Strafferett"
+     "Trossamfunn"
     ],
     "updated": "2026-10-06",
     "decided": "",
@@ -1848,7 +1854,7 @@
     "proposer": "SV (Kirsti Bergstø, Mirell Høyer-Berntsen)",
     "topics": [
      "Personvern",
-     "Teknologi"
+     "Kommunikasjonsteknologi"
     ],
     "updated": "2026-10-15",
     "decided": "",
@@ -1869,8 +1875,8 @@
     "ministry": "",
     "proposer": "SV (Lars Haltbrekken m.fl., 9 representanter)",
     "topics": [
-     "Energi",
-     "Datasentre"
+     "Næringsutvikling",
+     "Kommunikasjonsteknologi"
     ],
     "updated": "2026-10-06",
     "decided": "",
@@ -1891,8 +1897,7 @@
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Une Bastholm, Ingrid Liland, Lars Lønberg Henriksen)",
     "topics": [
-     "Jakt",
-     "Dyrevelferd"
+     "Naturvern"
     ],
     "updated": "2026-10-13",
     "decided": "",
@@ -1914,7 +1919,7 @@
     "proposer": "MDG (Frøya Skjold Sjursæther, Oda Indgaard, Ingrid Liland)",
     "topics": [
      "Skatter",
-     "Petroleum"
+     "Olje og gass"
     ],
     "updated": "2026-10-13",
     "decided": "",
@@ -1935,8 +1940,9 @@
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Ingrid Liland, Siren Julianne Jensen, Oda Indgaard)",
     "topics": [
-     "Klima",
-     "Reklame"
+     "Olje og gass",
+     "Forbrukersaker",
+     "Miljøvern"
     ],
     "updated": "2026-10-13",
     "decided": "",
@@ -1978,7 +1984,9 @@
     "ministry": "",
     "proposer": "FrP (Erlend Wiborg, Helge André Njåstad, Rune Midtun, Bjørn Larsen, Liv Gustavsen)",
     "topics": [
-     "Integrering"
+     "Barn",
+     "Ungdommer",
+     "Menneskerettigheter"
     ],
     "updated": "2026-10-13",
     "decided": "",
@@ -3448,7 +3456,10 @@
     "committee": "Kontroll- og konstitusjonskomiteen",
     "ministry": "fd",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Forsvar",
+     "Forsvarsmateriell"
+    ],
     "updated": "2026-06-15",
     "decided": "",
     "outcome": "",
@@ -4949,7 +4960,9 @@
     "committee": "",
     "ministry": "ud",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Nordisk samarbeid"
+    ],
     "updated": "2026-10-14",
     "decided": "",
     "outcome": "",
@@ -4968,7 +4981,10 @@
     "committee": "",
     "ministry": "kud",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Massemedier",
+     "Menneskerettigheter"
+    ],
     "updated": "2026-10-14",
     "decided": "",
     "outcome": "",
@@ -5044,7 +5060,10 @@
     "committee": "Valgkomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Stortingsrepresentanter",
+     "Nordisk samarbeid"
+    ],
     "updated": "2026-10-16",
     "decided": "",
     "outcome": "",
@@ -5082,7 +5101,9 @@
     "committee": "",
     "ministry": "ud",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Eu/eøs"
+    ],
     "updated": "2026-10-17",
     "decided": "",
     "outcome": "",
@@ -5101,7 +5122,10 @@
     "committee": "",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Skatter",
+     "Olje og gass"
+    ],
     "updated": "2026-10-16",
     "decided": "",
     "outcome": "",
@@ -5846,6 +5870,27 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-10-19",
+   "t": "nyhet",
+   "ministry": "bfd",
+   "title": "Målrettar aldersgrensa mot skadelege plattformer",
+   "url": "https://www.regjeringen.no/no/aktuelt/malrettar-aldersgrensa-mot-skadelege-plattformer/id3178283/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 43",
+   "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-43/id3178460/"
+  },
+  {
+   "d": "2026-10-18",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Kenya og Nigeria vil samarbeide med Norge om fiskerikriminalitet",
+   "url": "https://www.regjeringen.no/no/aktuelt/kenya-og-nigeria-vil-samarbeide-med-norge-om-fiskerikriminalitet/id3178455/"
+  },
   {
    "d": "2026-10-18",
    "t": "nyhet",
@@ -6959,12 +7004,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-18T08:53:55.465Z",
+  "ranAt": "2026-10-19T09:59:15.429Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 3
+  "newEvents": 4
  },
  "tema": {
   "tema": [
