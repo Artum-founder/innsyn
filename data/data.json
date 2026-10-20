@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-19",
+ "fetched": "2026-10-20",
  "gov": {
-  "fetched": "2026-10-19",
+  "fetched": "2026-10-20",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,19 +34,19 @@
     ],
     "news": [
      {
+      "title": "Witkoff og Kushner deltar på samtaler i Oslo",
+      "date": "2026-10-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/witkoff-og-kushner-deltar-pa-samtaler-i-oslo/id3179077/"
+     },
+     {
+      "title": "Ukrainas president Zelenskyj besøker Norge",
+      "date": "2026-10-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/ukrainas-president-zelenskyj/id3178996/"
+     },
+     {
       "title": "Statsministerens program veke 43",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-43/id3178385/"
-     },
-     {
-      "title": "Norge og Polen signerte erklæring om strategisk partnerskap",
-      "date": "2026-10-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-og-polen-signerte-erklaring-om-strategisk-partnerskap/id3176988/"
-     },
-     {
-      "title": "Støre møter Polens statsminister og president",
-      "date": "2026-10-11",
-      "url": "https://www.regjeringen.no/no/aktuelt/store-moter-polens-statsminister-og-president/id3176925/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Innspelsmøte om forslag til endringar i prisreguleringa av fjernvarme",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/innspelsmote-om-forslag-til-endringar-i-prisreguleringa-av-fjernvarme/id3179050/"
+     },
+     {
       "title": "Ny rapport: Lønnsomt å styre strømbruken i store bygninger",
       "date": "2026-10-19",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-lonnsomt-a-styre-strombruken-i-store-bygninger/id3178851/"
@@ -233,11 +238,6 @@
       "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 43",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-43/id3178421/"
-     },
-     {
-      "title": "Vurderer å forlenge nettselskapenes mulighet til å begrense størrelsen på energileddet",
-      "date": "2026-10-14",
-      "url": "https://www.regjeringen.no/no/aktuelt/a-forlenge-nettselskapenes-mulighet-til-a-begrense-storrelsen-pa-energileddet/id3177363/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -321,6 +321,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen foreslår fireårig militær ingeniørutdanning og mer fleksible ingeniørstudier",
+      "date": "2026-10-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-firearig-militar-ingeniorutdanning-og-mer-fleksible-ingeniorstudier/id3179024/"
+     },
+     {
       "title": "Forsvarsministeren besøkte Camp Jomsborg: – Det er en brutal virkelighet",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/forsvarsministeren-besokte-camp-jomsborg-det-er-en-brutal-virkelighet/id3177365/"
@@ -329,11 +334,6 @@
       "title": "Forsvarets internasjonale innsats 2026-2027",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/forsvarets-internasjonale-innsats-2026-2027/id3176618/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Øker produksjonskapasiteten i norsk forsvarsindustri",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/oker-produksjonskapasiteten-i-norsk-forsvarsindustri/id3174290/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -369,19 +369,19 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Helse- og omsorgsminister Jan Christian Vestre til Stavanger 21. oktober",
+      "date": "2026-10-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/helse-og-omsorgsminister-jan-christian-vestre-til-stavanger-21.-oktober/id3179140/"
+     },
+     {
+      "title": "Presseinvitasjon: Helse- og omsorgsministeren besøker Bergen 20. oktober",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/helse-og-omsorgsministeren-besoker-bergen-20.-oktober/id3179052/"
+     },
+     {
       "title": "Tannhelsereform på høring: En fornyet og forsterket tannhelsetjeneste",
       "date": "2026-10-19",
       "url": "https://www.regjeringen.no/no/aktuelt/en-fornyet-og-forsterket-tannhelsetjeneste/id3178972/"
-     },
-     {
-      "title": "Rapport om samiske spesialisthelsetjenester overlevert regjeringen",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/rapport-om-samiske-spesialisthelsetjenester-overlevert-regjeringen/id3178276/"
-     },
-     {
-      "title": "Påmelding til presentasjon av Helsereformutvalet si utgreiing",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/pamelding-til-presentasjon-av-helsereformutvalet-si-utgreiing/id3178280/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Søkerrekord i 2026: Over 1700 vil bli fengselsbetjent",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/sokerrekord-i-2026-over-1700-vil-bli-fengselsbetjent/id3178999/"
+     },
+     {
       "title": "Regjeringen utarbeider ny nasjonal strategi mot voldelig ekstremisme og terror",
       "date": "2026-10-18",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-pa-ny-nasjonal-strategi-mot-voldelig-ekstremisme-og-terror/id3178432/"
@@ -425,11 +430,6 @@
       "title": "Regjeringen foreslår å utvide varigheten for ordningen med midlertidig kollektiv beskyttelse",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-a-utvide-varigheten-for-ordningen-med-midlertidig-kollektiv-beskyttelse/id3176866/"
-     },
-     {
-      "title": "Åpnet nasjonalt kompetansesenter mot ulovlig droneflyging",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/apnet-nasjonalt-kompetansesenter-mot-ulovlig-droneflyging/id3176870/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -513,6 +513,11 @@
     ],
     "news": [
      {
+      "title": "Ta del i markeringen av samisk språkuke 2026!",
+      "date": "2026-10-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/ta-del-i-markeringen-av-samisk-sprakuke-2026/id3179047/"
+     },
+     {
       "title": "Kommunal- og distriktsdepartementet opphever Statsforvalterens vedtak om Viken Park",
       "date": "2026-10-15",
       "url": "https://www.regjeringen.no/no/aktuelt/kommunal-og-distriktsdepartementet-opphever-statsforvalterens-vedtak-om-viken-park/id3177704/"
@@ -521,11 +526,6 @@
       "title": "Statsbudsjettet 2027: Nye verkemiddel for frivillige kommunesamanslåingar",
       "date": "2026-10-07",
       "url": "https://www.regjeringen.no/no/aktuelt/nye-verkemiddel-for-frivillige-kommunesamanslaingar/id3173707/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kdd/id504/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen foreslår fireårig militær ingeniørutdanning og mer fleksible ingeniørstudier",
+      "date": "2026-10-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-firearig-militar-ingeniorutdanning-og-mer-fleksible-ingeniorstudier/id3179024/"
+     },
+     {
       "title": "Presseinvitasjon: Hvordan får vi flere barn og unge til å velge realfag og teknologi? Statsrådene ber om råd i Stavanger",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-hvordan-far-vi-flere-barn-og-unge-til-a-velge-realfag-og-teknologi-statsradene-ber-om-rad-i-stavanger/id3178100/"
@@ -623,11 +628,6 @@
       "title": "Kraftig nedgang i fravær etter nye fraværsregler i videregående",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/kraftig-nedgang-i-fravar-etter-nye-fravarsregler-i-videregaende/id3177304/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: 20,9 millioner til digital opplæring i fengsel",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/digital-opplaring-i-fengsel/id3174289/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Første møte i dialogforum for næringsmiddelindustrien",
+      "date": "2026-10-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/forste-mote-i-dialogforum-for-naringsmiddelindustrien/id3179075/"
+     },
+     {
       "title": "Intensjonsavtalen om klima mellom staten og jordbruket: Reduserer klimautslipp og på god vei til å nå målet",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/reduserer-klimautslipp-og-pa-god-vei-til-a-na-malet/id3178106/"
@@ -671,11 +676,6 @@
       "title": "Ukraina lagrar frø i Svalbard globale frøkvelv for første gong sidan krigsutbrotet",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/ukraina-lagrar-fro-i-svalbard-globale-frokvelv-for-forste-gong-sidan-krigsutbrotet/id3177597/"
-     },
-     {
-      "title": "Fylkesnytt frå Møre og Romsdal 2/2026",
-      "date": "2026-10-14",
-      "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-more-og-romsdal-22026/id3176769/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-19",
+  "fetched": "2026-10-20",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -1586,7 +1586,7 @@
     "status": "til_behandling",
     "type": "lovsak",
     "docGroup": "proposisjon",
-    "committee": "Kommunal- og forvaltningskomiteen",
+    "committee": "Justiskomiteen",
     "ministry": "jd",
     "proposer": "",
     "topics": [
@@ -2662,7 +2662,10 @@
     "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Ingrid Liland, Lars Lønberg Henriksen, Marius Langballe Dalin, Oda Indgaard, Siren Julianne Jensen)",
-    "topics": [],
+    "topics": [
+     "Elektrisitet",
+     "Bygningsvesen"
+    ],
     "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
@@ -5007,7 +5010,10 @@
     "committee": "Finanskomiteen",
     "ministry": "",
     "proposer": "FrP (Hilde Grande, Hans Andreas Limi, Martin Virkesdal Jonsterhaug, Tom Staahle)",
-    "topics": [],
+    "topics": [
+     "Norges bank",
+     "Statens pensjonsfond"
+    ],
     "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
@@ -5026,7 +5032,9 @@
     "committee": "",
     "ministry": "",
     "proposer": "R (Hege Bae Nyholt, Marie Sneve Martinussen, Mímir Kristjánsson, Seher Aydar)",
-    "topics": [],
+    "topics": [
+     "Stortingsrepresentanter"
+    ],
     "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
@@ -5045,7 +5053,10 @@
     "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "Sp (Geir Inge Lien, Maren Grøthe, Trygve Slagsvold Vedum)",
-    "topics": [],
+    "topics": [
+     "Avgifter",
+     "Miljøvern"
+    ],
     "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
@@ -5086,7 +5097,9 @@
     "committee": "",
     "ministry": "",
     "proposer": "H (Haagen Poppe, Mahmoud Farahmand, Tage Pettersen, Tone Wilhelmsen Trøen)",
-    "topics": [],
+    "topics": [
+     "Barnevern"
+    ],
     "updated": "2026-10-15",
     "decided": "",
     "outcome": "",
@@ -5155,6 +5168,63 @@
     "nextStep": "Venter på å bli referert og sendt til komité.",
     "reference": "Prop. 3 LS (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200473"
+   },
+   {
+    "id": "200476",
+    "title": "Organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen og Terje Kollbotn om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "R (Hege Bae Nyholt, Marie Sneve Martinussen, Terje Kollbotn)",
+    "topics": [],
+    "updated": "2026-10-20",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:22 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200476"
+   },
+   {
+    "id": "200477",
+    "title": "Gjennomgå og modernisere norsk alkoholpolitikk",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen, Anna Molberg og Mari Holm Lønseth om å gjennomgå og modernisere norsk alkoholpolitikk",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "H (Anna Molberg m.fl., 7 representanter)",
+    "topics": [],
+    "updated": "2026-10-20",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:23 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200477"
+   },
+   {
+    "id": "200474",
+    "title": "Riksrevisjonens undersøkelse av myndighetenes arbeid med energieffektivisering",
+    "fullTitle": "Riksrevisjonens undersøkelse av myndighetenes arbeid med energieffektivisering",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "dokumentserien",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-10-20",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 3:3 (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200474"
    }
   ]
  },
@@ -5874,6 +5944,99 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-10-20",
+   "t": "ny",
+   "id": "200476",
+   "title": "Organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200476"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "ny",
+   "id": "200477",
+   "title": "Gjennomgå og modernisere norsk alkoholpolitikk",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200477"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "ny",
+   "id": "200474",
+   "title": "Riksrevisjonens undersøkelse av myndighetenes arbeid med energieffektivisering",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200474"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Witkoff og Kushner deltar på samtaler i Oslo",
+   "url": "https://www.regjeringen.no/no/aktuelt/witkoff-og-kushner-deltar-pa-samtaler-i-oslo/id3179077/"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Ukrainas president Zelenskyj besøker Norge",
+   "url": "https://www.regjeringen.no/no/aktuelt/ukrainas-president-zelenskyj/id3178996/"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Regjeringen foreslår fireårig militær ingeniørutdanning og mer fleksible ingeniørstudier",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-firearig-militar-ingeniorutdanning-og-mer-fleksible-ingeniorstudier/id3179024/"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Presseinvitasjon: Helse- og omsorgsminister Jan Christian Vestre til Stavanger 21. oktober",
+   "url": "https://www.regjeringen.no/no/aktuelt/helse-og-omsorgsminister-jan-christian-vestre-til-stavanger-21.-oktober/id3179140/"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Første møte i dialogforum for næringsmiddelindustrien",
+   "url": "https://www.regjeringen.no/no/aktuelt/forste-mote-i-dialogforum-for-naringsmiddelindustrien/id3179075/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Innspelsmøte om forslag til endringar i prisreguleringa av fjernvarme",
+   "url": "https://www.regjeringen.no/no/aktuelt/innspelsmote-om-forslag-til-endringar-i-prisreguleringa-av-fjernvarme/id3179050/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Presseinvitasjon: Helse- og omsorgsministeren besøker Bergen 20. oktober",
+   "url": "https://www.regjeringen.no/no/aktuelt/helse-og-omsorgsministeren-besoker-bergen-20.-oktober/id3179052/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "nyhet",
+   "ministry": "jd",
+   "title": "Søkerrekord i 2026: Over 1700 vil bli fengselsbetjent",
+   "url": "https://www.regjeringen.no/no/aktuelt/sokerrekord-i-2026-over-1700-vil-bli-fengselsbetjent/id3178999/"
+  },
+  {
+   "d": "2026-10-19",
+   "t": "nyhet",
+   "ministry": "kdd",
+   "title": "Ta del i markeringen av samisk språkuke 2026!",
+   "url": "https://www.regjeringen.no/no/aktuelt/ta-del-i-markeringen-av-samisk-sprakuke-2026/id3179047/"
+  },
   {
    "d": "2026-10-19",
    "t": "nyhet",
@@ -7022,12 +7185,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-19T11:17:54.036Z",
+  "ranAt": "2026-10-20T09:29:13.375Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 2
+  "newEvents": 13
  },
  "tema": {
   "tema": [
