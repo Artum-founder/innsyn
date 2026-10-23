@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-22",
+ "fetched": "2026-10-23",
  "gov": {
-  "fetched": "2026-10-22",
+  "fetched": "2026-10-23",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Statsministerens program veke 44",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-44/id3181408/"
+     },
+     {
       "title": "Samtaler om veien mot fred i Ukraina",
       "date": "2026-10-21",
       "url": "https://www.regjeringen.no/no/aktuelt/samtaler-om-veien-mot-fred-i-ukraina/id3179845/"
@@ -42,11 +47,6 @@
       "title": "Pressekonferanse med Zelenskyj, Stubb og Støre",
       "date": "2026-10-20",
       "url": "https://www.regjeringen.no/no/aktuelt/pressekonferanse-med-zelenskyj-stubb-og-store/id3179149/"
-     },
-     {
-      "title": "Witkoff og Kushner deltar på samtaler i Oslo",
-      "date": "2026-10-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/witkoff-og-kushner-deltar-pa-samtaler-i-oslo/id3179077/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -82,6 +82,11 @@
     ],
     "news": [
      {
+      "title": "Kommunene vil bli bedt om å bosette det laveste antallet flyktninger på fem år",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/kommunene-vil-bli-bedt-om-a-bosette-det-laveste-antallet-flyktninger-pa-fem-ar/id3181397/"
+     },
+     {
       "title": "Mer inkludering og mer KI i staten",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/mer-inkludering-og-mer-ki-i-staten/id3176847/"
@@ -90,11 +95,6 @@
       "title": "Statsbudsjettet 2027: Regjeringa styrkjer innsatsen for å få innvandrarkvinner i jobb",
       "date": "2026-10-09",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-styrkjer-innsatsen-for-a-fa-innvandrarkvinner-i-jobb/id3175665/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Regjeringa aukar støtta til parykk",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-aukar-stotta-til-parykk/id3175764/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -177,6 +177,11 @@
     ],
     "news": [
      {
+      "title": "Vil ha betre konkurransevilkår på nett – sender forslag til ny lov på høyring",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/vil-ha-betre-konkurransevilkar-pa-nett-sender-forslag-til-ny-lov-pa-hoyring/id3181362/"
+     },
+     {
       "title": "Oppnevning av nytt medlem i Karantenenemnda",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/oppnevning-av-nytt-medlem-i-karantenenemnda/id3179383/"
@@ -185,11 +190,6 @@
       "title": "Målrettar aldersgrensa mot skadelege plattformer",
       "date": "2026-10-19",
       "url": "https://www.regjeringen.no/no/aktuelt/malrettar-aldersgrensa-mot-skadelege-plattformer/id3178283/"
-     },
-     {
-      "title": "Klagenemnda for elektronisk kommunikasjon er utnemnt",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/klagenemnda-for-elektronisk-kommunikasjon-er-utnemnt/id3178124/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -465,19 +465,19 @@
     ],
     "news": [
      {
+      "title": "Krever strengere praksis i strandsonen",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/krever-strengere-praksis-i-strandsonen/id3181284/"
+     },
+     {
+      "title": "Ope digitalt høyringsmøte om utkast til strategi for besøkssenter for natur",
+      "date": "2026-10-22",
+      "url": "https://www.regjeringen.no/no/aktuelt/ope-digitalt-hoyringsmote-om-utkast-til-strategi-for-besokssenter-for-natur/id3181360/"
+     },
+     {
       "title": "Rekordlav avskoging i Brasil",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/rekordlav-avskoging-i-brasil/id3178435/"
-     },
-     {
-      "title": "Styrker trekkvegen for villreinen ved Spranget",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/styrker-trekkvegen-for-villreinen-ved-spranget/id3178340/"
-     },
-     {
-      "title": "Intensjonsavtalen om klima mellom staten og jordbruket: Reduserer klimautslipp og på god vei til å nå målet",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/reduserer-klimautslipp-og-pa-god-vei-til-a-na-malet/id3178106/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -513,6 +513,11 @@
     ],
     "news": [
      {
+      "title": "Krever strengere praksis i strandsonen",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/krever-strengere-praksis-i-strandsonen/id3181284/"
+     },
+     {
       "title": "Ta del i markeringen av samisk språkuke 2026!",
       "date": "2026-10-19",
       "url": "https://www.regjeringen.no/no/aktuelt/ta-del-i-markeringen-av-samisk-sprakuke-2026/id3179047/"
@@ -521,11 +526,6 @@
       "title": "Kommunal- og distriktsdepartementet opphever Statsforvalterens vedtak om Viken Park",
       "date": "2026-10-15",
       "url": "https://www.regjeringen.no/no/aktuelt/kommunal-og-distriktsdepartementet-opphever-statsforvalterens-vedtak-om-viken-park/id3177704/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Styrker planmiljøa i dei tre nordlegaste fylka",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/styrker-planmiljoa-i-dei-tre-nordlegaste-fylka/id3173701/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kdd/id504/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Svært god start på årets slaktesesong for rein",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/svart-god-start-pa-arets-slaktesesong-for-rein/id3181448/"
+     },
+     {
       "title": "Svalbard globale frøhvelv-partnerne øremerker prispenger til sikring av sårbare frøsamlinger",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/svalbard-globale-frohvelv-partnerne-oremerker-prispenger-fra-princess-of-asturias-prisen-til-sikring-av-sarbare-frosamlinger/id3181283/"
@@ -671,11 +676,6 @@
       "title": "Presseinvitasjon: Landbruks- og matministeren til Oviedo for å ta imot Princess of Asturias award for internasjonalt samarbeid",
       "date": "2026-10-21",
       "url": "https://www.regjeringen.no/no/aktuelt/landbruks-og-matministeren-til-oviedo-for-a-ta-imot-prinsessen-av-asturias-pris-for-internasjonalt-samarbeid/id3180075/"
-     },
-     {
-      "title": "Første møte i dialogforum for næringsmiddelindustrien",
-      "date": "2026-10-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/forste-mote-i-dialogforum-for-naringsmiddelindustrien/id3179075/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Kyststatene enige om makrellkvote for 2027",
+      "date": "2026-10-22",
+      "url": "https://www.regjeringen.no/no/aktuelt/kyststatene-enige-om-makrellkvote-for-2027/id3181394/"
+     },
+     {
       "title": "Gaute Sivertsen gjenvalgt som direktør for De internasjonale oljeskadefondene",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/gaute-sivertsen-gjenvalgt-som-direktor-for-de-internasjonale-oljeskadefondene/id3181279/"
@@ -724,11 +729,6 @@
       "title": "Fiskeri- og havministeren inviterer til innspillsmøte om hvalsafari",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-inviterer-til-innspillsmote-om-hvalsafari-i-tromso/id3179051/"
-     },
-     {
-      "title": "Presseinvitasjon: Fiskeri- og havministeren til Sør-Korea og Kina",
-      "date": "2026-10-21",
-      "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-til-sor-korea-og-kina/id3180119/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,19 +817,19 @@
     ],
     "news": [
      {
+      "title": "Presseinformasjon: Utanriksministeren og samarbeidsministeren deltek på Nordisk råds sesjon i Helsingfors",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-og-samarbeidsministeren-deltek-pa-nordisk-rads-sesjon-i-helsingfors/id3181425/"
+     },
+     {
+      "title": "Nye ambassadørar frå EU, Finland, Kina og Ghana",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/nye-ambassadorar-fra-eu-finland-kina-og-ghana/id3181414/"
+     },
+     {
       "title": "Presseinformasjon: Utenriksministeren til Ungarn for å signere etterlengtet avtale",
       "date": "2026-10-21",
       "url": "https://www.regjeringen.no/no/aktuelt/utenriksministeren-til-ungarn-for-a-signere-etterlengtet-avtale/id3179848/"
-     },
-     {
-      "title": "Gjennomføring av EUs 21. sanksjonspakke i norsk rett",
-      "date": "2026-10-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/gjennomforing-av-eus-21.-sanksjonspakke-i-norsk-rett/id3179837/"
-     },
-     {
-      "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 43",
-      "date": "2026-10-19",
-      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-43/id3178460/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-22",
+  "fetched": "2026-10-23",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -1529,7 +1529,8 @@
     "ministry": "",
     "proposer": "",
     "topics": [
-     "Statsbudsjettet"
+     "Statsbudsjettet",
+     "Stortinget"
     ],
     "updated": "2026-10-12",
     "decided": "2026-10-13",
@@ -3942,7 +3943,7 @@
     "title": "Rapport til Stortinget fra Stortingets delegasjon til Nordisk råd 2025",
     "fullTitle": "Rapport til Stortinget fra Stortingets delegasjon til Nordisk råd 2025",
     "session": "2025-2026",
-    "status": "til_behandling",
+    "status": "behandlet",
     "type": "alminneligsak",
     "docGroup": "dokumentserien",
     "committee": "Utenriks- og forsvarskomiteen",
@@ -3950,9 +3951,9 @@
     "proposer": "",
     "topics": [],
     "updated": "2026-05-05",
-    "decided": "",
-    "outcome": "",
-    "nextStep": "Til behandling i komiteen.",
+    "decided": "2026-10-22",
+    "outcome": "Enstemmig vedtatt.",
+    "nextStep": "",
     "reference": "Dokument 17 (2025–2026); Innst. 250 S (2025–2026)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=107200"
    },
@@ -4968,7 +4969,7 @@
     "title": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
     "fullTitle": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
     "session": "2026-2027",
-    "status": "til_behandling",
+    "status": "behandlet",
     "type": "alminneligsak",
     "docGroup": "redegjorelse",
     "committee": "",
@@ -4978,9 +4979,9 @@
      "Nordisk samarbeid"
     ],
     "updated": "2026-10-20",
-    "decided": "",
-    "outcome": "",
-    "nextStep": "Til behandling i komiteen.",
+    "decided": "2026-10-22",
+    "outcome": "Enstemmig vedtatt.",
+    "nextStep": "",
     "reference": "",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200463"
    },
@@ -5181,17 +5182,17 @@
     "title": "Organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Hege Bae Nyholt, Marie Sneve Martinussen og Terje Kollbotn om organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Utdannings- og forskningskomiteen",
     "ministry": "",
     "proposer": "R (Hege Bae Nyholt, Marie Sneve Martinussen, Terje Kollbotn)",
     "topics": [],
-    "updated": "2026-10-20",
+    "updated": "2026-10-22",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:22 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200476"
    },
@@ -5200,17 +5201,17 @@
     "title": "Gjennomgå og modernisere norsk alkoholpolitikk",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Erlend Larsen, Margret Hagerup, Ove Trellevik, Kari Sofie Bjørnsen, Anna Molberg og Mari Holm Lønseth om å gjennomgå og modernisere norsk alkoholpolitikk",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Helse- og omsorgskomiteen",
     "ministry": "",
     "proposer": "H (Anna Molberg m.fl., 7 representanter)",
     "topics": [],
-    "updated": "2026-10-20",
+    "updated": "2026-10-22",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:23 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200477"
    },
@@ -5225,7 +5226,12 @@
     "committee": "Kontroll- og konstitusjonskomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Energi",
+     "Riksrevisjonen",
+     "Næringsliv",
+     "Bygningsvesen"
+    ],
     "updated": "2026-10-20",
     "decided": "",
     "outcome": "",
@@ -5238,17 +5244,17 @@
     "title": "Få Luftambulansen tilbake i statlig regi",
     "fullTitle": "Representantforslag fra stortingsrepresentant Kathy Lie om å få Luftambulansen tilbake i statlig regi",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Helse- og omsorgskomiteen",
     "ministry": "",
     "proposer": "SV (Kathy Lie)",
     "topics": [],
-    "updated": "2026-10-21",
+    "updated": "2026-10-22",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:24 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200478"
    },
@@ -5257,17 +5263,17 @@
     "title": "Omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Inge Lien, Geir Pollestad og Trygve Slagsvold Vedum om å omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Næringskomiteen",
     "ministry": "",
     "proposer": "Sp (Geir Inge Lien, Geir Pollestad, Maren Grøthe, Trygve Slagsvold Vedum)",
     "topics": [],
-    "updated": "2026-10-21",
+    "updated": "2026-10-22",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:25 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200479"
    },
@@ -5346,6 +5352,82 @@
     "nextStep": "Venter på å bli referert og sendt til komité.",
     "reference": "Dokument 8:29 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200484"
+   },
+   {
+    "id": "200485",
+    "title": "Nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg",
+    "fullTitle": "Representantforslag frå stortingsrepresentantane Terje Kollbotn, Bjørnar Moxnes, Hege Bae Nyholt og Remi Sølvberg om å nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "R (Bjørnar Moxnes, Hege Bae Nyholt, Remi Sølvberg, Terje Kollbotn)",
+    "topics": [],
+    "updated": "2026-10-22",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:30 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200485"
+   },
+   {
+    "id": "200486",
+    "title": "En nasjonal miljøfleksibilitetsordning",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Mari Holm Lønseth, Anne Kristine Linnestad og Ove Trellevik om en nasjonal miljøfleksibilitetsordning",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "H (Aleksander Stokkebø, Anne Kristine Linnestad, Bård Ludvig Thorheim, Erna Solberg, Mari Holm Lønseth, Ove Trellevik)",
+    "topics": [],
+    "updated": "2026-10-22",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:31 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200486"
+   },
+   {
+    "id": "200487",
+    "title": "Opprettholde norsk innsats for afghanske jenter og kvinners rettigheter",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Ingrid Liland, Kirsti Bergstø og Bjørnar Moxnes om å opprettholde norsk innsats for afghanske jenter og kvinners rettigheter",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "R, MDG og SV (Bjørnar Moxnes, Ingrid Liland, Kirsti Bergstø)",
+    "topics": [],
+    "updated": "2026-10-22",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:33 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200487"
+   },
+   {
+    "id": "200488",
+    "title": "En mer fremtidsrettet havbruksnæring",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Bård Ludvig Thorheim, Anne Kristine Linnestad, Ove Trellevik og Erna Solberg om en mer fremtidsrettet havbruksnæring",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "H (Anne Kristine Linnestad, Bård Ludvig Thorheim, Erna Solberg, Ove Trellevik)",
+    "topics": [],
+    "updated": "2026-10-22",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:32 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200488"
    }
   ]
  },
@@ -6066,6 +6148,157 @@
  },
  "nytt": [
   {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Statsministerens program veke 44",
+   "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-44/id3181408/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Kommunene vil bli bedt om å bosette det laveste antallet flyktninger på fem år",
+   "url": "https://www.regjeringen.no/no/aktuelt/kommunene-vil-bli-bedt-om-a-bosette-det-laveste-antallet-flyktninger-pa-fem-ar/id3181397/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Vil ha betre konkurransevilkår på nett – sender forslag til ny lov på høyring",
+   "url": "https://www.regjeringen.no/no/aktuelt/vil-ha-betre-konkurransevilkar-pa-nett-sender-forslag-til-ny-lov-pa-hoyring/id3181362/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Krever strengere praksis i strandsonen",
+   "url": "https://www.regjeringen.no/no/aktuelt/krever-strengere-praksis-i-strandsonen/id3181284/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Svært god start på årets slaktesesong for rein",
+   "url": "https://www.regjeringen.no/no/aktuelt/svart-god-start-pa-arets-slaktesesong-for-rein/id3181448/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Presseinformasjon: Utanriksministeren og samarbeidsministeren deltek på Nordisk råds sesjon i Helsingfors",
+   "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-og-samarbeidsministeren-deltek-pa-nordisk-rads-sesjon-i-helsingfors/id3181425/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Nye ambassadørar frå EU, Finland, Kina og Ghana",
+   "url": "https://www.regjeringen.no/no/aktuelt/nye-ambassadorar-fra-eu-finland-kina-og-ghana/id3181414/"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "status",
+   "id": "200476",
+   "title": "Organisasjonsfrihet og arbeiderrettigheter på statsstøttede private skoler",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Utdannings- og forskningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200476"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "status",
+   "id": "200477",
+   "title": "Gjennomgå og modernisere norsk alkoholpolitikk",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Helse- og omsorgskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200477"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "status",
+   "id": "200478",
+   "title": "Få Luftambulansen tilbake i statlig regi",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Helse- og omsorgskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200478"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "status",
+   "id": "200479",
+   "title": "Omklassifisere Statkraft fra kategori 1 til kategori 2 i statens eierskapsforvaltning",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Næringskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200479"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "ny",
+   "id": "200485",
+   "title": "Nytte vernetiltaka og handlingsrommet i EØS-avtalen for å attreise nasjonal styring over kraftpolitikken og stabile og rimelege kraftprisar i Noreg",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200485"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "ny",
+   "id": "200486",
+   "title": "En nasjonal miljøfleksibilitetsordning",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200486"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "ny",
+   "id": "200487",
+   "title": "Opprettholde norsk innsats for afghanske jenter og kvinners rettigheter",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200487"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "ny",
+   "id": "200488",
+   "title": "En mer fremtidsrettet havbruksnæring",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200488"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Ope digitalt høyringsmøte om utkast til strategi for besøkssenter for natur",
+   "url": "https://www.regjeringen.no/no/aktuelt/ope-digitalt-hoyringsmote-om-utkast-til-strategi-for-besokssenter-for-natur/id3181360/"
+  },
+  {
+   "d": "2026-10-22",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Kyststatene enige om makrellkvote for 2027",
+   "url": "https://www.regjeringen.no/no/aktuelt/kyststatene-enige-om-makrellkvote-for-2027/id3181394/"
+  },
+  {
    "d": "2026-10-22",
    "t": "ny",
    "id": "200481",
@@ -6201,6 +6434,18 @@
    "ministry": "ud",
    "title": "Presseinformasjon: Utenriksministeren til Ungarn for å signere etterlengtet avtale",
    "url": "https://www.regjeringen.no/no/aktuelt/utenriksministeren-til-ungarn-for-a-signere-etterlengtet-avtale/id3179848/"
+  },
+  {
+   "d": "2026-10-20",
+   "t": "vedtak",
+   "id": "200463",
+   "title": "Redegjørelse av utviklingsministeren om nordisk samarbeid",
+   "from": "til_behandling",
+   "to": "behandlet",
+   "outcome": "Enstemmig vedtatt.",
+   "committee": "",
+   "ministry": "ud",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200463"
   },
   {
    "d": "2026-10-20",
@@ -7557,12 +7802,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-22T09:27:56.000Z",
+  "ranAt": "2026-10-23T09:23:48.120Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 10
+  "newEvents": 20
  },
  "tema": {
   "tema": [
