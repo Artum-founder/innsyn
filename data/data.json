@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-23",
+ "fetched": "2026-10-24",
  "gov": {
-  "fetched": "2026-10-23",
+  "fetched": "2026-10-24",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Endringar blant statssekretærane",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/endringar-blant-statssekretarane17/id3181412/"
+     },
+     {
       "title": "Statsministerens program veke 44",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-44/id3181408/"
@@ -42,11 +47,6 @@
       "title": "Samtaler om veien mot fred i Ukraina",
       "date": "2026-10-21",
       "url": "https://www.regjeringen.no/no/aktuelt/samtaler-om-veien-mot-fred-i-ukraina/id3179845/"
-     },
-     {
-      "title": "Pressekonferanse med Zelenskyj, Stubb og Støre",
-      "date": "2026-10-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/pressekonferanse-med-zelenskyj-stubb-og-store/id3179149/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -82,19 +82,19 @@
     ],
     "news": [
      {
+      "title": "Tvungen lønnsnemnd i arbeidskonflikten mellom Fagforbundet og NHO Geneo",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/tvungen-lonnsnemd/id3181464/"
+     },
+     {
+      "title": "Nå starter arbeidet med å modernisere yrkessykdomslista",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/na-starter-arbeidet-med-a-modernisere-yrkessykdomslista/id3181399/"
+     },
+     {
       "title": "Kommunene vil bli bedt om å bosette det laveste antallet flyktninger på fem år",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/kommunene-vil-bli-bedt-om-a-bosette-det-laveste-antallet-flyktninger-pa-fem-ar/id3181397/"
-     },
-     {
-      "title": "Mer inkludering og mer KI i staten",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/mer-inkludering-og-mer-ki-i-staten/id3176847/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Regjeringa styrkjer innsatsen for å få innvandrarkvinner i jobb",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-styrkjer-innsatsen-for-a-fa-innvandrarkvinner-i-jobb/id3175665/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -321,6 +321,11 @@
     ],
     "news": [
      {
+      "title": "John Olav Fuglem blir ny sjef Hæren",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/john-olav-fuglem-blir-ny-sjef-haren/id3181393/"
+     },
+     {
       "title": "Regjeringen foreslår fireårig militær ingeniørutdanning og mer fleksible ingeniørstudier",
       "date": "2026-10-20",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-firearig-militar-ingeniorutdanning-og-mer-fleksible-ingeniorstudier/id3179024/"
@@ -329,11 +334,6 @@
       "title": "Forsvarsministeren besøkte Camp Jomsborg: – Det er en brutal virkelighet",
       "date": "2026-10-14",
       "url": "https://www.regjeringen.no/no/aktuelt/forsvarsministeren-besokte-camp-jomsborg-det-er-en-brutal-virkelighet/id3177365/"
-     },
-     {
-      "title": "Forsvarets internasjonale innsats 2026-2027",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/forsvarets-internasjonale-innsats-2026-2027/id3176618/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -465,6 +465,11 @@
     ],
     "news": [
      {
+      "title": "Utvidar to verneområde med viktig våtmark",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/utvidar-to-verneomrade-med-viktig-vatmark/id3181454/"
+     },
+     {
       "title": "Krever strengere praksis i strandsonen",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/krever-strengere-praksis-i-strandsonen/id3181284/"
@@ -473,11 +478,6 @@
       "title": "Ope digitalt høyringsmøte om utkast til strategi for besøkssenter for natur",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/ope-digitalt-hoyringsmote-om-utkast-til-strategi-for-besokssenter-for-natur/id3181360/"
-     },
-     {
-      "title": "Rekordlav avskoging i Brasil",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/rekordlav-avskoging-i-brasil/id3178435/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Svalbard globale frøkvelv får Princess of Asturias award for internasjonalt samarbeid",
+      "date": "2026-10-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/svalbard-globale-frokvelv-far-princess-of-asturias-award-for-internasjonalt-samarbeid/id3181468/"
+     },
+     {
       "title": "Svært god start på årets slaktesesong for rein",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/svart-god-start-pa-arets-slaktesesong-for-rein/id3181448/"
@@ -671,11 +676,6 @@
       "title": "Svalbard globale frøhvelv-partnerne øremerker prispenger til sikring av sårbare frøsamlinger",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/svalbard-globale-frohvelv-partnerne-oremerker-prispenger-fra-princess-of-asturias-prisen-til-sikring-av-sarbare-frosamlinger/id3181283/"
-     },
-     {
-      "title": "Presseinvitasjon: Landbruks- og matministeren til Oviedo for å ta imot Princess of Asturias award for internasjonalt samarbeid",
-      "date": "2026-10-21",
-      "url": "https://www.regjeringen.no/no/aktuelt/landbruks-og-matministeren-til-oviedo-for-a-ta-imot-prinsessen-av-asturias-pris-for-internasjonalt-samarbeid/id3180075/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Enighet om norsk-russisk fiskeriavtale for 2027",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/enighet-om-norsk-russisk-fiskeriavtale-for-2027/id3181971/"
+     },
+     {
       "title": "Kyststatene enige om makrellkvote for 2027",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/kyststatene-enige-om-makrellkvote-for-2027/id3181394/"
@@ -724,11 +729,6 @@
       "title": "Gaute Sivertsen gjenvalgt som direktør for De internasjonale oljeskadefondene",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/gaute-sivertsen-gjenvalgt-som-direktor-for-de-internasjonale-oljeskadefondene/id3181279/"
-     },
-     {
-      "title": "Fiskeri- og havministeren inviterer til innspillsmøte om hvalsafari",
-      "date": "2026-10-22",
-      "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-inviterer-til-innspillsmote-om-hvalsafari-i-tromso/id3179051/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,19 +817,19 @@
     ],
     "news": [
      {
+      "title": "Nye rettsakter i EØS-avtalen 23. oktober",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/nye-rettsakter-i-eos-avtalen-23.-oktober/id3182310/"
+     },
+     {
+      "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 44",
+      "date": "2026-10-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-44/id3182291/"
+     },
+     {
       "title": "Presseinformasjon: Utanriksministeren og samarbeidsministeren deltek på Nordisk råds sesjon i Helsingfors",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-og-samarbeidsministeren-deltek-pa-nordisk-rads-sesjon-i-helsingfors/id3181425/"
-     },
-     {
-      "title": "Nye ambassadørar frå EU, Finland, Kina og Ghana",
-      "date": "2026-10-23",
-      "url": "https://www.regjeringen.no/no/aktuelt/nye-ambassadorar-fra-eu-finland-kina-og-ghana/id3181414/"
-     },
-     {
-      "title": "Presseinformasjon: Utenriksministeren til Ungarn for å signere etterlengtet avtale",
-      "date": "2026-10-21",
-      "url": "https://www.regjeringen.no/no/aktuelt/utenriksministeren-til-ungarn-for-a-signere-etterlengtet-avtale/id3179848/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-23",
+  "fetched": "2026-10-24",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -6148,6 +6148,69 @@
  },
  "nytt": [
   {
+   "d": "2026-10-24",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Svalbard globale frøkvelv får Princess of Asturias award for internasjonalt samarbeid",
+   "url": "https://www.regjeringen.no/no/aktuelt/svalbard-globale-frokvelv-far-princess-of-asturias-award-for-internasjonalt-samarbeid/id3181468/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Endringar blant statssekretærane",
+   "url": "https://www.regjeringen.no/no/aktuelt/endringar-blant-statssekretarane17/id3181412/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Tvungen lønnsnemnd i arbeidskonflikten mellom Fagforbundet og NHO Geneo",
+   "url": "https://www.regjeringen.no/no/aktuelt/tvungen-lonnsnemd/id3181464/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Nå starter arbeidet med å modernisere yrkessykdomslista",
+   "url": "https://www.regjeringen.no/no/aktuelt/na-starter-arbeidet-med-a-modernisere-yrkessykdomslista/id3181399/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "John Olav Fuglem blir ny sjef Hæren",
+   "url": "https://www.regjeringen.no/no/aktuelt/john-olav-fuglem-blir-ny-sjef-haren/id3181393/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Utvidar to verneområde med viktig våtmark",
+   "url": "https://www.regjeringen.no/no/aktuelt/utvidar-to-verneomrade-med-viktig-vatmark/id3181454/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Enighet om norsk-russisk fiskeriavtale for 2027",
+   "url": "https://www.regjeringen.no/no/aktuelt/enighet-om-norsk-russisk-fiskeriavtale-for-2027/id3181971/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Nye rettsakter i EØS-avtalen 23. oktober",
+   "url": "https://www.regjeringen.no/no/aktuelt/nye-rettsakter-i-eos-avtalen-23.-oktober/id3182310/"
+  },
+  {
+   "d": "2026-10-23",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 44",
+   "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-44/id3182291/"
+  },
+  {
    "d": "2026-10-23",
    "t": "nyhet",
    "ministry": "smk",
@@ -7802,12 +7865,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-23T09:23:48.120Z",
+  "ranAt": "2026-10-24T08:55:35.646Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 20
+  "newEvents": 9
  },
  "tema": {
   "tema": [
