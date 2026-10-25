@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-24",
+ "fetched": "2026-10-25",
  "gov": {
-  "fetched": "2026-10-24",
+  "fetched": "2026-10-25",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -273,6 +273,11 @@
     ],
     "news": [
      {
+      "title": "Finansminister Jens Stoltenberg møtte Ungarns statsminister Péter Magyar",
+      "date": "2026-10-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/finansminister-jens-stoltenberg-motte-ungarns-statsminister-peter-magyar/id3182285/"
+     },
+     {
       "title": "Møte med Tysklands viseutenriksminister",
       "date": "2026-10-21",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-tysklands-viseutenriksminister/id3180113/"
@@ -281,11 +286,6 @@
       "title": "Foreslår utvidet fritak for sukkeravgift",
       "date": "2026-10-20",
       "url": "https://www.regjeringen.no/no/aktuelt/foreslar-utvidet-fritak-for-sukkeravgift/id3179078/"
-     },
-     {
-      "title": "Forslag om pliktig tilslutning til godkjent klagenemd i finanssektoren på høring",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/forslag-om-pliktig-tilslutning-til-godkjent-klagenemd-i-finanssektoren-pa-horing/id3178402/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fin/id216/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Dei første pakkane med brunost er klare til avreise til Kina",
+      "date": "2026-10-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/dei-forste-pakkane-med-brunost-er-klare-til-avreise-til-kina2/id3181670/"
+     },
+     {
       "title": "Svalbard globale frøkvelv får Princess of Asturias award for internasjonalt samarbeid",
       "date": "2026-10-24",
       "url": "https://www.regjeringen.no/no/aktuelt/svalbard-globale-frokvelv-far-princess-of-asturias-award-for-internasjonalt-samarbeid/id3181468/"
@@ -671,11 +676,6 @@
       "title": "Svært god start på årets slaktesesong for rein",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/svart-god-start-pa-arets-slaktesesong-for-rein/id3181448/"
-     },
-     {
-      "title": "Svalbard globale frøhvelv-partnerne øremerker prispenger til sikring av sårbare frøsamlinger",
-      "date": "2026-10-22",
-      "url": "https://www.regjeringen.no/no/aktuelt/svalbard-globale-frohvelv-partnerne-oremerker-prispenger-fra-princess-of-asturias-prisen-til-sikring-av-sarbare-frosamlinger/id3181283/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-24",
+  "fetched": "2026-10-25",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -6150,6 +6150,20 @@
   {
    "d": "2026-10-24",
    "t": "nyhet",
+   "ministry": "fin",
+   "title": "Finansminister Jens Stoltenberg møtte Ungarns statsminister Péter Magyar",
+   "url": "https://www.regjeringen.no/no/aktuelt/finansminister-jens-stoltenberg-motte-ungarns-statsminister-peter-magyar/id3182285/"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Dei første pakkane med brunost er klare til avreise til Kina",
+   "url": "https://www.regjeringen.no/no/aktuelt/dei-forste-pakkane-med-brunost-er-klare-til-avreise-til-kina2/id3181670/"
+  },
+  {
+   "d": "2026-10-24",
+   "t": "nyhet",
    "ministry": "lmd",
    "title": "Svalbard globale frøkvelv får Princess of Asturias award for internasjonalt samarbeid",
    "url": "https://www.regjeringen.no/no/aktuelt/svalbard-globale-frokvelv-far-princess-of-asturias-award-for-internasjonalt-samarbeid/id3181468/"
@@ -7865,12 +7879,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-24T08:55:35.646Z",
+  "ranAt": "2026-10-25T09:12:27.214Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 9
+  "newEvents": 2
  },
  "tema": {
   "tema": [
