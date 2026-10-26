@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Uttalelse fra utenriksminister Espen Barth Eide om menneskerettighetssituasjonen i Iran",
+      "date": "2026-10-26",
+      "url": "https://www.regjeringen.no/no/aktuelt/uttalelse-fra-utenriksminister-espen-barth-eide-om-menneskerettighetssituasjonen-i-iran/id3183373/"
+     },
+     {
       "title": "Nye rettsakter i EØS-avtalen 23. oktober",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/nye-rettsakter-i-eos-avtalen-23.-oktober/id3182310/"
@@ -825,11 +830,6 @@
       "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 44",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-44/id3182291/"
-     },
-     {
-      "title": "Presseinformasjon: Utanriksministeren og samarbeidsministeren deltek på Nordisk råds sesjon i Helsingfors",
-      "date": "2026-10-23",
-      "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-og-samarbeidsministeren-deltek-pa-nordisk-rads-sesjon-i-helsingfors/id3181425/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -6150,6 +6150,13 @@
   {
    "d": "2026-10-26",
    "t": "nyhet",
+   "ministry": "ud",
+   "title": "Uttalelse fra utenriksminister Espen Barth Eide om menneskerettighetssituasjonen i Iran",
+   "url": "https://www.regjeringen.no/no/aktuelt/uttalelse-fra-utenriksminister-espen-barth-eide-om-menneskerettighetssituasjonen-i-iran/id3183373/"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "nyhet",
    "ministry": "ed",
    "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 44",
    "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-44/id3182372/"
@@ -7907,12 +7914,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-26T10:13:18.829Z",
+  "ranAt": "2026-10-26T11:34:43.799Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 4
+  "newEvents": 1
  },
  "tema": {
   "tema": [
@@ -8415,7 +8422,7 @@
    }
   },
   "tall": {
-   "ranAt": "2026-10-19T11:15:53.344Z",
+   "ranAt": "2026-10-26T11:32:45.093Z",
    "stats": [
     {
      "id": "kpi",
@@ -9774,15 +9781,13 @@
     },
     "smiso": {
      "id": "smiso",
-     "ok": true,
-     "url": "https://smiso.no/",
+     "ok": false,
+     "url": null,
      "tried": [
       {
        "url": "https://smiso.no/",
-       "status": 200,
-       "found": [
-        "800 57 000"
-       ]
+       "status": 503,
+       "found": []
       }
      ]
     },
