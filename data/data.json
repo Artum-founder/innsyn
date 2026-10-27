@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-26",
+ "fetched": "2026-10-27",
  "gov": {
-  "fetched": "2026-10-26",
+  "fetched": "2026-10-27",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "President Stubb og statsminister Støre i telefonsamtale med president Putin",
+      "date": "2026-10-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/president-stubb-og-statsminister-store-i-telefonsamtale-med-president-putin/id3183597/"
+     },
+     {
       "title": "Endringar blant statssekretærane",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/endringar-blant-statssekretarane17/id3181412/"
@@ -42,11 +47,6 @@
       "title": "Statsministerens program veke 44",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-44/id3181408/"
-     },
-     {
-      "title": "Samtaler om veien mot fred i Ukraina",
-      "date": "2026-10-21",
-      "url": "https://www.regjeringen.no/no/aktuelt/samtaler-om-veien-mot-fred-i-ukraina/id3179845/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -82,6 +82,11 @@
     ],
     "news": [
      {
+      "title": "Flere er unntatt arbeidstidsreglene",
+      "date": "2026-10-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/flere-er-unntatt-arbeidstidsreglene/id3183596/"
+     },
+     {
       "title": "Tvungen lønnsnemnd i arbeidskonflikten mellom Fagforbundet og NHO Geneo",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/tvungen-lonnsnemd/id3181464/"
@@ -90,11 +95,6 @@
       "title": "Nå starter arbeidet med å modernisere yrkessykdomslista",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/na-starter-arbeidet-med-a-modernisere-yrkessykdomslista/id3181399/"
-     },
-     {
-      "title": "Kommunene vil bli bedt om å bosette det laveste antallet flyktninger på fem år",
-      "date": "2026-10-23",
-      "url": "https://www.regjeringen.no/no/aktuelt/kommunene-vil-bli-bedt-om-a-bosette-det-laveste-antallet-flyktninger-pa-fem-ar/id3181397/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Energiministeren besøkjer Ukraina",
+      "date": "2026-10-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/energiministeren-besokjer-ukraina/id3183586/"
+     },
+     {
       "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 44",
       "date": "2026-10-26",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-44/id3182372/"
@@ -233,11 +238,6 @@
       "title": "Nytt brev fra Energidepartementet til ESA om Norgespris",
       "date": "2026-10-20",
       "url": "https://www.regjeringen.no/no/aktuelt/nytt-brev-fra-energidepartementet-til-esa-om-norgespris/id3179202/"
-     },
-     {
-      "title": "Innspelsmøte om forslag til endringar i prisreguleringa av fjernvarme",
-      "date": "2026-10-19",
-      "url": "https://www.regjeringen.no/no/aktuelt/innspelsmote-om-forslag-til-endringar-i-prisreguleringa-av-fjernvarme/id3179050/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Auksjon av nye oppdrettstillatelser holdes 11. november",
+      "date": "2026-10-26",
+      "url": "https://www.regjeringen.no/no/aktuelt/auksjon-av-nye-oppdrettstillatelser-holdes-11.-november/id3183522/"
+     },
+     {
       "title": "Enighet om norsk-russisk fiskeriavtale for 2027",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/enighet-om-norsk-russisk-fiskeriavtale-for-2027/id3181971/"
@@ -724,11 +729,6 @@
       "title": "Kyststatene enige om makrellkvote for 2027",
       "date": "2026-10-22",
       "url": "https://www.regjeringen.no/no/aktuelt/kyststatene-enige-om-makrellkvote-for-2027/id3181394/"
-     },
-     {
-      "title": "Gaute Sivertsen gjenvalgt som direktør for De internasjonale oljeskadefondene",
-      "date": "2026-10-22",
-      "url": "https://www.regjeringen.no/no/aktuelt/gaute-sivertsen-gjenvalgt-som-direktor-for-de-internasjonale-oljeskadefondene/id3181279/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Noreg tek opp att samarbeidet med Ungarn gjennom EØS-midlane",
+      "date": "2026-10-26",
+      "url": "https://www.regjeringen.no/no/aktuelt/noreg-tek-opp-att-samarbeidet-med-ungarn-gjennom-eos-midlane/id3183542/"
+     },
+     {
       "title": "Uttalelse fra utenriksminister Espen Barth Eide om menneskerettighetssituasjonen i Iran",
       "date": "2026-10-26",
       "url": "https://www.regjeringen.no/no/aktuelt/uttalelse-fra-utenriksminister-espen-barth-eide-om-menneskerettighetssituasjonen-i-iran/id3183373/"
@@ -825,11 +830,6 @@
       "title": "Nye rettsakter i EØS-avtalen 23. oktober",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/nye-rettsakter-i-eos-avtalen-23.-oktober/id3182310/"
-     },
-     {
-      "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 44",
-      "date": "2026-10-23",
-      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-44/id3182291/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-26",
+  "fetched": "2026-10-27",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -6148,6 +6148,41 @@
  },
  "nytt": [
   {
+   "d": "2026-10-27",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "President Stubb og statsminister Støre i telefonsamtale med president Putin",
+   "url": "https://www.regjeringen.no/no/aktuelt/president-stubb-og-statsminister-store-i-telefonsamtale-med-president-putin/id3183597/"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Flere er unntatt arbeidstidsreglene",
+   "url": "https://www.regjeringen.no/no/aktuelt/flere-er-unntatt-arbeidstidsreglene/id3183596/"
+  },
+  {
+   "d": "2026-10-27",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Energiministeren besøkjer Ukraina",
+   "url": "https://www.regjeringen.no/no/aktuelt/energiministeren-besokjer-ukraina/id3183586/"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Auksjon av nye oppdrettstillatelser holdes 11. november",
+   "url": "https://www.regjeringen.no/no/aktuelt/auksjon-av-nye-oppdrettstillatelser-holdes-11.-november/id3183522/"
+  },
+  {
+   "d": "2026-10-26",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Noreg tek opp att samarbeidet med Ungarn gjennom EØS-midlane",
+   "url": "https://www.regjeringen.no/no/aktuelt/noreg-tek-opp-att-samarbeidet-med-ungarn-gjennom-eos-midlane/id3183542/"
+  },
+  {
    "d": "2026-10-26",
    "t": "nyhet",
    "ministry": "ud",
@@ -7914,12 +7949,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-26T11:34:43.799Z",
+  "ranAt": "2026-10-27T09:52:08.017Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 1
+  "newEvents": 5
  },
  "tema": {
   "tema": [
