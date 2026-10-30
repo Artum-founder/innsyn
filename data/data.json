@@ -1,7 +1,7 @@
 {
- "fetched": "2026-10-29",
+ "fetched": "2026-10-30",
  "gov": {
-  "fetched": "2026-10-29",
+  "fetched": "2026-10-30",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -177,19 +177,19 @@
     ],
     "news": [
      {
-      "title": "Vil ha betre konkurransevilkår på nett – sender forslag til ny lov på høyring",
-      "date": "2026-10-23",
-      "url": "https://www.regjeringen.no/no/aktuelt/vil-ha-betre-konkurransevilkar-pa-nett-sender-forslag-til-ny-lov-pa-hoyring/id3181362/"
+      "title": "Regjeringen sender forenklinger i KI-forordningen på høring",
+      "date": "2026-10-30",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-sender-forenklinger-i-ki-forordningen-pa-horing/id3187283/"
      },
      {
-      "title": "Oppnevning av nytt medlem i Karantenenemnda",
-      "date": "2026-10-22",
-      "url": "https://www.regjeringen.no/no/aktuelt/oppnevning-av-nytt-medlem-i-karantenenemnda/id3179383/"
+      "title": "Ber om innspill til nasjonal strategi for kunstig intelligens",
+      "date": "2026-10-29",
+      "url": "https://www.regjeringen.no/no/aktuelt/ber-om-innspill-til-nasjonal-strategi-for-kunstig-intelligens/id3186522/"
      },
      {
-      "title": "Målrettar aldersgrensa mot skadelege plattformer",
-      "date": "2026-10-19",
-      "url": "https://www.regjeringen.no/no/aktuelt/malrettar-aldersgrensa-mot-skadelege-plattformer/id3178283/"
+      "title": "Ny rapport: Økonomiske sider ved datasentersenternæringen",
+      "date": "2026-10-29",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-okonomiske-sider-ved-datasentersenternaringen/id3186921/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Vil forlenge ordning for lågare nettleige i område med høge kraftprisar",
+      "date": "2026-10-30",
+      "url": "https://www.regjeringen.no/no/aktuelt/vil-forlenge-ordning-for-lagare-nettleige-i-omrade-med-hoge-kraftprisar/id3186550/"
+     },
+     {
       "title": "Norgespris for 2027 kan bestilles fra 5. januar",
       "date": "2026-10-29",
       "url": "https://www.regjeringen.no/no/aktuelt/norgespris-for-2027-kan-bestilles-fra-5.-januar/id3186516/"
@@ -233,11 +238,6 @@
       "title": "4,47 milliarder kroner spart med Norgespris på strøm i tredje kvartal 2026",
       "date": "2026-10-29",
       "url": "https://www.regjeringen.no/no/aktuelt/447-milliarder-kroner-spart-med-norgespris-pa-strom-i-tredje-kvartal-2026/id3184927/"
-     },
-     {
-      "title": "Norge og Ukraina styrker energisamarbeidet",
-      "date": "2026-10-27",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-og-ukraina-styrker-energisamarbeidet/id3184399/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen legger fram siste del av lovforslaget om mer effektiv inndragning av verdier fra kriminalitet",
+      "date": "2026-10-30",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-fram-siste-del-av-lovforslaget-om-mer-effektiv-inndragning-av-verdier-fra-kriminalitet/id3187282/"
+     },
+     {
       "title": "Egenberedskapsuka: Her er de tre viktigste tingene du må gjøre for å være forberedt på krise og krig",
       "date": "2026-10-26",
       "url": "https://www.regjeringen.no/no/aktuelt/her-er-de-tre-viktigste-tingene-du-ma-gjore-for-a-vare-forberedt-pa-krise-og-krig/id3182366/"
@@ -425,11 +430,6 @@
       "title": "Retur og utvisning av kriminelle på dagsorden på nordisk ministermøte",
       "date": "2026-10-25",
       "url": "https://www.regjeringen.no/no/aktuelt/retur-og-utvisning-av-kriminelle-pa-dagsorden-pa-nordisk-ministermote/id3182363/"
-     },
-     {
-      "title": "Søkerrekord i 2026: Over 1700 vil bli fengselsbetjent",
-      "date": "2026-10-19",
-      "url": "https://www.regjeringen.no/no/aktuelt/sokerrekord-i-2026-over-1700-vil-bli-fengselsbetjent/id3178999/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Tallene for omsetning av ku- og geitemelkkvote i 2026 er klare",
+      "date": "2026-10-30",
+      "url": "https://www.regjeringen.no/no/aktuelt/tallene-for-omsetning-av-ku-og-geitemelkkvote-i-2026-er-klare/id3189055/"
+     },
+     {
       "title": "Fylkesnytt fra Trøndelag 2/2026",
       "date": "2026-10-28",
       "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-trondelag-22026/id3183354/"
@@ -671,11 +676,6 @@
       "title": "Dei første pakkane med brunost er klare til avreise til Kina",
       "date": "2026-10-24",
       "url": "https://www.regjeringen.no/no/aktuelt/dei-forste-pakkane-med-brunost-er-klare-til-avreise-til-kina2/id3181670/"
-     },
-     {
-      "title": "Svalbard globale frøkvelv får Princess of Asturias award for internasjonalt samarbeid",
-      "date": "2026-10-24",
-      "url": "https://www.regjeringen.no/no/aktuelt/svalbard-globale-frokvelv-far-princess-of-asturias-award-for-internasjonalt-samarbeid/id3181468/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-10-29",
+  "fetched": "2026-10-30",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -6148,6 +6148,48 @@
  },
  "nytt": [
   {
+   "d": "2026-10-30",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Regjeringen sender forenklinger i KI-forordningen på høring",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-sender-forenklinger-i-ki-forordningen-pa-horing/id3187283/"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Vil forlenge ordning for lågare nettleige i område med høge kraftprisar",
+   "url": "https://www.regjeringen.no/no/aktuelt/vil-forlenge-ordning-for-lagare-nettleige-i-omrade-med-hoge-kraftprisar/id3186550/"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "nyhet",
+   "ministry": "jd",
+   "title": "Regjeringen legger fram siste del av lovforslaget om mer effektiv inndragning av verdier fra kriminalitet",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-fram-siste-del-av-lovforslaget-om-mer-effektiv-inndragning-av-verdier-fra-kriminalitet/id3187282/"
+  },
+  {
+   "d": "2026-10-30",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Tallene for omsetning av ku- og geitemelkkvote i 2026 er klare",
+   "url": "https://www.regjeringen.no/no/aktuelt/tallene-for-omsetning-av-ku-og-geitemelkkvote-i-2026-er-klare/id3189055/"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Ber om innspill til nasjonal strategi for kunstig intelligens",
+   "url": "https://www.regjeringen.no/no/aktuelt/ber-om-innspill-til-nasjonal-strategi-for-kunstig-intelligens/id3186522/"
+  },
+  {
+   "d": "2026-10-29",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Ny rapport: Økonomiske sider ved datasentersenternæringen",
+   "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-okonomiske-sider-ved-datasentersenternaringen/id3186921/"
+  },
+  {
    "d": "2026-10-29",
    "t": "nyhet",
    "ministry": "ed",
@@ -8082,12 +8124,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-10-29T10:56:39.002Z",
+  "ranAt": "2026-10-30T10:54:50.418Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 10
+  "newEvents": 6
  },
  "tema": {
   "tema": [
