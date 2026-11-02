@@ -1,5 +1,5 @@
 {
- "ranAt": "2026-10-26T11:32:45.093Z",
+ "ranAt": "2026-11-02T13:50:51.553Z",
  "stats": [
   {
    "id": "kpi",
@@ -320,20 +320,16 @@
    "table": "09406",
    "tableTitle": "09406: Lovbrudd etterforsket, etter lovbruddstype, statistikkvariabel og år",
    "sourceUrl": "https://www.ssb.no/statbank/table/09406/",
-   "updated": "2025-07-10",
+   "updated": "2026-11-02",
    "chosen": {
     "LovbruddKrim": "¬¬ Voldtekt, i alt",
     "ContentsCode": "Lovbrudd etterforsket",
-    "Tid": "tid: 2015–2024"
+    "Tid": "tid: 2016–2025"
    },
    "series": [
     {
      "name": "Voldtekter etterforsket av politiet",
      "points": [
-      {
-       "x": "2015",
-       "y": 1392
-      },
       {
        "x": "2016",
        "y": 1578
@@ -369,6 +365,10 @@
       {
        "x": "2024",
        "y": 1699
+      },
+      {
+       "x": "2025",
+       "y": 1919
       }
      ]
     }
@@ -385,20 +385,16 @@
    "table": "09406",
    "tableTitle": "09406: Lovbrudd etterforsket, etter lovbruddstype, statistikkvariabel og år",
    "sourceUrl": "https://www.ssb.no/statbank/table/09406/",
-   "updated": "2025-07-10",
+   "updated": "2026-11-02",
    "chosen": {
     "LovbruddKrim": "¬¬ Voldtekt, i alt",
     "ContentsCode": "Lovbrudd etterforsket. Oppklaringsprosent",
-    "Tid": "tid: 2015–2024"
+    "Tid": "tid: 2016–2025"
    },
    "series": [
     {
      "name": "Oppklaringsprosent for voldtekt",
      "points": [
-      {
-       "x": "2015",
-       "y": 34
-      },
       {
        "x": "2016",
        "y": 34
@@ -434,6 +430,10 @@
       {
        "x": "2024",
        "y": 31
+      },
+      {
+       "x": "2025",
+       "y": 34
       }
      ]
     }
@@ -450,20 +450,20 @@
    "table": "09405",
    "tableTitle": "09405: Lovbrudd etterforsket, etter lovbruddstype, politiets avgjørelse, statistikkvariabel og år",
    "sourceUrl": "https://www.ssb.no/statbank/table/09405/",
-   "updated": "2025-07-10",
+   "updated": "2026-11-02",
    "chosen": {
     "LovbruddKrim": "¬¬ Voldtekt, i alt",
     "PolitiAvgjorelse": "Alle avgjørelser | Uoppklarte lovbrudd | ¬ Henlagt, manglende opplysning om gjerningsperson | ¬ Henlagt, manglende bevis | ¬ Henlagt, manglende saksbehandlingskapasitet | ¬ Andre uoppklarte | Oppklarte lovbrudd | ¬ Henlagt, siktede ikke strafferettslig ansvarlig | ¬ Overført til konfliktråd | ¬ Forelegg | ¬ Tiltale | ¬ Påtaleunnlatelse og andre oppklarte",
     "ContentsCode": "Lovbrudd etterforsket",
-    "Tid": "tid: 2024–2024"
+    "Tid": "tid: 2025–2025"
    },
    "series": [
     {
      "name": "Alle avgjørelser",
      "points": [
       {
-       "x": "2024",
-       "y": 1699
+       "x": "2025",
+       "y": 1919
       }
      ],
      "level": 0,
@@ -473,8 +473,8 @@
      "name": "Uoppklarte lovbrudd",
      "points": [
       {
-       "x": "2024",
-       "y": 1166
+       "x": "2025",
+       "y": 1274
       }
      ],
      "level": 1,
@@ -484,8 +484,8 @@
      "name": "Henlagt, manglende opplysning om gjerningsperson",
      "points": [
       {
-       "x": "2024",
-       "y": 102
+       "x": "2025",
+       "y": 97
       }
      ],
      "level": 2,
@@ -495,8 +495,8 @@
      "name": "Henlagt, manglende bevis",
      "points": [
       {
-       "x": "2024",
-       "y": 1047
+       "x": "2025",
+       "y": 1161
       }
      ],
      "level": 2,
@@ -506,7 +506,7 @@
      "name": "Henlagt, manglende saksbehandlingskapasitet",
      "points": [
       {
-       "x": "2024",
+       "x": "2025",
        "y": 0
       }
      ],
@@ -517,8 +517,8 @@
      "name": "Andre uoppklarte",
      "points": [
       {
-       "x": "2024",
-       "y": 17
+       "x": "2025",
+       "y": 16
       }
      ],
      "level": 2,
@@ -528,8 +528,8 @@
      "name": "Oppklarte lovbrudd",
      "points": [
       {
-       "x": "2024",
-       "y": 533
+       "x": "2025",
+       "y": 645
       }
      ],
      "level": 1,
@@ -539,8 +539,8 @@
      "name": "Henlagt, siktede ikke strafferettslig ansvarlig",
      "points": [
       {
-       "x": "2024",
-       "y": 130
+       "x": "2025",
+       "y": 104
       }
      ],
      "level": 2,
@@ -550,7 +550,7 @@
      "name": "Overført til konfliktråd",
      "points": [
       {
-       "x": "2024",
+       "x": "2025",
        "y": 0
       }
      ],
@@ -561,7 +561,7 @@
      "name": "Forelegg",
      "points": [
       {
-       "x": "2024",
+       "x": "2025",
        "y": 0
       }
      ],
@@ -572,8 +572,8 @@
      "name": "Tiltale",
      "points": [
       {
-       "x": "2024",
-       "y": 342
+       "x": "2025",
+       "y": 485
       }
      ],
      "level": 2,
@@ -583,8 +583,8 @@
      "name": "Påtaleunnlatelse og andre oppklarte",
      "points": [
       {
-       "x": "2024",
-       "y": 61
+       "x": "2025",
+       "y": 56
       }
      ],
      "level": 2,
