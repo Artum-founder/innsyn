@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-02",
+ "fetched": "2026-11-03",
  "gov": {
-  "fetched": "2026-11-02",
+  "fetched": "2026-11-03",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -273,19 +273,19 @@
     ],
     "news": [
      {
+      "title": "Kravet til systemrisikobuffer videreføres",
+      "date": "2026-11-02",
+      "url": "https://www.regjeringen.no/no/aktuelt/kravet-til-systemrisikobuffer-viderefores/id3190853/"
+     },
+     {
+      "title": "Bankkriseutvalget skal utrede styrket beredskap for innskuddsgarantiordningen",
+      "date": "2026-11-02",
+      "url": "https://www.regjeringen.no/no/aktuelt/bankkriseutvalget-skal-utrede-styrket-beredskap-for-innskuddsgarantiordningen/id3190730/"
+     },
+     {
       "title": "Finansminister Jens Stoltenberg møtte Ungarns statsminister Péter Magyar",
       "date": "2026-10-24",
       "url": "https://www.regjeringen.no/no/aktuelt/finansminister-jens-stoltenberg-motte-ungarns-statsminister-peter-magyar/id3182285/"
-     },
-     {
-      "title": "Møte med Tysklands viseutenriksminister",
-      "date": "2026-10-21",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-tysklands-viseutenriksminister/id3180113/"
-     },
-     {
-      "title": "Foreslår utvidet fritak for sukkeravgift",
-      "date": "2026-10-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/foreslar-utvidet-fritak-for-sukkeravgift/id3179078/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fin/id216/",
@@ -321,6 +321,11 @@
     ],
     "news": [
      {
+      "title": "Styrker evnen til å oppdage droner i Finnmark",
+      "date": "2026-11-03",
+      "url": "https://www.regjeringen.no/no/aktuelt/styrker-evnen-til-a-oppdage-droner-i-finnmark/id3191003/"
+     },
+     {
       "title": "John Olav Fuglem blir ny sjef Hæren",
       "date": "2026-10-23",
       "url": "https://www.regjeringen.no/no/aktuelt/john-olav-fuglem-blir-ny-sjef-haren/id3181393/"
@@ -329,11 +334,6 @@
       "title": "Regjeringen foreslår fireårig militær ingeniørutdanning og mer fleksible ingeniørstudier",
       "date": "2026-10-20",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-firearig-militar-ingeniorutdanning-og-mer-fleksible-ingeniorstudier/id3179024/"
-     },
-     {
-      "title": "Forsvarsministeren besøkte Camp Jomsborg: – Det er en brutal virkelighet",
-      "date": "2026-10-14",
-      "url": "https://www.regjeringen.no/no/aktuelt/forsvarsministeren-besokte-camp-jomsborg-det-er-en-brutal-virkelighet/id3177365/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -465,6 +465,11 @@
     ],
     "news": [
      {
+      "title": "Kutter utslipp fra offentlige byggeplasser",
+      "date": "2026-11-02",
+      "url": "https://www.regjeringen.no/no/aktuelt/kutter-utslipp-fra-offentlige-byggeplasser/id3190735/"
+     },
+     {
       "title": "Viktig fremgang på naturtoppmøtet i Armenia",
       "date": "2026-10-31",
       "url": "https://www.regjeringen.no/no/aktuelt/viktig-fremgang-pa-naturtoppmotet-i-armenia/id3190564/"
@@ -473,11 +478,6 @@
       "title": "Presseinvitasjon: Fremleggelse av NOU Matsystemet mot 2050",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/fremleggelse-av-nou-matsystemet-mot-2050/id3183627/"
-     },
-     {
-      "title": "Gir 113 millionar kroner til nytt naturverktøy",
-      "date": "2026-10-29",
-      "url": "https://www.regjeringen.no/no/aktuelt/gir-113-millionar-kroner-til-nytt-naturverktoy/id3186511/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Fortsetter utviklingen av fagskoleutdanningene",
+      "date": "2026-11-03",
+      "url": "https://www.regjeringen.no/no/aktuelt/fortsetter-utviklingen-av-fagskoleutdanningene/id3190752/"
+     },
+     {
       "title": "Rekordmange studenter startet i høyere utdanning",
       "date": "2026-11-02",
       "url": "https://www.regjeringen.no/no/aktuelt/rekordmange-studenter-startet-i-hoyere-utdanning/id3190346/"
@@ -623,11 +628,6 @@
       "title": "Presseinvitasjon: Utvalet om kunstig intelligens i høgare utdanning legg fram si utgreiing",
       "date": "2026-11-02",
       "url": "https://www.regjeringen.no/no/aktuelt/utvalet-om-kunstig-intelligens-i-hogare-utdanning-legg-fram-si-utgreiing/id3190334/"
-     },
-     {
-      "title": "Ny omregningstabell for IB-karakterer sendes på høring",
-      "date": "2026-10-29",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-omregningstabell-for-ib-karakterer-sendes-pa-horing/id3184606/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-02",
+  "fetched": "2026-11-03",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -5523,6 +5523,44 @@
     "nextStep": "Til behandling i komiteen.",
     "reference": "",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200489"
+   },
+   {
+    "id": "200494",
+    "title": "Midlertidig stans av økt strømforbruk til datasentre",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "lovsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "MDG, Sp, KrF, SV og R (Frøya Skjold Sjursæther, Geir Pollestad, Hans Edvard Askjer, Lars Haltbrekken, Marie Sneve Martinussen)",
+    "topics": [],
+    "updated": "2026-11-03",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:34 LS (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200494"
+   },
+   {
+    "id": "200495",
+    "title": "Midlertidig stans av økt strømforbruk til datasentre",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "MDG, Sp, KrF, SV og R (Frøya Skjold Sjursæther, Geir Pollestad, Hans Edvard Askjer, Lars Haltbrekken, Marie Sneve Martinussen)",
+    "topics": [],
+    "updated": "2026-11-03",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:34 LS (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200495"
    }
   ]
  },
@@ -6242,6 +6280,61 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-11-03",
+   "t": "ny",
+   "id": "200494",
+   "title": "Midlertidig stans av økt strømforbruk til datasentre",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200494"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "ny",
+   "id": "200495",
+   "title": "Midlertidig stans av økt strømforbruk til datasentre",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200495"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Styrker evnen til å oppdage droner i Finnmark",
+   "url": "https://www.regjeringen.no/no/aktuelt/styrker-evnen-til-a-oppdage-droner-i-finnmark/id3191003/"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "nyhet",
+   "ministry": "kd",
+   "title": "Fortsetter utviklingen av fagskoleutdanningene",
+   "url": "https://www.regjeringen.no/no/aktuelt/fortsetter-utviklingen-av-fagskoleutdanningene/id3190752/"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "nyhet",
+   "ministry": "fin",
+   "title": "Kravet til systemrisikobuffer videreføres",
+   "url": "https://www.regjeringen.no/no/aktuelt/kravet-til-systemrisikobuffer-viderefores/id3190853/"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "nyhet",
+   "ministry": "fin",
+   "title": "Bankkriseutvalget skal utrede styrket beredskap for innskuddsgarantiordningen",
+   "url": "https://www.regjeringen.no/no/aktuelt/bankkriseutvalget-skal-utrede-styrket-beredskap-for-innskuddsgarantiordningen/id3190730/"
+  },
+  {
+   "d": "2026-11-02",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Kutter utslipp fra offentlige byggeplasser",
+   "url": "https://www.regjeringen.no/no/aktuelt/kutter-utslipp-fra-offentlige-byggeplasser/id3190735/"
+  },
   {
    "d": "2026-11-02",
    "t": "nyhet",
@@ -8402,12 +8495,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-02T13:52:47.605Z",
+  "ranAt": "2026-11-03T11:59:42.600Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 0
+  "newEvents": 7
  },
  "tema": {
   "tema": [
