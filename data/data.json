@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-04",
+ "fetched": "2026-11-05",
  "gov": {
-  "fetched": "2026-11-04",
+  "fetched": "2026-11-05",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -82,6 +82,11 @@
     ],
     "news": [
      {
+      "title": "Ny rapport: For mange kjenner ikke reglene i allmenngjøringsordningen",
+      "date": "2026-11-05",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-for-mange-kjenner-ikke-reglene-i-allmenngjoringsordningen2/id3191502/"
+     },
+     {
       "title": "Omfattende misbruk i arbeidsinnvandringssaker – Regjeringen vil stramme inn",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/omfattende-misbruk-i-arbeidsinnvandringssaker-regjeringen-vil-stramme-inn/id3190217/"
@@ -90,11 +95,6 @@
       "title": "Ny integreringserklæring trer i kraft 1. januar 2027",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-integreringserklaring-trer-i-kraft-1.-januar-2027/id3186944/"
-     },
-     {
-      "title": "Vil gjøre det enklere å forstå pensjonen din",
-      "date": "2026-10-28",
-      "url": "https://www.regjeringen.no/no/aktuelt/vil-gjore-det-enklere-a-forsta-pensjonen-din/id3184228/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -177,6 +177,11 @@
     ],
     "news": [
      {
+      "title": "KI-sentrene ga innspill til regjeringens arbeid med kunstig intelligens",
+      "date": "2026-11-05",
+      "url": "https://www.regjeringen.no/no/aktuelt/ki-sentrene-ga-innspill-til-regjeringens-arbeid-med-kunstig-intelligens/id3191505/"
+     },
+     {
       "title": "Regjeringen sender forenklinger i KI-forordningen på høring",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-sender-forenklinger-i-ki-forordningen-pa-horing/id3187283/"
@@ -185,11 +190,6 @@
       "title": "Ber om innspill til nasjonal strategi for kunstig intelligens",
       "date": "2026-10-29",
       "url": "https://www.regjeringen.no/no/aktuelt/ber-om-innspill-til-nasjonal-strategi-for-kunstig-intelligens/id3186522/"
-     },
-     {
-      "title": "Ny rapport: Økonomiske sider ved datasentersenternæringen",
-      "date": "2026-10-29",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-okonomiske-sider-ved-datasentersenternaringen/id3186921/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "KI-sentrene ga innspill til regjeringens arbeid med kunstig intelligens",
+      "date": "2026-11-05",
+      "url": "https://www.regjeringen.no/no/aktuelt/ki-sentrene-ga-innspill-til-regjeringens-arbeid-med-kunstig-intelligens/id3191505/"
+     },
+     {
       "title": "Regjeringen ønsker innspill om endringer i Skattefunn",
       "date": "2026-11-04",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-om-endringer-i-skattefunn/id3191050/"
@@ -623,11 +628,6 @@
       "title": "Fortsetter utviklingen av fagskoleutdanningene",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/fortsetter-utviklingen-av-fagskoleutdanningene/id3190752/"
-     },
-     {
-      "title": "Rekordmange studenter startet i høyere utdanning",
-      "date": "2026-11-02",
-      "url": "https://www.regjeringen.no/no/aktuelt/rekordmange-studenter-startet-i-hoyere-utdanning/id3190346/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -764,6 +764,11 @@
     ],
     "news": [
      {
+      "title": "Høring: Ber om innspill til rapport om pilotordning for beboerrabatt på fly i Lofoten og Vesterålen",
+      "date": "2026-11-05",
+      "url": "https://www.regjeringen.no/no/aktuelt/horing-ber-om-innspill-til-rapport-om-pilotordning-for-beboerrabatt-pa-fly-i-lofoten-og-vesteralen/id3191490/"
+     },
+     {
       "title": "Nå blir det påbudt med hjelm for alle på ATV",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/hjelmpabud-pa-atv/id3191043/"
@@ -772,11 +777,6 @@
       "title": "Nye kontraktar sikrar at alle kan få lokalavisa i postkassa",
       "date": "2026-10-16",
       "url": "https://www.regjeringen.no/no/aktuelt/nye-kontraktar-sikrar-at-alle-kan-fa-lokalavisa-i-postkassa/id3178397/"
-     },
-     {
-      "title": "Statsbudsjettet 2027: Betre nettdekning på jernbana",
-      "date": "2026-10-07",
-      "url": "https://www.regjeringen.no/no/aktuelt/nettdekning-i-tunnel/id3175562/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/sd/id791/",
@@ -817,19 +817,19 @@
     ],
     "news": [
      {
+      "title": "Utanriksministeren til Brussel for EØS-rådsmøte",
+      "date": "2026-11-05",
+      "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-brussel-for-eos-radsmote/id3191713/"
+     },
+     {
+      "title": "Dokumenter om Oslo-prosessen er nå tilgjengelige",
+      "date": "2026-11-05",
+      "url": "https://www.regjeringen.no/no/aktuelt/dokumenter-om-oslo-prosessen-er-na-tilgjengelige/id3191494/"
+     },
+     {
       "title": "Presseinformasjon: Utanriksministeren til ministermøte i Polen",
       "date": "2026-11-04",
       "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-ministermote-i-polen/id3191220/"
-     },
-     {
-      "title": "Regjeringen styrker norske investeringer i Ukraina med 1 milliard kroner",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-norske-investeringer-i-ukraina-med-1-milliard-kroner/id3190722/"
-     },
-     {
-      "title": "Presseinformasjon: Utviklingsministeren til Sør-Afrika og Namibia",
-      "date": "2026-11-02",
-      "url": "https://www.regjeringen.no/no/aktuelt/utviklingsministeren-til-sor-afrika-og-namibia/id3190693/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-04",
+  "fetched": "2026-11-05",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -5212,7 +5212,7 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Dokument 8:23 S (2026–2027)",
+    "reference": "Dokument 8:23 S (2026–2027); Dokument 8:24 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200477"
    },
    {
@@ -5637,6 +5637,25 @@
     "nextStep": "Venter på å bli referert og sendt til komité.",
     "reference": "Dokument 8:35 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200496"
+   },
+   {
+    "id": "200500",
+    "title": "Vedrørende Luftfartstilsynet",
+    "fullTitle": "Vedrørende Luftfartstilsynet",
+    "session": "2026-2027",
+    "status": "til_behandling",
+    "type": "alminneligsak",
+    "docGroup": "innstillingssaker",
+    "committee": "Kontroll- og konstitusjonskomiteen",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-04",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Til behandling i komiteen.",
+    "reference": "",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200500"
    }
   ]
  },
@@ -6356,6 +6375,51 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-11-05",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Ny rapport: For mange kjenner ikke reglene i allmenngjøringsordningen",
+   "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-for-mange-kjenner-ikke-reglene-i-allmenngjoringsordningen2/id3191502/"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "KI-sentrene ga innspill til regjeringens arbeid med kunstig intelligens",
+   "url": "https://www.regjeringen.no/no/aktuelt/ki-sentrene-ga-innspill-til-regjeringens-arbeid-med-kunstig-intelligens/id3191505/"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "nyhet",
+   "ministry": "sd",
+   "title": "Høring: Ber om innspill til rapport om pilotordning for beboerrabatt på fly i Lofoten og Vesterålen",
+   "url": "https://www.regjeringen.no/no/aktuelt/horing-ber-om-innspill-til-rapport-om-pilotordning-for-beboerrabatt-pa-fly-i-lofoten-og-vesteralen/id3191490/"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Utanriksministeren til Brussel for EØS-rådsmøte",
+   "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-brussel-for-eos-radsmote/id3191713/"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Dokumenter om Oslo-prosessen er nå tilgjengelige",
+   "url": "https://www.regjeringen.no/no/aktuelt/dokumenter-om-oslo-prosessen-er-na-tilgjengelige/id3191494/"
+  },
+  {
+   "d": "2026-11-04",
+   "t": "ny",
+   "id": "200500",
+   "title": "Vedrørende Luftfartstilsynet",
+   "status": "til_behandling",
+   "committee": "Kontroll- og konstitusjonskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200500"
+  },
   {
    "d": "2026-11-04",
    "t": "ny",
@@ -8842,12 +8906,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-04T12:14:12.904Z",
+  "ranAt": "2026-11-05T12:27:35.381Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 41
+  "newEvents": 7
  },
  "tema": {
   "tema": [
