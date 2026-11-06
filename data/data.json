@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-05",
+ "fetched": "2026-11-06",
  "gov": {
-  "fetched": "2026-11-05",
+  "fetched": "2026-11-06",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -82,6 +82,11 @@
     ],
     "news": [
      {
+      "title": "Vil at uføre får begrenset rett til sykepenger",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-side3/id3191231/"
+     },
+     {
       "title": "Ny rapport: For mange kjenner ikke reglene i allmenngjøringsordningen",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-for-mange-kjenner-ikke-reglene-i-allmenngjoringsordningen2/id3191502/"
@@ -90,11 +95,6 @@
       "title": "Omfattende misbruk i arbeidsinnvandringssaker – Regjeringen vil stramme inn",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/omfattende-misbruk-i-arbeidsinnvandringssaker-regjeringen-vil-stramme-inn/id3190217/"
-     },
-     {
-      "title": "Ny integreringserklæring trer i kraft 1. januar 2027",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-integreringserklaring-trer-i-kraft-1.-januar-2027/id3186944/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -129,6 +129,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen legger frem nytt regelverk for å styrke tilsynet med varer i Norge",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-frem-nytt-regelverk-for-a-styrke-tilsynet-med-varer-i-norge/id3191921/"
+     },
+     {
       "title": "Målrettar aldersgrensa mot skadelege plattformer",
       "date": "2026-10-19",
       "url": "https://www.regjeringen.no/no/aktuelt/malrettar-aldersgrensa-mot-skadelege-plattformer/id3178283/"
@@ -137,11 +142,6 @@
       "title": "Vurderer strengere regulering av lootbokser i dataspill",
       "date": "2026-10-12",
       "url": "https://www.regjeringen.no/no/aktuelt/vurderer-strengere-regulering-av-lootbokser-i-dataspill/id3177013/"
-     },
-     {
-      "title": "Invitasjon: 50 år med ansvarlig næringsliv – jubileumsmarkering av OECDs retningslinjer",
-      "date": "2026-10-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/50-ar-med-ansvarlig-naringsliv-jubileumsmarkering-av-oecds-retningslinjer/id3176869/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/bfd/id298/",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Foreslår fleire lovendringar for raskare utbygging av kraft og straumnett",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/foreslar-fleire-lovendringar-for-raskare-utbygging-av-kraft-og-straumnett/id3191920/"
+     },
+     {
       "title": "Møte med Os, Tolga og Engerdal kommune",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-os-tolga-og-engerdal-kommune/id3191101/"
@@ -233,11 +238,6 @@
       "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 45",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-45/id3190494/"
-     },
-     {
-      "title": "Innspillsmulighet til ny hydrogenstrategi i EU",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/innspillsmulighet-til-ny-hydrogenstrategi-i-eu/id3190197/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -369,6 +369,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen mottar Matsystemutvalgets utredning",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
+     },
+     {
       "title": "Nytt skritt på veien mot helsereform: Vestre tok imot Helsereformutvalgets forslag",
       "date": "2026-11-02",
       "url": "https://www.regjeringen.no/no/aktuelt/nytt-skritt-pa-veien-mot-helsereform-vestre-tok-imot-helsereformutvalgets-forslag/id3190681/"
@@ -377,11 +382,6 @@
       "title": "To av tre fornøgde med digitale helsetenester",
       "date": "2026-10-31",
       "url": "https://www.regjeringen.no/no/aktuelt/to-av-tre-fornogde-med-digitale-helsetenester/id3190559/"
-     },
-     {
-      "title": "Presseinvitasjon: Fremleggelse av NOU Matsystemet mot 2050",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/fremleggelse-av-nou-matsystemet-mot-2050/id3183627/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -465,19 +465,19 @@
     ],
     "news": [
      {
+      "title": "Regjeringa ber utval vurdere ny organisering av vass- og avløpssektoren",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-ber-utval-vurdere-ny-organisering-av-vass-og-avlopssektoren/id3191915/"
+     },
+     {
+      "title": "Regjeringen mottar Matsystemutvalgets utredning",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
+     },
+     {
       "title": "Norske klimagassutslipp går ned",
       "date": "2026-11-04",
       "url": "https://www.regjeringen.no/no/aktuelt/norske-klimagassutslipp/id3191102/"
-     },
-     {
-      "title": "Kutter utslipp fra offentlige byggeplasser",
-      "date": "2026-11-02",
-      "url": "https://www.regjeringen.no/no/aktuelt/kutter-utslipp-fra-offentlige-byggeplasser/id3190735/"
-     },
-     {
-      "title": "Viktig fremgang på naturtoppmøtet i Armenia",
-      "date": "2026-10-31",
-      "url": "https://www.regjeringen.no/no/aktuelt/viktig-fremgang-pa-naturtoppmotet-i-armenia/id3190564/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -513,6 +513,11 @@
     ],
     "news": [
      {
+      "title": "Beate Steen Kolstø blir ny direktør i Valgdirektoratet",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/beate-steen-kolsto-blir-ny-direktor-i-valgdirektoratet/id3191939/"
+     },
+     {
       "title": "Møte med Os, Tolga og Engerdal kommune",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-os-tolga-og-engerdal-kommune/id3191101/"
@@ -521,11 +526,6 @@
       "title": "Godkjenner plan for batterifabrikk i Orkanger",
       "date": "2026-11-02",
       "url": "https://www.regjeringen.no/no/aktuelt/godkjenner-plan-for-batterifabrikk-i-orkanger/id3190343/"
-     },
-     {
-      "title": "Meir pengar til nye bustader og fleire utleigebustader",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/meir-pengar-til-nye-bustader-og-fleire-utleigebustader/id3190305/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kdd/id504/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Utvalg: Kunstig intelligens krever nye grep i høyere utdanning",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/utvalg-kunstig-intelligens-krever-nye-grep-i-hoyere-utdanning/id3191851/"
+     },
+     {
       "title": "KI-sentrene ga innspill til regjeringens arbeid med kunstig intelligens",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/ki-sentrene-ga-innspill-til-regjeringens-arbeid-med-kunstig-intelligens/id3191505/"
@@ -623,11 +628,6 @@
       "title": "Regjeringen ønsker innspill om endringer i Skattefunn",
       "date": "2026-11-04",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-om-endringer-i-skattefunn/id3191050/"
-     },
-     {
-      "title": "Fortsetter utviklingen av fagskoleutdanningene",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/fortsetter-utviklingen-av-fagskoleutdanningene/id3190752/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen mottar Matsystemutvalgets utredning",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
+     },
+     {
       "title": "Møte med Os, Tolga og Engerdal kommune",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-os-tolga-og-engerdal-kommune/id3191101/"
@@ -671,11 +676,6 @@
       "title": "No kan ein søkje om tilskot til investeringar i setrar med mjølkeproduksjon",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/no-kan-ein-sokje-om-tilskot-til-investeringar-i-setrar-med-mjolkeproduksjon/id3191013/"
-     },
-     {
-      "title": "Presseinvitasjon: Fremleggelse av NOU Matsystemet mot 2050",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/fremleggelse-av-nou-matsystemet-mot-2050/id3183627/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,19 +716,19 @@
     ],
     "news": [
      {
-      "title": "Regjeringen ønsker innspill om endringer i Skattefunn",
-      "date": "2026-11-04",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-om-endringer-i-skattefunn/id3191050/"
+      "title": "Regjeringen legger frem nytt regelverk for å styrke tilsynet med varer i Norge",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-frem-nytt-regelverk-for-a-styrke-tilsynet-med-varer-i-norge/id3191921/"
      },
      {
-      "title": "Forslag til endringer i tilskuddsordningen for sjøfolk sendes på høring",
-      "date": "2026-11-04",
-      "url": "https://www.regjeringen.no/no/aktuelt/forslag-til-endringer-i-tilskuddsordningen-for-sjofolk-sendes-pa-horing/id3191138/"
+      "title": "Regjeringen mottar Matsystemutvalgets utredning",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
      },
      {
-      "title": "Regjeringen styrker norske investeringer i Ukraina med 1 milliard kroner",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-norske-investeringer-i-ukraina-med-1-milliard-kroner/id3190722/"
+      "title": "Næringsminister Myrseth til Kina med brunost og ostehøvel i bagasjen",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/naringsminister-myrseth-til-kina-med-brunost-og-ostehovel-i-bagasjen/id3191900/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -764,6 +764,11 @@
     ],
     "news": [
      {
+      "title": "Sender forslag om å heve aldersgrense for bruk av elsparkesykkel på høring",
+      "date": "2026-11-05",
+      "url": "https://www.regjeringen.no/no/aktuelt/aldersgrense-elsparkesykkel-horing/id3191712/"
+     },
+     {
       "title": "Høring: Ber om innspill til rapport om pilotordning for beboerrabatt på fly i Lofoten og Vesterålen",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/horing-ber-om-innspill-til-rapport-om-pilotordning-for-beboerrabatt-pa-fly-i-lofoten-og-vesteralen/id3191490/"
@@ -772,11 +777,6 @@
       "title": "Nå blir det påbudt med hjelm for alle på ATV",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/hjelmpabud-pa-atv/id3191043/"
-     },
-     {
-      "title": "Nye kontraktar sikrar at alle kan få lokalavisa i postkassa",
-      "date": "2026-10-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/nye-kontraktar-sikrar-at-alle-kan-fa-lokalavisa-i-postkassa/id3178397/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/sd/id791/",
@@ -817,19 +817,19 @@
     ],
     "news": [
      {
+      "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 46",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-46/id3191940/"
+     },
+     {
+      "title": "Nye ambassadørar frå Egypt, USA, Slovenia og Libanon",
+      "date": "2026-11-05",
+      "url": "https://www.regjeringen.no/no/aktuelt/nye-ambassadorar-fra-egypt-usa-slovenia-og-libanon/id3191812/"
+     },
+     {
       "title": "Utanriksministeren til Brussel for EØS-rådsmøte",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-brussel-for-eos-radsmote/id3191713/"
-     },
-     {
-      "title": "Dokumenter om Oslo-prosessen er nå tilgjengelige",
-      "date": "2026-11-05",
-      "url": "https://www.regjeringen.no/no/aktuelt/dokumenter-om-oslo-prosessen-er-na-tilgjengelige/id3191494/"
-     },
-     {
-      "title": "Presseinformasjon: Utanriksministeren til ministermøte i Polen",
-      "date": "2026-11-04",
-      "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-ministermote-i-polen/id3191220/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-05",
+  "fetched": "2026-11-06",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -5188,7 +5188,10 @@
     "committee": "Utdannings- og forskningskomiteen",
     "ministry": "",
     "proposer": "R (Hege Bae Nyholt, Marie Sneve Martinussen, Terje Kollbotn)",
-    "topics": [],
+    "topics": [
+     "Arbeidsliv",
+     "Grunnskole"
+    ],
     "updated": "2026-10-22",
     "decided": "",
     "outcome": "",
@@ -5207,7 +5210,13 @@
     "committee": "Helse- og omsorgskomiteen",
     "ministry": "",
     "proposer": "H (Anna Molberg m.fl., 7 representanter)",
-    "topics": [],
+    "topics": [
+     "Landbruksprodukter",
+     "Forbrukersaker",
+     "Reiselivsnæring",
+     "Næringsliv",
+     "Rusmidler"
+    ],
     "updated": "2026-10-22",
     "decided": "",
     "outcome": "",
@@ -5250,7 +5259,9 @@
     "committee": "Helse- og omsorgskomiteen",
     "ministry": "",
     "proposer": "SV (Kathy Lie)",
-    "topics": [],
+    "topics": [
+     "Helsevesen"
+    ],
     "updated": "2026-10-22",
     "decided": "",
     "outcome": "",
@@ -5269,7 +5280,10 @@
     "committee": "Næringskomiteen",
     "ministry": "",
     "proposer": "Sp (Geir Inge Lien, Geir Pollestad, Maren Grøthe, Trygve Slagsvold Vedum)",
-    "topics": [],
+    "topics": [
+     "Elektrisitet",
+     "Statlig eierskap"
+    ],
     "updated": "2026-10-22",
     "decided": "",
     "outcome": "",
@@ -5288,7 +5302,10 @@
     "committee": "Justiskomiteen",
     "ministry": "",
     "proposer": "R (Bjørnar Moxnes, Hege Bae Nyholt, Remi Sølvberg)",
-    "topics": [],
+    "topics": [
+     "Politi og påtalemyndighet",
+     "Stortinget"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5307,7 +5324,10 @@
     "committee": "Samferdselskomiteen",
     "ministry": "",
     "proposer": "R (Bjørnar Moxnes, Geir Jørgensen, Remi Sølvberg)",
-    "topics": [],
+    "topics": [
+     "Jernbaner",
+     "Statlig eierskap"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5326,7 +5346,11 @@
     "committee": "Finanskomiteen",
     "ministry": "",
     "proposer": "FrP (Hilde Grande, Hans Andreas Limi, Martin Virkesdal Jonsterhaug, Tom Staahle)",
-    "topics": [],
+    "topics": [
+     "Næringsutvikling",
+     "Finanser",
+     "Aksjer"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5345,7 +5369,10 @@
     "committee": "Finanskomiteen",
     "ministry": "",
     "proposer": "H (Henrik Asheim, Haagen Poppe, Nikolai Astrup, Tone Wilhelmsen Trøen)",
-    "topics": [],
+    "topics": [
+     "Merverdiavgift",
+     "Massemedier"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5364,7 +5391,10 @@
     "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "R (Bjørnar Moxnes, Hege Bae Nyholt, Remi Sølvberg, Terje Kollbotn)",
-    "topics": [],
+    "topics": [
+     "Elektrisitet",
+     "Priser og konkurranseforhold"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5383,7 +5413,10 @@
     "committee": "Næringskomiteen",
     "ministry": "",
     "proposer": "H (Aleksander Stokkebø, Anne Kristine Linnestad, Bård Ludvig Thorheim, Erna Solberg, Mari Holm Lønseth, Ove Trellevik)",
-    "topics": [],
+    "topics": [
+     "Naturvern",
+     "Havbruk"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5402,7 +5435,11 @@
     "committee": "Utenriks- og forsvarskomiteen",
     "ministry": "",
     "proposer": "R, MDG og SV (Bjørnar Moxnes, Ingrid Liland, Kirsti Bergstø)",
-    "topics": [],
+    "topics": [
+     "Likestilling",
+     "Utenrikssaker",
+     "Menneskerettigheter"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5421,7 +5458,10 @@
     "committee": "Næringskomiteen",
     "ministry": "",
     "proposer": "H (Anne Kristine Linnestad, Bård Ludvig Thorheim, Erna Solberg, Ove Trellevik)",
-    "topics": [],
+    "topics": [
+     "Havbruk",
+     "Statsforvaltning"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5554,7 +5594,10 @@
     "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "MDG, Sp, KrF, SV og R (Frøya Skjold Sjursæther, Geir Pollestad, Hans Edvard Askjer, Lars Haltbrekken, Marie Sneve Martinussen)",
-    "topics": [],
+    "topics": [
+     "Elektrisitet",
+     "Næringsliv"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5573,7 +5616,9 @@
     "committee": "",
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Lars Lønberg Henriksen, Margit Bye, Marius Langballe Dalin, Oda Indgaard, Une Bastholm)",
-    "topics": [],
+    "topics": [
+     "Vegtrafikk"
+    ],
     "updated": "2026-11-04",
     "decided": "",
     "outcome": "",
@@ -5592,7 +5637,9 @@
     "committee": "",
     "ministry": "",
     "proposer": "Sp (Bengt Fasteraune, Kjersti Toppe, Maren Grøthe)",
-    "topics": [],
+    "topics": [
+     "Barnevern"
+    ],
     "updated": "2026-11-04",
     "decided": "",
     "outcome": "",
@@ -5611,7 +5658,9 @@
     "committee": "",
     "ministry": "",
     "proposer": "Sp (Bent-Joacim Bentzen, Geir Inge Lien, Kjersti Toppe)",
-    "topics": [],
+    "topics": [
+     "Helsevesen"
+    ],
     "updated": "2026-11-04",
     "decided": "",
     "outcome": "",
@@ -5630,7 +5679,10 @@
     "committee": "",
     "ministry": "",
     "proposer": "Sp (Bent-Joacim Bentzen, Bjørn Arild Gram, Erling Sande)",
-    "topics": [],
+    "topics": [
+     "Politi og påtalemyndighet",
+     "Statsforvaltning"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5656,6 +5708,25 @@
     "nextStep": "Til behandling i komiteen.",
     "reference": "",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200500"
+   },
+   {
+    "id": "200354",
+    "title": "Meddelelse fra stortingsrepresentant Marthe Hammer i Stortingets møte 16. juni 2026 om at hun trekker tilbake forslag fra Kirsti Bergstø og seg selv om å nedsette en forskjellskommisjon, jf. Dokument 8:279 S (2025-2026)",
+    "fullTitle": "Meddelelse fra stortingsrepresentant Marthe Hammer i Stortingets møte 16. juni 2026 om at hun trekker tilbake forslag fra Kirsti Bergstø og seg selv om å nedsette en forskjellskommisjon, jf. Dokument 8:279 S (2025-2026)",
+    "session": "2026-2027",
+    "status": "til_behandling",
+    "type": "alminneligsak",
+    "docGroup": "innstillingssaker",
+    "committee": "Finanskomiteen",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-03",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Til behandling i komiteen.",
+    "reference": "Innst. 30 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200354"
    }
   ]
  },
@@ -6376,6 +6447,83 @@
  },
  "nytt": [
   {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Vil at uføre får begrenset rett til sykepenger",
+   "url": "https://www.regjeringen.no/no/aktuelt/ny-side3/id3191231/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "bfd",
+   "title": "Regjeringen legger frem nytt regelverk for å styrke tilsynet med varer i Norge",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-frem-nytt-regelverk-for-a-styrke-tilsynet-med-varer-i-norge/id3191921/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Foreslår fleire lovendringar for raskare utbygging av kraft og straumnett",
+   "url": "https://www.regjeringen.no/no/aktuelt/foreslar-fleire-lovendringar-for-raskare-utbygging-av-kraft-og-straumnett/id3191920/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Regjeringen mottar Matsystemutvalgets utredning",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Regjeringa ber utval vurdere ny organisering av vass- og avløpssektoren",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-ber-utval-vurdere-ny-organisering-av-vass-og-avlopssektoren/id3191915/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "kdd",
+   "title": "Beate Steen Kolstø blir ny direktør i Valgdirektoratet",
+   "url": "https://www.regjeringen.no/no/aktuelt/beate-steen-kolsto-blir-ny-direktor-i-valgdirektoratet/id3191939/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "kd",
+   "title": "Utvalg: Kunstig intelligens krever nye grep i høyere utdanning",
+   "url": "https://www.regjeringen.no/no/aktuelt/utvalg-kunstig-intelligens-krever-nye-grep-i-hoyere-utdanning/id3191851/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Næringsminister Myrseth til Kina med brunost og ostehøvel i bagasjen",
+   "url": "https://www.regjeringen.no/no/aktuelt/naringsminister-myrseth-til-kina-med-brunost-og-ostehovel-i-bagasjen/id3191900/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 46",
+   "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-46/id3191940/"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "nyhet",
+   "ministry": "sd",
+   "title": "Sender forslag om å heve aldersgrense for bruk av elsparkesykkel på høring",
+   "url": "https://www.regjeringen.no/no/aktuelt/aldersgrense-elsparkesykkel-horing/id3191712/"
+  },
+  {
+   "d": "2026-11-05",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Nye ambassadørar frå Egypt, USA, Slovenia og Libanon",
+   "url": "https://www.regjeringen.no/no/aktuelt/nye-ambassadorar-fra-egypt-usa-slovenia-og-libanon/id3191812/"
+  },
+  {
    "d": "2026-11-05",
    "t": "nyhet",
    "ministry": "aid",
@@ -6484,6 +6632,16 @@
    "ministry": "ud",
    "title": "Presseinformasjon: Utanriksministeren til ministermøte i Polen",
    "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-ministermote-i-polen/id3191220/"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "ny",
+   "id": "200354",
+   "title": "Meddelelse fra stortingsrepresentant Marthe Hammer i Stortingets møte 16. juni 2026 om at hun trekker tilbake forslag fra Kirsti Bergstø og seg selv om å nedsette en forskjellskommisjon, jf. Dokument 8:279 S (2025-2026)",
+   "status": "til_behandling",
+   "committee": "Finanskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200354"
   },
   {
    "d": "2026-11-03",
@@ -8906,12 +9064,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-05T12:27:35.381Z",
+  "ranAt": "2026-11-06T12:11:20.264Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 7
+  "newEvents": 16
  },
  "tema": {
   "tema": [
