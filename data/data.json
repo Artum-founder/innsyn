@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-06",
+ "fetched": "2026-11-07",
  "gov": {
-  "fetched": "2026-11-06",
+  "fetched": "2026-11-07",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Statsministerens program veke 46",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-46/id3192033/"
+     },
+     {
       "title": "Statsministerens program veke 45",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-45/id3190311/"
@@ -42,11 +47,6 @@
       "title": "Ønsker internasjonale prinsipper for kunstig intelligens",
       "date": "2026-10-28",
       "url": "https://www.regjeringen.no/no/aktuelt/onsker-internasjonale-prinsipper-for-kunstig-intelligens/id3186506/"
-     },
-     {
-      "title": "Norsk formannskap i Nordisk ministerråd: – Norden må stå tettere sammen",
-      "date": "2026-10-27",
-      "url": "https://www.regjeringen.no/no/aktuelt/-norden-ma-sta-tettere-sammen/id3183935/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -177,6 +177,11 @@
     ],
     "news": [
      {
+      "title": "Nordisk-baltisk samarbeid om digital suverenitet – Norge vil prioritere trygg KI",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-baltisk-samarbeid-om-digital-suverenitet-norge-vil-prioritere-trygg-ki/id3191990/"
+     },
+     {
       "title": "KI-sentrene ga innspill til regjeringens arbeid med kunstig intelligens",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/ki-sentrene-ga-innspill-til-regjeringens-arbeid-med-kunstig-intelligens/id3191505/"
@@ -185,11 +190,6 @@
       "title": "Regjeringen sender forenklinger i KI-forordningen på høring",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-sender-forenklinger-i-ki-forordningen-pa-horing/id3187283/"
-     },
-     {
-      "title": "Ber om innspill til nasjonal strategi for kunstig intelligens",
-      "date": "2026-10-29",
-      "url": "https://www.regjeringen.no/no/aktuelt/ber-om-innspill-til-nasjonal-strategi-for-kunstig-intelligens/id3186522/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 46",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-46/id3191996/"
+     },
+     {
       "title": "Foreslår fleire lovendringar for raskare utbygging av kraft og straumnett",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/foreslar-fleire-lovendringar-for-raskare-utbygging-av-kraft-og-straumnett/id3191920/"
@@ -233,11 +238,6 @@
       "title": "Møte med Os, Tolga og Engerdal kommune",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-os-tolga-og-engerdal-kommune/id3191101/"
-     },
-     {
-      "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 45",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-45/id3190494/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -321,6 +321,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Nordisk forsvarsministermøte i Oslo 11.–12. november",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-forsvarsministermote-i-oslo-11.12.-november/id3191962/"
+     },
+     {
       "title": "Regjeringen styrker norske investeringer i Ukraina med 1 milliard kroner",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-norske-investeringer-i-ukraina-med-1-milliard-kroner/id3190722/"
@@ -329,11 +334,6 @@
       "title": "Styrker evnen til å oppdage droner i Finnmark",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/styrker-evnen-til-a-oppdage-droner-i-finnmark/id3191003/"
-     },
-     {
-      "title": "John Olav Fuglem blir ny sjef Hæren",
-      "date": "2026-10-23",
-      "url": "https://www.regjeringen.no/no/aktuelt/john-olav-fuglem-blir-ny-sjef-haren/id3181393/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Nordisk forsvarsministermøte i Oslo 11.–12. november",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-forsvarsministermote-i-oslo-11.12.-november/id3191962/"
+     },
+     {
       "title": "Regjeringen vil styrke vernet mot spionasje og skadelig etterretningsvirksomhet",
       "date": "2026-11-02",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-vernet-mot-spionasje-og-skadelig-etterretningsvirksomhet/id3190660/"
@@ -425,11 +430,6 @@
       "title": "Regjeringen legger fram siste del av lovforslaget om mer effektiv inndragning av verdier fra kriminalitet",
       "date": "2026-10-30",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-fram-siste-del-av-lovforslaget-om-mer-effektiv-inndragning-av-verdier-fra-kriminalitet/id3187282/"
-     },
-     {
-      "title": "Egenberedskapsuka: Her er de tre viktigste tingene du må gjøre for å være forberedt på krise og krig",
-      "date": "2026-10-26",
-      "url": "https://www.regjeringen.no/no/aktuelt/her-er-de-tre-viktigste-tingene-du-ma-gjore-for-a-vare-forberedt-pa-krise-og-krig/id3182366/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Forslag til ny lov om data frå korttidsutleige på høyring",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/forslag-til-ny-lov-om-data-fra-korttidsutleige-pa-hoyring/id3191983/"
+     },
+     {
       "title": "Regjeringen legger frem nytt regelverk for å styrke tilsynet med varer i Norge",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-frem-nytt-regelverk-for-a-styrke-tilsynet-med-varer-i-norge/id3191921/"
@@ -724,11 +729,6 @@
       "title": "Regjeringen mottar Matsystemutvalgets utredning",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
-     },
-     {
-      "title": "Næringsminister Myrseth til Kina med brunost og ostehøvel i bagasjen",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/naringsminister-myrseth-til-kina-med-brunost-og-ostehovel-i-bagasjen/id3191900/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -764,6 +764,11 @@
     ],
     "news": [
      {
+      "title": "Enklere å gi elektriske varebiler plass i kollektivfeltet",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/el-varebiler-kollektivfelt/id3191979/"
+     },
+     {
       "title": "Sender forslag om å heve aldersgrense for bruk av elsparkesykkel på høring",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/aldersgrense-elsparkesykkel-horing/id3191712/"
@@ -772,11 +777,6 @@
       "title": "Høring: Ber om innspill til rapport om pilotordning for beboerrabatt på fly i Lofoten og Vesterålen",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/horing-ber-om-innspill-til-rapport-om-pilotordning-for-beboerrabatt-pa-fly-i-lofoten-og-vesteralen/id3191490/"
-     },
-     {
-      "title": "Nå blir det påbudt med hjelm for alle på ATV",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/hjelmpabud-pa-atv/id3191043/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/sd/id791/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Utenriksminister Eide møtte Ukrainas utenriksminister Andrij Sybiha: Norge gir 500 millioner kroner til offentlige tjenester i Ukraina",
+      "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/utenriksminister-eide-motte-ukrainas-utenriksminister-andrij-sybiha-norge-gir-500-millioner-kroner-til-offentlige-tjenester-i-ukraina/id3192027/"
+     },
+     {
       "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 46",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-46/id3191940/"
@@ -825,11 +830,6 @@
       "title": "Nye ambassadørar frå Egypt, USA, Slovenia og Libanon",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/nye-ambassadorar-fra-egypt-usa-slovenia-og-libanon/id3191812/"
-     },
-     {
-      "title": "Utanriksministeren til Brussel for EØS-rådsmøte",
-      "date": "2026-11-05",
-      "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-brussel-for-eos-radsmote/id3191713/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-06",
+  "fetched": "2026-11-07",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -5129,7 +5129,7 @@
     "topics": [
      "Eu/eøs"
     ],
-    "updated": "2026-10-17",
+    "updated": "2026-11-06",
     "decided": "",
     "outcome": "",
     "nextStep": "Venter på å bli referert og sendt til komité.",
@@ -5727,6 +5727,63 @@
     "nextStep": "Til behandling i komiteen.",
     "reference": "Innst. 30 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200354"
+   },
+   {
+    "id": "200503",
+    "title": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner",
+    "fullTitle": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "proposisjon",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-06",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Prop. 7 LS (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200503"
+   },
+   {
+    "id": "200504",
+    "title": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
+    "fullTitle": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "lovsak",
+    "docGroup": "proposisjon",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-06",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Prop. 9 L (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200504"
+   },
+   {
+    "id": "200505",
+    "title": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
+    "fullTitle": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "proposisjon",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-06",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Prop. 8 LS (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505"
    }
   ]
  },
@@ -6446,6 +6503,85 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-11-06",
+   "t": "ny",
+   "id": "200503",
+   "title": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200503"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "ny",
+   "id": "200504",
+   "title": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200504"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "ny",
+   "id": "200505",
+   "title": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Statsministerens program veke 46",
+   "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-46/id3192033/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Nordisk-baltisk samarbeid om digital suverenitet – Norge vil prioritere trygg KI",
+   "url": "https://www.regjeringen.no/no/aktuelt/nordisk-baltisk-samarbeid-om-digital-suverenitet-norge-vil-prioritere-trygg-ki/id3191990/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 46",
+   "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-46/id3191996/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Presseinvitasjon: Nordisk forsvarsministermøte i Oslo 11.–12. november",
+   "url": "https://www.regjeringen.no/no/aktuelt/nordisk-forsvarsministermote-i-oslo-11.12.-november/id3191962/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Forslag til ny lov om data frå korttidsutleige på høyring",
+   "url": "https://www.regjeringen.no/no/aktuelt/forslag-til-ny-lov-om-data-fra-korttidsutleige-pa-hoyring/id3191983/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "sd",
+   "title": "Enklere å gi elektriske varebiler plass i kollektivfeltet",
+   "url": "https://www.regjeringen.no/no/aktuelt/el-varebiler-kollektivfelt/id3191979/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Utenriksminister Eide møtte Ukrainas utenriksminister Andrij Sybiha: Norge gir 500 millioner kroner til offentlige tjenester i Ukraina",
+   "url": "https://www.regjeringen.no/no/aktuelt/utenriksminister-eide-motte-ukrainas-utenriksminister-andrij-sybiha-norge-gir-500-millioner-kroner-til-offentlige-tjenester-i-ukraina/id3192027/"
+  },
   {
    "d": "2026-11-06",
    "t": "nyhet",
@@ -9064,12 +9200,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-06T12:11:20.264Z",
+  "ranAt": "2026-11-07T11:08:19.481Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 16
+  "newEvents": 11
  },
  "tema": {
   "tema": [
