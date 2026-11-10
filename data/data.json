@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-09",
+ "fetched": "2026-11-10",
  "gov": {
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-10",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,19 +34,19 @@
     ],
     "news": [
      {
+      "title": "Støre deltar på nordisk møte med Zelenskyj",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/store-deltar-pa-nordisk-mote-med-zelenskyj/id3192185/"
+     },
+     {
+      "title": "Statsministeren og klima- og miljøministeren til FNs klimaforhandlinger",
+      "date": "2026-11-09",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192164/"
+     },
+     {
       "title": "Statsministerens program veke 46",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-46/id3192033/"
-     },
-     {
-      "title": "Statsministerens program veke 45",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-45/id3190311/"
-     },
-     {
-      "title": "Ønsker internasjonale prinsipper for kunstig intelligens",
-      "date": "2026-10-28",
-      "url": "https://www.regjeringen.no/no/aktuelt/onsker-internasjonale-prinsipper-for-kunstig-intelligens/id3186506/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -84,17 +84,17 @@
      {
       "title": "Vil at uføre får begrenset rett til sykepenger",
       "date": "2026-11-06",
+      "url": "https://www.regjeringen.no/no/aktuelt/vil-at-ufore-far-begrenset-rett-til-sykepenger/id3191231/"
+     },
+     {
+      "title": "Vil at uføre får begrenset rett til sykepenger",
+      "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-side3/id3191231/"
      },
      {
       "title": "Ny rapport: For mange kjenner ikke reglene i allmenngjøringsordningen",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-for-mange-kjenner-ikke-reglene-i-allmenngjoringsordningen2/id3191502/"
-     },
-     {
-      "title": "Omfattende misbruk i arbeidsinnvandringssaker – Regjeringen vil stramme inn",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/omfattende-misbruk-i-arbeidsinnvandringssaker-regjeringen-vil-stramme-inn/id3190217/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -321,6 +321,11 @@
     ],
     "news": [
      {
+      "title": "Ber etatane utarbeida tiltak",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/ber-etatane-utarbeida-tiltak/id3192243/"
+     },
+     {
       "title": "Presseinvitasjon: Nordisk forsvarsministermøte i Oslo 11.–12. november",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/nordisk-forsvarsministermote-i-oslo-11.12.-november/id3191962/"
@@ -329,11 +334,6 @@
       "title": "Regjeringen styrker norske investeringer i Ukraina med 1 milliard kroner",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-norske-investeringer-i-ukraina-med-1-milliard-kroner/id3190722/"
-     },
-     {
-      "title": "Styrker evnen til å oppdage droner i Finnmark",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/styrker-evnen-til-a-oppdage-droner-i-finnmark/id3191003/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -465,19 +465,19 @@
     ],
     "news": [
      {
+      "title": "Klima- og miljøministeren besøker Gaula",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/klima-og-miljoministeren-besoker-gaula/id3192187/"
+     },
+     {
+      "title": "Statsministeren og klima- og miljøministeren til FNs klimaforhandlinger",
+      "date": "2026-11-09",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192164/"
+     },
+     {
       "title": "Norge gir Brasil 600 millioner kroner for historisk lav avskoging i Amazonas",
       "date": "2026-11-09",
       "url": "https://www.regjeringen.no/no/aktuelt/norge-gir-brasil-600-millioner-kroner-for-historisk-lav-avskoging-i-amazonas/id3192085/"
-     },
-     {
-      "title": "Regjeringa ber utval vurdere ny organisering av vass- og avløpssektoren",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-ber-utval-vurdere-ny-organisering-av-vass-og-avlopssektoren/id3191915/"
-     },
-     {
-      "title": "Regjeringen mottar Matsystemutvalgets utredning",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -562,6 +562,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Kultur- og likestillingsministeren inviterer til pressekonferanse om Nationaltheatret",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-kultur-og-likestillingsministeren-inviterer-til-pressekonferanse-om-nationaltheatret/id3192094/"
+     },
+     {
       "title": "15 millionar til formidling av Ibsen",
       "date": "2026-10-28",
       "url": "https://www.regjeringen.no/no/aktuelt/15-millionar-til-formidling-av-ibsen/id3184805/"
@@ -570,11 +575,6 @@
       "title": "Presseinvitasjon: Kultur- og likestillingsdepartementet og Fritt Ord inviterer til frokostmøte og debatt om sosiale medier",
       "date": "2026-10-15",
       "url": "https://www.regjeringen.no/no/aktuelt/kultur-og-likestillingsdepartementet-og-fritt-ord-inviterer-til-frokostmote-og-debatt-om-sosiale-medier/id3177684/"
-     },
-     {
-      "title": "Volda er årets nynorskkommune",
-      "date": "2026-10-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/volda-er-arets-nynorskkommune/id3177185/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kud/id545/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Rekordstore lagre med norske poteter",
+      "date": "2026-11-09",
+      "url": "https://www.regjeringen.no/no/aktuelt/rekordstore-lagre-med-norske-poteter/id3192109/"
+     },
+     {
       "title": "Regjeringen mottar Matsystemutvalgets utredning",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
@@ -671,11 +676,6 @@
       "title": "Møte med Os, Tolga og Engerdal kommune",
       "date": "2026-11-03",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-os-tolga-og-engerdal-kommune/id3191101/"
-     },
-     {
-      "title": "No kan ein søkje om tilskot til investeringar i setrar med mjølkeproduksjon",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/no-kan-ein-sokje-om-tilskot-til-investeringar-i-setrar-med-mjolkeproduksjon/id3191013/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Presseinformasjon: Nordisk-afrikansk utanriksministermøte i Oslo 19.–20. november",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-afrikansk-utanriksministermote-i-oslo-19.20.-november/id3192188/"
+     },
+     {
       "title": "Utenriksminister Eide møtte Ukrainas utenriksminister Andrij Sybiha: Norge gir 500 millioner kroner til offentlige tjenester i Ukraina",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/utenriksminister-eide-motte-ukrainas-utenriksminister-andrij-sybiha-norge-gir-500-millioner-kroner-til-offentlige-tjenester-i-ukraina/id3192027/"
@@ -825,11 +830,6 @@
       "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 46",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-46/id3191940/"
-     },
-     {
-      "title": "Nye ambassadørar frå Egypt, USA, Slovenia og Libanon",
-      "date": "2026-11-05",
-      "url": "https://www.regjeringen.no/no/aktuelt/nye-ambassadorar-fra-egypt-usa-slovenia-og-libanon/id3191812/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-09",
+  "fetched": "2026-11-10",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -5540,7 +5540,12 @@
     "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Avgifter",
+     "Utenrikshandel",
+     "Miljøvern",
+     "Eu/eøs"
+    ],
     "updated": "2026-11-03",
     "decided": "",
     "outcome": "",
@@ -5801,6 +5806,82 @@
     "nextStep": "Venter på å bli referert og sendt til komité.",
     "reference": "Prop. 8 LS (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505"
+   },
+   {
+    "id": "200506",
+    "title": "At staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Tage Pettersen, Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend Larsen og Trond Helleland om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "H (Anne Kristine Linnestad, Erlend Larsen, Kari Sofie Bjørnsen, Mudassar Kapur, Tage Pettersen, Trond Helleland)",
+    "topics": [],
+    "updated": "2026-11-10",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:39 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200506"
+   },
+   {
+    "id": "200507",
+    "title": "Et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen, Bjørn-Kristian Svendsrud og Bård Hoksrud om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "FrP (Bjørn-Kristian Svendsrud m.fl., 7 representanter)",
+    "topics": [],
+    "updated": "2026-11-10",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:40 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507"
+   },
+   {
+    "id": "200501",
+    "title": "Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget",
+    "fullTitle": "Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "dokumentserien",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-06",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 3:1 (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200501"
+   },
+   {
+    "id": "200502",
+    "title": "Riksrevisjonens årlige rapportering til Stortinget om regnskapsrevisjon",
+    "fullTitle": "Riksrevisjonens årlige rapportering til Stortinget om regnskapsrevisjon",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "dokumentserien",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-06",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 1 (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200502"
    }
   ]
  },
@@ -6521,6 +6602,75 @@
  },
  "nytt": [
   {
+   "d": "2026-11-10",
+   "t": "ny",
+   "id": "200506",
+   "title": "At staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200506"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "ny",
+   "id": "200507",
+   "title": "Et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Støre deltar på nordisk møte med Zelenskyj",
+   "url": "https://www.regjeringen.no/no/aktuelt/store-deltar-pa-nordisk-mote-med-zelenskyj/id3192185/"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Ber etatane utarbeida tiltak",
+   "url": "https://www.regjeringen.no/no/aktuelt/ber-etatane-utarbeida-tiltak/id3192243/"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Klima- og miljøministeren besøker Gaula",
+   "url": "https://www.regjeringen.no/no/aktuelt/klima-og-miljoministeren-besoker-gaula/id3192187/"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "nyhet",
+   "ministry": "kud",
+   "title": "Presseinvitasjon: Kultur- og likestillingsministeren inviterer til pressekonferanse om Nationaltheatret",
+   "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-kultur-og-likestillingsministeren-inviterer-til-pressekonferanse-om-nationaltheatret/id3192094/"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Presseinformasjon: Nordisk-afrikansk utanriksministermøte i Oslo 19.–20. november",
+   "url": "https://www.regjeringen.no/no/aktuelt/nordisk-afrikansk-utanriksministermote-i-oslo-19.20.-november/id3192188/"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Statsministeren og klima- og miljøministeren til FNs klimaforhandlinger",
+   "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192164/"
+  },
+  {
+   "d": "2026-11-09",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Rekordstore lagre med norske poteter",
+   "url": "https://www.regjeringen.no/no/aktuelt/rekordstore-lagre-med-norske-poteter/id3192109/"
+  },
+  {
    "d": "2026-11-09",
    "t": "nyhet",
    "ministry": "dfd",
@@ -6540,6 +6690,33 @@
    "ministry": "dfd",
    "title": "Pressekonferanse om datasenter og kraft",
    "url": "https://www.regjeringen.no/no/aktuelt/pressekonferanse_kraft_datasenter/id3191949/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "ny",
+   "id": "200501",
+   "title": "Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200501"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "ny",
+   "id": "200502",
+   "title": "Riksrevisjonens årlige rapportering til Stortinget om regnskapsrevisjon",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200502"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Vil at uføre får begrenset rett til sykepenger",
+   "url": "https://www.regjeringen.no/no/aktuelt/vil-at-ufore-far-begrenset-rett-til-sykepenger/id3191231/"
   },
   {
    "d": "2026-11-06",
@@ -9238,12 +9415,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-09T14:23:21.382Z",
+  "ranAt": "2026-11-10T12:43:58.564Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 0
+  "newEvents": 13
  },
  "tema": {
   "tema": [
