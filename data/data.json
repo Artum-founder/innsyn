@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-10",
+ "fetched": "2026-11-11",
  "gov": {
-  "fetched": "2026-11-10",
+  "fetched": "2026-11-11",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Nordisk middagsmøte med president Zelenskyj",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-middagsmote-med-president-zelenskyj/id3192268/"
+     },
+     {
       "title": "Støre deltar på nordisk møte med Zelenskyj",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/store-deltar-pa-nordisk-mote-med-zelenskyj/id3192185/"
@@ -42,11 +47,6 @@
       "title": "Statsministeren og klima- og miljøministeren til FNs klimaforhandlinger",
       "date": "2026-11-09",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192164/"
-     },
-     {
-      "title": "Statsministerens program veke 46",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-46/id3192033/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -177,6 +177,11 @@
     ],
     "news": [
      {
+      "title": "Vil styrke digital sikkerhet i kommunene",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/vil-styrke-digital-sikkerhet-i-kommunene/id3192183/"
+     },
+     {
       "title": "Regjeringen vil ha en kontrollert vekst av samfunnsnyttige datasentre i Norge",
       "date": "2026-11-09",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/"
@@ -185,11 +190,6 @@
       "title": "Pressekonferanse om datasenter og kraft",
       "date": "2026-11-08",
       "url": "https://www.regjeringen.no/no/aktuelt/pressekonferanse_kraft_datasenter/id3191949/"
-     },
-     {
-      "title": "Nordisk-baltisk samarbeid om digital suverenitet – Norge vil prioritere trygg KI",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-baltisk-samarbeid-om-digital-suverenitet-norge-vil-prioritere-trygg-ki/id3191990/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Vil styrke digital sikkerhet i kommunene",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/vil-styrke-digital-sikkerhet-i-kommunene/id3192183/"
+     },
+     {
       "title": "Presseinvitasjon: Nordisk forsvarsministermøte i Oslo 11.–12. november",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/nordisk-forsvarsministermote-i-oslo-11.12.-november/id3191962/"
@@ -425,11 +430,6 @@
       "title": "Regjeringen vil styrke vernet mot spionasje og skadelig etterretningsvirksomhet",
       "date": "2026-11-02",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-vernet-mot-spionasje-og-skadelig-etterretningsvirksomhet/id3190660/"
-     },
-     {
-      "title": "Regjeringen legger fram siste del av lovforslaget om mer effektiv inndragning av verdier fra kriminalitet",
-      "date": "2026-10-30",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-fram-siste-del-av-lovforslaget-om-mer-effektiv-inndragning-av-verdier-fra-kriminalitet/id3187282/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -465,6 +465,11 @@
     ],
     "news": [
      {
+      "title": "Skal redusere utslepp frå kraftsektoren i Indonesia",
+      "date": "2026-11-11",
+      "url": "https://www.regjeringen.no/no/aktuelt/skal-redusere-utslepp-fra-kraftsektoren-i-indonesia/id3192314/"
+     },
+     {
       "title": "Klima- og miljøministeren besøker Gaula",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/klima-og-miljoministeren-besoker-gaula/id3192187/"
@@ -473,11 +478,6 @@
       "title": "Statsministeren og klima- og miljøministeren til FNs klimaforhandlinger",
       "date": "2026-11-09",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192164/"
-     },
-     {
-      "title": "Norge gir Brasil 600 millioner kroner for historisk lav avskoging i Amazonas",
-      "date": "2026-11-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-gir-brasil-600-millioner-kroner-for-historisk-lav-avskoging-i-amazonas/id3192085/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -513,19 +513,19 @@
     ],
     "news": [
      {
+      "title": "Nils Øivind Helander er vinner av Nordisk samisk språkpris - Gollegiella",
+      "date": "2026-11-11",
+      "url": "https://www.regjeringen.no/no/aktuelt/nils-oivind-helander-er-vinner-av-nordisk-samisk-sprakpris-gollegiella/id3192255/"
+     },
+     {
+      "title": "Vil styrke digital sikkerhet i kommunene",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/vil-styrke-digital-sikkerhet-i-kommunene/id3192183/"
+     },
+     {
       "title": "Beate Steen Kolstø blir ny direktør i Valgdirektoratet",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/beate-steen-kolsto-blir-ny-direktor-i-valgdirektoratet/id3191939/"
-     },
-     {
-      "title": "Møte med Os, Tolga og Engerdal kommune",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-os-tolga-og-engerdal-kommune/id3191101/"
-     },
-     {
-      "title": "Godkjenner plan for batterifabrikk i Orkanger",
-      "date": "2026-11-02",
-      "url": "https://www.regjeringen.no/no/aktuelt/godkjenner-plan-for-batterifabrikk-i-orkanger/id3190343/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kdd/id504/",
@@ -562,6 +562,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringa vil bruke Gamle Munch på Tøyen som teaterhus med biscener for Nationaltheatret",
+      "date": "2026-11-10",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-vil-bruke-gamle-munch-pa-toyen-som-teaterhus-med-biscener-for-nationaltheatret/id3192180/"
+     },
+     {
       "title": "Presseinvitasjon: Kultur- og likestillingsministeren inviterer til pressekonferanse om Nationaltheatret",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-kultur-og-likestillingsministeren-inviterer-til-pressekonferanse-om-nationaltheatret/id3192094/"
@@ -570,11 +575,6 @@
       "title": "15 millionar til formidling av Ibsen",
       "date": "2026-10-28",
       "url": "https://www.regjeringen.no/no/aktuelt/15-millionar-til-formidling-av-ibsen/id3184805/"
-     },
-     {
-      "title": "Presseinvitasjon: Kultur- og likestillingsdepartementet og Fritt Ord inviterer til frokostmøte og debatt om sosiale medier",
-      "date": "2026-10-15",
-      "url": "https://www.regjeringen.no/no/aktuelt/kultur-og-likestillingsdepartementet-og-fritt-ord-inviterer-til-frokostmote-og-debatt-om-sosiale-medier/id3177684/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kud/id545/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Fylkesnytt fra Nordland 2/2026",
+      "date": "2026-11-11",
+      "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-nordland-22026/id3192045/"
+     },
+     {
       "title": "Rekordstore lagre med norske poteter",
       "date": "2026-11-09",
       "url": "https://www.regjeringen.no/no/aktuelt/rekordstore-lagre-med-norske-poteter/id3192109/"
@@ -671,11 +676,6 @@
       "title": "Regjeringen mottar Matsystemutvalgets utredning",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
-     },
-     {
-      "title": "Møte med Os, Tolga og Engerdal kommune",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-os-tolga-og-engerdal-kommune/id3191101/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,19 +716,19 @@
     ],
     "news": [
      {
+      "title": "Regjeringen vil gjøre Norge mindre sårbart for GPS-svikt",
+      "date": "2026-11-11",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-gjore-norge-mindre-sarbart-for-gps-svikt/id3192316/"
+     },
+     {
+      "title": "Næringsministeren til Lyngen og Industriens dag torsdag 12. november",
+      "date": "2026-11-11",
+      "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-til-lyngen-og-industriens-dag-torsdag-12.-november/id3192315/"
+     },
+     {
       "title": "Forslag til ny lov om data frå korttidsutleige på høyring",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/forslag-til-ny-lov-om-data-fra-korttidsutleige-pa-hoyring/id3191983/"
-     },
-     {
-      "title": "Regjeringen legger frem nytt regelverk for å styrke tilsynet med varer i Norge",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-legger-frem-nytt-regelverk-for-a-styrke-tilsynet-med-varer-i-norge/id3191921/"
-     },
-     {
-      "title": "Regjeringen mottar Matsystemutvalgets utredning",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-10",
+  "fetched": "2026-11-11",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -3111,11 +3111,11 @@
     "ministry": "",
     "proposer": "FrP (Alf Erik Andersen, Bjørnar Laabak, Julia Brännström Nordtug, Sebastian Saltrø Ytrevik)",
     "topics": [],
-    "updated": "2026-06-19",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Dokument 8:307 S (2025–2026)",
+    "reference": "Dokument 8:307 S (2025–2026); Innst. 33 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200358"
    },
    {
@@ -3130,11 +3130,11 @@
     "ministry": "",
     "proposer": "V (Ane Breivik, Grunde Almeland, Guri Melby)",
     "topics": [],
-    "updated": "2026-06-19",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Dokument 8:308 S (2025–2026)",
+    "reference": "Dokument 8:308 S (2025–2026); Innst. 34 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200359"
    },
    {
@@ -3168,11 +3168,11 @@
     "ministry": "",
     "proposer": "SV (Anne Lise Gjerstad Fredlund, Mirell Høyer-Berntsen, Marian Hussein, Sunniva Holmås Eidsvoll)",
     "topics": [],
-    "updated": "2026-06-19",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Dokument 8:310 S (2025–2026)",
+    "reference": "Dokument 8:310 S (2025–2026); Innst. 35 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200361"
    },
    {
@@ -4000,7 +4000,7 @@
     "title": "Egenbetaling for tolketjenester etter tre års opphold i Norge",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Kristian August Eilertsen, Rune Midtun, Bjørn Larsen og Helge André Njåstad om egenbetaling for tolketjenester etter tre års opphold i Norge",
     "session": "2025-2026",
-    "status": "til_behandling",
+    "status": "behandlet",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
     "committee": "Kommunal- og forvaltningskomiteen",
@@ -4008,9 +4008,9 @@
     "proposer": "FrP (Bjørn Larsen, Erlend Wiborg, Helge André Njåstad, Kristian August Eilertsen, Rune Midtun)",
     "topics": [],
     "updated": "2026-11-03",
-    "decided": "",
-    "outcome": "",
-    "nextStep": "Til behandling i komiteen.",
+    "decided": "2026-11-10",
+    "outcome": "Ikke vedtatt: 29 for, 69 mot.",
+    "nextStep": "",
     "reference": "Dokument 8:281 S (2025–2026); Innst. 25 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200293"
    },
@@ -4057,7 +4057,7 @@
     "title": "En tydelig og forpliktende integreringskontrakt",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Rune Midtun, Helge André Njåstad og Bjørn Larsen om en tydelig og forpliktende integreringskontrakt",
     "session": "2025-2026",
-    "status": "til_behandling",
+    "status": "behandlet",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
     "committee": "Kommunal- og forvaltningskomiteen",
@@ -4065,9 +4065,9 @@
     "proposer": "FrP (Bjørn Larsen, Erlend Wiborg, Helge André Njåstad, Rune Midtun)",
     "topics": [],
     "updated": "2026-11-03",
-    "decided": "",
-    "outcome": "",
-    "nextStep": "Til behandling i komiteen.",
+    "decided": "2026-11-10",
+    "outcome": "Ikke vedtatt: 29 for, 71 mot.",
+    "nextStep": "",
     "reference": "Dokument 8:275 S (2025–2026); Innst. 22 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200280"
    },
@@ -4178,11 +4178,11 @@
     "ministry": "",
     "proposer": "SV (Ingrid Fiskaa, Mirell Høyer-Berntsen)",
     "topics": [],
-    "updated": "2026-04-09",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Dokument 8:249 S (2025–2026)",
+    "reference": "Dokument 8:249 S (2025–2026); Innst. 31 L (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200197"
    },
    {
@@ -4216,11 +4216,11 @@
     "ministry": "",
     "proposer": "",
     "topics": [],
-    "updated": "2026-04-09",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Prop. 41 LS (2025–2026)",
+    "reference": "Prop. 41 LS (2025–2026); Innst. 32 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200242"
    },
    {
@@ -4235,11 +4235,11 @@
     "ministry": "",
     "proposer": "",
     "topics": [],
-    "updated": "2026-04-09",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Prop. 41 LS (2025–2026)",
+    "reference": "Prop. 41 LS (2025–2026); Innst. 31 L (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200243"
    },
    {
@@ -5000,7 +5000,7 @@
      "Massemedier",
      "Menneskerettigheter"
     ],
-    "updated": "2026-10-14",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
@@ -5120,7 +5120,7 @@
     "title": "Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026",
     "fullTitle": "Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "redegjorelse",
     "committee": "",
@@ -5132,7 +5132,7 @@
     "updated": "2026-11-06",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200475"
    },
@@ -5561,13 +5561,13 @@
     "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "redegjorelse",
-    "committee": "",
+    "committee": "Justiskomiteen",
     "ministry": "jd",
     "proposer": "",
     "topics": [
      "Politi og påtalemyndighet"
     ],
-    "updated": "2026-10-28",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
@@ -5620,19 +5620,19 @@
     "title": "En tryggere hverdag for syklister",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Margit Bye, Oda Indgaard, Marius Langballe Dalin, Frøya Skjold Sjursæther, Lars Lønberg Henriksen og Une Bastholm om en tryggere hverdag for syklister",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Samferdselskomiteen",
     "ministry": "",
     "proposer": "MDG (Frøya Skjold Sjursæther, Lars Lønberg Henriksen, Margit Bye, Marius Langballe Dalin, Oda Indgaard, Une Bastholm)",
     "topics": [
      "Vegtrafikk"
     ],
-    "updated": "2026-11-04",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:36 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200497"
    },
@@ -5641,19 +5641,19 @@
     "title": "Ei ny retning for barnevernet sitt institusjonstilbod",
     "fullTitle": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Maren Grøthe og Bengt Fasteraune om ei ny retning for barnevernet sitt institusjonstilbod",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Familie- og kulturkomiteen",
     "ministry": "",
     "proposer": "Sp (Bengt Fasteraune, Kjersti Toppe, Maren Grøthe)",
     "topics": [
      "Barnevern"
     ],
-    "updated": "2026-11-04",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:37 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498"
    },
@@ -5662,19 +5662,19 @@
     "title": "Styrke ambulansetenesta og akuttberedskapen i heile Noreg",
     "fullTitle": "Representantforslag frå stortingsrepresentantane Kjersti Toppe, Geir Inge Lien og Bent-Joacim Bentzen om å styrke ambulansetenesta og akuttberedskapen i heile Noreg",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Helse- og omsorgskomiteen",
     "ministry": "",
     "proposer": "Sp (Bent-Joacim Bentzen, Geir Inge Lien, Kjersti Toppe)",
     "topics": [
      "Helsevesen"
     ],
-    "updated": "2026-11-04",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:38 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200499"
    },
@@ -5683,20 +5683,20 @@
     "title": "En mer forutsigbar og åpen budsjettering av politiet basert på reelle behov",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Bent-Joacim Bentzen, Erling Sande og Bjørn Arild Gram om en mer forutsigbar og åpen budsjettering av politiet basert på reelle behov",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Justiskomiteen",
     "ministry": "",
     "proposer": "Sp (Bent-Joacim Bentzen, Bjørn Arild Gram, Erling Sande)",
     "topics": [
      "Politi og påtalemyndighet",
      "Statsforvaltning"
     ],
-    "updated": "2026-11-03",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:35 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200496"
    },
@@ -5747,10 +5747,10 @@
     "title": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner",
     "fullTitle": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "proposisjon",
-    "committee": "",
+    "committee": "Arbeids- og sosialkomiteen",
     "ministry": "",
     "proposer": "",
     "topics": [
@@ -5758,10 +5758,10 @@
      "Kommunikasjonsteknologi",
      "Arbeidsmiljø"
     ],
-    "updated": "2026-11-06",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Prop. 7 LS (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200503"
    },
@@ -5770,17 +5770,17 @@
     "title": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
     "fullTitle": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "lovsak",
     "docGroup": "proposisjon",
-    "committee": "",
+    "committee": "Arbeids- og sosialkomiteen",
     "ministry": "",
     "proposer": "",
     "topics": [],
-    "updated": "2026-11-06",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Prop. 9 L (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200504"
    },
@@ -5789,10 +5789,10 @@
     "title": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
     "fullTitle": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "proposisjon",
-    "committee": "",
+    "committee": "Næringskomiteen",
     "ministry": "",
     "proposer": "",
     "topics": [
@@ -5800,10 +5800,10 @@
      "Forbrukersaker",
      "Eu/eøs"
     ],
-    "updated": "2026-11-06",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Prop. 8 LS (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505"
    },
@@ -5850,17 +5850,17 @@
     "title": "Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget",
     "fullTitle": "Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "dokumentserien",
-    "committee": "",
+    "committee": "Kontroll- og konstitusjonskomiteen",
     "ministry": "",
     "proposer": "",
     "topics": [],
-    "updated": "2026-11-06",
+    "updated": "2026-11-10",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 3:1 (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200501"
    },
@@ -5869,19 +5869,76 @@
     "title": "Riksrevisjonens årlige rapportering til Stortinget om regnskapsrevisjon",
     "fullTitle": "Riksrevisjonens årlige rapportering til Stortinget om regnskapsrevisjon",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "dokumentserien",
-    "committee": "",
+    "committee": "Kontroll- og konstitusjonskomiteen",
     "ministry": "",
     "proposer": "",
     "topics": [],
-    "updated": "2026-11-06",
+    "updated": "2026-11-10",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Til behandling i komiteen.",
+    "reference": "Dokument 1 (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200502"
+   },
+   {
+    "id": "200510",
+    "title": "Strømstøtte til næringslivet",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Pollestad og Geir Inge Lien om strømstøtte til næringslivet",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "Sp (Geir Inge Lien, Geir Pollestad, Maren Grøthe)",
+    "topics": [],
+    "updated": "2026-11-11",
     "decided": "",
     "outcome": "",
     "nextStep": "Venter på å bli referert og sendt til komité.",
-    "reference": "Dokument 1 (2026–2027)",
-    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200502"
+    "reference": "Dokument 8:41 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200510"
+   },
+   {
+    "id": "200508",
+    "title": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner (L-delen)",
+    "fullTitle": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner",
+    "session": "2026-2027",
+    "status": "til_behandling",
+    "type": "lovsak",
+    "docGroup": "proposisjon",
+    "committee": "Arbeids- og sosialkomiteen",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-10",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Til behandling i komiteen.",
+    "reference": "Prop. 7 LS (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200508"
+   },
+   {
+    "id": "200509",
+    "title": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (L-delen)",
+    "fullTitle": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
+    "session": "2026-2027",
+    "status": "til_behandling",
+    "type": "lovsak",
+    "docGroup": "proposisjon",
+    "committee": "Næringskomiteen",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-10",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Til behandling i komiteen.",
+    "reference": "Prop. 8 LS (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200509"
    }
   ]
  },
@@ -6602,6 +6659,200 @@
  },
  "nytt": [
   {
+   "d": "2026-11-11",
+   "t": "ny",
+   "id": "200510",
+   "title": "Strømstøtte til næringslivet",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200510"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Skal redusere utslepp frå kraftsektoren i Indonesia",
+   "url": "https://www.regjeringen.no/no/aktuelt/skal-redusere-utslepp-fra-kraftsektoren-i-indonesia/id3192314/"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "nyhet",
+   "ministry": "kdd",
+   "title": "Nils Øivind Helander er vinner av Nordisk samisk språkpris - Gollegiella",
+   "url": "https://www.regjeringen.no/no/aktuelt/nils-oivind-helander-er-vinner-av-nordisk-samisk-sprakpris-gollegiella/id3192255/"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Fylkesnytt fra Nordland 2/2026",
+   "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-nordland-22026/id3192045/"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Regjeringen vil gjøre Norge mindre sårbart for GPS-svikt",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-gjore-norge-mindre-sarbart-for-gps-svikt/id3192316/"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Næringsministeren til Lyngen og Industriens dag torsdag 12. november",
+   "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-til-lyngen-og-industriens-dag-torsdag-12.-november/id3192315/"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200497",
+   "title": "En tryggere hverdag for syklister",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Samferdselskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200497"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200498",
+   "title": "Ei ny retning for barnevernet sitt institusjonstilbod",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Familie- og kulturkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200498"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200499",
+   "title": "Styrke ambulansetenesta og akuttberedskapen i heile Noreg",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Helse- og omsorgskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200499"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200496",
+   "title": "En mer forutsigbar og åpen budsjettering av politiet basert på reelle behov",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Justiskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200496"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200503",
+   "title": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Arbeids- og sosialkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200503"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200504",
+   "title": "Endringar i folketrygdlova og enkelte andre lover (oppfølging av tiltak i forslaget til statsbudsjett for 2027 m.m.)",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Arbeids- og sosialkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200504"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200505",
+   "title": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Næringskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200505"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200501",
+   "title": "Riksrevisjonens oppfølging av forvaltningsrevisjoner som er behandlet av Stortinget",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kontroll- og konstitusjonskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200501"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "status",
+   "id": "200502",
+   "title": "Riksrevisjonens årlige rapportering til Stortinget om regnskapsrevisjon",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kontroll- og konstitusjonskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200502"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "ny",
+   "id": "200508",
+   "title": "Endringer i arbeidsmiljøloven (forskriftshjemmel om maskiner og annet arbeidsutstyr) og samtykke til godkjenning av EØS-komiteens beslutning nr. 171/2025 om innlemmelse i EØS-avtalen av forordning (EU) 2023/1230 om maskiner (L-delen)",
+   "status": "til_behandling",
+   "committee": "Arbeids- og sosialkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200508"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "ny",
+   "id": "200509",
+   "title": "Endringer i EØS-vareloven mv. (gjennomføring av markedstilsynsforordningen) og samtykke til godkjenning av EØS-komiteens beslutning nr. 317/2023 om innlemmelse i EØS-avtalen av forordning (EU) 2019/1020 om markedstilsyn og produktsamsvar (L-delen)",
+   "status": "til_behandling",
+   "committee": "Næringskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200509"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Nordisk middagsmøte med president Zelenskyj",
+   "url": "https://www.regjeringen.no/no/aktuelt/nordisk-middagsmote-med-president-zelenskyj/id3192268/"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Vil styrke digital sikkerhet i kommunene",
+   "url": "https://www.regjeringen.no/no/aktuelt/vil-styrke-digital-sikkerhet-i-kommunene/id3192183/"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "nyhet",
+   "ministry": "kud",
+   "title": "Regjeringa vil bruke Gamle Munch på Tøyen som teaterhus med biscener for Nationaltheatret",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-vil-bruke-gamle-munch-pa-toyen-som-teaterhus-med-biscener-for-nationaltheatret/id3192180/"
+  },
+  {
    "d": "2026-11-10",
    "t": "ny",
    "id": "200506",
@@ -6690,6 +6941,18 @@
    "ministry": "dfd",
    "title": "Pressekonferanse om datasenter og kraft",
    "url": "https://www.regjeringen.no/no/aktuelt/pressekonferanse_kraft_datasenter/id3191949/"
+  },
+  {
+   "d": "2026-11-06",
+   "t": "status",
+   "id": "200475",
+   "title": "Redegjørelse av utenriksministeren om viktige EU- og EØS-saker i 2026",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "",
+   "ministry": "ud",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200475"
   },
   {
    "d": "2026-11-06",
@@ -6983,6 +7246,30 @@
    "ministry": "ud",
    "title": "Presseinformasjon: Utanriksministeren til ministermøte i Polen",
    "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-ministermote-i-polen/id3191220/"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "vedtak",
+   "id": "200293",
+   "title": "Egenbetaling for tolketjenester etter tre års opphold i Norge",
+   "from": "til_behandling",
+   "to": "behandlet",
+   "outcome": "Ikke vedtatt: 29 for, 69 mot.",
+   "committee": "Kommunal- og forvaltningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200293"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "vedtak",
+   "id": "200280",
+   "title": "En tydelig og forpliktende integreringskontrakt",
+   "from": "til_behandling",
+   "to": "behandlet",
+   "outcome": "Ikke vedtatt: 29 for, 71 mot.",
+   "committee": "Kommunal- og forvaltningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200280"
   },
   {
    "d": "2026-11-03",
@@ -9415,12 +9702,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-10T12:43:58.564Z",
+  "ranAt": "2026-11-11T11:55:36.982Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 13
+  "newEvents": 25
  },
  "tema": {
   "tema": [
