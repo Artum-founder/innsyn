@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-11",
+ "fetched": "2026-11-12",
  "gov": {
-  "fetched": "2026-11-11",
+  "fetched": "2026-11-12",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Statsministeren og Brasils president samler verdens land til felles innsats for regnskogen",
+      "date": "2026-11-11",
+      "url": "https://www.regjeringen.no/no/aktuelt/statsministeren-og-brasils-president-samler-verdens-land-til-felles-innsats-for-regnskogen/id3192419/"
+     },
+     {
       "title": "Nordisk middagsmøte med president Zelenskyj",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/nordisk-middagsmote-med-president-zelenskyj/id3192268/"
@@ -42,11 +47,6 @@
       "title": "Støre deltar på nordisk møte med Zelenskyj",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/store-deltar-pa-nordisk-mote-med-zelenskyj/id3192185/"
-     },
-     {
-      "title": "Statsministeren og klima- og miljøministeren til FNs klimaforhandlinger",
-      "date": "2026-11-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192164/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -177,6 +177,11 @@
     ],
     "news": [
      {
+      "title": "Norge og Storbritannia etablerer samarbeid om kunstig intelligens",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-og-storbritannia-etablerer-samarbeid-om-kunstig-intelligens/id3192548/"
+     },
+     {
       "title": "Vil styrke digital sikkerhet i kommunene",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/vil-styrke-digital-sikkerhet-i-kommunene/id3192183/"
@@ -185,11 +190,6 @@
       "title": "Regjeringen vil ha en kontrollert vekst av samfunnsnyttige datasentre i Norge",
       "date": "2026-11-09",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/"
-     },
-     {
-      "title": "Pressekonferanse om datasenter og kraft",
-      "date": "2026-11-08",
-      "url": "https://www.regjeringen.no/no/aktuelt/pressekonferanse_kraft_datasenter/id3191949/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -273,19 +273,19 @@
     ],
     "news": [
      {
+      "title": "ESA har godkjent merverdiavgiftsfritaket for elbiler ut 2027",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/esa-har-godkjent-merverdiavgiftsfritaket-for-elbiler-ut-2027/id3192554/"
+     },
+     {
+      "title": "Møte med Kasakhstans ambassadør til Norge",
+      "date": "2026-11-11",
+      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-kasakhstans-ambassador-til-norge/id3192321/"
+     },
+     {
       "title": "Regjeringen ønsker innspill om endringer i Skattefunn",
       "date": "2026-11-04",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-om-endringer-i-skattefunn/id3191050/"
-     },
-     {
-      "title": "Finansminister Jens Stoltenberg har besøkt Ukraina",
-      "date": "2026-11-04",
-      "url": "https://www.regjeringen.no/no/aktuelt/finansminister-jens-stoltenberg-har-besokt-ukraina/id3191140/"
-     },
-     {
-      "title": "Regjeringen styrker norske investeringer i Ukraina med 1 milliard kroner",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-norske-investeringer-i-ukraina-med-1-milliard-kroner/id3190722/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fin/id216/",
@@ -321,6 +321,11 @@
     ],
     "news": [
      {
+      "title": "Begynner arbeidet med nordisk forsvarsavtale",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/begynner-arbeidet-med-nordisk-forsvarsavtale/id3192484/"
+     },
+     {
       "title": "Ber etatane utarbeida tiltak",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/ber-etatane-utarbeida-tiltak/id3192243/"
@@ -329,11 +334,6 @@
       "title": "Presseinvitasjon: Nordisk forsvarsministermøte i Oslo 11.–12. november",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/nordisk-forsvarsministermote-i-oslo-11.12.-november/id3191962/"
-     },
-     {
-      "title": "Regjeringen styrker norske investeringer i Ukraina med 1 milliard kroner",
-      "date": "2026-11-03",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-norske-investeringer-i-ukraina-med-1-milliard-kroner/id3190722/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -369,6 +369,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Helse- og omsorgsminister Jan Christian Vestre til Sogn og Fjordane 13. november",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/helse-og-omsorgsminister-jan-christian-vestre-til-sogn-og-fjordane-13.-november/id3192543/"
+     },
+     {
       "title": "Regjeringen mottar Matsystemutvalgets utredning",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
@@ -377,11 +382,6 @@
       "title": "Nytt skritt på veien mot helsereform: Vestre tok imot Helsereformutvalgets forslag",
       "date": "2026-11-02",
       "url": "https://www.regjeringen.no/no/aktuelt/nytt-skritt-pa-veien-mot-helsereform-vestre-tok-imot-helsereformutvalgets-forslag/id3190681/"
-     },
-     {
-      "title": "To av tre fornøgde med digitale helsetenester",
-      "date": "2026-10-31",
-      "url": "https://www.regjeringen.no/no/aktuelt/to-av-tre-fornogde-med-digitale-helsetenester/id3190559/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -465,19 +465,19 @@
     ],
     "news": [
      {
-      "title": "Skal redusere utslepp frå kraftsektoren i Indonesia",
+      "title": "Kjøper klimakvotar frå sol- og vindkraft i Marokko",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/kjoper-klimakvotar-fra-sol-og-vindkraft-i-marokko/id3192555/"
+     },
+     {
+      "title": "Indonesia får milliardutbetaling etter kraftig reduksjon i avskoging",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/indonesia-far-milliardutbetaling-etter-kraftig-reduksjon-i-avskoging2/id3192508/"
+     },
+     {
+      "title": "Statsministeren og Brasils president samler verdens land til felles innsats for regnskogen",
       "date": "2026-11-11",
-      "url": "https://www.regjeringen.no/no/aktuelt/skal-redusere-utslepp-fra-kraftsektoren-i-indonesia/id3192314/"
-     },
-     {
-      "title": "Klima- og miljøministeren besøker Gaula",
-      "date": "2026-11-10",
-      "url": "https://www.regjeringen.no/no/aktuelt/klima-og-miljoministeren-besoker-gaula/id3192187/"
-     },
-     {
-      "title": "Statsministeren og klima- og miljøministeren til FNs klimaforhandlinger",
-      "date": "2026-11-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192164/"
+      "url": "https://www.regjeringen.no/no/aktuelt/statsministeren-og-brasils-president-samler-verdens-land-til-felles-innsats-for-regnskogen/id3192419/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -562,6 +562,11 @@
     ],
     "news": [
      {
+      "title": "NRK-journalistar får menneskerettspris for «Utlevert av Telenor»",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/nrk-journalistar-far-menneskerettspris-for-utlevert-av-telenor/id3192512/"
+     },
+     {
       "title": "Regjeringa vil bruke Gamle Munch på Tøyen som teaterhus med biscener for Nationaltheatret",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-vil-bruke-gamle-munch-pa-toyen-som-teaterhus-med-biscener-for-nationaltheatret/id3192180/"
@@ -570,11 +575,6 @@
       "title": "Presseinvitasjon: Kultur- og likestillingsministeren inviterer til pressekonferanse om Nationaltheatret",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-kultur-og-likestillingsministeren-inviterer-til-pressekonferanse-om-nationaltheatret/id3192094/"
-     },
-     {
-      "title": "15 millionar til formidling av Ibsen",
-      "date": "2026-10-28",
-      "url": "https://www.regjeringen.no/no/aktuelt/15-millionar-til-formidling-av-ibsen/id3184805/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kud/id545/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Nasjonale prøver 2026: Noen positive endringer, men fortsatt behov for å styrke elevenes lese- og regneferdigheter",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/noen-positive-endringer-men-fortsatt-behov-for-a-styrke-elevenes-lese-og-regneferdigheter/id3192411/"
+     },
+     {
       "title": "Utvalg: Kunstig intelligens krever nye grep i høyere utdanning",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/utvalg-kunstig-intelligens-krever-nye-grep-i-hoyere-utdanning/id3191851/"
@@ -623,11 +628,6 @@
       "title": "KI-sentrene ga innspill til regjeringens arbeid med kunstig intelligens",
       "date": "2026-11-05",
       "url": "https://www.regjeringen.no/no/aktuelt/ki-sentrene-ga-innspill-til-regjeringens-arbeid-med-kunstig-intelligens/id3191505/"
-     },
-     {
-      "title": "Regjeringen ønsker innspill om endringer i Skattefunn",
-      "date": "2026-11-04",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-onsker-innspill-om-endringer-i-skattefunn/id3191050/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -716,19 +716,19 @@
     ],
     "news": [
      {
+      "title": "Lyngen kommune får innføre besøksbidrag",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/lyngen-kommune-far-innfore-besoksbidrag/id3192507/"
+     },
+     {
+      "title": "Resultat frå auksjon av nye løyve til oppdrett av laks",
+      "date": "2026-11-11",
+      "url": "https://www.regjeringen.no/no/aktuelt/resultat-fra-auksjon-av-nye-loyve-til-oppdrett-av-laks/id3192412/"
+     },
+     {
       "title": "Regjeringen vil gjøre Norge mindre sårbart for GPS-svikt",
       "date": "2026-11-11",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-gjore-norge-mindre-sarbart-for-gps-svikt/id3192316/"
-     },
-     {
-      "title": "Næringsministeren til Lyngen og Industriens dag torsdag 12. november",
-      "date": "2026-11-11",
-      "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-til-lyngen-og-industriens-dag-torsdag-12.-november/id3192315/"
-     },
-     {
-      "title": "Forslag til ny lov om data frå korttidsutleige på høyring",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/forslag-til-ny-lov-om-data-fra-korttidsutleige-pa-hoyring/id3191983/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,19 +817,19 @@
     ],
     "news": [
      {
-      "title": "Presseinformasjon: Nordisk-afrikansk utanriksministermøte i Oslo 19.–20. november",
-      "date": "2026-11-10",
-      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-afrikansk-utanriksministermote-i-oslo-19.20.-november/id3192188/"
+      "title": "En ny generasjon i sentrum i Sør-Afrika",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/en-ny-generasjon-i-sentrum-i-sor-afrika/id3192514/"
      },
      {
-      "title": "Utenriksminister Eide møtte Ukrainas utenriksminister Andrij Sybiha: Norge gir 500 millioner kroner til offentlige tjenester i Ukraina",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/utenriksminister-eide-motte-ukrainas-utenriksminister-andrij-sybiha-norge-gir-500-millioner-kroner-til-offentlige-tjenester-i-ukraina/id3192027/"
+      "title": "Noreg garanterer for meir fornybar energi i Asia",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/noreg-garanterer-for-meir-fornybar-energi-i-asia/id3192445/"
      },
      {
-      "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 46",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-46/id3191940/"
+      "title": "Noreg vil fornye 25 år gammal handelsavtale med Mexico",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/noreg-vil-fornye-25-ar-gammal-handelsavtale-med-mexico/id3192252/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-11",
+  "fetched": "2026-11-12",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -5939,6 +5939,101 @@
     "nextStep": "Til behandling i komiteen.",
     "reference": "Prop. 8 LS (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200509"
+   },
+   {
+    "id": "200511",
+    "title": "Midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Siren Julianne Jensen og Une Bastholm om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "MDG (Siren Julianne Jensen, Une Bastholm)",
+    "topics": [],
+    "updated": "2026-11-12",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:45 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200511"
+   },
+   {
+    "id": "200512",
+    "title": "En slankere og mer effektiv stat",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Tom Staahle, Hans Andreas Limi, Hilde Grande og Martin Virkesdal Jonsterhaug om en slankere og mer effektiv stat",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "FrP (Hilde Grande, Hans Andreas Limi, Martin Virkesdal Jonsterhaug, Tom Staahle)",
+    "topics": [],
+    "updated": "2026-11-12",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:42 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200512"
+   },
+   {
+    "id": "200513",
+    "title": "Bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Lars Lønberg Henriksen, Ingrid Liland, Une Bastholm, Marius Langballe Dalin og Frøya Skjold Sjursæther om å bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "MDG (Frøya Skjold Sjursæther, Ingrid Liland, Lars Lønberg Henriksen, Marius Langballe Dalin, Une Bastholm)",
+    "topics": [],
+    "updated": "2026-11-12",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:43 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200513"
+   },
+   {
+    "id": "200514",
+    "title": "Senke terskelen for fengsling av farlige ungdommer",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Jon Engen-Helgheim, Stian Storbukås, Finn Krokeide, Anette Carnarius Elseth og Erlend Wiborg om å senke terskelen for fengsling av farlige ungdommer",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "FrP (Anette Carnarius Elseth, Erlend Wiborg, Finn Krokeide, Jon Engen-Helgheim, Stian Storbukås)",
+    "topics": [],
+    "updated": "2026-11-12",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:44 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200514"
+   },
+   {
+    "id": "200515",
+    "title": "Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)",
+    "fullTitle": "Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)",
+    "session": "2026-2027",
+    "status": "til_behandling",
+    "type": "alminneligsak",
+    "docGroup": "innstillingssaker",
+    "committee": "Stortingets presidentskap",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-12",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Til behandling i komiteen.",
+    "reference": "",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200515"
    }
   ]
  },
@@ -6658,6 +6753,161 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-11-12",
+   "t": "ny",
+   "id": "200511",
+   "title": "Midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200511"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "ny",
+   "id": "200512",
+   "title": "En slankere og mer effektiv stat",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200512"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "ny",
+   "id": "200513",
+   "title": "Bruke offentlige anskaffelser til å fremme sosial bærekraft og arbeidsinkludering",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200513"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "ny",
+   "id": "200514",
+   "title": "Senke terskelen for fengsling av farlige ungdommer",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200514"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "ny",
+   "id": "200515",
+   "title": "Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)",
+   "status": "til_behandling",
+   "committee": "Stortingets presidentskap",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200515"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Norge og Storbritannia etablerer samarbeid om kunstig intelligens",
+   "url": "https://www.regjeringen.no/no/aktuelt/norge-og-storbritannia-etablerer-samarbeid-om-kunstig-intelligens/id3192548/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "fin",
+   "title": "ESA har godkjent merverdiavgiftsfritaket for elbiler ut 2027",
+   "url": "https://www.regjeringen.no/no/aktuelt/esa-har-godkjent-merverdiavgiftsfritaket-for-elbiler-ut-2027/id3192554/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Begynner arbeidet med nordisk forsvarsavtale",
+   "url": "https://www.regjeringen.no/no/aktuelt/begynner-arbeidet-med-nordisk-forsvarsavtale/id3192484/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Presseinvitasjon: Helse- og omsorgsminister Jan Christian Vestre til Sogn og Fjordane 13. november",
+   "url": "https://www.regjeringen.no/no/aktuelt/helse-og-omsorgsminister-jan-christian-vestre-til-sogn-og-fjordane-13.-november/id3192543/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Kjøper klimakvotar frå sol- og vindkraft i Marokko",
+   "url": "https://www.regjeringen.no/no/aktuelt/kjoper-klimakvotar-fra-sol-og-vindkraft-i-marokko/id3192555/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Indonesia får milliardutbetaling etter kraftig reduksjon i avskoging",
+   "url": "https://www.regjeringen.no/no/aktuelt/indonesia-far-milliardutbetaling-etter-kraftig-reduksjon-i-avskoging2/id3192508/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "kud",
+   "title": "NRK-journalistar får menneskerettspris for «Utlevert av Telenor»",
+   "url": "https://www.regjeringen.no/no/aktuelt/nrk-journalistar-far-menneskerettspris-for-utlevert-av-telenor/id3192512/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "kd",
+   "title": "Nasjonale prøver 2026: Noen positive endringer, men fortsatt behov for å styrke elevenes lese- og regneferdigheter",
+   "url": "https://www.regjeringen.no/no/aktuelt/noen-positive-endringer-men-fortsatt-behov-for-a-styrke-elevenes-lese-og-regneferdigheter/id3192411/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Lyngen kommune får innføre besøksbidrag",
+   "url": "https://www.regjeringen.no/no/aktuelt/lyngen-kommune-far-innfore-besoksbidrag/id3192507/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "En ny generasjon i sentrum i Sør-Afrika",
+   "url": "https://www.regjeringen.no/no/aktuelt/en-ny-generasjon-i-sentrum-i-sor-afrika/id3192514/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Noreg garanterer for meir fornybar energi i Asia",
+   "url": "https://www.regjeringen.no/no/aktuelt/noreg-garanterer-for-meir-fornybar-energi-i-asia/id3192445/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Noreg vil fornye 25 år gammal handelsavtale med Mexico",
+   "url": "https://www.regjeringen.no/no/aktuelt/noreg-vil-fornye-25-ar-gammal-handelsavtale-med-mexico/id3192252/"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Statsministeren og Brasils president samler verdens land til felles innsats for regnskogen",
+   "url": "https://www.regjeringen.no/no/aktuelt/statsministeren-og-brasils-president-samler-verdens-land-til-felles-innsats-for-regnskogen/id3192419/"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "nyhet",
+   "ministry": "fin",
+   "title": "Møte med Kasakhstans ambassadør til Norge",
+   "url": "https://www.regjeringen.no/no/aktuelt/mote-med-kasakhstans-ambassador-til-norge/id3192321/"
+  },
+  {
+   "d": "2026-11-11",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Resultat frå auksjon av nye løyve til oppdrett av laks",
+   "url": "https://www.regjeringen.no/no/aktuelt/resultat-fra-auksjon-av-nye-loyve-til-oppdrett-av-laks/id3192412/"
+  },
   {
    "d": "2026-11-11",
    "t": "ny",
@@ -9702,12 +9952,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-11T11:55:36.982Z",
+  "ranAt": "2026-11-12T12:50:15.124Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 25
+  "newEvents": 21
  },
  "tema": {
   "tema": [
