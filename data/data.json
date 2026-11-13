@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-12",
+ "fetched": "2026-11-13",
  "gov": {
-  "fetched": "2026-11-12",
+  "fetched": "2026-11-13",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -82,6 +82,11 @@
     ],
     "news": [
      {
+      "title": "Vil gi arbeidsgivarar seks månader til å krevje refusjon av sjukepengar",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192877/"
+     },
+     {
       "title": "Vil at uføre får begrenset rett til sykepenger",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/vil-at-ufore-far-begrenset-rett-til-sykepenger/id3191231/"
@@ -90,11 +95,6 @@
       "title": "Vil at uføre får begrenset rett til sykepenger",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-side3/id3191231/"
-     },
-     {
-      "title": "Ny rapport: For mange kjenner ikke reglene i allmenngjøringsordningen",
-      "date": "2026-11-05",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-rapport-for-mange-kjenner-ikke-reglene-i-allmenngjoringsordningen2/id3191502/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -177,19 +177,19 @@
     ],
     "news": [
      {
+      "title": "Skal vurdere konsekvensen av KI for grunnleggende sikkerhetsinteresser",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/skal-vurdere-konsekvensen-av-ki-for-grunnleggende-sikkerhetsinteresser/id3192830/"
+     },
+     {
+      "title": "Teknisk feil med Microsoft skytjenester",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/teknisk-feil-med-microsoft-skytjenester/id3192891/"
+     },
+     {
       "title": "Norge og Storbritannia etablerer samarbeid om kunstig intelligens",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/norge-og-storbritannia-etablerer-samarbeid-om-kunstig-intelligens/id3192548/"
-     },
-     {
-      "title": "Vil styrke digital sikkerhet i kommunene",
-      "date": "2026-11-10",
-      "url": "https://www.regjeringen.no/no/aktuelt/vil-styrke-digital-sikkerhet-i-kommunene/id3192183/"
-     },
-     {
-      "title": "Regjeringen vil ha en kontrollert vekst av samfunnsnyttige datasentre i Norge",
-      "date": "2026-11-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Utredning om dobbel virkemiddelbruk",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/utredning-om-dobbel-virkemiddelbruk/id3192880/"
+     },
+     {
       "title": "Regjeringen vil ha en kontrollert vekst av samfunnsnyttige datasentre i Norge",
       "date": "2026-11-09",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/"
@@ -233,11 +238,6 @@
       "title": "Pressekonferanse om datasenter og kraft",
       "date": "2026-11-08",
       "url": "https://www.regjeringen.no/no/aktuelt/pressekonferanse_kraft_datasenter/id3191949/"
-     },
-     {
-      "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 46",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-46/id3191996/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -321,6 +321,11 @@
     ],
     "news": [
      {
+      "title": "Industriportalen er endret",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/industriportalen-er-endret/id3192892/"
+     },
+     {
       "title": "Begynner arbeidet med nordisk forsvarsavtale",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/begynner-arbeidet-med-nordisk-forsvarsavtale/id3192484/"
@@ -329,11 +334,6 @@
       "title": "Ber etatane utarbeida tiltak",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/ber-etatane-utarbeida-tiltak/id3192243/"
-     },
-     {
-      "title": "Presseinvitasjon: Nordisk forsvarsministermøte i Oslo 11.–12. november",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-forsvarsministermote-i-oslo-11.12.-november/id3191962/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -417,19 +417,19 @@
     ],
     "news": [
      {
+      "title": "Kravet om godkjente Svalbard-guider utsettes",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/kravet-om-godkjente-svalbard-guider-utsettes/id3192856/"
+     },
+     {
+      "title": "Regjeringen vil hindre russiske og belarusiske profesjonelle idrettsutøvere i å komme til Norge for å konkurrere",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-hindre-russiske-og-belarusiske-profesjonelle-idrettsutovere-i-a-komme-til-norge-for-a-konkurrere/id3192790/"
+     },
+     {
       "title": "Vil styrke digital sikkerhet i kommunene",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/vil-styrke-digital-sikkerhet-i-kommunene/id3192183/"
-     },
-     {
-      "title": "Presseinvitasjon: Nordisk forsvarsministermøte i Oslo 11.–12. november",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-forsvarsministermote-i-oslo-11.12.-november/id3191962/"
-     },
-     {
-      "title": "Regjeringen vil styrke vernet mot spionasje og skadelig etterretningsvirksomhet",
-      "date": "2026-11-02",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-vernet-mot-spionasje-og-skadelig-etterretningsvirksomhet/id3190660/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -562,6 +562,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen vil hindre russiske og belarusiske profesjonelle idrettsutøvere i å komme til Norge for å konkurrere",
+      "date": "2026-11-12",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-hindre-russiske-og-belarusiske-profesjonelle-idrettsutovere-i-a-komme-til-norge-for-a-konkurrere/id3192790/"
+     },
+     {
       "title": "NRK-journalistar får menneskerettspris for «Utlevert av Telenor»",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/nrk-journalistar-far-menneskerettspris-for-utlevert-av-telenor/id3192512/"
@@ -570,11 +575,6 @@
       "title": "Regjeringa vil bruke Gamle Munch på Tøyen som teaterhus med biscener for Nationaltheatret",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-vil-bruke-gamle-munch-pa-toyen-som-teaterhus-med-biscener-for-nationaltheatret/id3192180/"
-     },
-     {
-      "title": "Presseinvitasjon: Kultur- og likestillingsministeren inviterer til pressekonferanse om Nationaltheatret",
-      "date": "2026-11-10",
-      "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-kultur-og-likestillingsministeren-inviterer-til-pressekonferanse-om-nationaltheatret/id3192094/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kud/id545/",
@@ -716,19 +716,19 @@
     ],
     "news": [
      {
+      "title": "Kravet om godkjente Svalbard-guider utsettes",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/kravet-om-godkjente-svalbard-guider-utsettes/id3192856/"
+     },
+     {
+      "title": "Overgang til ny gruppeunntaksforordning for offentleg støtte (GBER)",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/overgang-til-ny-gruppeunntaksforordning-for-offentleg-stotte-gber/id3192815/"
+     },
+     {
       "title": "Lyngen kommune får innføre besøksbidrag",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/lyngen-kommune-far-innfore-besoksbidrag/id3192507/"
-     },
-     {
-      "title": "Resultat frå auksjon av nye løyve til oppdrett av laks",
-      "date": "2026-11-11",
-      "url": "https://www.regjeringen.no/no/aktuelt/resultat-fra-auksjon-av-nye-loyve-til-oppdrett-av-laks/id3192412/"
-     },
-     {
-      "title": "Regjeringen vil gjøre Norge mindre sårbart for GPS-svikt",
-      "date": "2026-11-11",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-gjore-norge-mindre-sarbart-for-gps-svikt/id3192316/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Noreg gir 316 millionar kroner til internasjonalt klima- og miljøarbeid",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/noreg-gir-316-millionar-kroner-til-internasjonalt-klima-og-miljoarbeid/id3192795/"
+     },
+     {
       "title": "En ny generasjon i sentrum i Sør-Afrika",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/en-ny-generasjon-i-sentrum-i-sor-afrika/id3192514/"
@@ -825,11 +830,6 @@
       "title": "Noreg garanterer for meir fornybar energi i Asia",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/noreg-garanterer-for-meir-fornybar-energi-i-asia/id3192445/"
-     },
-     {
-      "title": "Noreg vil fornye 25 år gammal handelsavtale med Mexico",
-      "date": "2026-11-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/noreg-vil-fornye-25-ar-gammal-handelsavtale-med-mexico/id3192252/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-12",
+  "fetched": "2026-11-13",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -4076,7 +4076,7 @@
     "title": "Be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare",
     "fullTitle": "Representantforslag frå stortingsrepresentantane Erling Sande, Kjersti Toppe og Ole Herman Sveian om å be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare",
     "session": "2025-2026",
-    "status": "til_behandling",
+    "status": "behandlet",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
     "committee": "Familie- og kulturkomiteen",
@@ -4084,9 +4084,9 @@
     "proposer": "Sp (Erling Sande, Kjersti Toppe, Ole Herman Sveian)",
     "topics": [],
     "updated": "2026-11-03",
-    "decided": "",
-    "outcome": "",
-    "nextStep": "Til behandling i komiteen.",
+    "decided": "2026-11-12",
+    "outcome": "Ikke vedtatt: 6 for, 90 mot.",
+    "nextStep": "",
     "reference": "Dokument 8:276 S (2025–2026); Innst. 24 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200282"
    },
@@ -4990,7 +4990,7 @@
     "title": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
     "fullTitle": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
     "session": "2026-2027",
-    "status": "til_behandling",
+    "status": "behandlet",
     "type": "alminneligsak",
     "docGroup": "redegjorelse",
     "committee": "",
@@ -5001,9 +5001,9 @@
      "Menneskerettigheter"
     ],
     "updated": "2026-11-10",
-    "decided": "",
-    "outcome": "",
-    "nextStep": "Til behandling i komiteen.",
+    "decided": "2026-11-12",
+    "outcome": "Enstemmig vedtatt.",
+    "nextStep": "",
     "reference": "",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200464"
    },
@@ -5812,17 +5812,17 @@
     "title": "At staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Tage Pettersen, Mudassar Kapur, Anne Kristine Linnestad, Kari Sofie Bjørnsen, Erlend Larsen og Trond Helleland om at staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Kommunal- og forvaltningskomiteen",
     "ministry": "",
     "proposer": "H (Anne Kristine Linnestad, Erlend Larsen, Kari Sofie Bjørnsen, Mudassar Kapur, Tage Pettersen, Trond Helleland)",
     "topics": [],
-    "updated": "2026-11-10",
+    "updated": "2026-11-12",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:39 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200506"
    },
@@ -5831,17 +5831,17 @@
     "title": "Et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Wiborg, Hans Andreas Limi, Jon Engen-Helgheim, Tor Mikkel Wara, Morten Stordalen, Bjørn-Kristian Svendsrud og Bård Hoksrud om et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Kommunal- og forvaltningskomiteen",
     "ministry": "",
     "proposer": "FrP (Bjørn-Kristian Svendsrud m.fl., 7 representanter)",
     "topics": [],
-    "updated": "2026-11-10",
+    "updated": "2026-11-12",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:40 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507"
    },
@@ -5888,17 +5888,17 @@
     "title": "Strømstøtte til næringslivet",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Maren Grøthe, Geir Pollestad og Geir Inge Lien om strømstøtte til næringslivet",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Energi- og miljøkomiteen",
     "ministry": "",
     "proposer": "Sp (Geir Inge Lien, Geir Pollestad, Maren Grøthe)",
     "topics": [],
-    "updated": "2026-11-11",
+    "updated": "2026-11-12",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:41 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200510"
    },
@@ -5945,17 +5945,17 @@
     "title": "Midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
     "fullTitle": "Representantforslag fra stortingsrepresentantene Siren Julianne Jensen og Une Bastholm om å midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
     "session": "2026-2027",
-    "status": "mottatt",
+    "status": "til_behandling",
     "type": "alminneligsak",
     "docGroup": "representantforslag",
-    "committee": "",
+    "committee": "Næringskomiteen",
     "ministry": "",
     "proposer": "MDG (Siren Julianne Jensen, Une Bastholm)",
     "topics": [],
     "updated": "2026-11-12",
     "decided": "",
     "outcome": "",
-    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "nextStep": "Til behandling i komiteen.",
     "reference": "Dokument 8:45 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200511"
    },
@@ -6019,7 +6019,7 @@
    {
     "id": "200515",
     "title": "Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)",
-    "fullTitle": "Innstilling fra Stortingets presidentskap om valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)",
+    "fullTitle": "Valg av nytt medlem til Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget)",
     "session": "2026-2027",
     "status": "til_behandling",
     "type": "alminneligsak",
@@ -6032,8 +6032,84 @@
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "",
+    "reference": "Innst. 36 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200515"
+   },
+   {
+    "id": "200517",
+    "title": "Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)",
+    "fullTitle": "Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "lovsak",
+    "docGroup": "proposisjon",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-13",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Prop. 11 L (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200517"
+   },
+   {
+    "id": "200518",
+    "title": "Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)",
+    "fullTitle": "Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "lovsak",
+    "docGroup": "proposisjon",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-13",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Prop. 10 L (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200518"
+   },
+   {
+    "id": "200519",
+    "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Fagforbundet/LO og NHO Geneo/NHO i forbindelse med tariffrevisjonen 2026 av Overenskomst 453 – Blindeforbundet, barnevern, asylmottak, kino, m.fl.",
+    "fullTitle": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Fagforbundet/LO og NHO Geneo/NHO i forbindelse med tariffrevisjonen 2026 av Overenskomst 453 – Blindeforbundet, barnevern, asylmottak, kino, m.fl.",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "lovsak",
+    "docGroup": "proposisjon",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-13",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Prop. 12 L (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200519"
+   },
+   {
+    "id": "200516",
+    "title": "Rapport til Stortingets presidentskap fra utvalget om dommernes lønnsordninger og lønns- og godtgjøringsordninger for verv og stillinger der Stortinget fastsetter lønn eller godtgjøring",
+    "fullTitle": "Rapport til Stortingets presidentskap fra utvalget om dommernes lønnsordninger og lønns- og godtgjøringsordninger for verv og stillinger der Stortinget fastsetter lønn eller godtgjøring",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "dokumentserien",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-13",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 18 (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200516"
    }
   ]
  },
@@ -6754,6 +6830,157 @@
  },
  "nytt": [
   {
+   "d": "2026-11-13",
+   "t": "ny",
+   "id": "200517",
+   "title": "Endringer i folketrygdloven (refusjon av forskutterte sykepenger mv.)",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200517"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "ny",
+   "id": "200518",
+   "title": "Endringer i rettsgebyrloven (nedjustering av gebyret for behandling av begjæringer om tvangssalg etter tvangsfullbyrdelsesloven)",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200518"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "ny",
+   "id": "200519",
+   "title": "Lov om lønnsnemndbehandling av arbeidstvisten mellom Fagforbundet/LO og NHO Geneo/NHO i forbindelse med tariffrevisjonen 2026 av Overenskomst 453 – Blindeforbundet, barnevern, asylmottak, kino, m.fl.",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200519"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "ny",
+   "id": "200516",
+   "title": "Rapport til Stortingets presidentskap fra utvalget om dommernes lønnsordninger og lønns- og godtgjøringsordninger for verv og stillinger der Stortinget fastsetter lønn eller godtgjøring",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200516"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Vil gi arbeidsgivarar seks månader til å krevje refusjon av sjukepengar",
+   "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192877/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Skal vurdere konsekvensen av KI for grunnleggende sikkerhetsinteresser",
+   "url": "https://www.regjeringen.no/no/aktuelt/skal-vurdere-konsekvensen-av-ki-for-grunnleggende-sikkerhetsinteresser/id3192830/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Teknisk feil med Microsoft skytjenester",
+   "url": "https://www.regjeringen.no/no/aktuelt/teknisk-feil-med-microsoft-skytjenester/id3192891/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Utredning om dobbel virkemiddelbruk",
+   "url": "https://www.regjeringen.no/no/aktuelt/utredning-om-dobbel-virkemiddelbruk/id3192880/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Industriportalen er endret",
+   "url": "https://www.regjeringen.no/no/aktuelt/industriportalen-er-endret/id3192892/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "jd",
+   "title": "Kravet om godkjente Svalbard-guider utsettes",
+   "url": "https://www.regjeringen.no/no/aktuelt/kravet-om-godkjente-svalbard-guider-utsettes/id3192856/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Overgang til ny gruppeunntaksforordning for offentleg støtte (GBER)",
+   "url": "https://www.regjeringen.no/no/aktuelt/overgang-til-ny-gruppeunntaksforordning-for-offentleg-stotte-gber/id3192815/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Noreg gir 316 millionar kroner til internasjonalt klima- og miljøarbeid",
+   "url": "https://www.regjeringen.no/no/aktuelt/noreg-gir-316-millionar-kroner-til-internasjonalt-klima-og-miljoarbeid/id3192795/"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "status",
+   "id": "200506",
+   "title": "At staten må bidra i spleiselaget for å sikre nitrogenrensing av norsk avløpsvann",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kommunal- og forvaltningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200506"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "status",
+   "id": "200507",
+   "title": "Et spleiselag mellom stat og kommune for å redusere husholdningenes gebyrer ved investeringer i nye renseanlegg",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Kommunal- og forvaltningskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200507"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "status",
+   "id": "200510",
+   "title": "Strømstøtte til næringslivet",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Energi- og miljøkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200510"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "status",
+   "id": "200511",
+   "title": "Midlertidig stanse oppkjøp av Nussir, kobbergruva i Kvalsund",
+   "from": "mottatt",
+   "to": "til_behandling",
+   "outcome": "",
+   "committee": "Næringskomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200511"
+  },
+  {
+   "d": "2026-11-12",
+   "t": "nyhet",
+   "ministry": "jd",
+   "title": "Regjeringen vil hindre russiske og belarusiske profesjonelle idrettsutøvere i å komme til Norge for å konkurrere",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-hindre-russiske-og-belarusiske-profesjonelle-idrettsutovere-i-a-komme-til-norge-for-a-konkurrere/id3192790/"
+  },
+  {
    "d": "2026-11-12",
    "t": "ny",
    "id": "200511",
@@ -6952,6 +7179,18 @@
    "ministry": "nfd",
    "title": "Næringsministeren til Lyngen og Industriens dag torsdag 12. november",
    "url": "https://www.regjeringen.no/no/aktuelt/naringsministeren-til-lyngen-og-industriens-dag-torsdag-12.-november/id3192315/"
+  },
+  {
+   "d": "2026-11-10",
+   "t": "vedtak",
+   "id": "200464",
+   "title": "Redegjørelse av kultur- og likestillingsministeren om mediepolitikk og ytringsfrihet",
+   "from": "til_behandling",
+   "to": "behandlet",
+   "outcome": "Enstemmig vedtatt.",
+   "committee": "",
+   "ministry": "kud",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200464"
   },
   {
    "d": "2026-11-10",
@@ -7496,6 +7735,18 @@
    "ministry": "ud",
    "title": "Presseinformasjon: Utanriksministeren til ministermøte i Polen",
    "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-ministermote-i-polen/id3191220/"
+  },
+  {
+   "d": "2026-11-03",
+   "t": "vedtak",
+   "id": "200282",
+   "title": "Be regjeringa greie ut alternativet «Ny framtid for Nationaltheatret» grundigare",
+   "from": "til_behandling",
+   "to": "behandlet",
+   "outcome": "Ikke vedtatt: 6 for, 90 mot.",
+   "committee": "Familie- og kulturkomiteen",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200282"
   },
   {
    "d": "2026-11-03",
@@ -9952,7 +10203,7 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-12T12:50:15.124Z",
+  "ranAt": "2026-11-13T12:18:31.551Z",
   "refreshed": [
    "storting",
    "nyheter"
