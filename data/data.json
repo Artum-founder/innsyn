@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-13",
+ "fetched": "2026-11-14",
  "gov": {
-  "fetched": "2026-11-13",
+  "fetched": "2026-11-14",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Statsministerens program veke 47",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-47/id3192963/"
+     },
+     {
       "title": "Statsministeren og Brasils president samler verdens land til felles innsats for regnskogen",
       "date": "2026-11-11",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministeren-og-brasils-president-samler-verdens-land-til-felles-innsats-for-regnskogen/id3192419/"
@@ -42,11 +47,6 @@
       "title": "Nordisk middagsmøte med president Zelenskyj",
       "date": "2026-11-10",
       "url": "https://www.regjeringen.no/no/aktuelt/nordisk-middagsmote-med-president-zelenskyj/id3192268/"
-     },
-     {
-      "title": "Støre deltar på nordisk møte med Zelenskyj",
-      "date": "2026-11-10",
-      "url": "https://www.regjeringen.no/no/aktuelt/store-deltar-pa-nordisk-mote-med-zelenskyj/id3192185/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Ber kommunene følge opp driveplikten på jordbruksarealene",
+      "date": "2026-11-14",
+      "url": "https://www.regjeringen.no/no/aktuelt/ber-kommunene-folge-opp-driveplikten-pa-jordbruksarealene/id3192976/"
+     },
+     {
       "title": "Fylkesnytt fra Nordland 2/2026",
       "date": "2026-11-11",
       "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-nordland-22026/id3192045/"
@@ -671,11 +676,6 @@
       "title": "Rekordstore lagre med norske poteter",
       "date": "2026-11-09",
       "url": "https://www.regjeringen.no/no/aktuelt/rekordstore-lagre-med-norske-poteter/id3192109/"
-     },
-     {
-      "title": "Regjeringen mottar Matsystemutvalgets utredning",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-mottar-matsystemutvalgets-utredning/id3191711/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "– Å lage sjømat er både gøy og lett",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/-a-lage-sjomat-er-bade-goy-og-lett/id3192966/"
+     },
+     {
       "title": "Kravet om godkjente Svalbard-guider utsettes",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/kravet-om-godkjente-svalbard-guider-utsettes/id3192856/"
@@ -724,11 +729,6 @@
       "title": "Overgang til ny gruppeunntaksforordning for offentleg støtte (GBER)",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/overgang-til-ny-gruppeunntaksforordning-for-offentleg-stotte-gber/id3192815/"
-     },
-     {
-      "title": "Lyngen kommune får innføre besøksbidrag",
-      "date": "2026-11-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/lyngen-kommune-far-innfore-besoksbidrag/id3192507/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 47",
+      "date": "2026-11-13",
+      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-47/id3192897/"
+     },
+     {
       "title": "Noreg gir 316 millionar kroner til internasjonalt klima- og miljøarbeid",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/noreg-gir-316-millionar-kroner-til-internasjonalt-klima-og-miljoarbeid/id3192795/"
@@ -825,11 +830,6 @@
       "title": "En ny generasjon i sentrum i Sør-Afrika",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/en-ny-generasjon-i-sentrum-i-sor-afrika/id3192514/"
-     },
-     {
-      "title": "Noreg garanterer for meir fornybar energi i Asia",
-      "date": "2026-11-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/noreg-garanterer-for-meir-fornybar-energi-i-asia/id3192445/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-13",
+  "fetched": "2026-11-14",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -6830,6 +6830,34 @@
  },
  "nytt": [
   {
+   "d": "2026-11-14",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Ber kommunene følge opp driveplikten på jordbruksarealene",
+   "url": "https://www.regjeringen.no/no/aktuelt/ber-kommunene-folge-opp-driveplikten-pa-jordbruksarealene/id3192976/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Statsministerens program veke 47",
+   "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-47/id3192963/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "– Å lage sjømat er både gøy og lett",
+   "url": "https://www.regjeringen.no/no/aktuelt/-a-lage-sjomat-er-bade-goy-og-lett/id3192966/"
+  },
+  {
+   "d": "2026-11-13",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 47",
+   "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-47/id3192897/"
+  },
+  {
    "d": "2026-11-13",
    "t": "ny",
    "id": "200517",
@@ -10203,12 +10231,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-13T12:18:31.551Z",
+  "ranAt": "2026-11-14T11:34:20.136Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 21
+  "newEvents": 4
  },
  "tema": {
   "tema": [
