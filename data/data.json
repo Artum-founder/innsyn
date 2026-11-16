@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-15",
+ "fetched": "2026-11-16",
  "gov": {
-  "fetched": "2026-11-15",
+  "fetched": "2026-11-16",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Endringar blant dei politiske rådgivarane",
+      "date": "2026-11-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/endringar-blant-dei-politiske-radgivarane11/id3193011/"
+     },
+     {
       "title": "Statsministerens program veke 47",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-47/id3192963/"
@@ -42,11 +47,6 @@
       "title": "Statsministeren og Brasils president samler verdens land til felles innsats for regnskogen",
       "date": "2026-11-11",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministeren-og-brasils-president-samler-verdens-land-til-felles-innsats-for-regnskogen/id3192419/"
-     },
-     {
-      "title": "Nordisk middagsmøte med president Zelenskyj",
-      "date": "2026-11-10",
-      "url": "https://www.regjeringen.no/no/aktuelt/nordisk-middagsmote-med-president-zelenskyj/id3192268/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -82,6 +82,11 @@
     ],
     "news": [
      {
+      "title": "Vil at flere unge uføre kontakter Nav",
+      "date": "2026-11-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/vil-at-flere-unge-ufore-kontakter-nav/id3192307/"
+     },
+     {
       "title": "Vil gi arbeidsgivarar seks månader til å krevje refusjon av sjukepengar",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192877/"
@@ -90,11 +95,6 @@
       "title": "Vil at uføre får begrenset rett til sykepenger",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/vil-at-ufore-far-begrenset-rett-til-sykepenger/id3191231/"
-     },
-     {
-      "title": "Vil at uføre får begrenset rett til sykepenger",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-side3/id3191231/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Møte med Femund reinbeitedistrikt",
+      "date": "2026-11-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-femund-reinbeitedistrikt/id3193137/"
+     },
+     {
       "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 47",
       "date": "2026-11-14",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-47/id3192992/"
@@ -233,11 +238,6 @@
       "title": "Utredning om dobbel virkemiddelbruk",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/utredning-om-dobbel-virkemiddelbruk/id3192880/"
-     },
-     {
-      "title": "Regjeringen vil ha en kontrollert vekst av samfunnsnyttige datasentre i Norge",
-      "date": "2026-11-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -465,6 +465,11 @@
     ],
     "news": [
      {
+      "title": "Klima- og miljøministeren deltar på klimamøtet",
+      "date": "2026-11-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/klimamote-cop-31/id3193105/"
+     },
+     {
       "title": "Kjøper klimakvotar frå sol- og vindkraft i Marokko",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/kjoper-klimakvotar-fra-sol-og-vindkraft-i-marokko/id3192555/"
@@ -473,11 +478,6 @@
       "title": "Indonesia får milliardutbetaling etter kraftig reduksjon i avskoging",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/indonesia-far-milliardutbetaling-etter-kraftig-reduksjon-i-avskoging2/id3192508/"
-     },
-     {
-      "title": "Statsministeren og Brasils president samler verdens land til felles innsats for regnskogen",
-      "date": "2026-11-11",
-      "url": "https://www.regjeringen.no/no/aktuelt/statsministeren-og-brasils-president-samler-verdens-land-til-felles-innsats-for-regnskogen/id3192419/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -562,6 +562,11 @@
     ],
     "news": [
      {
+      "title": "Norge blir med i globalt initiativ for seksuell og reproduktiv helse og rettigheter",
+      "date": "2026-11-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-blir-med-i-globalt-initiativ-for-seksuell-og-reproduktiv-helse-og-rettigheter/id3193002/"
+     },
+     {
       "title": "Regjeringen vil hindre russiske og belarusiske profesjonelle idrettsutøvere i å komme til Norge for å konkurrere",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-hindre-russiske-og-belarusiske-profesjonelle-idrettsutovere-i-a-komme-til-norge-for-a-konkurrere/id3192790/"
@@ -570,11 +575,6 @@
       "title": "NRK-journalistar får menneskerettspris for «Utlevert av Telenor»",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/nrk-journalistar-far-menneskerettspris-for-utlevert-av-telenor/id3192512/"
-     },
-     {
-      "title": "Regjeringa vil bruke Gamle Munch på Tøyen som teaterhus med biscener for Nationaltheatret",
-      "date": "2026-11-10",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringa-vil-bruke-gamle-munch-pa-toyen-som-teaterhus-med-biscener-for-nationaltheatret/id3192180/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kud/id545/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Møte med Femund reinbeitedistrikt",
+      "date": "2026-11-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-femund-reinbeitedistrikt/id3193137/"
+     },
+     {
       "title": "Ber kommunene følge opp driveplikten på jordbruksarealene",
       "date": "2026-11-14",
       "url": "https://www.regjeringen.no/no/aktuelt/ber-kommunene-folge-opp-driveplikten-pa-jordbruksarealene/id3192976/"
@@ -671,11 +676,6 @@
       "title": "Fylkesnytt fra Nordland 2/2026",
       "date": "2026-11-11",
       "url": "https://www.regjeringen.no/no/aktuelt/fylkesnytt-fra-nordland-22026/id3192045/"
-     },
-     {
-      "title": "Rekordstore lagre med norske poteter",
-      "date": "2026-11-09",
-      "url": "https://www.regjeringen.no/no/aktuelt/rekordstore-lagre-med-norske-poteter/id3192109/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Fiskeri- og havminister Marianne Sivertsen Næss besøker Mo i Rana 18. november",
+      "date": "2026-11-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havminister-marianne-sivertsen-nass-besoker-mo-i-rana-18.-november/id3193007/"
+     },
+     {
       "title": "– Å lage sjømat er både gøy og lett",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/-a-lage-sjomat-er-bade-goy-og-lett/id3192966/"
@@ -724,11 +729,6 @@
       "title": "Kravet om godkjente Svalbard-guider utsettes",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/kravet-om-godkjente-svalbard-guider-utsettes/id3192856/"
-     },
-     {
-      "title": "Overgang til ny gruppeunntaksforordning for offentleg støtte (GBER)",
-      "date": "2026-11-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/overgang-til-ny-gruppeunntaksforordning-for-offentleg-stotte-gber/id3192815/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Norge blir med i globalt initiativ for seksuell og reproduktiv helse og rettigheter",
+      "date": "2026-11-16",
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-blir-med-i-globalt-initiativ-for-seksuell-og-reproduktiv-helse-og-rettigheter/id3193002/"
+     },
+     {
       "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 47",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-47/id3192897/"
@@ -825,11 +830,6 @@
       "title": "Noreg gir 316 millionar kroner til internasjonalt klima- og miljøarbeid",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/noreg-gir-316-millionar-kroner-til-internasjonalt-klima-og-miljoarbeid/id3192795/"
-     },
-     {
-      "title": "En ny generasjon i sentrum i Sør-Afrika",
-      "date": "2026-11-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/en-ny-generasjon-i-sentrum-i-sor-afrika/id3192514/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-15",
+  "fetched": "2026-11-16",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -5580,7 +5580,7 @@
     "fullTitle": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre",
     "session": "2026-2027",
     "status": "til_behandling",
-    "type": "lovsak",
+    "type": "alminneligsak",
     "docGroup": "representantforslag",
     "committee": "Energi- og miljøkomiteen",
     "ministry": "",
@@ -5599,7 +5599,7 @@
     "fullTitle": "Representantforslag fra stortingsrepresentantene Marie Sneve Martinussen, Geir Pollestad, Lars Haltbrekken, Hans Edvard Askjer og Frøya Skjold Sjursæther om midlertidig stans av økt strømforbruk til datasentre",
     "session": "2026-2027",
     "status": "til_behandling",
-    "type": "alminneligsak",
+    "type": "lovsak",
     "docGroup": "representantforslag",
     "committee": "Energi- og miljøkomiteen",
     "ministry": "",
@@ -6829,6 +6829,48 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-11-16",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Endringar blant dei politiske rådgivarane",
+   "url": "https://www.regjeringen.no/no/aktuelt/endringar-blant-dei-politiske-radgivarane11/id3193011/"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Vil at flere unge uføre kontakter Nav",
+   "url": "https://www.regjeringen.no/no/aktuelt/vil-at-flere-unge-ufore-kontakter-nav/id3192307/"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Møte med Femund reinbeitedistrikt",
+   "url": "https://www.regjeringen.no/no/aktuelt/mote-med-femund-reinbeitedistrikt/id3193137/"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "Klima- og miljøministeren deltar på klimamøtet",
+   "url": "https://www.regjeringen.no/no/aktuelt/klimamote-cop-31/id3193105/"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "nyhet",
+   "ministry": "kud",
+   "title": "Norge blir med i globalt initiativ for seksuell og reproduktiv helse og rettigheter",
+   "url": "https://www.regjeringen.no/no/aktuelt/norge-blir-med-i-globalt-initiativ-for-seksuell-og-reproduktiv-helse-og-rettigheter/id3193002/"
+  },
+  {
+   "d": "2026-11-16",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Presseinvitasjon: Fiskeri- og havminister Marianne Sivertsen Næss besøker Mo i Rana 18. november",
+   "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havminister-marianne-sivertsen-nass-besoker-mo-i-rana-18.-november/id3193007/"
+  },
   {
    "d": "2026-11-15",
    "t": "nyhet",
@@ -10245,12 +10287,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-15T11:59:43.289Z",
+  "ranAt": "2026-11-16T12:51:08.554Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 2
+  "newEvents": 8
  },
  "tema": {
   "tema": [
