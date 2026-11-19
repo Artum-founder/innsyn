@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-18",
+ "fetched": "2026-11-19",
  "gov": {
-  "fetched": "2026-11-18",
+  "fetched": "2026-11-19",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Norsk-britisk støtte til Ukrainas marine",
+      "date": "2026-11-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/norsk-britisk-stotte-til-ukrainas-marine/id3193973/"
+     },
+     {
       "title": "Vil åpne nye havområder for oppdrett",
       "date": "2026-11-17",
       "url": "https://www.regjeringen.no/no/aktuelt/vil-apne-nye-havomrader-for-oppdrett/id3193178/"
@@ -42,11 +47,6 @@
       "title": "Endringar blant dei politiske rådgivarane",
       "date": "2026-11-16",
       "url": "https://www.regjeringen.no/no/aktuelt/endringar-blant-dei-politiske-radgivarane11/id3193011/"
-     },
-     {
-      "title": "Statsministerens program veke 47",
-      "date": "2026-11-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-47/id3192963/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -369,6 +369,11 @@
     ],
     "news": [
      {
+      "title": "Norge i dialog med FNs torturkomite",
+      "date": "2026-11-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-i-dialog-med-fns-torturkomite/id3193631/"
+     },
+     {
       "title": "Forslag om enklare datadeling frå NPR og KPR er sendt på høyring",
       "date": "2026-11-17",
       "url": "https://www.regjeringen.no/no/aktuelt/forslag-om-enklare-datadeling-fra-npr-og-kpr-er-sendt-pa-hoyring/id3193322/"
@@ -377,11 +382,6 @@
       "title": "Ny rapport om kommunale helse- og omsorgstjenestene: Flere heltidsstillinger og færre ansatte slutter",
       "date": "2026-11-17",
       "url": "https://www.regjeringen.no/no/aktuelt/flere-heltidsstillinger-og-farre-ansatte-slutter/id3192930/"
-     },
-     {
-      "title": "38 land advarer mot risiko for atomhendelse i Ukraina",
-      "date": "2026-11-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/38-land-advarer-mot-risiko-for-atomhendelse-i-ukraina/id3193151/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Norge i dialog med FNs torturkomite",
+      "date": "2026-11-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-i-dialog-med-fns-torturkomite/id3193631/"
+     },
+     {
       "title": "Begrensninger i adgangen til innreise og visumopphold for russiske og belarusiske idrettsutøvere",
       "date": "2026-11-16",
       "url": "https://www.regjeringen.no/no/aktuelt/begrensninger-i-adgangen-til-innreise-og-visumopphold-for-russiske-og-belarusiske-idrettsutovere/id3193251/"
@@ -425,11 +430,6 @@
       "title": "Kravet om godkjente Svalbard-guider utsettes",
       "date": "2026-11-13",
       "url": "https://www.regjeringen.no/no/aktuelt/kravet-om-godkjente-svalbard-guider-utsettes/id3192856/"
-     },
-     {
-      "title": "Regjeringen vil hindre russiske og belarusiske profesjonelle idrettsutøvere i å komme til Norge for å konkurrere",
-      "date": "2026-11-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-hindre-russiske-og-belarusiske-profesjonelle-idrettsutovere-i-a-komme-til-norge-for-a-konkurrere/id3192790/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Tettere samarbeid mellom Norge og Sør-Afrika",
+      "date": "2026-11-18",
+      "url": "https://www.regjeringen.no/no/aktuelt/tettere-samarbeid-mellom-norge-og-sor-afrika/id3193613/"
+     },
+     {
       "title": "Utredning om nasjonalt kompetansesenter om fornorskingspolitikk og urett",
       "date": "2026-11-17",
       "url": "https://www.regjeringen.no/no/aktuelt/utredning-om-nasjonalt-kompetansesenter-om-fornorskingspolitikk-og-urett/id3193303/"
@@ -623,11 +628,6 @@
       "title": "Nasjonale prøver 2026: Noen positive endringer, men fortsatt behov for å styrke elevenes lese- og regneferdigheter",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/noen-positive-endringer-men-fortsatt-behov-for-a-styrke-elevenes-lese-og-regneferdigheter/id3192411/"
-     },
-     {
-      "title": "Utvalg: Kunstig intelligens krever nye grep i høyere utdanning",
-      "date": "2026-11-06",
-      "url": "https://www.regjeringen.no/no/aktuelt/utvalg-kunstig-intelligens-krever-nye-grep-i-hoyere-utdanning/id3191851/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -764,6 +764,11 @@
     ],
     "news": [
      {
+      "title": "Ekstern rapport: Tiltak for bedre styring av store jernbaneprosjekter",
+      "date": "2026-11-19",
+      "url": "https://www.regjeringen.no/no/aktuelt/ekstern-rapport-tiltak-for-bedre-styring-av-store-jernbaneprosjekter/id3193974/"
+     },
+     {
       "title": "Tilbyr toårig forlengelse av byvekstavtalen for Bergens-området",
       "date": "2026-11-17",
       "url": "https://www.regjeringen.no/no/aktuelt/tilbyr-toarig-forlengelse-av-byvekstavtalen-for-bergens-omradet/id3193150/"
@@ -772,11 +777,6 @@
       "title": "Enklere å gi elektriske varebiler plass i kollektivfeltet",
       "date": "2026-11-06",
       "url": "https://www.regjeringen.no/no/aktuelt/el-varebiler-kollektivfelt/id3191979/"
-     },
-     {
-      "title": "Sender forslag om å heve aldersgrense for bruk av elsparkesykkel på høring",
-      "date": "2026-11-05",
-      "url": "https://www.regjeringen.no/no/aktuelt/aldersgrense-elsparkesykkel-horing/id3191712/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/sd/id791/",
@@ -817,19 +817,19 @@
     ],
     "news": [
      {
+      "title": "Norge og Somalia videreutvikler samarbeidet",
+      "date": "2026-11-18",
+      "url": "https://www.regjeringen.no/no/aktuelt/norge-og-somalia-videreutvikler-samarbeidet/id3193836/"
+     },
+     {
+      "title": "Norsk FN-resolusjon om beskyttelse av menneskerettighetsforsvarere vedtatt med stort flertall",
+      "date": "2026-11-18",
+      "url": "https://www.regjeringen.no/no/aktuelt/norsk-fn-resolusjon-om-beskyttelse-av-menneskerettighetsforsvarere-vedtatt-med-stort-flertall/id3193832/"
+     },
+     {
       "title": "Presseinformasjon: Utviklingsministeren deltek på helsetoppmøte i Etiopia",
       "date": "2026-11-18",
       "url": "https://www.regjeringen.no/no/aktuelt/utviklingsministeren-deltek-pa-helsetoppmote-i-etiopia/id3193572/"
-     },
-     {
-      "title": "Noreg bidreg til oppreising for Ukraina og offera for krigen",
-      "date": "2026-11-18",
-      "url": "https://www.regjeringen.no/no/aktuelt/noreg-bidreg-til-oppreising-for-ukraina-og-offera-for-krigen/id3193506/"
-     },
-     {
-      "title": "Utanriksministeren i Brussel: Vil styrkje EØS-arbeidet for å ta vare på norske interesser",
-      "date": "2026-11-18",
-      "url": "https://www.regjeringen.no/no/aktuelt/vil-styrkje-eos-arbeidet-for-a-ta-vare-pa-norske-interesser/id3193498/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-18",
+  "fetched": "2026-11-19",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -6105,7 +6105,14 @@
     "proposer": "",
     "topics": [
      "Domstoler",
-     "Lønn og inntekt"
+     "Regjeringen",
+     "Stortingsrepresentanter",
+     "Riksrevisjonen",
+     "Forsvar",
+     "Norges bank",
+     "Lønn og inntekt",
+     "Sivilombudet",
+     "Stortinget"
     ],
     "updated": "2026-11-13",
     "decided": "",
@@ -6284,6 +6291,82 @@
     "nextStep": "Venter på å bli referert og sendt til komité.",
     "reference": "Dokument 8:56 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200528"
+   },
+   {
+    "id": "200531",
+    "title": "La kommunene selv regulere konsum av alkohol på offentlig sted",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Erlend Svardal Bøe, Haagen Poppe og Anna Molberg om å la kommunene selv regulere konsum av alkohol på offentlig sted",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "H (Anna Molberg, Erlend Svardal Bøe, Haagen Poppe)",
+    "topics": [],
+    "updated": "2026-11-19",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:58 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200531"
+   },
+   {
+    "id": "200532",
+    "title": "Strengere regulering av kosmetiske inngrep og injeksjoner",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Tone Wilhelmsen Trøen, Haagen Poppe, Erlend Svardal Bøe, Margret Hagerup, Anita Sollie, Mari Holm Lønseth og Anne Kristine Linnestad om strengere regulering av kosmetiske inngrep og injeksjoner",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "H (Anne Kristine Linnestad, Anita Sollie, Erlend Svardal Bøe, Margret Hagerup, Mari Holm Lønseth, Tone Wilhelmsen Trøen)",
+    "topics": [],
+    "updated": "2026-11-19",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:57 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200532"
+   },
+   {
+    "id": "200529",
+    "title": "Nå og forstå Norges klimamål",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om å nå og forstå Norges klimamål",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "V (Abid Raja, Guri Melby, Marit Vea)",
+    "topics": [],
+    "updated": "2026-11-18",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:55 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200529"
+   },
+   {
+    "id": "200530",
+    "title": "Styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper",
+    "fullTitle": "Representantforslag fra stortingsrepresentantene Guri Melby, Abid Raja og Marit Vea om  å styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "V (Abid Raja, Guri Melby, Marit Vea)",
+    "topics": [],
+    "updated": "2026-11-18",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:54 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200530"
    }
   ]
  },
@@ -7003,6 +7086,88 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-11-19",
+   "t": "ny",
+   "id": "200531",
+   "title": "La kommunene selv regulere konsum av alkohol på offentlig sted",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200531"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "ny",
+   "id": "200532",
+   "title": "Strengere regulering av kosmetiske inngrep og injeksjoner",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200532"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Norsk-britisk støtte til Ukrainas marine",
+   "url": "https://www.regjeringen.no/no/aktuelt/norsk-britisk-stotte-til-ukrainas-marine/id3193973/"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Norge i dialog med FNs torturkomite",
+   "url": "https://www.regjeringen.no/no/aktuelt/norge-i-dialog-med-fns-torturkomite/id3193631/"
+  },
+  {
+   "d": "2026-11-19",
+   "t": "nyhet",
+   "ministry": "sd",
+   "title": "Ekstern rapport: Tiltak for bedre styring av store jernbaneprosjekter",
+   "url": "https://www.regjeringen.no/no/aktuelt/ekstern-rapport-tiltak-for-bedre-styring-av-store-jernbaneprosjekter/id3193974/"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "ny",
+   "id": "200529",
+   "title": "Nå og forstå Norges klimamål",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200529"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "ny",
+   "id": "200530",
+   "title": "Styrke og utvide skatteinsentivordningen for investeringer i oppstartsselskaper",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200530"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "nyhet",
+   "ministry": "kd",
+   "title": "Tettere samarbeid mellom Norge og Sør-Afrika",
+   "url": "https://www.regjeringen.no/no/aktuelt/tettere-samarbeid-mellom-norge-og-sor-afrika/id3193613/"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Norge og Somalia videreutvikler samarbeidet",
+   "url": "https://www.regjeringen.no/no/aktuelt/norge-og-somalia-videreutvikler-samarbeidet/id3193836/"
+  },
+  {
+   "d": "2026-11-18",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Norsk FN-resolusjon om beskyttelse av menneskerettighetsforsvarere vedtatt med stort flertall",
+   "url": "https://www.regjeringen.no/no/aktuelt/norsk-fn-resolusjon-om-beskyttelse-av-menneskerettighetsforsvarere-vedtatt-med-stort-flertall/id3193832/"
+  },
   {
    "d": "2026-11-18",
    "t": "ny",
@@ -10799,12 +10964,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-18T13:09:37.747Z",
+  "ranAt": "2026-11-19T13:21:44.325Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 23
+  "newEvents": 11
  },
  "tema": {
   "tema": [
