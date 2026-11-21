@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-20",
+ "fetched": "2026-11-21",
  "gov": {
-  "fetched": "2026-11-20",
+  "fetched": "2026-11-21",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,19 +34,19 @@
     ],
     "news": [
      {
+      "title": "Statsministerens program veke 48",
+      "date": "2026-11-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-48/id3194212/"
+     },
+     {
+      "title": "Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad",
+      "date": "2026-11-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/"
+     },
+     {
       "title": "Støre deltok på toppmøte om Ukraina",
       "date": "2026-11-19",
       "url": "https://www.regjeringen.no/no/aktuelt/store-deltok-pa-toppmote-om-ukraina/id3194070/"
-     },
-     {
-      "title": "Norsk-britisk støtte til Ukrainas marine",
-      "date": "2026-11-19",
-      "url": "https://www.regjeringen.no/no/aktuelt/norsk-britisk-stotte-til-ukrainas-marine/id3193973/"
-     },
-     {
-      "title": "Vil åpne nye havområder for oppdrett",
-      "date": "2026-11-17",
-      "url": "https://www.regjeringen.no/no/aktuelt/vil-apne-nye-havomrader-for-oppdrett/id3193178/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -82,6 +82,11 @@
     ],
     "news": [
      {
+      "title": "Et viktig skritt på veien mot ny sykmeldingsløsning",
+      "date": "2026-11-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/"
+     },
+     {
       "title": "Regjeringen vil gradvis øke pensjonsalderen: Dagens 30-åringer må jobbe tre år lenger",
       "date": "2026-11-17",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-gradvis-oke-pensjonsalderen-dagens-30-aringer-ma-jobbe-tre-ar-lenger/id3193175/"
@@ -90,11 +95,6 @@
       "title": "Vil at flere unge uføre kontakter Nav",
       "date": "2026-11-16",
       "url": "https://www.regjeringen.no/no/aktuelt/vil-at-flere-unge-ufore-kontakter-nav/id3192307/"
-     },
-     {
-      "title": "Vil gi arbeidsgivarar seks månader til å krevje refusjon av sjukepengar",
-      "date": "2026-11-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/ny-side/id3192877/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 48",
+      "date": "2026-11-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-48/id3194296/"
+     },
+     {
       "title": "Havvind fortsatt størst blant leverandørnæringene for fornybar energi",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/havvind-fortsatt-storst-blant-leverandornaringene-for-fornybar-energi/id3194208/"
@@ -233,11 +238,6 @@
       "title": "Møte med Sør-Fosen sijte",
       "date": "2026-11-16",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-sor-fosen-sijte/id3193242/"
-     },
-     {
-      "title": "Møte med Femund reinbeitedistrikt",
-      "date": "2026-11-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-femund-reinbeitedistrikt/id3193137/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -369,6 +369,11 @@
     ],
     "news": [
      {
+      "title": "Et viktig skritt på veien mot ny sykmeldingsløsning",
+      "date": "2026-11-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/"
+     },
+     {
       "title": "Endring i spesialistforskriften for leger",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/endring-i-spesialistforskriften-for-leger/id3194232/"
@@ -377,11 +382,6 @@
       "title": "Norge i dialog med FNs torturkomite",
       "date": "2026-11-19",
       "url": "https://www.regjeringen.no/no/aktuelt/norge-i-dialog-med-fns-torturkomite/id3193631/"
-     },
-     {
-      "title": "Forslag om enklare datadeling frå NPR og KPR er sendt på høyring",
-      "date": "2026-11-17",
-      "url": "https://www.regjeringen.no/no/aktuelt/forslag-om-enklare-datadeling-fra-npr-og-kpr-er-sendt-pa-hoyring/id3193322/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser",
+      "date": "2026-11-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/"
+     },
+     {
       "title": "Forslag om endringer i forskrift til tilskuddsordning for kriminalitetsforebygging sendes på høring",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/forslag-om-endringer-i-forskrift-til-tilskuddsordning-for-kriminalitetsforebygging-sendes-pa-horing/id3194151/"
@@ -425,11 +430,6 @@
       "title": "Utgifter i forbindelse med Kong Harald V sin bortgang",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/utgifter-i-forbindelse-med-kong-harald-v-sin-bortgang/id3194146/"
-     },
-     {
-      "title": "Norge i dialog med FNs torturkomite",
-      "date": "2026-11-19",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-i-dialog-med-fns-torturkomite/id3193631/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -562,7 +562,7 @@
     ],
     "news": [
      {
-      "title": "Tiltak for betre reisopplevingar for flypassasjerar med nedsett funksjonsevne",
+      "title": "Tiltak for betre reiseopplevingar for flypassasjerar med nedsett funksjonsevne",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/tiltak-for-betre-reisopplevingar-for-flypassasjerar-med-nedsett-funksjonsevne/id3194167/"
      },
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad",
+      "date": "2026-11-20",
+      "url": "https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/"
+     },
+     {
       "title": "46 millionar til å styrke kompetansen til SFO-tilsette",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/46-millionar-til-a-styrkje-kompetansen-til-sfo-tilsette/id3194044/"
@@ -623,11 +628,6 @@
       "title": "Tettere samarbeid mellom Norge og Sør-Afrika",
       "date": "2026-11-18",
       "url": "https://www.regjeringen.no/no/aktuelt/tettere-samarbeid-mellom-norge-og-sor-afrika/id3193613/"
-     },
-     {
-      "title": "Utredning om nasjonalt kompetansesenter om fornorskingspolitikk og urett",
-      "date": "2026-11-17",
-      "url": "https://www.regjeringen.no/no/aktuelt/utredning-om-nasjonalt-kompetansesenter-om-fornorskingspolitikk-og-urett/id3193303/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -769,7 +769,7 @@
       "url": "https://www.regjeringen.no/no/aktuelt/mo-i-rana-regjeringa-vil-gjere-nye-mo-i-rana-lufthamn-mindre-sarbar-for-satellittforstyrringar/id3194161/"
      },
      {
-      "title": "Tiltak for betre reisopplevingar for flypassasjerar med nedsett funksjonsevne",
+      "title": "Tiltak for betre reiseopplevingar for flypassasjerar med nedsett funksjonsevne",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/tiltak-for-betre-reisopplevingar-for-flypassasjerar-med-nedsett-funksjonsevne/id3194167/"
      },
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Utviklingsministeren: Situasjonen i Jemen er kraftig forverret",
+      "date": "2026-11-21",
+      "url": "https://www.regjeringen.no/no/aktuelt/utviklingsministeren-situasjonen-i-jemen-er-kraftig-forverret/id3194227/"
+     },
+     {
       "title": "Utgifter i forbindelse med Kong Harald V sin bortgang",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/utgifter-i-forbindelse-med-kong-harald-v-sin-bortgang/id3194146/"
@@ -825,11 +830,6 @@
       "title": "Uttalelse fra utenriksministeren om Den internasjonale domstolens domsavsigelse",
       "date": "2026-11-19",
       "url": "https://www.regjeringen.no/no/aktuelt/uttalelse-fra-utenriksministeren-om-den-internasjonale-domstolens-domsavsigelse/id3194060/"
-     },
-     {
-      "title": "Norge og Somalia videreutvikler samarbeidet",
-      "date": "2026-11-18",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-og-somalia-videreutvikler-samarbeidet/id3193836/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-20",
+  "fetched": "2026-11-21",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -1571,7 +1571,10 @@
     "committee": "Kontroll- og konstitusjonskomiteen",
     "ministry": "smk",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Regjeringen",
+     "Stortinget"
+    ],
     "updated": "2026-10-13",
     "decided": "",
     "outcome": "",
@@ -2054,7 +2057,9 @@
     "ministry": "jd",
     "proposer": "",
     "topics": [
-     "Innvandring"
+     "Innvandrere",
+     "Familie",
+     "Barn"
     ],
     "updated": "2026-09-30",
     "decided": "",
@@ -2076,8 +2081,7 @@
     "proposer": "",
     "topics": [
      "Næringsliv",
-     "Eu/eøs",
-     "Finanser"
+     "Eu/eøs"
     ],
     "updated": "2026-11-17",
     "decided": "",
@@ -2098,8 +2102,8 @@
     "ministry": "nfd",
     "proposer": "",
     "topics": [
-     "Dagligvare",
-     "Konkurranse"
+     "Priser og konkurranseforhold",
+     "Varehandel"
     ],
     "updated": "2026-09-30",
     "decided": "",
@@ -2120,6 +2124,7 @@
     "ministry": "ud",
     "proposer": "",
     "topics": [
+     "Internasjonalt samarbeid",
      "Forsvar",
      "Forsvarsmateriell",
      "Atomvåpen",
@@ -3416,7 +3421,13 @@
     "committee": "Helse- og omsorgskomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Sysselsetting",
+     "Omsorgstjenester",
+     "Helsevesen",
+     "Helsepersonell",
+     "Høyere utdanning"
+    ],
     "updated": "2026-06-15",
     "decided": "",
     "outcome": "",
@@ -3435,7 +3446,10 @@
     "committee": "Familie- og kulturkomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Den norske kirke",
+     "Trossamfunn"
+    ],
     "updated": "2026-06-15",
     "decided": "",
     "outcome": "",
@@ -3454,7 +3468,10 @@
     "committee": "Finanskomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Finanser",
+     "Aksjer"
+    ],
     "updated": "2026-11-17",
     "decided": "",
     "outcome": "",
@@ -3666,7 +3683,12 @@
     "committee": "Helse- og omsorgskomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Helsevesen",
+     "Avgifter",
+     "Eu/eøs",
+     "Folkehelse"
+    ],
     "updated": "2026-11-03",
     "decided": "2026-11-17",
     "outcome": "Enstemmig vedtatt.",
@@ -4160,7 +4182,12 @@
     "committee": "Kommunal- og forvaltningskomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Kommuner",
+     "Avgifter",
+     "Miljøvern",
+     "Lokalforvaltning"
+    ],
     "updated": "2026-04-09",
     "decided": "",
     "outcome": "",
@@ -6096,7 +6123,11 @@
     "committee": "Arbeids- og sosialkomiteen",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Arbeidsliv",
+     "Arbeidsvilkår",
+     "Lønn og inntekt"
+    ],
     "updated": "2026-11-17",
     "decided": "",
     "outcome": "",
@@ -6486,7 +6517,9 @@
     "committee": "",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Likestilling"
+    ],
     "updated": "2026-11-20",
     "decided": "",
     "outcome": "",
@@ -6562,7 +6595,11 @@
     "committee": "",
     "ministry": "",
     "proposer": "",
-    "topics": [],
+    "topics": [
+     "Innvandrere",
+     "Menneskerettigheter",
+     "Samfunnssikkerhet"
+    ],
     "updated": "2026-11-20",
     "decided": "",
     "outcome": "",
@@ -7421,6 +7458,48 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-11-21",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Utviklingsministeren: Situasjonen i Jemen er kraftig forverret",
+   "url": "https://www.regjeringen.no/no/aktuelt/utviklingsministeren-situasjonen-i-jemen-er-kraftig-forverret/id3194227/"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Statsministerens program veke 48",
+   "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-48/id3194212/"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad",
+   "url": "https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Et viktig skritt på veien mot ny sykmeldingsløsning",
+   "url": "https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 48",
+   "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-48/id3194296/"
+  },
+  {
+   "d": "2026-11-20",
+   "t": "nyhet",
+   "ministry": "jd",
+   "title": "Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/"
+  },
   {
    "d": "2026-11-20",
    "t": "ny",
@@ -11787,12 +11866,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-20T13:01:54.563Z",
+  "ranAt": "2026-11-21T12:44:41.170Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 55
+  "newEvents": 8
  },
  "tema": {
   "tema": [
