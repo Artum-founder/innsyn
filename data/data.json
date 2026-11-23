@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-22",
+ "fetched": "2026-11-23",
  "gov": {
-  "fetched": "2026-11-22",
+  "fetched": "2026-11-23",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -82,19 +82,19 @@
     ],
     "news": [
      {
+      "title": "Skal stanse kriminelle som forsøker å utnytte offentlige ordninger",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/skal-stanse-kriminelle-som-forsoker-a-utnytte-offentlige-ordninger/id3194372/"
+     },
+     {
+      "title": "Regjeringen vil vite mer om hvorfor mange innvandrere står utenfor arbeidslivet",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-vite-mer-om-hvorfor-mange-innvandrere-star-utenfor-arbeidslivet/id3194401/"
+     },
+     {
       "title": "Et viktig skritt på veien mot ny sykmeldingsløsning",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/"
-     },
-     {
-      "title": "Regjeringen vil gradvis øke pensjonsalderen: Dagens 30-åringer må jobbe tre år lenger",
-      "date": "2026-11-17",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-gradvis-oke-pensjonsalderen-dagens-30-aringer-ma-jobbe-tre-ar-lenger/id3193175/"
-     },
-     {
-      "title": "Vil at flere unge uføre kontakter Nav",
-      "date": "2026-11-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/vil-at-flere-unge-ufore-kontakter-nav/id3192307/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/aid/id165/",
@@ -273,6 +273,11 @@
     ],
     "news": [
      {
+      "title": "Skal stanse kriminelle som forsøker å utnytte offentlige ordninger",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/skal-stanse-kriminelle-som-forsoker-a-utnytte-offentlige-ordninger/id3194372/"
+     },
+     {
       "title": "Høring om arkivlovas anvendelse på Norges Bank",
       "date": "2026-11-18",
       "url": "https://www.regjeringen.no/no/aktuelt/horing-om-arkivlovas-anvendelse-pa-norges-bank/id3193484/"
@@ -281,11 +286,6 @@
       "title": "ESA har godkjent merverdiavgiftsfritaket for elbiler ut 2027",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/esa-har-godkjent-merverdiavgiftsfritaket-for-elbiler-ut-2027/id3192554/"
-     },
-     {
-      "title": "Møte med Kasakhstans ambassadør til Norge",
-      "date": "2026-11-11",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-kasakhstans-ambassador-til-norge/id3192321/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fin/id216/",
@@ -369,19 +369,19 @@
     ],
     "news": [
      {
-      "title": "Et viktig skritt på veien mot ny sykmeldingsløsning",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/et-viktig-skritt-pa-veien-mot-ny-sykmeldingslosning/id3194250/"
+      "title": "Presseinvitasjon: Helse- og omsorgsministeren markerer byggestart av strålesenteret hjå Sjukehuset i Telemark i Skien tysdag 24. november",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-helse-og-omsorgsministeren-markerer-byggestart-av-stralesenteret-hja-sjukehuset-i-telemark-i-skien-tysdag-24.-november/id3194451/"
      },
      {
-      "title": "Endring i spesialistforskriften for leger",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/endring-i-spesialistforskriften-for-leger/id3194232/"
+      "title": "Presseinvitasjon: Første innspillsmøte om helsereformen holdes i Fredrikstad",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/forste-innspillsmote-om-helsereformen-holdes-i-fredrikstad/id3194400/"
      },
      {
-      "title": "Norge i dialog med FNs torturkomite",
-      "date": "2026-11-19",
-      "url": "https://www.regjeringen.no/no/aktuelt/norge-i-dialog-med-fns-torturkomite/id3193631/"
+      "title": "Regjeringen vil styrke atomberedskapen",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-atomberedskapen/id3194336/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Skal stanse kriminelle som forsøker å utnytte offentlige ordninger",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/skal-stanse-kriminelle-som-forsoker-a-utnytte-offentlige-ordninger/id3194372/"
+     },
+     {
       "title": "Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/"
@@ -425,11 +430,6 @@
       "title": "Forslag om endringer i forskrift til tilskuddsordning for kriminalitetsforebygging sendes på høring",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/forslag-om-endringer-i-forskrift-til-tilskuddsordning-for-kriminalitetsforebygging-sendes-pa-horing/id3194151/"
-     },
-     {
-      "title": "Utgifter i forbindelse med Kong Harald V sin bortgang",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/utgifter-i-forbindelse-med-kong-harald-v-sin-bortgang/id3194146/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -465,6 +465,11 @@
     ],
     "news": [
      {
+      "title": "FNs klimaforhandlinger avsluttet på overtid: – Vi hadde ønsket større fremskritt",
+      "date": "2026-11-22",
+      "url": "https://www.regjeringen.no/no/aktuelt/cop31-avsluttet2/id3194337/"
+     },
+     {
       "title": "Klima- og miljøministeren deltar på klimamøtet",
       "date": "2026-11-16",
       "url": "https://www.regjeringen.no/no/aktuelt/klimamote-cop-31/id3193105/"
@@ -473,11 +478,6 @@
       "title": "Kjøper klimakvotar frå sol- og vindkraft i Marokko",
       "date": "2026-11-12",
       "url": "https://www.regjeringen.no/no/aktuelt/kjoper-klimakvotar-fra-sol-og-vindkraft-i-marokko/id3192555/"
-     },
-     {
-      "title": "Indonesia får milliardutbetaling etter kraftig reduksjon i avskoging",
-      "date": "2026-11-12",
-      "url": "https://www.regjeringen.no/no/aktuelt/indonesia-far-milliardutbetaling-etter-kraftig-reduksjon-i-avskoging2/id3192508/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kld/id668/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Overrekkelse av rapport om bærekraftig fôr",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/overrekkelse-av-rapport-om-barekraftig-for2/id3194453/"
+     },
+     {
       "title": "54 medaljar til norske ostar i Oste-VM 2026",
       "date": "2026-11-17",
       "url": "https://www.regjeringen.no/no/aktuelt/ost/id3193093/"
@@ -671,11 +676,6 @@
       "title": "Møte med Sør-Fosen sijte",
       "date": "2026-11-16",
       "url": "https://www.regjeringen.no/no/aktuelt/mote-med-sor-fosen-sijte/id3193242/"
-     },
-     {
-      "title": "Møte med Femund reinbeitedistrikt",
-      "date": "2026-11-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-femund-reinbeitedistrikt/id3193137/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Overrekkelse av rapport om bærekraftig fôr",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/overrekkelse-av-rapport-om-barekraftig-for2/id3194453/"
+     },
+     {
       "title": "Åpner for GMO-råvarer i fiskefôr",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/apner-for-gmo-ravarer-i-fiskefor/id3194236/"
@@ -724,11 +729,6 @@
       "title": "Regjeringen styrker digital sikkerhet i næringslivet",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-digital-sikkerhet-i-naringslivet/id3194200/"
-     },
-     {
-      "title": "Departementet og fiskesalgslagene samlet til årlig forvaltningsmøte",
-      "date": "2026-11-17",
-      "url": "https://www.regjeringen.no/no/aktuelt/departementet-og-fiskesalgslagene-samlet-til-arlig-forvaltningsmote/id3193415/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,19 +817,19 @@
     ],
     "news": [
      {
+      "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 48",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-48/id3194411/"
+     },
+     {
+      "title": "18,3 millioner til UNICEF for deres arbeid mot ebola i DR Kongo",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/183-millioner-til-unicef-for-deres-arbeid-mot-ebola-i-dr-kongo/id3194317/"
+     },
+     {
       "title": "Utviklingsministeren: Situasjonen i Jemen er kraftig forverret",
       "date": "2026-11-21",
       "url": "https://www.regjeringen.no/no/aktuelt/utviklingsministeren-situasjonen-i-jemen-er-kraftig-forverret/id3194227/"
-     },
-     {
-      "title": "Utgifter i forbindelse med Kong Harald V sin bortgang",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/utgifter-i-forbindelse-med-kong-harald-v-sin-bortgang/id3194146/"
-     },
-     {
-      "title": "Uttalelse fra utenriksministeren om Den internasjonale domstolens domsavsigelse",
-      "date": "2026-11-19",
-      "url": "https://www.regjeringen.no/no/aktuelt/uttalelse-fra-utenriksministeren-om-den-internasjonale-domstolens-domsavsigelse/id3194060/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-22",
+  "fetched": "2026-11-23",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -7459,6 +7459,69 @@
  },
  "nytt": [
   {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Skal stanse kriminelle som forsøker å utnytte offentlige ordninger",
+   "url": "https://www.regjeringen.no/no/aktuelt/skal-stanse-kriminelle-som-forsoker-a-utnytte-offentlige-ordninger/id3194372/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "aid",
+   "title": "Regjeringen vil vite mer om hvorfor mange innvandrere står utenfor arbeidslivet",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-vite-mer-om-hvorfor-mange-innvandrere-star-utenfor-arbeidslivet/id3194401/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Presseinvitasjon: Helse- og omsorgsministeren markerer byggestart av strålesenteret hjå Sjukehuset i Telemark i Skien tysdag 24. november",
+   "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-helse-og-omsorgsministeren-markerer-byggestart-av-stralesenteret-hja-sjukehuset-i-telemark-i-skien-tysdag-24.-november/id3194451/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Presseinvitasjon: Første innspillsmøte om helsereformen holdes i Fredrikstad",
+   "url": "https://www.regjeringen.no/no/aktuelt/forste-innspillsmote-om-helsereformen-holdes-i-fredrikstad/id3194400/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Regjeringen vil styrke atomberedskapen",
+   "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-atomberedskapen/id3194336/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Presseinvitasjon: Overrekkelse av rapport om bærekraftig fôr",
+   "url": "https://www.regjeringen.no/no/aktuelt/overrekkelse-av-rapport-om-barekraftig-for2/id3194453/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 48",
+   "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-48/id3194411/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "18,3 millioner til UNICEF for deres arbeid mot ebola i DR Kongo",
+   "url": "https://www.regjeringen.no/no/aktuelt/183-millioner-til-unicef-for-deres-arbeid-mot-ebola-i-dr-kongo/id3194317/"
+  },
+  {
+   "d": "2026-11-22",
+   "t": "nyhet",
+   "ministry": "kld",
+   "title": "FNs klimaforhandlinger avsluttet på overtid: – Vi hadde ønsket større fremskritt",
+   "url": "https://www.regjeringen.no/no/aktuelt/cop31-avsluttet2/id3194337/"
+  },
+  {
    "d": "2026-11-21",
    "t": "nyhet",
    "ministry": "ud",
@@ -11866,12 +11929,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-22T12:39:27.904Z",
+  "ranAt": "2026-11-23T14:48:11.107Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 0
+  "newEvents": 12
  },
  "tema": {
   "tema": [
