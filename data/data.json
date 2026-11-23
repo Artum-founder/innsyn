@@ -11929,12 +11929,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-23T14:48:11.107Z",
+  "ranAt": "2026-11-23T16:31:19.955Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 12
+  "newEvents": 0
  },
  "tema": {
   "tema": [
@@ -12437,7 +12437,7 @@
    }
   },
   "tall": {
-   "ranAt": "2026-11-16T14:00:38.512Z",
+   "ranAt": "2026-11-23T16:29:11.980Z",
    "stats": [
     {
      "id": "kpi",
