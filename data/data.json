@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-23",
+ "fetched": "2026-11-24",
  "gov": {
-  "fetched": "2026-11-23",
+  "fetched": "2026-11-24",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -225,6 +225,11 @@
     ],
     "news": [
      {
+      "title": "Møte med Nord-Fosen siida",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-nord-fosen-siida/id3194546/"
+     },
+     {
       "title": "Utdrag frå energiminister Terje Aaslands kalender for veke 48",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-energiminister-terje-aaslands-kalender-for-veke-48/id3194296/"
@@ -233,11 +238,6 @@
       "title": "Havvind fortsatt størst blant leverandørnæringene for fornybar energi",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/havvind-fortsatt-storst-blant-leverandornaringene-for-fornybar-energi/id3194208/"
-     },
-     {
-      "title": "Møte med Sør-Fosen sijte",
-      "date": "2026-11-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-sor-fosen-sijte/id3193242/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ed/id750/",
@@ -321,19 +321,19 @@
     ],
     "news": [
      {
+      "title": "Styrker det norsk-ukrainske sikkerhetssamarbeidet",
+      "date": "2026-11-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/styrker-det-norsk-ukrainske-sikkerhetssamarbeidet/id3194577/"
+     },
+     {
+      "title": "Den ukrainske forsvarsministeren er i Norge",
+      "date": "2026-11-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/den-ukrainske-forsvarsministeren-er-i-norge/id3194547/"
+     },
+     {
       "title": "Nysalderingen 2026: Regjeringen vil investere i luftvernraketter",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-investere-i-luftvernraketter/id3194195/"
-     },
-     {
-      "title": "Utgifter i forbindelse med Kong Harald V sin bortgang",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/utgifter-i-forbindelse-med-kong-harald-v-sin-bortgang/id3194146/"
-     },
-     {
-      "title": "Industriportalen er endret",
-      "date": "2026-11-13",
-      "url": "https://www.regjeringen.no/no/aktuelt/industriportalen-er-endret/id3192892/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/fd/id380/",
@@ -369,6 +369,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Innspillsmøte om helsereformen i Kristiansand",
+      "date": "2026-11-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/innspillsmote-om-helsereformen-i-kristiansand/id3194595/"
+     },
+     {
       "title": "Presseinvitasjon: Helse- og omsorgsministeren markerer byggestart av strålesenteret hjå Sjukehuset i Telemark i Skien tysdag 24. november",
       "date": "2026-11-23",
       "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-helse-og-omsorgsministeren-markerer-byggestart-av-stralesenteret-hja-sjukehuset-i-telemark-i-skien-tysdag-24.-november/id3194451/"
@@ -377,11 +382,6 @@
       "title": "Presseinvitasjon: Første innspillsmøte om helsereformen holdes i Fredrikstad",
       "date": "2026-11-23",
       "url": "https://www.regjeringen.no/no/aktuelt/forste-innspillsmote-om-helsereformen-holdes-i-fredrikstad/id3194400/"
-     },
-     {
-      "title": "Regjeringen vil styrke atomberedskapen",
-      "date": "2026-11-23",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-atomberedskapen/id3194336/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/hod/id421/",
@@ -417,6 +417,11 @@
     ],
     "news": [
      {
+      "title": "Anbefaler å utvide hurtigspor for U18-saker til hele landet",
+      "date": "2026-11-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/anbefaler-a-utvide-hurtigspor-for-u18-saker-til-hele-landet/id3194606/"
+     },
+     {
       "title": "Skal stanse kriminelle som forsøker å utnytte offentlige ordninger",
       "date": "2026-11-23",
       "url": "https://www.regjeringen.no/no/aktuelt/skal-stanse-kriminelle-som-forsoker-a-utnytte-offentlige-ordninger/id3194372/"
@@ -425,11 +430,6 @@
       "title": "Regjeringen foreslår utvidet adgang til bruk av tvangsmidler i saker som berører nasjonale interesser",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-foreslar-utvidede-tvangsmidler-i-sikkerhetssaker/id3194226/"
-     },
-     {
-      "title": "Forslag om endringer i forskrift til tilskuddsordning for kriminalitetsforebygging sendes på høring",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/forslag-om-endringer-i-forskrift-til-tilskuddsordning-for-kriminalitetsforebygging-sendes-pa-horing/id3194151/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/jd/id463/",
@@ -513,6 +513,11 @@
     ],
     "news": [
      {
+      "title": "Møte med Nord-Fosen siida",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-nord-fosen-siida/id3194546/"
+     },
+     {
       "title": "Enklare reglar for bygging i område med overvaka fjellparti",
       "date": "2026-11-18",
       "url": "https://www.regjeringen.no/no/aktuelt/enklare-reglar-for-bygging-i-omrade-med-overvaka-fjellparti/id3193376/"
@@ -521,11 +526,6 @@
       "title": "Tilbyr toårig forlengelse av byvekstavtalen for Bergens-området",
       "date": "2026-11-17",
       "url": "https://www.regjeringen.no/no/aktuelt/tilbyr-toarig-forlengelse-av-byvekstavtalen-for-bergens-omradet/id3193150/"
-     },
-     {
-      "title": "Møte med Sør-Fosen sijte",
-      "date": "2026-11-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-sor-fosen-sijte/id3193242/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kdd/id504/",
@@ -615,6 +615,11 @@
     ],
     "news": [
      {
+      "title": "Presseinvitasjon: Studentpolitisk toppmøte 2026",
+      "date": "2026-11-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-studentpolitisk-toppmote-2026/id3194584/"
+     },
+     {
       "title": "Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/"
@@ -623,11 +628,6 @@
       "title": "46 millionar til å styrke kompetansen til SFO-tilsette",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/46-millionar-til-a-styrkje-kompetansen-til-sfo-tilsette/id3194044/"
-     },
-     {
-      "title": "Tettere samarbeid mellom Norge og Sør-Afrika",
-      "date": "2026-11-18",
-      "url": "https://www.regjeringen.no/no/aktuelt/tettere-samarbeid-mellom-norge-og-sor-afrika/id3193613/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kd/id586/",
@@ -663,19 +663,19 @@
     ],
     "news": [
      {
+      "title": "Møte i Nasjonalt samarbeidsforum for HMS i landbruket",
+      "date": "2026-11-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/mote-i-nasjonalt-samarbeidsforum-for-hms-i-landbruket/id3194573/"
+     },
+     {
+      "title": "Møte med Nord-Fosen siida",
+      "date": "2026-11-23",
+      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-nord-fosen-siida/id3194546/"
+     },
+     {
       "title": "Presseinvitasjon: Overrekkelse av rapport om bærekraftig fôr",
       "date": "2026-11-23",
       "url": "https://www.regjeringen.no/no/aktuelt/overrekkelse-av-rapport-om-barekraftig-for2/id3194453/"
-     },
-     {
-      "title": "54 medaljar til norske ostar i Oste-VM 2026",
-      "date": "2026-11-17",
-      "url": "https://www.regjeringen.no/no/aktuelt/ost/id3193093/"
-     },
-     {
-      "title": "Møte med Sør-Fosen sijte",
-      "date": "2026-11-16",
-      "url": "https://www.regjeringen.no/no/aktuelt/mote-med-sor-fosen-sijte/id3193242/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Fisket etter makrellstørje blir tilpasset norske forhold",
+      "date": "2026-11-24",
+      "url": "https://www.regjeringen.no/no/aktuelt/fisket-etter-makrellstorje-blir-tilpasset-norske-forhold/id3194622/"
+     },
+     {
       "title": "Presseinvitasjon: Overrekkelse av rapport om bærekraftig fôr",
       "date": "2026-11-23",
       "url": "https://www.regjeringen.no/no/aktuelt/overrekkelse-av-rapport-om-barekraftig-for2/id3194453/"
@@ -724,11 +729,6 @@
       "title": "Åpner for GMO-råvarer i fiskefôr",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/apner-for-gmo-ravarer-i-fiskefor/id3194236/"
-     },
-     {
-      "title": "Regjeringen styrker digital sikkerhet i næringslivet",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-styrker-digital-sikkerhet-i-naringslivet/id3194200/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-23",
+  "fetched": "2026-11-24",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -3080,11 +3080,11 @@
     "ministry": "",
     "proposer": "H (Anna Molberg, Amalie Gunnufsen, Margret Hagerup, Mudassar Kapur, Nina Dons-Hansen)",
     "topics": [],
-    "updated": "2026-06-19",
+    "updated": "2026-11-24",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Dokument 8:305 S (2025–2026)",
+    "reference": "Dokument 8:305 S (2025–2026); Innst. 67 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200356"
    },
    {
@@ -5051,11 +5051,11 @@
      "Norges bank",
      "Statens pensjonsfond"
     ],
-    "updated": "2026-10-15",
+    "updated": "2026-11-24",
     "decided": "",
     "outcome": "",
     "nextStep": "Til behandling i komiteen.",
-    "reference": "Dokument 8:18 S (2026–2027)",
+    "reference": "Dokument 8:18 S (2026–2027); Innst. 76 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200465"
    },
    {
@@ -6739,6 +6739,63 @@
     "nextStep": "Venter på å bli referert og sendt til komité.",
     "reference": "Prop. 23 S (2026–2027)",
     "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200549"
+   },
+   {
+    "id": "200551",
+    "title": "Riksrevisjonens årlige rapport om revisjon av statens eierstyring",
+    "fullTitle": "Riksrevisjonens årlige rapport om revisjon av statens eierstyring",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "dokumentserien",
+    "committee": "",
+    "ministry": "",
+    "proposer": "",
+    "topics": [],
+    "updated": "2026-11-24",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 3:2 (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200551"
+   },
+   {
+    "id": "200553",
+    "title": "Auke taxfreekvotane",
+    "fullTitle": "Representantforslag frå stortingsrepresentantane Trond Helleland, Anne Kristine Linnestad, Erlend Larsen, Erlend Svardal Bøe og Tone Wilhelmsen Trøen om å auke taxfreekvotane",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "H (Anne Kristine Linnestad, Erlend Svardal Bøe, Erlend Larsen, Trond Helleland, Tone Wilhelmsen Trøen)",
+    "topics": [],
+    "updated": "2026-11-24",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:59 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200553"
+   },
+   {
+    "id": "200554",
+    "title": "Bedre kontroll og regulering av kosmetiske klinikker",
+    "fullTitle": "Representantforslag fra stortingsrepresentant Seher Aydar om bedre kontroll og regulering av kosmetiske klinikker",
+    "session": "2026-2027",
+    "status": "mottatt",
+    "type": "alminneligsak",
+    "docGroup": "representantforslag",
+    "committee": "",
+    "ministry": "",
+    "proposer": "R (Seher Aydar)",
+    "topics": [],
+    "updated": "2026-11-24",
+    "decided": "",
+    "outcome": "",
+    "nextStep": "Venter på å bli referert og sendt til komité.",
+    "reference": "Dokument 8:60 S (2026–2027)",
+    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200554"
    }
   ]
  },
@@ -7458,6 +7515,92 @@
   ]
  },
  "nytt": [
+  {
+   "d": "2026-11-24",
+   "t": "ny",
+   "id": "200551",
+   "title": "Riksrevisjonens årlige rapport om revisjon av statens eierstyring",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200551"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "ny",
+   "id": "200553",
+   "title": "Auke taxfreekvotane",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200553"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "ny",
+   "id": "200554",
+   "title": "Bedre kontroll og regulering av kosmetiske klinikker",
+   "status": "mottatt",
+   "committee": "",
+   "ministry": "",
+   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200554"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Styrker det norsk-ukrainske sikkerhetssamarbeidet",
+   "url": "https://www.regjeringen.no/no/aktuelt/styrker-det-norsk-ukrainske-sikkerhetssamarbeidet/id3194577/"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "nyhet",
+   "ministry": "fd",
+   "title": "Den ukrainske forsvarsministeren er i Norge",
+   "url": "https://www.regjeringen.no/no/aktuelt/den-ukrainske-forsvarsministeren-er-i-norge/id3194547/"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "nyhet",
+   "ministry": "hod",
+   "title": "Presseinvitasjon: Innspillsmøte om helsereformen i Kristiansand",
+   "url": "https://www.regjeringen.no/no/aktuelt/innspillsmote-om-helsereformen-i-kristiansand/id3194595/"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "nyhet",
+   "ministry": "jd",
+   "title": "Anbefaler å utvide hurtigspor for U18-saker til hele landet",
+   "url": "https://www.regjeringen.no/no/aktuelt/anbefaler-a-utvide-hurtigspor-for-u18-saker-til-hele-landet/id3194606/"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "nyhet",
+   "ministry": "kd",
+   "title": "Presseinvitasjon: Studentpolitisk toppmøte 2026",
+   "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-studentpolitisk-toppmote-2026/id3194584/"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "nyhet",
+   "ministry": "lmd",
+   "title": "Møte i Nasjonalt samarbeidsforum for HMS i landbruket",
+   "url": "https://www.regjeringen.no/no/aktuelt/mote-i-nasjonalt-samarbeidsforum-for-hms-i-landbruket/id3194573/"
+  },
+  {
+   "d": "2026-11-24",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Fisket etter makrellstørje blir tilpasset norske forhold",
+   "url": "https://www.regjeringen.no/no/aktuelt/fisket-etter-makrellstorje-blir-tilpasset-norske-forhold/id3194622/"
+  },
+  {
+   "d": "2026-11-23",
+   "t": "nyhet",
+   "ministry": "ed",
+   "title": "Møte med Nord-Fosen siida",
+   "url": "https://www.regjeringen.no/no/aktuelt/mote-med-nord-fosen-siida/id3194546/"
+  },
   {
    "d": "2026-11-23",
    "t": "nyhet",
@@ -11929,12 +12072,12 @@
   }
  ],
  "status": {
-  "ranAt": "2026-11-23T16:31:19.955Z",
+  "ranAt": "2026-11-24T14:56:46.205Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 0
+  "newEvents": 13
  },
  "tema": {
   "tema": [
