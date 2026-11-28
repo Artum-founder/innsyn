@@ -1,7 +1,7 @@
 {
- "fetched": "2026-11-27",
+ "fetched": "2026-11-28",
  "gov": {
-  "fetched": "2026-11-27",
+  "fetched": "2026-11-28",
   "primeMinister": "Jonas Gahr Støre (Ap)",
   "government": "Regjeringen Støre: ren Arbeiderparti-regjering (mindretallsregjering). Utnevnt 14. oktober 2021 som Ap/Sp-koalisjon; Senterpartiet gikk ut 4. februar 2025. Ap fortsatte etter stortingsvalget 8. september 2025. Siste regjeringsendring 11. september 2026 (nye statsråder: Kamzy Gunaratnam, samferdsel; Torgeir Micaelsen, digitalisering og forvaltning; Sigrun Aasland, klima og miljø; Eileen Fugelsnes, forskning og høyere utdanning). 20 statsråder inkl. statsministeren, 16 departementer + SMK.",
   "governmentQuarter": "Nytt regjeringskvartal byggetrinn 1 (rehabilitert Høyblokka, A-blokka mot Akersgata, D-blokka mot Youngstorget) offisielt åpnet 13. april 2026 med SMK og seks departementer (JD, DFD, NFD, KLD, UD, KUD). Byggetrinn 2 ventes ferdig 2029, da flere departementer flytter inn.",
@@ -34,6 +34,11 @@
     ],
     "news": [
      {
+      "title": "Statsministerens program veke 49",
+      "date": "2026-11-28",
+      "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-49/id3195233/"
+     },
+     {
       "title": "Presseinvitasjon: Regjeringen inviterer ildsjeler fra hele landet til mottakelse",
       "date": "2026-11-27",
       "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-regjeringen-inviterer-ildsjeler-fra-hele-landet-til-mottakelse/id3195029/"
@@ -42,11 +47,6 @@
       "title": "Statsministerens program veke 48",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-48/id3194212/"
-     },
-     {
-      "title": "Nå skal Fagskulen Vestland og Høgskulen på Vestlandet samles på Kronstad",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/na-skal-fagskulen-vestland-og-hogskulen-pa-vestlandet-samles-pa-kronstad/id3194237/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/smk/id875/",
@@ -129,6 +129,11 @@
     ],
     "news": [
      {
+      "title": "Oppfølgingsmøte med hestenæringen",
+      "date": "2026-11-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/oppfolgingsmote-med-hestenaringen/id3195212/"
+     },
+     {
       "title": "No får du snart melding om at du kan sjekke medlemskap i trus- og livssynssamfunn",
       "date": "2026-11-25",
       "url": "https://www.regjeringen.no/no/aktuelt/no-far-du-snart-melding-om-at-du-kan-sjekke-medlemskap-i-trus-og-livssynssamfunn/id3194906/"
@@ -137,11 +142,6 @@
       "title": "Nysalderinga: Auka løyvingar til foreldrepengar og barnevern, og justering av kyrkjebevaringsmidlar",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/auka-loyvingar-til-foreldrepengar-og-barnevern-og-justering-av-kyrkjebevaringsmidlar/id3194171/"
-     },
-     {
-      "title": "Arbeidsgruppe skal gjennomgå Oslos særordning for andrelinjebarnevern",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/arbeidsgruppe-skal-gjennomga-oslos-sarordning-for-andrelinjebarnevern/id3194063/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/bfd/id298/",
@@ -177,6 +177,11 @@
     ],
     "news": [
      {
+      "title": "Noreg og Sverige inngår felles avtale om skybaserte tryggingstenester",
+      "date": "2026-11-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/noreg-og-sverige-inngar-felles-avtale-om-skybaserte-tryggingstenester/id3195221/"
+     },
+     {
       "title": "Staten satser på KI-opplæring",
       "date": "2026-11-25",
       "url": "https://www.regjeringen.no/no/aktuelt/staten-satser-pa-ki-opplaring/id3194807/"
@@ -185,11 +190,6 @@
       "title": "Regjeringen vil styrke nødnummertjenestene",
       "date": "2026-11-20",
       "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-styrke-nodnummertjenestene/id3194192/"
-     },
-     {
-      "title": "Foreslår ytterligere 30 millioner kroner til digital sikkerhet i kommunene",
-      "date": "2026-11-20",
-      "url": "https://www.regjeringen.no/no/aktuelt/foreslar-ytterligere-30-millioner-kroner-til-digital-sikkerhet-i-kommunene/id3194193/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/dfd/id810/",
@@ -562,6 +562,11 @@
     ],
     "news": [
      {
+      "title": "Oppfølgingsmøte med hestenæringen",
+      "date": "2026-11-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/oppfolgingsmote-med-hestenaringen/id3195212/"
+     },
+     {
       "title": "Ekspertutvalg skal foreslå fremtidens mediestøtte",
       "date": "2026-11-27",
       "url": "https://www.regjeringen.no/no/aktuelt/ekspertutvalg-skal-foresla-fremtidens-mediestotte/id3195123/"
@@ -570,11 +575,6 @@
       "title": "Strømmetjenestene pålegges investeringsplikt fra nyttår",
       "date": "2026-11-27",
       "url": "https://www.regjeringen.no/no/aktuelt/strommetjenestene-palegges-investeringsplikt-fra-nyttar/id3195120/"
-     },
-     {
-      "title": "Presseinvitasjon: Regjeringen inviterer ildsjeler fra hele landet til mottakelse",
-      "date": "2026-11-27",
-      "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-regjeringen-inviterer-ildsjeler-fra-hele-landet-til-mottakelse/id3195029/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/kud/id545/",
@@ -663,6 +663,11 @@
     ],
     "news": [
      {
+      "title": "Oppfølgingsmøte med hestenæringen",
+      "date": "2026-11-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/oppfolgingsmote-med-hestenaringen/id3195212/"
+     },
+     {
       "title": "Landbruks- og matdepartementet har fastsatt forholdstallet for produksjon av ku- og geitemelk i 2027",
       "date": "2026-11-27",
       "url": "https://www.regjeringen.no/no/aktuelt/landbruks-og-matdepartementet-har-fastsatt-forholdstallet-for-produksjon-av-ku-og-geitemelk-i-2027/id3195169/"
@@ -671,11 +676,6 @@
       "title": "Stipender til årets beste skogfagstudenter",
       "date": "2026-11-27",
       "url": "https://www.regjeringen.no/no/aktuelt/stipender-til-arets-beste-skogfagstudenter/id3195158/"
-     },
-     {
-      "title": "Lokalmat og -drikke setter ny rekord",
-      "date": "2026-11-26",
-      "url": "https://www.regjeringen.no/no/aktuelt/lokalmat-og-drikke-setter-ny-rekord/id3194992/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/lmd/id627/",
@@ -716,6 +716,11 @@
     ],
     "news": [
      {
+      "title": "Næringsministeren varsler eierskapskontroll i gruveselskap",
+      "date": "2026-11-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/ny-side9/id3195225/"
+     },
+     {
       "title": "Fiskeri- og havministeren besøker Norsk havteknologisenter i Trondheim",
       "date": "2026-11-26",
       "url": "https://www.regjeringen.no/no/aktuelt/fiskeri-og-havministeren-besoker-norsk-havteknologisenter-i-trondheim/id3194970/"
@@ -724,11 +729,6 @@
       "title": "Rapport: Råd for mer bærekraftig fôr",
       "date": "2026-11-25",
       "url": "https://www.regjeringen.no/no/aktuelt/rad-for-mer-barekraftig-for/id3194825/"
-     },
-     {
-      "title": "Presseinvitasjon: Næringsministeren deltar på åpningen av ny rakettfabrikk i Tyskland",
-      "date": "2026-11-25",
-      "url": "https://www.regjeringen.no/no/aktuelt/presseinvitasjon-naringsministeren-deltar-pa-apningen-av-ny-rakettfabrikk-i-tyskland/id3194628/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/nfd/id709/",
@@ -817,6 +817,11 @@
     ],
     "news": [
      {
+      "title": "Statssekretær Kravik til Den internasjonale straffedomstolen",
+      "date": "2026-11-27",
+      "url": "https://www.regjeringen.no/no/aktuelt/statssekretar-kravik-til-den-internasjonale-straffedomstolen/id3195216/"
+     },
+     {
       "title": "Presseinformasjon: Utdrag frå Utanriksdepartementet sitt program veke 49",
       "date": "2026-11-27",
       "url": "https://www.regjeringen.no/no/aktuelt/utdrag-fra-utanriksdepartementet-sitt-program-veke-49/id3195181/"
@@ -825,11 +830,6 @@
       "title": "Presseinformasjon: Utanriksministeren til Qatar",
       "date": "2026-11-27",
       "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-qatar/id3195101/"
-     },
-     {
-      "title": "Utanriksministeren til London",
-      "date": "2026-11-26",
-      "url": "https://www.regjeringen.no/no/aktuelt/utanriksministeren-til-london/id3195013/"
      }
     ],
     "url": "https://www.regjeringen.no/no/dep/ud/id833/",
@@ -904,7 +904,7 @@
   ]
  },
  "storting": {
-  "fetched": "2026-11-27",
+  "fetched": "2026-11-28",
   "session": "2026-2027",
   "sources": [
    "https://data.stortinget.no/eksport/saker?sesjonid=2026-2027",
@@ -7649,6 +7649,41 @@
  },
  "nytt": [
   {
+   "d": "2026-11-28",
+   "t": "nyhet",
+   "ministry": "smk",
+   "title": "Statsministerens program veke 49",
+   "url": "https://www.regjeringen.no/no/aktuelt/statsministerens-program-veke-49/id3195233/"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "nyhet",
+   "ministry": "bfd",
+   "title": "Oppfølgingsmøte med hestenæringen",
+   "url": "https://www.regjeringen.no/no/aktuelt/oppfolgingsmote-med-hestenaringen/id3195212/"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "nyhet",
+   "ministry": "dfd",
+   "title": "Noreg og Sverige inngår felles avtale om skybaserte tryggingstenester",
+   "url": "https://www.regjeringen.no/no/aktuelt/noreg-og-sverige-inngar-felles-avtale-om-skybaserte-tryggingstenester/id3195221/"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "nyhet",
+   "ministry": "nfd",
+   "title": "Næringsministeren varsler eierskapskontroll i gruveselskap",
+   "url": "https://www.regjeringen.no/no/aktuelt/ny-side9/id3195225/"
+  },
+  {
+   "d": "2026-11-27",
+   "t": "nyhet",
+   "ministry": "ud",
+   "title": "Statssekretær Kravik til Den internasjonale straffedomstolen",
+   "url": "https://www.regjeringen.no/no/aktuelt/statssekretar-kravik-til-den-internasjonale-straffedomstolen/id3195216/"
+  },
+  {
    "d": "2026-11-27",
    "t": "ny",
    "id": "200558",
@@ -12852,65 +12887,15 @@
    "committee": "Samferdselskomiteen",
    "ministry": "",
    "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200365"
-  },
-  {
-   "d": "2026-09-30",
-   "t": "ny",
-   "id": "200366",
-   "title": "Styrke ytringsfriheten for lærere",
-   "status": "til_behandling",
-   "committee": "Kommunal- og forvaltningskomiteen",
-   "ministry": "",
-   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200366"
-  },
-  {
-   "d": "2026-09-30",
-   "t": "ny",
-   "id": "200367",
-   "title": "Tillate digitale lotterier for frivillige organisasjoner og idrettslag",
-   "status": "til_behandling",
-   "committee": "Familie- og kulturkomiteen",
-   "ministry": "",
-   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200367"
-  },
-  {
-   "d": "2026-09-30",
-   "t": "ny",
-   "id": "200369",
-   "title": "Styrke private barnehagers medvirkning, klageadgang og rettssikkerhet gjennom konkrete endringer i finansieringsforskriften",
-   "status": "til_behandling",
-   "committee": "Utdannings- og forskningskomiteen",
-   "ministry": "",
-   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200369"
-  },
-  {
-   "d": "2026-09-30",
-   "t": "ny",
-   "id": "200380",
-   "title": "En skole å bli nysgjerrig i",
-   "status": "til_behandling",
-   "committee": "Utdannings- og forskningskomiteen",
-   "ministry": "",
-   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200380"
-  },
-  {
-   "d": "2026-09-30",
-   "t": "ny",
-   "id": "200382",
-   "title": "Et nasjonalt trafikklyssystem for trygge skoleveier",
-   "status": "til_behandling",
-   "committee": "Samferdselskomiteen",
-   "ministry": "",
-   "url": "https://www.stortinget.no/no/Saker-og-publikasjoner/Saker/Sak/?p=200382"
   }
  ],
  "status": {
-  "ranAt": "2026-11-27T13:57:33.270Z",
+  "ranAt": "2026-11-28T13:09:18.949Z",
   "refreshed": [
    "storting",
    "nyheter"
   ],
-  "newEvents": 34
+  "newEvents": 7
  },
  "tema": {
   "tema": [
